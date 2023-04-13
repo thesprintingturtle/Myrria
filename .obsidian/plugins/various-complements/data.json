@@ -1,0 +1,595 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "disableOnMobile": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Fireball": {
+      "Fireball": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680480611596
+        }
+      }
+    },
+    "Aasimar-Redeemer": {
+      "Aasimar-Redeemer": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680480970752
+        }
+      }
+    },
+    "zombie-b1": {
+      "zombie-b1": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680659816145
+        }
+      }
+    },
+    "Zombie-Shambler": {
+      "Zombie-Shambler": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680659831651
+        }
+      }
+    },
+    "avoid-notice": {
+      "avoid-notice": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680664147928
+        }
+      }
+    },
+    "Necrotize": {
+      "Necrotize": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680664196078
+        }
+      }
+    },
+    "time-stop": {
+      "time-stop": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680664709820
+        }
+      }
+    },
+    "true-target": {
+      "true-target": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680664722279
+        }
+      }
+    },
+    "collapse": {
+      "collapse": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680664780724
+        }
+      }
+    },
+    "trait/category/settlement": {
+      "trait/category/settlement": {
+        "frontMatter": {
+          "count": 7,
+          "lastUpdated": 1680717166432
+        }
+      }
+    },
+    "trait/divination": {
+      "trait/divination": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1680666091543
+        }
+      }
+    },
+    "traits": {
+      "traits": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680666659448
+        }
+      }
+    },
+    "location/type/nation": {
+      "location/type/nation": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1680670300733
+        }
+      }
+    },
+    "location/type/Metropolis": {
+      "location/type/Metropolis": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1680668323476
+        }
+      }
+    },
+    "metropolis": {
+      "metropolis": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680673227063
+        },
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1681022094824
+        }
+      }
+    },
+    "location/type/metropolis": {
+      "location/type/metropolis": {
+        "frontMatter": {
+          "count": 13,
+          "lastUpdated": 1680673196586
+        }
+      }
+    },
+    "trait/kineticist": {
+      "trait/kineticist": {
+        "frontMatter": {
+          "count": 10,
+          "lastUpdated": 1680673141753
+        }
+      }
+    },
+    "trait/bastion-city": {
+      "trait/bastion-city": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1680674668363
+        }
+      }
+    },
+    "winterfell-city": {
+      "winterfell-city": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680673298332
+        }
+      }
+    },
+    "Winterfell": {
+      "Winterfell": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680673293443
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003348552
+        }
+      }
+    },
+    "settlement/metropolis": {
+      "settlement/metropolis": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1681007151226
+        }
+      }
+    },
+    "pyrogale": {
+      "pyrogale": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680706586177
+        }
+      }
+    },
+    "custom/trait": {
+      "custom/trait": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1680717163577
+        }
+      }
+    },
+    "Settlement": {
+      "Settlement": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680717180035
+        }
+      }
+    },
+    "custom/location": {
+      "custom/location": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1680716037441
+        }
+      }
+    },
+    "Petitioner-(Dead-Vault)": {
+      "Petitioner-(Dead-Vault)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680716168979
+        }
+      }
+    },
+    "trait/port-city": {
+      "trait/port-city": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1680716328999
+        }
+      }
+    },
+    "town-gmg": {
+      "town-gmg": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680716680544
+        }
+      }
+    },
+    "Serenmire": {
+      "Serenmire": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680717091607
+        }
+      }
+    },
+    "stratos": {
+      "stratos": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680718810079
+        }
+      }
+    },
+    "Titania": {
+      "Titania": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681003619066
+        }
+      }
+    },
+    "Pyrogale": {
+      "Pyrogale": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1681003341811
+        }
+      }
+    },
+    "Elf": {
+      "Elf": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1681008697991
+        }
+      }
+    },
+    "Daggervale": {
+      "Daggervale": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681003370536
+        }
+      }
+    },
+    "Lonestrom": {
+      "Lonestrom": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003376923
+        }
+      }
+    },
+    "Slipgarten": {
+      "Slipgarten": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003452417
+        }
+      }
+    },
+    "Sullenhall": {
+      "Sullenhall": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003461388
+        }
+      }
+    },
+    "Talonkirk": {
+      "Talonkirk": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003466525
+        }
+      }
+    },
+    "Thundergate": {
+      "Thundergate": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003491564
+        }
+      }
+    },
+    "Kingdom of Northpine": {
+      "Kingdom of Northpine": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003576438
+        }
+      }
+    },
+    "Lockinge Republic": {
+      "Lockinge Republic": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003580967
+        }
+      }
+    },
+    "United Tribes of Arctis": {
+      "United Tribes of Arctis": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003587324
+        }
+      }
+    },
+    "Cloudtop Isles": {
+      "Cloudtop Isles": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681003600109
+        }
+      }
+    },
+    "titania": {
+      "titania": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681003611265
+        }
+      }
+    },
+    "Ignis Concord": {
+      "Ignis Concord": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1681015676925
+        }
+      }
+    },
+    "Nobelia": {
+      "Nobelia": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1681007671106
+        }
+      }
+    },
+    "Industria": {
+      "Industria": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681008026176
+        }
+      }
+    },
+    "Dynaborough": {
+      "Dynaborough": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681008251845
+        }
+      }
+    },
+    "Enginia": {
+      "Enginia": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681008487855
+        }
+      }
+    },
+    "Arcania": {
+      "Arcania": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681008705430
+        }
+      }
+    },
+    "Deadly": {
+      "Deadly": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681013437914
+        }
+      }
+    },
+    "Kineticist Nations": {
+      "Kineticist Nations": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681014339298
+        }
+      }
+    },
+    "custom/location/settlement": {
+      "custom/location/settlement": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1681015067194
+        }
+      }
+    },
+    "custom/location/settlement/metropolis": {
+      "custom/location/settlement/metropolis": {
+        "frontMatter": {
+          "count": 13,
+          "lastUpdated": 1681016087251
+        }
+      }
+    },
+    "custom/location/nation": {
+      "custom/location/nation": {
+        "frontMatter": {
+          "count": 10,
+          "lastUpdated": 1681016009769
+        }
+      }
+    },
+    "level/12": {
+      "level/12": {
+        "frontMatter": {
+          "count": 6,
+          "lastUpdated": 1681015386490
+        }
+      }
+    },
+    "kineticist": {
+      "kineticist": {
+        "internalLink": {
+          "count": 8,
+          "lastUpdated": 1681022097010
+        }
+      }
+    },
+    "custom/location/settlement/town": {
+      "custom/location/settlement/town": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1681015322485
+        }
+      }
+    },
+    "level/4": {
+      "level/4": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1681015476292
+        }
+      }
+    },
+    "level/3": {
+      "level/3": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1681015498614
+        }
+      }
+    },
+    "custom/location/settlement/city": {
+      "custom/location/settlement/city": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681015300707
+        }
+      }
+    },
+    "bastion city": {
+      "bastion city": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681015355738
+        }
+      }
+    },
+    "custom/location/district": {
+      "custom/location/district": {
+        "frontMatter": {
+          "count": 28,
+          "lastUpdated": 1681015953970
+        }
+      }
+    },
+    "level/13": {
+      "level/13": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681016092007
+        }
+      }
+    },
+    "custom": {
+      "custom": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681229406790
+        }
+      }
+    }
+  }
+}

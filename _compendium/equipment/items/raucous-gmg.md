@@ -1,0 +1,21 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- imported/compendium/src/pf2e/gmg
+- imported/item/category/curse
+- trait/equipment/cursed
+- trait/magical
+- trait/rarity/rare
+- trait/school/transmutation
+aliases: ["Raucous"]
+---
+# Raucous *Item 3*  
+[cursed](cursed-gmg.md)  [magical](magical.md)  [rare](rare.md)  [transmutation](transmutation.md)  
+
+- **Usage** curses gear or a weapon
+- **Category** Curse
+
+While more annoying than deadly, a _raucous_ curse is the bane of subtlety. Whenever you use the affected item, you must loudly yell what you are attempting to do with it, ruining any attempts at stealth. Failure to announce your action or speak at an appropriate volume automatically causes the attempted action to become a critical failure.
+
+*Source: Gamemastery Guide p. 93*

@@ -1,0 +1,28 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- imported/compendium/src/pf2e/lotgb
+- imported/item/category/wand
+- trait/school/evocation
+- trait/energy/force
+- trait/magical
+- trait/rarity/uncommon
+- trait/equipment/wand
+aliases: ["Wand Of Spiritual Warfare"]
+---
+# Wand Of Spiritual Warfare *Item 7+*  
+[evocation](evocation.md)  [force](force.md)  [magical](magical.md)  [uncommon](uncommon.md)  [wand](wand.md)  
+
+- **Usage** held in 1 hand; **Bulk** L
+- **Category** Wand
+
+This wand juts from an ornate hilt like a short, wooden dagger blade.
+
+```ad-embed-ability
+title: Activate
+
+You cast [spiritual weapon](../../../compendium/spells/spiritual-weapon.md) of the indicated level. When you critically hit, you apply the weapon's critical specialization effect. In addition, you can etch one of the following property runes onto the wand: [corrosive](../../../compendium/equipment/items/corrosive.md), [flaming](../../../compendium/equipment/items/flaming.md), [frost](../../../compendium/equipment/items/frost.md), [shock](../../../compendium/equipment/items/shock.md), [thundering](../../../compendium/equipment/items/thundering.md), or their respective greater versions. The spiritual weapon's [Strikes](../../../rules/actions/strike.md) gain the effects of this rune.
+```
+
+*Source: Lost Omens: The Grand Bazaar p. 11*

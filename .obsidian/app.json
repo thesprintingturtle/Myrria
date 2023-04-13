@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "zz_attatchments",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "zz_addons/",
+    "zz_attachments/",
+    "zz_templates/",
+    "_gm-screen/",
+    "_compendium/setting/"
+  ],
+  "showFrontmatter": true
+}

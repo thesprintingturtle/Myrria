@@ -1,0 +1,28 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- imported/compendium/src/pf2e/crb
+- imported/item/category/snare
+- trait/equipment/consumable
+- trait/equipment/mechanical
+- trait/equipment/snare
+- trait/equipment/trap
+- trait/rarity/uncommon
+aliases: ["Hobbling Snare"]
+---
+# Hobbling Snare *Item 4*  
+[consumable](consumable.md)  [mechanical](mechanical.md)  [snare](snare.md)  [trap](trap.md)  [uncommon](uncommon.md)  
+
+- **Price** 15 gp
+- **Category** Snare
+
+You rig vines, ropes, or wires to cinch tight around a creature that triggers this snare. The first creature to enter the square must attempt a DC 20 Reflex save.
+
+> [!success-degree] 
+> - **Critical Success** The creature is unaffected.
+> - **Success** The creature takes a –5-foot status penalty to its Speed for 1 minute or until it [Escapes](escape.md) (DC 18).
+> - **Failure** As success, but the penalty is –10 feet.
+> - **Critical Failure** As success, but the penalty is –20 feet.
+
+*Source: Core Rulebook p. 590*

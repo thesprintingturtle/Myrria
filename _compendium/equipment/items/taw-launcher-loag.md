@@ -1,0 +1,25 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- imported/compendium/src/pf2e/loag
+- imported/item/category/weapon/advanced
+- trait/ancestry/conrasu
+- imported/trait/deadly-1d10
+- imported/trait/modular-b-p-or-s
+- trait/rarity/uncommon
+aliases: ["Taw Launcher"]
+---
+# Taw Launcher *Item 0*  
+[conrasu](conrasu-loag.md)  [deadly <1d10>](deadly.md)  [modular <b, p, or s>](modular-logm.md)  [uncommon](uncommon.md)  
+
+- **Price** 10 gp
+- **Bulk** 1
+- **Damage** `1d6` modular
+- **Ammunution** [Wooden Taws](wooden-taws-loag.md); **Range** 100 ft.; **Reload** 1
+- **Hands** 2
+- **Category** Advanced; **Group** Bow 
+
+Designed by conrasu warriors, this complex device is a crossbow and fires small wooden bullets known as taws. A system of blades within the launcher can rapidly reshape a taw as it's loaded, allowing the launcher to fire taws of different shapes, such as fléchettes.
+
+*Source: Lost Omens: Ancestry Guide p. 139*

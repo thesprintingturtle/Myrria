@@ -1,0 +1,19 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-action
+tags:
+- imported/action/class/wizard
+- imported/compendium/src/pf2e/crb
+- trait/tradition/arcane
+- trait/class/wizard
+aliases: ["Drain Bonded Item"]
+---
+# Drain Bonded Item [F](chapter-9-playing-the-game.md#Actions "Free Action")
+[arcane](arcane.md)  [wizard](rules/traits/wizard.md)  
+*Source: Core Rulebook p. 205*  
+
+**Class** wizard
+- **Frequency**: once per day
+- **Activity**: Free Action
+
+You expend the power stored in your bonded item, as long as the item is on your person. During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. You must still [Cast the Spell](cast-a-spell.md) and meet the spell's other requirements.

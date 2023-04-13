@@ -1,0 +1,27 @@
+---
+tags:
+- custom
+- level/7
+- trait/location/type/district 
+aliases: Bellstorm
+---
+# Bellstorm *District 7*
+
+Brief Description
+
+- **Government** 
+- **Superdistrict** [Enginia](enginia.md) 
+- **Population** 
+- **Languages** 
+- **Religions**
+- **Threats** 
+- **Other Characteristics** 
+---
+- **Primary Exports** 
+- **Primary Imports** 
+- **Allies** 
+- **Enemies** 
+- **Factions** 
+- **Threats** 
+---
+- **Significant NPCs** 

@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "6a9949c936943360",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ba04b2422231e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581467bf9b8c57c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_compendium/spells/rituals/blight.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58905e0de8e60ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdec9a8254a66069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe511413a3e3564b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8664686b897c20a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#trait/effect",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c459c89e212b893",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "eda78d10c2dd2dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "508c56b6edd43788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f55a2d0156f1985",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_compendium/spells/rituals/blight.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77edbdb23ceafb7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_compendium/spells/rituals/blight.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "636a09f2ec1a313e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87d70b8c3cea8534",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_compendium/spells/rituals/blight.md"
+              }
+            }
+          },
+          {
+            "id": "6d824f16ba447809",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b288dbcc8a56dc3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "14ffe4599fa6e081",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbdfc0dc7e60a8d0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-import-json:JSON/CSV Importer": false
+    }
+  },
+  "floating": {
+    "id": "e927da2594147822",
+    "type": "floating",
+    "children": [
+      {
+        "id": "10b2069659b03cf2",
+        "type": "window",
+        "children": [
+          {
+            "id": "8a8553b3123d82b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad54d2f956fa224c",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3640,
+        "y": 960,
+        "width": 1080,
+        "height": 960,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "636a09f2ec1a313e",
+  "lastOpenFiles": [
+    "_compendium/spells/barkskin.md",
+    "rules-custom/traits/port.md",
+    "rules-custom/traits/kineticist.md",
+    "rules-custom/traits/bastion-city.md",
+    "_compendium/spells/beastmaster-trance-apg.md",
+    "_rules/traits/aasimar-apg.md",
+    "_compendium/feats/basic-eldritch-archer-spellcasting-apg.md",
+    "_compendium/feats/able-ritualist-av2.md",
+    "_compendium/feats/aasimars-mercy-apg.md",
+    "_rules/abilities/aquatic-ambush.md",
+    "_rules/abilities/all-around-vision.md",
+    "_compendium/feats/animal-skin.md",
+    "rules-custom/traits/Untitled.md",
+    "_rules/secrets-of-magic/chapter-2-classes.md",
+    "_rules/secrets-of-magic/chapter-1-essentials-of-magic.md",
+    "_rules/lost-omens-world-guide/chapter-1-overview.md",
+    "_rules/traits/academic-locg.md",
+    "_rules/traits/acid.md",
+    "_rules/traits/abjuration.md",
+    "_rules/traits/aberration.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/arcania.md",
+    "_gm-screen/Weapon Traits (p.282-283).md",
+    "_gm-screen/Rules Reference.md",
+    "_gm-screen/gm-screen.md",
+    "_gm-screen/Common Conditions (p.618-623).md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/industria/dipperwall.md",
+    "zz_templates/note-types/npcs",
+    "myrria/organizations",
+    "myrria/locations/ignis-concord/settlements/pyrogale/industria",
+    "myrria/locations/ignis-concord/settlements/pyrogale/nobelia",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania",
+    "amd-ryzen-master.exe",
+    "amd-ryzen-master.exe.opdownload",
+    "rules-custom/traits",
+    "compendium-custom",
+    "zz_attachments/direction-sign.svg",
+    "zz_attachments/Myrria World Map.jpg",
+    "zz_addons/canvas-gm-tables/Game Master Tables.canvas",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Weapons 1.png",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Structure Tables.png",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Simple Hazards.png",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Move Skill Tables.png",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Miscellaneous Charts.png",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Environmental Feature Tables.png",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Encounter Adjustments.png",
+    "zz_addons/canvas-gm-tables/zzAttachments/Img Difficulty Classes.png",
+    "Untitled.canvas"
+  ]
+}

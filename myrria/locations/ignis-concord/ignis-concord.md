@@ -1,0 +1,27 @@
+---
+tags:
+- custom
+- trait/location/type/nation  
+aliases: ["Ignis Concord"]
+---
+# Ignis Concord *Nation*
+
+Brief Description
+
+- **Government** 
+- **Capital** [Pyrogale](settlements/pyrogale/pyrogale.md)
+- **Population** 
+- **Languages** 
+- **Religions**
+- **Threats** 
+- **Other Characteristics** 
+---
+- **Primary Exports** 
+- **Primary Imports** 
+- **Allies** 
+- **Enemies** 
+- **Factions** 
+- **Threats** 
+---
+- **Significant Organizations** [Kineticist Nations](../../organizations/kineticist-nations.md)
+- **Significant NPCs** 

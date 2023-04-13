@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- imported/compendium/src/pf2e/apg
+- imported/item/category/elixir
+- trait/equipment/alchemical
+- trait/equipment/consumable
+- trait/equipment/elixir
+- imported/trait/mutagen
+- trait/effect/polymorph
+aliases: ["Drakeheart Mutagen"]
+---
+# Drakeheart Mutagen *Item 1+*  
+[alchemical](alchemical.md)  [consumable](consumable.md)  [elixir](elixir.md)  [mutagen](mutagen.md)  [polymorph](polymorph.md)  
+
+- **Usage** held in 1 hand; **Bulk** L
+- **Activate** [Interact](interact.md)
+- **Category** Elixir
+
+Your skin grows tough scales like a drake, your eyesight become sharp and your pupils slitted, and your limbs grow wiry and quick, but your mind and reflexes become slow.
+
+**Benefit** You gain the listed bonus to AC, a Dexterity cap of +2 (as usual, use your lowest Dexterity cap if you have more than one), and an item bonus to [Perception](../../skills.md#Perception) checks. If you're wearing armor, you still calculate your proficiency bonus to AC based on your proficiency in the armor you're wearing, even if the drakeheart mutagen has a higher item bonus.
+
+You also gain the Final Surge action.
+
+```ad-embed-ability
+title: Final Surge [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+
+You [Stride](../../../rules/actions/stride.md) twice. The drakeheart mutagen's duration ends.
+```
+
+**Drawback** You take a –1 penalty to Will saves, Reflex saves, and all skill checks to [Recall Knowledge](recall-knowledge.md).
+
+*Source: Advanced Player's Guide p. 253*

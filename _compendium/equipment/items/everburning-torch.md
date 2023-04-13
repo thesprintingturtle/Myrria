@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- imported/compendium/src/pf2e/crb
+- imported/item/category/held
+- trait/school/evocation
+- trait/effect/light
+- trait/magical
+aliases: ["Everburning Torch"]
+---
+# Everburning Torch *Item 1*  
+[evocation](evocation.md)  [light](rules/traits/light.md)  [magical](magical.md)  
+
+- **Price** 15 gp
+- **Usage** held in 1 hand; **Bulk** L
+- **Category** Held
+
+An everburning torch is one of the most common applications of permanent magic. This torch sheds light constantly, requiring no oxygen and generating no heat.
+
+The flame can be covered or [hidden](conditions.md#Hidden), but can't be smothered or quenched.
+
+*Source: Core Rulebook p. 573*

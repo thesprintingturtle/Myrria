@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path: \"myrria\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: trait/location/type/nation",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag: trait/location/type/settlement OR tag: trait/location/type/city-state",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag: trait/location/type/district",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.841559953434226,
+  "lineSizeMultiplier": 2.11932479627474,
+  "collapse-forces": true,
+  "centerStrength": 0.49592549476135,
+  "repelStrength": 14.1559953434226,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.19450022690616578,
+  "close": false
+}

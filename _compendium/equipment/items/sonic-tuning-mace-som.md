@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-item
+tags:
+- imported/compendium/src/pf2e/som
+- imported/item/category/held
+- trait/school/evocation
+- trait/magical
+- trait/energy/sonic
+aliases: ["Sonic Tuning Mace"]
+---
+# Sonic Tuning Mace *Item 9+*  
+[evocation](evocation.md)  [magical](magical.md)  [sonic](sonic.md)  
+
+- **Usage** held in 1 hand; **Bulk** L
+- **Category** Held
+
+This +1 striking thundering light mace has twin tips, perfectly spaced to resonate when striking foes.
+
+```ad-embed-ability
+title: Activate [>>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+
+You tap the tuning mace against a nearby surface to cast 4th-level [sound burst](../../../compendium/spells/sound-burst.md) with a DC of 25.
+```
+
+*Source: Secrets of Magic p. 189*
