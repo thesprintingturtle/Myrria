@@ -1,10 +1,10 @@
 ---
 tags:
-- level/X
+- level/20
 - imported/npc/character
-aliases: Name
+aliases: Ismene Glassbraid, Ismene Mistbren, Ismene Mistbren-Glassbraid
 ---
-# Name *Character X*
+# Ismene Mistbren-Glassbraid *Character 20*
 Traits 
 
 Brief Description

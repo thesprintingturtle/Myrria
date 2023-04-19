@@ -1,10 +1,10 @@
 ---
 tags:
-- level/X
+- level/20
 - imported/npc/character
-aliases: Name
+aliases: Alicia Glassbraid
 ---
-# Name *Character X*
+# Alicia Glassbraid *Character 20*
 Traits 
 
 Brief Description

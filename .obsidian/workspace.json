@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_compendium/spells/rituals/blight.md",
+                "file": "_compendium/equipment/items/alchemical-crossbow-fop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13880763101df914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/equipment/titanfall-handwraps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cc992cdb39f1d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/npcs/people/aclicia-glassbraid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4f11b166d687d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/npcs/people/ismene-mistbren-glassbraid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#trait/effect",
+                "query": "tag:#imported/pf2e",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +102,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 466.5
   },
   "right": {
     "id": "eda78d10c2dd2dae",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_compendium/spells/rituals/blight.md",
+                "file": "myrria/equipment/titanfall-handwraps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_compendium/spells/rituals/blight.md",
+                "file": "myrria/equipment/titanfall-handwraps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_compendium/spells/rituals/blight.md"
+                "file": "myrria/equipment/titanfall-handwraps.md"
               }
             }
           },
@@ -171,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-import-json:JSON/CSV Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,8 +216,7 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "floating": {
@@ -216,34 +252,36 @@
       }
     ]
   },
-  "active": "636a09f2ec1a313e",
+  "active": "13880763101df914",
   "lastOpenFiles": [
-    "_compendium/spells/barkskin.md",
-    "rules-custom/traits/port.md",
-    "rules-custom/traits/kineticist.md",
-    "rules-custom/traits/bastion-city.md",
-    "_compendium/spells/beastmaster-trance-apg.md",
-    "_rules/traits/aasimar-apg.md",
-    "_compendium/feats/basic-eldritch-archer-spellcasting-apg.md",
-    "_compendium/feats/able-ritualist-av2.md",
-    "_compendium/feats/aasimars-mercy-apg.md",
-    "_rules/abilities/aquatic-ambush.md",
-    "_rules/abilities/all-around-vision.md",
-    "_compendium/feats/animal-skin.md",
-    "rules-custom/traits/Untitled.md",
-    "_rules/secrets-of-magic/chapter-2-classes.md",
-    "_rules/secrets-of-magic/chapter-1-essentials-of-magic.md",
-    "_rules/lost-omens-world-guide/chapter-1-overview.md",
-    "_rules/traits/academic-locg.md",
-    "_rules/traits/acid.md",
-    "_rules/traits/abjuration.md",
-    "_rules/traits/aberration.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/arcania.md",
-    "_gm-screen/Weapon Traits (p.282-283).md",
-    "_gm-screen/Rules Reference.md",
-    "_gm-screen/gm-screen.md",
-    "_gm-screen/Common Conditions (p.618-623).md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/dipperwall.md",
+    "myrria/spellstrand.md",
+    "myrria/equipment/titanfall-handwraps.md",
+    "_compendium/equipment/items/alchemical-crossbow-fop.md",
+    "zz_templates/note-types/equipment/worn-item.md",
+    "myrria/npcs/people/aclicia-glassbraid.md",
+    "myrria/npcs/people/ismene-mistbren-glassbraid.md",
+    "zz_templates/note-types/npcs/character.md",
+    "zz_templates/note-types/equipment/weapon.md",
+    "_rules/core-rulebook/chapter-9-playing-the-game.md",
+    "zz_templates/note-types/locations/settlement.md",
+    "zz_templates/note-types/locations/district.md",
+    "zz_templates/note-types/locations/nation.md",
+    "_compendium/equipment/items/hand-of-the-mage.md",
+    "_compendium/equipment/items/handcuffs-aoe1.md",
+    "_compendium/equipment/items/handling-gloves-lotg.md",
+    "_compendium/equipment/items/handwraps-of-mighty-blows.md",
+    "_compendium/equipment/items/acid-spitter-g-g.md",
+    "_compendium/equipment/items/alchemical-atomizer-lol.md",
+    "zz_templates/note-types/trait.md",
+    "myrria/Untitled.md",
+    "zz_templates/note-types/equipment",
+    "myrria/equipment",
+    "_compendium/equipment/items/animal-staff.md",
+    "_compendium/equipment/items/alchemical-fuse-ooa2.md",
+    "_compendium/equipment/items/adaptive-cogwheel-g-g.md",
+    "_compendium/equipment/items/adamantine-weapon.md",
+    "_compendium/equipment/items/abysium-weapon-lotgb.md",
+    "_compendium/equipment/items/abysium-powder-lotgb.md",
     "zz_templates/note-types/npcs",
     "myrria/organizations",
     "myrria/locations/ignis-concord/settlements/pyrogale/industria",
@@ -252,8 +290,6 @@
     "myrria/locations/ignis-concord/settlements/pyrogale/arcania",
     "amd-ryzen-master.exe",
     "amd-ryzen-master.exe.opdownload",
-    "rules-custom/traits",
-    "compendium-custom",
     "zz_attachments/direction-sign.svg",
     "zz_attachments/Myrria World Map.jpg",
     "zz_addons/canvas-gm-tables/Game Master Tables.canvas",

@@ -586,8 +586,88 @@
     "custom": {
       "custom": {
         "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1681930772941
+        }
+      }
+    },
+    "level/X": {
+      "level/X": {
+        "frontMatter": {
           "count": 1,
-          "lastUpdated": 1681229406790
+          "lastUpdated": 1681930786321
+        }
+      }
+    },
+    "Description": {
+      "Description": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681931433533
+        }
+      }
+    },
+    "invested": {
+      "invested": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681931699868
+        }
+      }
+    },
+    "magical": {
+      "magical": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681931702650
+        }
+      }
+    },
+    "unique": {
+      "unique": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681931708894
+        }
+      }
+    },
+    "trait/rarity/unique": {
+      "trait/rarity/unique": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681931717183
+        }
+      }
+    },
+    "Nudge The Odds": {
+      "Nudge The Odds": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681933564985
+        }
+      }
+    },
+    "Ismene Mistbren": {
+      "Ismene Mistbren": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681934049541
+        }
+      }
+    },
+    "Alicia Glassbraid": {
+      "Alicia Glassbraid": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681934062518
+        }
+      }
+    },
+    "Ganzi": {
+      "Ganzi": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681934461022
         }
       }
     }
