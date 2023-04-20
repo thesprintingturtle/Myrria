@@ -14,7 +14,7 @@ Brief Description
 - **Pronouns** 
 - **Ancestry** 
 - **Class** 
-- **Age** 
+- **Birthyear** 
 - **Other Characteristics** 
 ---
 - **Gender Presentation** 

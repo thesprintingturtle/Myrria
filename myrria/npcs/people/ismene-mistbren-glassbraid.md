@@ -14,7 +14,7 @@ Brief Description
 - **Pronouns** 
 - **Ancestry** 
 - **Class** 
-- **Age** 
+- **Birthyear** 
 - **Other Characteristics** 
 ---
 - **Gender Presentation** 
@@ -27,7 +27,7 @@ Brief Description
 - **Home** 
 - **Commonly Visited Locations** 
 ---
-- **Inventory** 
+- **Inventory** [Blink Cloak](../../equipment/blink-cloak.md) 
 ---
 - **Wants/Needs** 
 - **Favorite Quotes** 
