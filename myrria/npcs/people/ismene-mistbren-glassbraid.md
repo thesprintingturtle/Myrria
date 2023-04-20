@@ -1,7 +1,8 @@
 ---
 tags:
+- custom
 - level/20
-- imported/npc/character
+- trait/npc
 aliases: Ismene Glassbraid, Ismene Mistbren, Ismene Mistbren-Glassbraid
 ---
 # Ismene Mistbren-Glassbraid *Character 20*

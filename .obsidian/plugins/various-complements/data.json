@@ -610,32 +610,32 @@
     "invested": {
       "invested": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681931699868
+          "count": 2,
+          "lastUpdated": 1681939095143
         }
       }
     },
     "magical": {
       "magical": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681931702650
+          "count": 2,
+          "lastUpdated": 1681939102579
         }
       }
     },
     "unique": {
       "unique": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681931708894
+          "count": 2,
+          "lastUpdated": 1681939123187
         }
       }
     },
     "trait/rarity/unique": {
       "trait/rarity/unique": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1681931717183
+          "count": 2,
+          "lastUpdated": 1681939189908
         }
       }
     },
@@ -668,6 +668,102 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1681934461022
+        }
+      }
+    },
+    "Interact": {
+      "Interact": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681937207002
+        }
+      }
+    },
+    "apex": {
+      "apex": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681939076829
+        }
+      }
+    },
+    "teleportation": {
+      "teleportation": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681939118658
+        }
+      }
+    },
+    "trait/equipment/invested": {
+      "trait/equipment/invested": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1681939205419
+        }
+      }
+    },
+    "trait/magical": {
+      "trait/magical": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1681939208667
+        }
+      }
+    },
+    "trait/effect/teleportation": {
+      "trait/effect/teleportation": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681939175264
+        }
+      }
+    },
+    "trait/equipment/apex": {
+      "trait/equipment/apex": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681939198777
+        }
+      }
+    },
+    "Explorer's Clothing": {
+      "Explorer's Clothing": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681939578515
+        }
+      }
+    },
+    "shadow": {
+      "shadow": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681939597854
+        }
+      }
+    },
+    "Move": {
+      "Move": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681939654632
+        }
+      }
+    },
+    "round": {
+      "round": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681939825868
+        }
+      }
+    },
+    "Magic Sense (Wizard)": {
+      "Magic Sense (Wizard)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681939910299
         }
       }
     }

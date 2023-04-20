@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "581467bf9b8c57c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_compendium/equipment/items/alchemical-crossbow-fop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13880763101df914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/equipment/titanfall-handwraps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8cc992cdb39f1d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/npcs/people/aclicia-glassbraid.md",
+                "file": "zz_templates/note-types/npcs/character.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#imported/pf2e",
+                "query": "tag:#spell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/equipment/titanfall-handwraps.md",
+                "file": "zz_templates/note-types/npcs/character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/equipment/titanfall-handwraps.md",
+                "file": "zz_templates/note-types/npcs/character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myrria/equipment/titanfall-handwraps.md"
+                "file": "zz_templates/note-types/npcs/character.md"
               }
             }
           },
@@ -207,7 +182,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-import-json:JSON/CSV Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,7 +190,8 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
   "floating": {
@@ -245,43 +220,43 @@
         "direction": "vertical",
         "x": 3640,
         "y": 960,
-        "width": 1080,
-        "height": 960,
+        "width": 1026,
+        "height": 802,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "13880763101df914",
+  "active": "8cc992cdb39f1d2a",
   "lastOpenFiles": [
-    "myrria/spellstrand.md",
-    "myrria/equipment/titanfall-handwraps.md",
-    "_compendium/equipment/items/alchemical-crossbow-fop.md",
-    "zz_templates/note-types/equipment/worn-item.md",
     "myrria/npcs/people/aclicia-glassbraid.md",
     "myrria/npcs/people/ismene-mistbren-glassbraid.md",
     "zz_templates/note-types/npcs/character.md",
+    "myrria/npcs/people/Alyx Cloudstrike.md",
+    "myrria/equipment/titanfall-handwraps.md",
+    "myrria/equipment/blink-cloak.md",
+    "myrria/locations/daggervale/daggervale-nation.md",
+    "_compendium/equipment/items/robe-of-the-archmagi.md",
+    "_compendium/equipment/items/acrobats-staff-ec2.md",
+    "_compendium/gm/hazards/acidic-poison-cloud-trap-aoe3.md",
+    "_compendium/equipment/items/acid-spitter-g-g.md",
+    "_compendium/equipment/items/acid-flask.md",
+    "_compendium/equipment/items/abysium-powder-lotgb.md",
+    "_rules/traits/invested.md",
+    "_compendium/equipment/items/breastplate-of-command.md",
+    "_compendium/equipment/items/adamantine-armor.md",
+    "myrria/spellstrand.md",
+    "_rules/abilities/all-around-vision.md",
+    "_compendium/equipment/items/alchemical-atomizer-lol.md",
+    "_compendium/equipment/items/alchemical-fuse-ooa2.md",
+    "zz_templates/note-types/equipment/worn-item.md",
+    "_compendium/equipment/items/alchemical-crossbow-fop.md",
     "zz_templates/note-types/equipment/weapon.md",
     "_rules/core-rulebook/chapter-9-playing-the-game.md",
     "zz_templates/note-types/locations/settlement.md",
     "zz_templates/note-types/locations/district.md",
-    "zz_templates/note-types/locations/nation.md",
-    "_compendium/equipment/items/hand-of-the-mage.md",
-    "_compendium/equipment/items/handcuffs-aoe1.md",
-    "_compendium/equipment/items/handling-gloves-lotg.md",
-    "_compendium/equipment/items/handwraps-of-mighty-blows.md",
-    "_compendium/equipment/items/acid-spitter-g-g.md",
-    "_compendium/equipment/items/alchemical-atomizer-lol.md",
-    "zz_templates/note-types/trait.md",
-    "myrria/Untitled.md",
     "zz_templates/note-types/equipment",
     "myrria/equipment",
-    "_compendium/equipment/items/animal-staff.md",
-    "_compendium/equipment/items/alchemical-fuse-ooa2.md",
-    "_compendium/equipment/items/adaptive-cogwheel-g-g.md",
-    "_compendium/equipment/items/adamantine-weapon.md",
-    "_compendium/equipment/items/abysium-weapon-lotgb.md",
-    "_compendium/equipment/items/abysium-powder-lotgb.md",
     "zz_templates/note-types/npcs",
     "myrria/organizations",
     "myrria/locations/ignis-concord/settlements/pyrogale/industria",

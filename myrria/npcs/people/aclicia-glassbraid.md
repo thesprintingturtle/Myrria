@@ -1,7 +1,8 @@
 ---
 tags:
+- custom
 - level/20
-- imported/npc/character
+- trait/npc
 aliases: Alicia Glassbraid
 ---
 # Alicia Glassbraid *Character 20*

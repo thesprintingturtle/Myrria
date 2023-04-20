@@ -1,7 +1,8 @@
 ---
 tags:
+- custom
 - level/X
-- imported/npc/character
+- trait/npc
 aliases: Name
 ---
 # Name *Character X*
