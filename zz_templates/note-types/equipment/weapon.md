@@ -1,5 +1,6 @@
 ---
 tags:
+- custom
 - level/X 
 - trait/equipment/weapon
 aliases: Name

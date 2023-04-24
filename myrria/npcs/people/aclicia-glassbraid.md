@@ -20,12 +20,13 @@ Brief Description
 - **Gender Presentation** Feminine
 - **Height** 5'5"
 - **Body Type** Fit
-- **Hair** Green Glass Fibers
+- **Hair** Green Glass Fibers, Undercut Left Side
 - **Eyes** 
 - **Physical Description** 
 ---
 - **Home** 
 - **Commonly Visited Locations** 
+- **Organizations** [Outside Influence](../../organizations/outside-influence.md) 
 ---
 - **Inventory** [Titanfall Handwraps](../../equipment/titanfall-handwraps.md) 
 ---

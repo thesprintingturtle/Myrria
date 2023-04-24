@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-trait
 tags:
 - imported/compendium/src/pf2e/gmg
 - imported/trait/category/item
-aliases: ["Artifact"]
+aliases: ["Artifact", "artifact"]
 ---
 # Artifact  
 *Source: Gamemastery Guide p. 250*  

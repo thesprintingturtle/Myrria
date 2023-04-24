@@ -1,7 +1,8 @@
 ---
 tags:
+- custom
 - level/X 
-- trait/equipment/worn
+- trait/equipment
 aliases: Name
 ---
 # Name *Item X*  
@@ -9,7 +10,7 @@ traits
 
 - **Price** 
 - **Usage** ; **Bulk** 
-- **Category** worn
+- **Category** 
 
 Description
 

@@ -330,8 +330,8 @@
     "Elf": {
       "Elf": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1681008697991
+          "count": 5,
+          "lastUpdated": 1682278603184
         }
       }
     },
@@ -586,8 +586,8 @@
     "custom": {
       "custom": {
         "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1681930772941
+          "count": 5,
+          "lastUpdated": 1682308976779
         }
       }
     },
@@ -610,32 +610,32 @@
     "invested": {
       "invested": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681939095143
+          "count": 4,
+          "lastUpdated": 1682300333716
         }
       }
     },
     "magical": {
       "magical": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681939102579
+          "count": 4,
+          "lastUpdated": 1682300339944
         }
       }
     },
     "unique": {
       "unique": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681939123187
+          "count": 4,
+          "lastUpdated": 1682300342763
         }
       }
     },
     "trait/rarity/unique": {
       "trait/rarity/unique": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1681939189908
+          "count": 4,
+          "lastUpdated": 1682299588524
         }
       }
     },
@@ -650,32 +650,32 @@
     "Ismene Mistbren": {
       "Ismene Mistbren": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681950457789
+          "count": 5,
+          "lastUpdated": 1682305178227
         }
       }
     },
     "Alicia Glassbraid": {
       "Alicia Glassbraid": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681934062518
+          "count": 3,
+          "lastUpdated": 1682305171211
         }
       }
     },
     "Ganzi": {
       "Ganzi": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681934461022
+          "count": 2,
+          "lastUpdated": 1682298809232
         }
       }
     },
     "Interact": {
       "Interact": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681937207002
+          "count": 3,
+          "lastUpdated": 1682299985313
         }
       }
     },
@@ -698,16 +698,16 @@
     "trait/equipment/invested": {
       "trait/equipment/invested": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1681939205419
+          "count": 4,
+          "lastUpdated": 1682299551061
         }
       }
     },
     "trait/magical": {
       "trait/magical": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1681939208667
+          "count": 4,
+          "lastUpdated": 1682299553552
         }
       }
     },
@@ -730,8 +730,8 @@
     "Explorer's Clothing": {
       "Explorer's Clothing": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681939578515
+          "count": 2,
+          "lastUpdated": 1682299680956
         }
       }
     },
@@ -770,16 +770,16 @@
     "Human": {
       "Human": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681950481610
+          "count": 3,
+          "lastUpdated": 1682308051278
         }
       }
     },
     "Oread": {
       "Oread": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681950492144
+          "count": 2,
+          "lastUpdated": 1682308054838
         }
       }
     },
@@ -794,8 +794,232 @@
     "Blink Cloak": {
       "Blink Cloak": {
         "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682300988113
+        }
+      }
+    },
+    "trait/equipment/weapon": {
+      "trait/equipment/weapon": {
+        "frontMatter": {
           "count": 1,
-          "lastUpdated": 1681953885060
+          "lastUpdated": 1682271147463
+        }
+      }
+    },
+    "trait/effect/poison": {
+      "trait/effect/poison": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682271183483
+        }
+      }
+    },
+    "Ismene Mistbren-Glassbraid": {
+      "Ismene Mistbren-Glassbraid": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1682305184602
+        }
+      }
+    },
+    "trait/equipment/artifact": {
+      "trait/equipment/artifact": {
+        "frontMatter": {
+          "count": 4,
+          "lastUpdated": 1682300500444
+        }
+      }
+    },
+    "Artifact": {
+      "Artifact": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682275749561
+        }
+      }
+    },
+    "artifact": {
+      "artifact": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1682300330765
+        }
+      }
+    },
+    "Thousand Yard Stare": {
+      "Thousand Yard Stare": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682278136074
+        }
+      }
+    },
+    "Aphorite": {
+      "Aphorite": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682278617568
+        }
+      }
+    },
+    "Kitsune": {
+      "Kitsune": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682298915167
+        }
+      }
+    },
+    "Ifrit": {
+      "Ifrit": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682298920240
+        }
+      }
+    },
+    "trait/effect/healing": {
+      "trait/effect/healing": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682299568761
+        }
+      }
+    },
+    "Fly": {
+      "Fly": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1682300761148
+        }
+      }
+    },
+    "Heal": {
+      "Heal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682299878738
+        }
+      }
+    },
+    "spell": {
+      "spell": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682299887090
+        }
+      }
+    },
+    "Raise Dead": {
+      "Raise Dead": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682300064924
+        }
+      }
+    },
+    "healing": {
+      "healing": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682300337737
+        }
+      }
+    },
+    "Asami Morningfell": {
+      "Asami Morningfell": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682305174600
+        }
+      }
+    },
+    "trait/tradition/arcane": {
+      "trait/tradition/arcane": {
+        "frontMatter": {
+          "count": 8,
+          "lastUpdated": 1682308970647
+        }
+      }
+    },
+    "arcane": {
+      "arcane": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1682300539241
+        }
+      }
+    },
+    "Spellstrands": {
+      "Spellstrands": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682300816545
+        }
+      }
+    },
+    "Phoenix": {
+      "Phoenix": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682301021807
+        }
+      }
+    },
+    "Cloak of the Phoenix": {
+      "Cloak of the Phoenix": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682301097601
+        }
+      }
+    },
+    "Outside Influence": {
+      "Outside Influence": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1682305047899
+        }
+      }
+    },
+    "Vivian Thunderbrook": {
+      "Vivian Thunderbrook": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682305194369
+        }
+      }
+    },
+    "mithral": {
+      "mithral": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682305646453
+        }
+      }
+    },
+    "darkwood": {
+      "darkwood": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682305656839
+        }
+      }
+    },
+    "Barbarian": {
+      "Barbarian": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682308069701
+        }
+      }
+    },
+    "trait/organization": {
+      "trait/organization": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1682309567735
         }
       }
     }

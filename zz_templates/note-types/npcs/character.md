@@ -26,6 +26,7 @@ Brief Description
 ---
 - **Home** 
 - **Commonly Visited Locations** 
+- **Organizations** 
 ---
 - **Inventory** 
 ---

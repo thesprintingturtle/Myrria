@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path: \"myrria\"",
+  "search": "path: \"myrria\" -path: \"myrria/fundamentals\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag: trait/organization",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag: trait/npc",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +53,6 @@
   "repelStrength": 14.1559953434226,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.38230109687700914,
+  "scale": 0.19450022690616664,
   "close": false
 }

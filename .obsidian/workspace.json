@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/npcs/people/aclicia-glassbraid.md",
+                "file": "myrria/equipment/thousand-yard-stare.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,91 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dadc4a8b5931d46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/npcs/people/aclicia-glassbraid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d43669c3ba23d418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/organizations/faewood-academy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a940527abb9ee0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/organizations/faewood-academy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "709326ec55b96593",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zz_attachments/Myrria World Map.jpg"
+              }
+            }
+          },
+          {
+            "id": "89f009d53577cdfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/equipment/blink-cloak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b945b51c7db9248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/organizations/outside-influence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c4135bc328118c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/equipment/cloak-of-the-phoenix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -60,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spell",
+                "query": "tag:#trait",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/npcs/people/aclicia-glassbraid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/npcs/people/aclicia-glassbraid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +217,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "myrria/npcs/people/aclicia-glassbraid.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,54 +298,54 @@
         ],
         "direction": "vertical",
         "x": 3640,
-        "y": 960,
+        "y": 959,
         "width": 1080,
-        "height": 960,
+        "height": 961,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "8cc992cdb39f1d2a",
+  "active": "ad54d2f956fa224c",
   "lastOpenFiles": [
-    "myrria/npcs/people/aclicia-glassbraid.md",
-    "myrria/equipment/blink-cloak.md",
-    "myrria/npcs/people/ismene-mistbren-glassbraid.md",
+    "myrria/organizations/faewood-academy.md",
+    "zz_templates/note-types/organizations/nonreligious-organization.md",
+    "myrria/outside-influences-story/first-draft/chapter-1-alicia/alicia-glassbraid-chapter-1.md",
     "zz_templates/note-types/npcs/character.md",
-    "_rules/traits/oread-b2.md",
-    "myrria/npcs/people/Alyx Cloudstrike.md",
+    "zz_templates/note-types/Untitled.md",
+    "zz_templates/note-types/organizations",
+    "myrria/npcs/people/aclicia-glassbraid.md",
+    "zz_attachments/Myrria World Map.jpg",
+    "myrria/organizations/outside-influence.md",
+    "myrria/npcs/people/ismene-mistbren-glassbraid.md",
+    "myrria/outside-influences-story/first-draft/chapter-1-alicia",
+    "myrria/outside-influences-story/first-draft",
+    "myrria/outside-influences-story",
+    "myrria/equipment/thousand-yard-stare.md",
+    "myrria/fundamentals/kineticist-nations.md",
+    "myrria/fundamentals/bastion-cities.md",
+    "myrria/npcs/people/vivian-thunderbrook.md",
+    "myrria/equipment/blink-cloak.md",
+    "myrria/npcs/people/asami-morningfell.md",
+    "myrria/equipment/cloak-of-the-phoenix.md",
+    "myrria/fundamentals",
     "myrria/equipment/titanfall-handwraps.md",
-    "myrria/locations/daggervale/daggervale-nation.md",
-    "_compendium/equipment/items/robe-of-the-archmagi.md",
-    "_compendium/equipment/items/acrobats-staff-ec2.md",
-    "_compendium/gm/hazards/acidic-poison-cloud-trap-aoe3.md",
-    "_compendium/equipment/items/acid-spitter-g-g.md",
-    "_compendium/equipment/items/acid-flask.md",
-    "_compendium/equipment/items/abysium-powder-lotgb.md",
-    "_rules/traits/invested.md",
-    "_compendium/equipment/items/breastplate-of-command.md",
-    "_compendium/equipment/items/adamantine-armor.md",
-    "myrria/spellstrand.md",
-    "_rules/abilities/all-around-vision.md",
-    "_compendium/equipment/items/alchemical-atomizer-lol.md",
-    "_compendium/equipment/items/alchemical-fuse-ooa2.md",
-    "zz_templates/note-types/equipment/worn-item.md",
-    "_compendium/equipment/items/alchemical-crossbow-fop.md",
+    "zz_templates/note-types/equipment/item.md",
     "zz_templates/note-types/equipment/weapon.md",
-    "_rules/core-rulebook/chapter-9-playing-the-game.md",
-    "zz_templates/note-types/locations/settlement.md",
+    "_compendium/equipment/items/darkwood.md",
+    "_compendium/equipment/items/jezail-g-g.md",
+    "_rules/traits/artifact-gmg.md",
+    "_compendium/equipment/items/breath-blaster-g-g.md",
+    "_rules/traits/invested.md",
+    "_compendium/equipment/items/items.md",
+    "_compendium/feats/advanced-shooter-g-g.md",
+    "_compendium/equipment/items/arquebus-g-g.md",
     "zz_templates/note-types/equipment",
     "myrria/equipment",
     "zz_templates/note-types/npcs",
     "myrria/organizations",
     "myrria/locations/ignis-concord/settlements/pyrogale/industria",
-    "myrria/locations/ignis-concord/settlements/pyrogale/nobelia",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania",
-    "amd-ryzen-master.exe",
-    "amd-ryzen-master.exe.opdownload",
     "zz_attachments/direction-sign.svg",
-    "zz_attachments/Myrria World Map.jpg",
     "zz_addons/canvas-gm-tables/Game Master Tables.canvas",
     "zz_addons/canvas-gm-tables/zzAttachments/Img Weapons 1.png",
     "zz_addons/canvas-gm-tables/zzAttachments/Img Structure Tables.png",

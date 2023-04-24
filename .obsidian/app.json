@@ -12,5 +12,6 @@
     "_gm-screen/",
     "_compendium/setting/"
   ],
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "readableLineLength": false
 }
