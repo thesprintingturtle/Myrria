@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/pfum
-- imported/item/category/held
+- equipment/held-item
 - trait/effect/detection
 - trait/school/divination
 - trait/magical

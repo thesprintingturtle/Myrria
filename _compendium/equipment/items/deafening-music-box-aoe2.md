@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe2
-- imported/item/category/held
-- trait/effect/auditory
+- equipment/held-item
+- trait/sense/auditory
 - trait/school/evocation
 - trait/magical
 - trait/rarity/uncommon

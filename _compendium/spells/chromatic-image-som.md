@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/6
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Chromatic Image"]
 ---
 # Chromatic Image *Spell 6*   

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lowg
-- imported/item/category/worn
+- equipment/worn-item
 aliases: ["Swim Fins"]
 ---
 # Swim Fins *Item 0*  

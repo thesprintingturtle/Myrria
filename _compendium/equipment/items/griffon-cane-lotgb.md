@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/weapon/martial
-- imported/trait/backswing
-- imported/trait/two-hand-d10
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/club
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/backswing
+- trait/equipment/weapon/two-hand/d10
 aliases: ["Griffon Cane"]
 ---
 # Griffon Cane *Item 0*  

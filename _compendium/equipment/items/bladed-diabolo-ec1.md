@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec1
-- imported/item/category/weapon/advanced
-- imported/trait/backswing
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/flail
+- equipment/weapon/base-weapon/type/melee 
+- trait/equipment/weapon/backswing
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
-- imported/trait/thrown-40-feet
+- trait/equipment/weapon/thrown/40
 - trait/equipment/weapon/trip
 - trait/rarity/uncommon
 aliases: ["Bladed Diabolo"]

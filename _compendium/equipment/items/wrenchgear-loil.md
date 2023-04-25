@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/held
+- equipment/held-item
 - trait/rarity/uncommon
 aliases: ["Wrenchgear"]
 ---

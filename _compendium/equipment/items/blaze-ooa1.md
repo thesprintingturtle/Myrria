@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ooa1
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/alchemical
 - trait/equipment/consumable
-- trait/equipement/drug
+- trait/equipment/drug
 - trait/effect/poison/ingested
 - trait/effect/poison
 - trait/rarity/uncommon

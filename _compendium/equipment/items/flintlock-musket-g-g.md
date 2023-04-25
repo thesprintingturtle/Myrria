@@ -3,7 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/simple
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/fatal/d10
 - trait/rarity/uncommon

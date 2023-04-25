@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/av3
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/alchemical
 - trait/equipment/consumable
 - trait/effect/incapacitation
 - trait/effect/poison/injury
 - trait/effect/poison
-- imported/trait/sleep
+- trait/effect/sleep
 - trait/rarity/uncommon
 aliases: ["Stupor Poison"]
 ---

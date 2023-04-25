@@ -5,9 +5,9 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/area/burst
 - spell/level/7
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Visions Of Danger"]
 ---
 # Visions Of Danger *Spell 7*   

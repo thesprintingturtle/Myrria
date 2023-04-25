@@ -3,9 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/simple
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/reload/0
 - trait/equipment/weapon/agile
-- imported/trait/repeating
+- trait/equipment/weapon/repeating
 - trait/rarity/uncommon
 aliases: ["Air Repeater"]
 ---

@@ -2,7 +2,8 @@
 tags:
 - custom
 - level/23 
-- trait/equipment/weapon/firearm 
+- equipment/weapon/range/600
+- trait/equipment/weapon/volley/50
 - trait/tradition/arcane 
 - trait/equipment/artifact 
 - trait/equipment/invested 
@@ -14,11 +15,11 @@ aliases: Thousand Yard Stare
 [arcane](../../_rules/traits/arcane.md) [artifact](../../_rules/traits/artifact-gmg.md) [invested](../../_rules/traits/invested.md) [magical](../../_rules/traits/magical.md) [unique](../../_rules/traits/unique.md) 
 
 - **Usage** held in 1 or 2 hands; **Bulk** L
-- **Category** Firearm
+- **Base Weapon** [Jezail](../../_compendium/equipment/items/jezail-g-g.md) 
 
 One of many unique weapons created by legendary gunslinger [Ismene Mistbren-Glassbraid](../npcs/people/ismene-mistbren-glassbraid.md), this rifle serves as her primary weapon. It has a long, blackened [mithral](../../_compendium/equipment/items/mithral.md) barrel with a [darkwood](../../_compendium/equipment/items/darkwood.md) stock engraved with a pattern of shadow and force glyphs. The web of glyphs becomes visually active when the invested user senses imminent combat, with [Spellstrands](../fundamentals/spellstrand.md) appearing in stark white.
 
-This long rifle functions as a *+4 major striking keen greater fearsom jezail*. With its long-range scope engaged, it gains volley 50ft and a range increment of 600ft.
+This long rifle functions as a *+4 major striking keen greater fearsom jezail*. With its long-range scope engaged, it has the volley 50ft trait and a range increment of 600ft.
 
 ```ad-embed-ability
 title: Activate *⬻{ .Pathfinder }*

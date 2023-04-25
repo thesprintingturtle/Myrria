@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/lomm
 - trait/hazard/complex
 - trait/hazard/environmental
-- imported/trait/kaiju
+- trait/monster/kaiju
 - trait/rarity/rare
 aliases: ["Collapsing Structure"]
 ---

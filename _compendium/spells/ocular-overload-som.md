@@ -4,10 +4,10 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/som
 - spell/level/4
-- imported/trait/contingency
+- trait/spell/contingency
 - trait/school/illusion
 - trait/effect/incapacitation
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Ocular Overload"]
 ---
 # Ocular Overload *Spell 4*   

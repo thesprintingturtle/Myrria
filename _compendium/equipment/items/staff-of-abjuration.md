@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/staff
+- equipment/staff
 - trait/school/abjuration
 - trait/magical
 - trait/equipment/staff

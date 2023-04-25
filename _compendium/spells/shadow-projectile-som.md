@@ -6,7 +6,7 @@ tags:
 - spell/level/3
 - trait/school/illusion
 - trait/plane/shadow
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Shadow Projectile"]
 ---
 # Shadow Projectile *Spell 3*   

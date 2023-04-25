@@ -8,7 +8,7 @@ tags:
 - trait/school/enchantment
 - trait/effect/incapacitation
 - trait/effect/mental
-- imported/trait/sleep
+- trait/effect/sleep
 aliases: ["Sleep"]
 ---
 # Sleep *Spell 1*   

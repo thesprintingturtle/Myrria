@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/consumable
+- equipment/consumable
 - trait/equipment/consumable
 - trait/school/enchantment
 - trait/effect/incapacitation
 - trait/magical
 - trait/effect/mental
-- imported/trait/sleep
+- trait/effect/sleep
 - trait/rarity/uncommon
 aliases: ["Dreaming Round"]
 ---

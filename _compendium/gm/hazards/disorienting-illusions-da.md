@@ -6,7 +6,7 @@ tags:
 - trait/school/illusion
 - trait/magical
 - trait/equipment/trap
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Disorienting Illusions"]
 ---
 # Disorienting Illusions *Hazard 1*  

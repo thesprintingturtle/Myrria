@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/som
 - spell/level/6
-- imported/trait/chaotic
+- trait/alignment/chaotic
 - trait/alignment/evil
 - trait/effect/polymorph
 - trait/school/transmutation

@@ -9,7 +9,7 @@ tags:
 - trait/spell/composition
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["House Of Imaginary Walls"]
 ---
 # House Of Imaginary Walls *Cantrip 5*   

@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-action
 tags:
 - imported/action
 - imported/compendium/src/pf2e/da
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/magical

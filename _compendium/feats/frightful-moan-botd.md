@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/botd
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/tradition/divine
 - trait/effect/emotion
 - trait/school/enchantment
@@ -27,4 +27,4 @@ You lament your fate, forcing each living creature in a 30-foot emanation to att
 > - **Critical Failure** The creature is [frightened](conditions.md#Frightened).
 
 *Source: Book of the Dead p. 47*  
-%% #imported/compendium/src/pf2e/botd #trait/feat/archetype #trait/effect/auditory #trait/tradition/divine #trait/effect/emotion #trait/school/enchantment #trait/effect/fear #trait/effect/mental %%
+%% #imported/compendium/src/pf2e/botd #trait/feat/archetype #trait/sense/auditory #trait/tradition/divine #trait/effect/emotion #trait/school/enchantment #trait/effect/fear #trait/effect/mental %%

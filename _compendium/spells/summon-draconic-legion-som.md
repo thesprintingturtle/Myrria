@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/9
 - trait/school/conjuration
-- imported/trait/incarnate
+- trait/spell/incarnate
 aliases: ["Summon Draconic Legion"]
 ---
 # Summon Draconic Legion *Spell 9*   

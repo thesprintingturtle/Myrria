@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/simple
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/spear
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
-- imported/trait/deadly-d6
+- trait/equipment/weapon/deadly/d6
 - trait/equipment/weapon/finese
 aliases: ["Forked Bipod"]
 ---

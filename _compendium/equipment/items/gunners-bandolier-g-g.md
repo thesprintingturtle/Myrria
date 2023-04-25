@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/customization/holsters
+- equipment/customization/holsters
 - trait/school/conjuration
 - trait/equipment/invested
 - trait/magical

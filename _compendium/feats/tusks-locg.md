@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/locg
-- imported/trait/half-orc
+- trait/ancestry/half-orc
 aliases: ["Tusks"]
 ---
 # Tusks  *Feat 1*  
@@ -15,4 +15,4 @@ Most half-orcs have visible tusks, but yours are particularly large and sharp, c
 **Special.** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
 
 *Source: Lost Omens: Character Guide p. 15*  
-%% #imported/compendium/src/pf2e/locg #imported/trait/half-orc %%
+%% #imported/compendium/src/pf2e/locg #trait/ancestry/half-orc %%

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/da
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/feat/deviant
 - trait/magical
 - trait/school/necromancy
@@ -24,4 +24,4 @@ All living creatures in a 20-foot emanation take negative damage with a basic Fo
 **Awakening** Your wail saps your foes' strength. In addition to the normal effects, living creatures in the area are [enfeebled](conditions.md#Enfeebled) for 1 round on a success (but not a critical success), [enfeebled](conditions.md#Enfeebled) for 1 minute on a failure, and [enfeebled](conditions.md#Enfeebled) for 1 minute on a critical failure.
 
 *Source: Dark Archive p. 78*  
-%% #imported/compendium/src/pf2e/da #trait/effect/auditory #trait/feat/deviant #trait/magical #trait/school/necromancy #trait/rarity/rare %%
+%% #imported/compendium/src/pf2e/da #trait/sense/auditory #trait/feat/deviant #trait/magical #trait/school/necromancy #trait/rarity/rare %%

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot4
-- imported/item/category/ammunition
+- equipment/ammunition
 aliases: ["Sun Shot"]
 ---
 # Sun Shot *Item 0*  

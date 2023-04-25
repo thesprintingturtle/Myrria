@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/effect/mental
 aliases: ["Steel Yourself!"]
@@ -18,4 +18,4 @@ aliases: ["Steel Yourself!"]
 You encourage an ally to toughen up, giving them a fighting chance. Choose one ally within your marshal's aura. The ally gains temporary Hit Points equal to your Charisma modifier and a +2 circumstance bonus to Fortitude saves. Both benefits last until the start of your next turn.
 
 *Source: Advanced Player's Guide p. 180*  
-%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/effect/auditory #trait/effect/emotion #trait/effect/mental %%
+%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/sense/auditory #trait/effect/emotion #trait/effect/mental %%

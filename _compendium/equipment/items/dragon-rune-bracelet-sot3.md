@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot3
-- imported/item/category/worn
+- equipment/worn-item
 - trait/school/enchantment
-- imported/trait/focused
+- trait/equipment/focused
 - trait/equipment/invested
 - trait/magical
 - trait/rarity/uncommon

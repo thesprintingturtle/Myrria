@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/area/emanation
 - spell/level/4
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/enchantment
 - trait/effect/mental
 aliases: ["Infectious Melody"]

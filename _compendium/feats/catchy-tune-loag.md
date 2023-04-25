@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/loag
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/effect/emotion
 - trait/effect/mental
@@ -25,4 +25,4 @@ Attempt a [Performance](../skills.md#Performance) check against the Will DCs of 
 > - **Critical Failure** The target is temporarily immune for 1 hour.
 
 *Source: Lost Omens: Ancestry Guide p. 131*  
-%% #imported/compendium/src/pf2e/loag #trait/effect/auditory #trait/action/concentrate #trait/effect/emotion #trait/effect/mental #trait/ancestry/sprite %%
+%% #imported/compendium/src/pf2e/loag #trait/sense/auditory #trait/action/concentrate #trait/effect/emotion #trait/effect/mental #trait/ancestry/sprite %%

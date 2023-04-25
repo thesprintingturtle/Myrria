@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/dart
+- equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/agile
-- imported/trait/concealable
+- trait/equipment/weapon/concealable
 - trait/equipment/weapon/nonlethal
 - trait/rarity/uncommon
 aliases: ["Dart Umbrella"]

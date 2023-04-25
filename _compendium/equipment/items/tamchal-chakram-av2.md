@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/av2
-- imported/item/category/weapon/advanced
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/dart
+- equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/agile
-- imported/trait/deadly-d6
+- trait/equipment/weapon/deadly/d6
 - trait/equipment/weapon/finese
-- imported/trait/thrown-20-feet
+- trait/equipment/weapon/thrown/20
 - trait/rarity/uncommon
 aliases: ["Tamchal Chakram"]
 ---

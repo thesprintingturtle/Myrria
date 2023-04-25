@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/siege-weapon
-- imported/trait/huge
+- equipment/siege-weapon
+- trait/size/huge
 - trait/rarity/uncommon
 aliases: ["Firedrake"]
 ---

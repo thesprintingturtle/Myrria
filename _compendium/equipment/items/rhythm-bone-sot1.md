@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot1
-- imported/item/category/held
-- trait/effect/auditory
+- equipment/held-item
+- trait/sense/auditory
 - trait/magical
 - trait/rarity/uncommon
 aliases: ["Rhythm Bone"]

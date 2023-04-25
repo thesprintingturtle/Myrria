@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aaws
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/spear
+- equipment/weapon/base-weapon/type/melee 
 - trait/ancestry/azarketi
-- imported/trait/grapple
+- trait/equipment/weapon/grapple
 - trait/equipment/weapon/reach
 - trait/rarity/uncommon
 aliases: ["Gill Hook"]

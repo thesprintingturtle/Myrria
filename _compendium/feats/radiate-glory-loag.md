@@ -7,7 +7,7 @@ tags:
 - trait/tradition/divine
 - trait/school/evocation
 - trait/effect/light
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Radiate Glory"]
 ---
 # Radiate Glory  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 17*  
@@ -26,4 +26,4 @@ Any creature that can see you while you Radiate Glory must attempt a Will saving
 > - **Critical Failure** You are [hidden](conditions.md#Hidden) to the creature while your glory radiates, lost amid the radiant corona of your presence. Your general position is still obvious, so you can't use this to [Sneak](sneak.md).
 
 *Source: Lost Omens: Ancestry Guide p. 12*  
-%% #imported/compendium/src/pf2e/loag #trait/ancestry/aasimar #trait/tradition/divine #trait/school/evocation #trait/effect/light #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/loag #trait/ancestry/aasimar #trait/tradition/divine #trait/school/evocation #trait/effect/light #trait/sense/visual %%

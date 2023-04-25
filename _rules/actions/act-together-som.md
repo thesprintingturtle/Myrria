@@ -5,7 +5,7 @@ tags:
 - imported/action/class/summoner-som
 - imported/compendium/src/pf2e/som
 - trait/class/summoner
-- imported/trait/tandem
+- trait/class/summoner/tandem
 aliases: ["Act Together"]
 ---
 # Act Together [V](chapter-9-playing-the-game.md#Actions "Varies")

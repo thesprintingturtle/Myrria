@@ -3,13 +3,15 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - trait/class/monk
 - trait/rarity/uncommon
-- imported/trait/versatile-b
+- trait/equipment/weapon/versatile/b
 aliases: ["Sai"]
 ---
 # Sai *Item 0*  

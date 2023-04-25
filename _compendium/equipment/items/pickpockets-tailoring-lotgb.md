@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/adjustment/clothing
+- equipment/adjustment/clothing
 - trait/rarity/uncommon
 aliases: ["Pickpocket's Tailoring"]
 ---

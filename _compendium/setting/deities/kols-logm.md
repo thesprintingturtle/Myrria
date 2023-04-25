@@ -9,10 +9,10 @@ tags:
 - imported/domain/might/deity
 - imported/domain/truth/deity
 - trait/equipment/weapon/agile
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/equipment/weapon/nonlethal
 - trait/equipment/weapon/reach/15
-- imported/trait/thrown-40-feet
+- trait/equipment/weapon/thrown/40
 aliases: ["Kols", "Oath-Keeper"]
 ---
 # Kols (Oath-Keeper) *([LN](lawful-neutral-b1.md))*  

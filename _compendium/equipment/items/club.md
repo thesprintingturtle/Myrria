@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/simple
-- imported/trait/thrown-10-ft
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/club
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/thrown/10
 aliases: ["Club"]
 ---
 # Club *Item 0*  

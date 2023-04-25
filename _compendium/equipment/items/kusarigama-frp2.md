@@ -3,13 +3,15 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/frp2
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/disarm
 - trait/class/monk
 - trait/equipment/weapon/reach
 - trait/equipment/weapon/trip
 - trait/rarity/uncommon
-- imported/trait/versatile-b
+- trait/equipment/weapon/versatile/b
 aliases: ["Kusarigama"]
 ---
 # Kusarigama *Item 0*  

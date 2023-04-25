@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/g&g
 - trait/class/inventor
 - trait/action/manipulate
-- imported/trait/unstable
+- trait/class/inventor/unstable
 aliases: ["Clockwork Celerity"]
 ---
 # Clockwork Celerity  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
@@ -22,4 +22,4 @@ You can use unstable clockwork devices in your innovation to push your invention
 - **Weapon** You can use the extra action to [Strike](strike.md) with your innovation or Reload your innovation.
 
 *Source: Guns & Gears p. 27*  
-%% #imported/compendium/src/pf2e/g&g #trait/class/inventor #trait/action/manipulate #imported/trait/unstable %%
+%% #imported/compendium/src/pf2e/g&g #trait/class/inventor #trait/action/manipulate #trait/class/inventor/unstable %%

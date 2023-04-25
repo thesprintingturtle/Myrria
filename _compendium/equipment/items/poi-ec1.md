@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec1
-- imported/item/category/weapon/simple
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/flail
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
-- imported/trait/backswing
+- trait/equipment/weapon/backswing
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/nonlethal
 - trait/rarity/uncommon

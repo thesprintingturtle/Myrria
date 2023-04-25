@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
 - trait/class/champion
-- imported/trait/oath
+- trait/class/champion/oath
 aliases: ["Esoteric Oath"]
 ---
 # Esoteric Oath  *Feat 2*  
@@ -23,4 +23,4 @@ You don't consider evil aberrations to be legitimate authorities, even in nation
 ## Summary
 
 *Source: Advanced Player's Guide p. 118*  
-%% #imported/compendium/src/pf2e/apg #trait/class/champion #imported/trait/oath %%
+%% #imported/compendium/src/pf2e/apg #trait/class/champion #trait/class/champion/oath %%

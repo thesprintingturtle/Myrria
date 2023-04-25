@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/crb
 - trait/class/champion
-- imported/trait/oath
+- trait/class/champion/oath
 aliases: ["Vengeful Oath"]
 ---
 # Vengeful Oath  *Feat 2*  
@@ -23,4 +23,4 @@ You can use [lay on hands](../spells/lay-on-hands.md) to damage a creature you w
 ## Summary
 
 *Source: Core Rulebook p. 111*  
-%% #imported/compendium/src/pf2e/crb #trait/class/champion #imported/trait/oath %%
+%% #imported/compendium/src/pf2e/crb #trait/class/champion #trait/class/champion/oath %%

@@ -12,7 +12,7 @@ tags:
 - imported/domain/water/deity
 - trait/equipment/weapon/reach/15
 - trait/equipment/weapon/shove
-- imported/trait/thrown-20-feet
+- trait/equipment/weapon/thrown/20
 - imported/trait/versatile-electricity
 aliases: ["Gozreh", "The Wind and the Waves"]
 ---

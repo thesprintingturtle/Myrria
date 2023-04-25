@@ -7,7 +7,7 @@ tags:
 - trait/tradition/occult
 - trait/class/swashbuckler
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Vivacious Afterimage"]
 ---
 # Vivacious Afterimage  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
@@ -22,4 +22,4 @@ You move so quickly that you create a short-lived afterimage, looks exactly like
 Alternatively, you can stop moving and send your afterimage forward instead, up to the remainder of your Speed. A creature that spends actions to engage with your afterimage can attempt to 0 with a Will save against your class DC. Once an enemy has 0 any of your afterimages, they are temporarily immune to all of your Vivacious Afterimages for 10 minutes. As long as a creature has not 0, the afterimage counts as a creature for flanking. The afterimage lasts until the beginning of your next turn or until you use Vivacious Afterimage again, whichever comes first.
 
 *Source: Fists of the Ruby Phoenix #3: King of the Mountain p. 77*  
-%% #imported/compendium/src/pf2e/frp3 #trait/school/illusion #trait/tradition/occult #trait/class/swashbuckler #trait/rarity/uncommon #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/frp3 #trait/school/illusion #trait/tradition/occult #trait/class/swashbuckler #trait/rarity/uncommon #trait/sense/visual %%

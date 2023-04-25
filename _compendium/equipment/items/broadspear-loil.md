@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/weapon/advanced
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/spear
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/reach
 - trait/equipment/weapon/sweep
-- imported/trait/versatile-s
+- trait/equipment/weapon/versatile/s
 aliases: ["Broadspear"]
 ---
 # Broadspear *Item 0*  

@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loag
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/sword
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/agile
 - trait/ancestry/conrasu
 - trait/equipment/weapon/sweep
-- imported/trait/twin
+- trait/equipment/weapon/twin
 - trait/rarity/uncommon
 aliases: ["Buugeng"]
 ---

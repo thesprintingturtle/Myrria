@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/2
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Mirror Image"]
 ---
 # Mirror Image *Spell 2*   

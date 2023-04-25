@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot4
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/
+- equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/concussive
-- imported/trait/propulsive
+- trait/equipment/weapon/propulsive
 - trait/rarity/uncommon
 aliases: ["Sun Sling"]
 ---

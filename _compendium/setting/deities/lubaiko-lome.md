@@ -10,7 +10,7 @@ tags:
 - imported/domain/fire/deity
 - imported/domain/lightning/deity
 - imported/domain/zeal/deity
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 - imported/trait/versatile-fire
 aliases: ["Lubaiko", "The Spark in the Dust"]
 ---

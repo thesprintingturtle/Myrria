@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec4
-- imported/item/category/held
+- equipment/held-item
 - trait/school/conjuration
 - trait/element/earth
 - trait/magical

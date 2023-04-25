@@ -4,9 +4,9 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/2
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Magic Mouth"]
 ---
 # Magic Mouth *Spell 2*   

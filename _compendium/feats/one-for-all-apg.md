@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/effect/emotion
 - trait/effect/linguistic
@@ -20,4 +20,4 @@ aliases: ["One For All"]
 With precisely the right words of encouragement, you bolster an ally's efforts. Designate an ally within 30 feet; this action counts as sufficient preparation to [Aid](aid.md) that ally. When you use the [Aid](aid.md) reaction to help that ally, you can roll [Diplomacy](../skills.md#Diplomacy) in place of the usual check. If your swashbuckler's style is wit and your [Diplomacy](../skills.md#Diplomacy) check to [Aid](aid.md) meets or exceeds the very hard DC for your level, you gain panache.
 
 *Source: Advanced Player's Guide p. 88*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/action/concentrate #trait/effect/emotion #trait/effect/linguistic #trait/effect/mental #trait/class/swashbuckler %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/action/concentrate #trait/effect/emotion #trait/effect/linguistic #trait/effect/mental #trait/class/swashbuckler %%

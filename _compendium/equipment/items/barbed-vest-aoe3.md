@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe3
-- imported/item/category/armor
+- equipment/armor
 - trait/equipment/cursed
 - trait/equipment/invested
 - trait/magical

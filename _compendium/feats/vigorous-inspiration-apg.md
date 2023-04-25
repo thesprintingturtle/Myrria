@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/bard
 - trait/action/concentrate
 - trait/action/metamagic
@@ -17,4 +17,4 @@ aliases: ["Vigorous Inspiration"]
 You instill magical vigor in your allies when you inspire them to attack. If your next action is to cast the [inspire courage](../spells/inspire-courage.md) composition cantrip, you and all affected allies gain temporary Hit Points equal to 3 + your Charisma modifier that last for 1 minute.
 
 *Source: Advanced Player's Guide p. 115*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%

@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/rune
+- equipment/rune
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/effect/fear
 - trait/magical
 - trait/effect/mental
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Dread"]
 ---
 # Dread *Item 6+*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/other
+- equipment/other
 - trait/magical
 - trait/school/necromancy
 - trait/rarity/uncommon

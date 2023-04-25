@@ -6,7 +6,7 @@ tags:
 - spell/focus/2
 - trait/school/divination
 - trait/effect/light
-- imported/trait/revelation
+- trait/effect/revelation
 - trait/rarity/uncommon
 aliases: ["Light Of Revelation"]
 ---

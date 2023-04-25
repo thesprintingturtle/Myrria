@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/armor/heavy
+- equipment/armor/heavy
 aliases: ["Splint Mail"]
 ---
 # Splint Mail *Item 1*  

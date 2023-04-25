@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-hazard
 tags:
 - imported/compendium/src/pf2e/crb
 - trait/hazard/environmental
-- imported/trait/fungus
+- trait/creature/fungus
 aliases: ["Yellow Mold"]
 ---
 # Yellow Mold *Hazard 8*  

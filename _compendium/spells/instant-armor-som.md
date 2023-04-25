@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/2
 - trait/school/conjuration
-- imported/trait/contingency
+- trait/spell/contingency
 - trait/effect/extradimensional
 aliases: ["Instant Armor"]
 ---

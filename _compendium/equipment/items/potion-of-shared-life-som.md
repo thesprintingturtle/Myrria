@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/potion
+- equipment/potion
 - trait/equipment/consumable
 - trait/magical
 - trait/school/necromancy

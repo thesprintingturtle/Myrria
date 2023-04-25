@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/alchemical
 - trait/equipment/consumable
 - trait/effect/poison/contact
 - trait/effect/poison
-- imported/trait/virulent
+- trait/affliction/virulent
 aliases: ["Black Lotus Extract"]
 ---
 # Black Lotus Extract *Item 19*  

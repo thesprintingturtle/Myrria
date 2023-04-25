@@ -6,7 +6,7 @@ tags:
 - trait/effect/incapacitation
 - trait/effect/mental
 - trait/ancestry/vishkanya
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Alluring Performance"]
 ---
 # Alluring Performance  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
@@ -25,4 +25,4 @@ You command the attention of those around you with an elegant display. Attempt a
 > - **Critical Failure** The target is unaffected.
 
 *Source: Lost Omens: Impossible Lands p. 62*  
-%% #imported/compendium/src/pf2e/loil #trait/effect/incapacitation #trait/effect/mental #trait/ancestry/vishkanya #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/loil #trait/effect/incapacitation #trait/effect/mental #trait/ancestry/vishkanya #trait/sense/visual %%

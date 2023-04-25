@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-action
 tags:
 - imported/compendium/src/pf2e/gmg
 - trait/action/move
-- imported/trait/reckless
+- trait/action/reckless
 aliases: ["Run Over"]
 ---
 # Run Over [>>>](chapter-9-playing-the-game.md#Actions "Three-Action")

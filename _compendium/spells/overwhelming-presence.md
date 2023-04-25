@@ -5,11 +5,11 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/area/burst
 - spell/level/9
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/enchantment
 - trait/effect/incapacitation
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Overwhelming Presence"]
 ---
 # Overwhelming Presence *Spell 9*   

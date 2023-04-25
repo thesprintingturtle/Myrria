@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/assistive-item/wheelchair
+- equipment/assistive-item/wheelchair
 - trait/school/enchantment
 - trait/magical
 aliases: ["Maestro's Chair"]

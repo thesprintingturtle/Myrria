@@ -7,7 +7,7 @@ tags:
 - trait/class/cleric
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Face In The Crowd"]
 ---
 # Face In The Crowd *Focus 1*   

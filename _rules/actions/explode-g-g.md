@@ -7,7 +7,7 @@ tags:
 - trait/energy/fire
 - trait/class/inventor
 - trait/action/manipulate
-- imported/trait/unstable
+- trait/class/inventor/unstable
 aliases: ["Explode"]
 ---
 # Explode [>>](chapter-9-playing-the-game.md#Actions "Two-Action")

@@ -7,7 +7,7 @@ tags:
 - trait/magical
 - trait/effect/mental
 - trait/equipment/trap
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Reflected Desires"]
 ---
 # Reflected Desires *Hazard 1*  

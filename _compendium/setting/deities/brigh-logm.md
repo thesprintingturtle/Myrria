@@ -10,7 +10,7 @@ tags:
 - imported/domain/time/deity
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/reach/15
-- imported/trait/thrown-40-feet
+- trait/equipment/weapon/thrown/40
 aliases: ["Brigh", "The Whisper In Bronze"]
 ---
 # Brigh (The Whisper In Bronze) *([N](neutral-b1.md))*  

@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lokl
-- imported/item/category/adjustment
-- imported/trait/adjustment
+- equipment/adjustment
+- trait/equipment/adjustment
 - trait/rarity/uncommon
 aliases: ["Parade Armor"]
 ---

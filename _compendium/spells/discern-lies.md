@@ -6,7 +6,7 @@ tags:
 - spell/level/4
 - trait/school/divination
 - trait/effect/mental
-- imported/trait/revelation
+- trait/effect/revelation
 - trait/rarity/uncommon
 aliases: ["Discern Lies"]
 ---

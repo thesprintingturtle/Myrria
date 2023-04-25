@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot3
-- imported/item/category/structure
+- equipment/structure
 - trait/school/conjuration
 - trait/equipment/consumable
 - trait/magical

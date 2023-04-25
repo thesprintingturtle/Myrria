@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/worn
+- equipment/worn-item
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/effect/fear

@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/concealable
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
+- trait/equipment/weapon/concealable
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/fatal/d10
 - trait/rarity/uncommon

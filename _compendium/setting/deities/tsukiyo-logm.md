@@ -10,7 +10,7 @@ tags:
 - imported/domain/repose/deity
 - imported/domain/souls/deity
 - trait/equipment/weapon/nonlethal
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 aliases: ["Tsukiyo", "Prince of the Moon"]
 ---
 # Tsukiyo (Prince of the Moon) *([LG](lawful-goo-b1.md))*  

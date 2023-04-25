@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/1
 - trait/effect/attack
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/evocation
 - trait/effect/linguistic
 - trait/energy/sonic

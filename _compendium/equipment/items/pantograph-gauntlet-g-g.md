@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/deadly-d6
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/brawling
+- equipment/weapon/base-weapon/type/melee 
+- trait/equipment/weapon/deadly/d6
 - trait/class/monk
 - trait/equipment/weapon/reach
 - trait/equipment/weapon/shove

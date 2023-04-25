@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/b1
-- imported/item/category/weapon/advanced
-- imported/trait/ranged-trip
-- imported/trait/tethered
-- imported/trait/thrown-20-ft
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/club
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/ranged-trip
+- trait/equipment/weapon/tethered
+- trait/equipment/weapon/thrown/20
 - trait/equipment/weapon/trip
 - trait/rarity/uncommon
 aliases: ["Aklys"]

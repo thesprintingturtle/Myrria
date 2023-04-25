@@ -3,10 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged 
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/concussive
-- imported/trait/fatal-d12
-- imported/trait/kickback
+- trait/equipment/weapon/fatal/d12
+- trait/equipment/weapon/kickback
 - trait/rarity/uncommon
 aliases: ["Arquebus"]
 ---

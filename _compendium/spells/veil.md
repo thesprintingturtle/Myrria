@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/4
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Veil"]
 ---
 # Veil *Spell 4*   

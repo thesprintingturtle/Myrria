@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/gmg
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/alchemical
 - trait/equipment/consumable
-- trait/equipement/drug
+- trait/equipment/drug
 - trait/effect/poison/injury
 - trait/effect/poison
 aliases: ["Zerk"]

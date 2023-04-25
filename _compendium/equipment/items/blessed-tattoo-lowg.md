@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lowg
-- imported/item/category/tattoo
+- equipment/tattoo
 - trait/school/abjuration
 - trait/equipment/invested
 - trait/magical
-- imported/trait/tattoo
+- trait/equipment/tattoo
 - trait/rarity/uncommon
 aliases: ["Blessed Tattoo"]
 ---

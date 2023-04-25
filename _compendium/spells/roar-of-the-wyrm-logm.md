@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/effect/mental

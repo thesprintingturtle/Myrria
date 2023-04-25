@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/held
+- equipment/held-item
 - imported/trait/cn
 - trait/school/evocation
-- imported/trait/intelligent
+- trait/equipment/intelligent
 - trait/tradition/occult
 - trait/rarity/rare
 aliases: ["Animate Dreamer"]

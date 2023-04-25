@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/held
-- imported/trait/chaotic
+- equipment/held-item
+- trait/alignment/chaotic
 - trait/tradition/divine
 - trait/school/evocation
 - trait/alignment/good

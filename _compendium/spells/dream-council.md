@@ -6,7 +6,7 @@ tags:
 - spell/level/8
 - trait/school/illusion
 - trait/effect/mental
-- imported/trait/sleep
+- trait/effect/sleep
 aliases: ["Dream Council"]
 ---
 # Dream Council *Spell 8*   

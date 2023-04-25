@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/5
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Portrait Of The Artist"]
 ---
 # Portrait Of The Artist *Spell 5*   

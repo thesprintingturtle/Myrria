@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
 - imported/compendium/src/pf2e/aoa3
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/hazard/complex
 - trait/hazard/haunt
 - trait/rarity/rare

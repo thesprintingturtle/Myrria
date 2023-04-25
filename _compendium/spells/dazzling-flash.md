@@ -9,7 +9,7 @@ tags:
 - trait/school/evocation
 - trait/effect/light
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Dazzling Flash"]
 ---
 # Dazzling Flash *Focus 1*   

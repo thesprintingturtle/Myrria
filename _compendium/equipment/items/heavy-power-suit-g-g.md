@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/armor/heavy
-- imported/trait/bulwark
+- equipment/armor/heavy
+- trait/armor/bulwark
 - trait/rarity/uncommon
 aliases: ["Heavy Power Suit"]
 ---

@@ -3,7 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/advanced
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/flail
+- equipment/weapon/base-weapon/type/melee 
 - trait/ancestry/gnome
 - trait/equipment/weapon/reach
 - trait/equipment/weapon/sweep

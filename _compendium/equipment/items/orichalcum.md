@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/material
+- equipment/material
 - trait/equipment/precious
 - trait/rarity/rare
 aliases: ["Orichalcum"]

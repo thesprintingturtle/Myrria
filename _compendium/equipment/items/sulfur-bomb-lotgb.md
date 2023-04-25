@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/bomb
+- equipment/bomb
 - trait/energy/acid
 - trait/equipment/alchemical
-- trait/equipment/bomb
+- trait/equipment/alchemical/bomb
 - trait/equipment/consumable
-- imported/trait/olfactory
+- trait/sense/olfactory
 - trait/equipment/splash
 - trait/rarity/uncommon
 aliases: ["Sulfur Bomb"]

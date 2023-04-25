@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/tattoo
+- equipment/tattoo
 - trait/equipment/invested
 - trait/magical
 - trait/school/necromancy
-- imported/trait/tattoo
+- trait/equipment/tattoo
 - trait/rarity/uncommon
 aliases: ["Reflexive Tattoo"]
 ---

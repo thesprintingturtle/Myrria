@@ -8,7 +8,7 @@ tags:
 - trait/effect/curse
 - trait/school/illusion
 - trait/magical
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Slayer's Haunt"]
 ---
 # Slayer's Haunt

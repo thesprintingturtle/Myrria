@@ -9,9 +9,9 @@ tags:
 - imported/domain/sorrow/deity
 - imported/domain/sun/deity
 - imported/domain/vigil/deity
-- imported/trait/deadly-3d8
+- trait/equipment/weapon/deadly/3d8
 - trait/equipment/weapon/reach/15
-- imported/trait/two-hand-d10
+- trait/equipment/weapon/two-hand/d10
 - trait/versatile/p
 aliases: ["Shizuru", "The Empress of Heaven"]
 ---

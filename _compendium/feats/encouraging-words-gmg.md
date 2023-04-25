@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/gmg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/feat/general
 - trait/effect/linguistic
 - trait/effect/mental
@@ -25,4 +25,4 @@ You give an ally within 30 feet a quick pep talk, helping them recover. Attempt 
 > - **Critical Failure** The ally takes `1d8` mental damage, but this can reduce only Stamina Points, never Hit Points.
 
 *Source: Gamemastery Guide p. 201*  
-%% #imported/compendium/src/pf2e/gmg #trait/effect/auditory #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%
+%% #imported/compendium/src/pf2e/gmg #trait/sense/auditory #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%

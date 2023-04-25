@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/loag
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/misfortune
 - trait/ancestry/tengu
 aliases: ["Harbinger's Caw"]
@@ -18,4 +18,4 @@ aliases: ["Harbinger's Caw"]
 You caw ominously, cursing the creature with misfortune. The target creature must roll the triggering check twice and take the lower result.
 
 *Source: Lost Omens: Ancestry Guide p. 60*  
-%% #imported/compendium/src/pf2e/loag #trait/effect/auditory #trait/effect/misfortune #trait/ancestry/tengu %%
+%% #imported/compendium/src/pf2e/loag #trait/sense/auditory #trait/effect/misfortune #trait/ancestry/tengu %%

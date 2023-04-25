@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/crb
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/barbarian
 - trait/class/barbarian/rage
 aliases: ["Terrifying Howl"]
@@ -17,4 +17,4 @@ aliases: ["Terrifying Howl"]
 You unleash a terrifying howl. Attempt Intimidate checks to [Demoralize](demoralize.md) each creature within 30 feet. Regardless of the results of your checks, each creature is then temporarily immune to Terrifying Howl for 1 minute.
 
 *Source: Core Rulebook p. 91*  
-%% #imported/compendium/src/pf2e/crb #trait/effect/auditory #trait/class/barbarian #trait/class/barbarian/rage %%
+%% #imported/compendium/src/pf2e/crb #trait/sense/auditory #trait/class/barbarian #trait/class/barbarian/rage %%

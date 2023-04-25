@@ -2,7 +2,7 @@
 tags:
 - custom
 - trait/location/type/nation 
-- imported/trait/kineticist 
+- trait/class/kineticist 
 aliases: ["Lockinge Republic","Lockinge"]
 ---
 # Lockinge Republic *Nation*

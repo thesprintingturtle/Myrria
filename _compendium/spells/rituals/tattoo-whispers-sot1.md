@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-ritual
 tags:
 - imported/compendium/src/pf2e/sot1
 - imported/ritual/3
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/divination
 - trait/effect/linguistic
 - trait/effect/mental

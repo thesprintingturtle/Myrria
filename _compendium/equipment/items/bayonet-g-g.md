@@ -3,7 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - imported/trait/attached-to-crossbow-or-firearm
 - trait/equipment/weapon/finese

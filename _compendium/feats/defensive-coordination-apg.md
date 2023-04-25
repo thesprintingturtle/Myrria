@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/bard
 - trait/action/concentrate
 - trait/action/metamagic
@@ -20,4 +20,4 @@ Like the storied heroes who persist in the face of overwhelming odds, you and yo
 If your next action is to cast the [inspire defense](../spells/inspire-defense.md) composition cantrip, you can [Raise a Shield](raise-a-shield.md), and one ally who gains a status bonus from the spell can immediately use a reaction to [Raise a Shield](raise-a-shield.md).
 
 *Source: Advanced Player's Guide p. 113*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%

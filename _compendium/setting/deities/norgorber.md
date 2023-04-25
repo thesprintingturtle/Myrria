@@ -11,7 +11,7 @@ tags:
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/reach/15
-- imported/trait/versatile-s
+- trait/equipment/weapon/versatile/s
 aliases: ["Norgorber", "Blackfingers", "Father Skinsaw", "Gray Master", "Reaper of Reputation"]
 ---
 # Norgorber (Blackfingers, Father Skinsaw, Gray Master, Reaper of Reputation) *([NE](neutral-evil-b1.md))*  

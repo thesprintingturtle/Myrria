@@ -3,12 +3,14 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/simple
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - trait/ancestry/dwarf
 - trait/equipment/weapon/parry
 - trait/rarity/uncommon
-- imported/trait/versatile-b
+- trait/equipment/weapon/versatile/b
 aliases: ["Clan Dagger"]
 ---
 # Clan Dagger *Item 0*  

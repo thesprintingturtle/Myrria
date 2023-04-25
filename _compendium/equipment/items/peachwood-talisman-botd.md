@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/botd
-- imported/item/category/talisman
+- equipment/talisman
 - trait/school/abjuration
 - trait/equipment/consumable
 - trait/magical

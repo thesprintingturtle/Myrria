@@ -6,7 +6,7 @@ tags:
 - trait/feat/archetype
 - trait/school/illusion
 - trait/tradition/primal
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Fey's Trickery"]
 ---
 # Fey's Trickery  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
@@ -19,4 +19,4 @@ aliases: ["Fey's Trickery"]
 You connect with the fey trickster within yourself to create whimsical illusory duplicates that distract your foes. This has the effects of mirror image.
 
 *Source: Dark Archive p. 141*  
-%% #imported/compendium/src/pf2e/da #trait/feat/archetype #trait/school/illusion #trait/tradition/primal #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/da #trait/feat/archetype #trait/school/illusion #trait/tradition/primal #trait/sense/visual %%

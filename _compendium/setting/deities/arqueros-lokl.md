@@ -10,7 +10,7 @@ tags:
 - imported/domain/protection/deity
 - imported/domain/zeal/deity
 - trait/equipment/weapon/reach/15
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Arqueros", "The Golden Bulwark"]
 ---
 # Arqueros (The Golden Bulwark) *([LG](lawful-goo-b1.md))*  

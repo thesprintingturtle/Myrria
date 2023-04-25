@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/apg
 - spell/area/emanation
 - spell/focus/1
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/spell/cursebound
 - trait/effect/emotion
 - trait/school/enchantment

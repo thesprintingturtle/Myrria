@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/assistive-item/hearing
+- equipment/assistive-item/hearing
 - trait/school/divination
 - trait/magical
 aliases: ["Magical Hearing Aids"]

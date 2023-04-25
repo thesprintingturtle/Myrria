@@ -10,7 +10,7 @@ tags:
 - trait/school/enchantment
 - trait/effect/mental
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Captivating Adoration"]
 ---
 # Captivating Adoration *Focus 4*   

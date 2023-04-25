@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - imported/ritual/2
 - imported/ritual/area/burst
-- imported/trait/consecration
+- trait/spell/consecration
 - trait/school/evocation
 - trait/rarity/uncommon
 aliases: ["Consecrate"]

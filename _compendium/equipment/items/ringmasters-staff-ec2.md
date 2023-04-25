@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec2
-- imported/item/category/staff
+- equipment/staff
 - trait/school/illusion
 - trait/magical
 - trait/equipment/staff

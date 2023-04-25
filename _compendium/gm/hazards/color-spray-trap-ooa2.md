@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
 - imported/compendium/src/pf2e/ooa2
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/illusion
 - trait/effect/incapacitation
 - trait/magical
 - trait/equipment/trap
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Color Spray Trap"]
 ---
 # Color Spray Trap *Hazard 4*  

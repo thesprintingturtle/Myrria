@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/talisman
+- equipment/talisman
 - trait/equipment/consumable
 - trait/magical
 - trait/equipment/talisman

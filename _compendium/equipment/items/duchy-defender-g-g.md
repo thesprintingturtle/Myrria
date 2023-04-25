@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/held
+- equipment/held-item
 - trait/school/conjuration
-- imported/trait/intelligent
-- imported/trait/lg
+- trait/equipment/intelligent
+- trait/alignment/lg
 - trait/tradition/occult
 - trait/rarity/rare
 aliases: ["Duchy Defender"]

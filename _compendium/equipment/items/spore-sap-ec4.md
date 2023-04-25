@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec4
-- imported/item/category/held
+- equipment/held-item
 - trait/school/evocation
-- imported/trait/fungus
+- trait/creature/fungus
 - trait/magical
 - trait/rarity/uncommon
 aliases: ["Spore Sap"]

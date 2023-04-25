@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loag
-- imported/item/category/rune
+- equipment/rune
 - trait/school/evocation
 - trait/magical
 aliases: ["Conducting"]

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loag
-- imported/item/category/ammunition
+- equipment/ammunition
 aliases: ["Wooden Taws"]
 ---
 # Wooden Taws *Item 0*  

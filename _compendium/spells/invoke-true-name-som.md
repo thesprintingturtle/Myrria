@@ -7,7 +7,7 @@ tags:
 - trait/spell/cantrip
 - trait/school/enchantment
 - trait/rarity/rare
-- imported/trait/true-name
+- trait/variant-rule/true-name
 aliases: ["Invoke True Name"]
 ---
 # Invoke True Name *Cantrip 1*   

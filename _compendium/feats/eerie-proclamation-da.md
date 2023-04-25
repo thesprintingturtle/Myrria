@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/da
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/effect/curse
 - trait/class/druid
@@ -39,4 +39,4 @@ You know there are places in the world that are just wrong— places where the b
 
 
 *Source: Dark Archive p. 65*  
-%% #imported/compendium/src/pf2e/da #trait/effect/auditory #trait/action/concentrate #trait/effect/curse #trait/class/druid #trait/effect/linguistic #trait/action/manipulate #trait/school/necromancy #trait/tradition/primal #trait/class/ranger #trait/rarity/uncommon %%
+%% #imported/compendium/src/pf2e/da #trait/sense/auditory #trait/action/concentrate #trait/effect/curse #trait/class/druid #trait/effect/linguistic #trait/action/manipulate #trait/school/necromancy #trait/tradition/primal #trait/class/ranger #trait/rarity/uncommon %%

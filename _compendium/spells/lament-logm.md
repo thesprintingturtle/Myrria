@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/logm
 - spell/focus/1
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/effect/mental

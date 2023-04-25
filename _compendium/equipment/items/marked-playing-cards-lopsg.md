@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lopsg
-- imported/item/category/adventuring-gear
+- equipment/adventuring-gear
 aliases: ["Marked Playing Cards"]
 ---
 # Marked Playing Cards *Item 0*  

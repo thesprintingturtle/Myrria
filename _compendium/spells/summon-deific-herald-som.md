@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/8
 - trait/school/conjuration
-- imported/trait/incarnate
+- trait/spell/incarnate
 aliases: ["Summon Deific Herald"]
 ---
 # Summon Deific Herald *Spell 8*   

@@ -9,7 +9,7 @@ tags:
 - imported/domain/trickery/deity
 - imported/domain/zeal/deity
 - trait/equipment/weapon/agile
-- imported/trait/backswing
+- trait/equipment/weapon/backswing
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/reach/15
 - trait/versatile/p

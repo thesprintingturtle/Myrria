@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/pfum
-- imported/item/category/worn
-- trait/effect/auditory
+- equipment/worn-item
+- trait/sense/auditory
 - trait/school/divination
 - trait/equipment/invested
 - trait/magical

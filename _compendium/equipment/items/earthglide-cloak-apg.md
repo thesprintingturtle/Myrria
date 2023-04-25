@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/apg
-- imported/item/category/worn
+- equipment/worn-item
 - trait/element/earth
 - trait/equipment/invested
 - trait/magical

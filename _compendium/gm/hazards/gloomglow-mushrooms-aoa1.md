@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-hazard
 tags:
 - imported/compendium/src/pf2e/aoa1
 - trait/hazard/environmental
-- imported/trait/fungus
+- trait/creature/fungus
 aliases: ["Gloomglow Mushrooms"]
 ---
 # Gloomglow Mushrooms *Hazard 5*  

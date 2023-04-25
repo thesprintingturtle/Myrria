@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
 - trait/class/champion
-- imported/trait/oath
+- trait/class/champion/oath
 - trait/rarity/uncommon
 aliases: ["Lightslayer Oath"]
 ---
@@ -16,4 +16,4 @@ aliases: ["Lightslayer Oath"]
 You've sworn to rid the world of the self-righteousness of celestial beings. Add the following tenet to your code, after the other tenets. "You must banish or slay celestials you encounter as long as you have a reasonable chance of success; in the incredibly unlikely event you find an evil celestial, you don't have to banish or kill it." When you use your champion's reaction against a celestial, the extra damage you deal with [Strikes](strike.md) increases by 1 (or by 2 at 9th level and by 3 at 16th level).
 
 *Source: Advanced Player's Guide p. 118*  
-%% #imported/compendium/src/pf2e/apg #trait/class/champion #imported/trait/oath #trait/rarity/uncommon %%
+%% #imported/compendium/src/pf2e/apg #trait/class/champion #trait/class/champion/oath #trait/rarity/uncommon %%

@@ -4,7 +4,7 @@ tags:
 - level/12 
 - trait/location/type/settlement/metropolis 
 - trait/location/bastion-city 
-- imported/trait/capital-city
+- trait/location/capital-city
 aliases: ["Talonkirk (City)","Talonkirk"]
 ---
 # Talonkirk *Settlement 12*

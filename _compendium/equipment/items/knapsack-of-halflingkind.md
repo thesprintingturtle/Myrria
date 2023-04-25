@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/worn
+- equipment/worn-item
 - trait/school/conjuration
 - trait/effect/extradimensional
 - trait/effect/healing

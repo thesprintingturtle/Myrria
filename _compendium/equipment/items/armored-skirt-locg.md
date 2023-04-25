@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/locg
-- imported/item/category/adventuring-gear
+- equipment/adventuring-gear
 aliases: ["Armored Skirt"]
 ---
 # Armored Skirt *Item 0*  

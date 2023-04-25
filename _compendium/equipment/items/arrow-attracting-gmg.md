@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/gmg
-- imported/item/category/curse
+- equipment/curse
 - trait/school/abjuration
 - trait/equipment/cursed
 - trait/magical

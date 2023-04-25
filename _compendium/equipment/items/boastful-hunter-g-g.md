@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/held
+- equipment/held-item
 - trait/school/evocation
-- imported/trait/intelligent
+- trait/equipment/intelligent
 - imported/trait/ln
 - trait/tradition/primal
 - trait/rarity/rare

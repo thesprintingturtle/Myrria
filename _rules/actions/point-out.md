@@ -4,9 +4,9 @@ cssclass: pf2e,pf2e-action
 tags:
 - imported/action/basic
 - imported/compendium/src/pf2e/crb
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/manipulate
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Point Out"]
 ---
 # Point Out (basic) [>](chapter-9-playing-the-game.md#Actions "Single Action")

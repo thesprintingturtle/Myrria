@@ -4,13 +4,13 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/som
 - spell/level/4
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/enchantment
 - trait/effect/incapacitation
 - trait/effect/linguistic
 - trait/effect/mental
 - trait/rarity/rare
-- imported/trait/true-name
+- trait/variant-rule/true-name
 aliases: ["Compel True Name"]
 ---
 # Compel True Name *Spell 4*   

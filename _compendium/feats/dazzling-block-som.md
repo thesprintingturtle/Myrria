@@ -6,7 +6,7 @@ tags:
 - trait/school/evocation
 - trait/effect/light
 - trait/class/magus
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Dazzling Block"]
 ---
 # Dazzling Block  *Feat 10*  
@@ -24,4 +24,4 @@ When you use [Shield Block](compendium/feats/shield-block.md), you can create a 
 > - **Critical Failure** The creature is [blinded](conditions.md#Blinded) for 1 round and [dazzled](conditions.md#Dazzled) for 1 hour.
 
 *Source: Secrets of Magic p. 47*  
-%% #imported/compendium/src/pf2e/som #trait/school/evocation #trait/effect/light #trait/class/magus #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/som #trait/school/evocation #trait/effect/light #trait/class/magus #trait/sense/visual %%

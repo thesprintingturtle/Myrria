@@ -4,12 +4,12 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/crb
 - spell/focus/1
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/cleric
 - trait/school/enchantment
 - trait/effect/linguistic
 - trait/effect/mental
-- imported/trait/sleep
+- trait/effect/sleep
 - trait/rarity/uncommon
 aliases: ["Sweet Dream"]
 ---

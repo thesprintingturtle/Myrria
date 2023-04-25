@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/6
 - trait/alignment/evil
-- imported/trait/lawful
+- trait/alignment/lawful
 - trait/effect/polymorph
 - trait/school/transmutation
 aliases: ["Devil Form"]

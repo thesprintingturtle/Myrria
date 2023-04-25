@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/customization/firing-mechanism
+- equipment/customization/firing-mechanism
 - trait/magical
 - trait/rarity/uncommon
 aliases: ["Underwater Firing Mechanism"]

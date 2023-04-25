@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ooa2
-- imported/item/category/consumable
+- equipment/consumable
 - trait/equipment/consumable
 - trait/magical
 - trait/school/transmutation

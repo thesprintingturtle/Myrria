@@ -7,7 +7,7 @@ tags:
 - trait/energy/electricity
 - trait/hazard/environmental
 - trait/school/evocation
-- imported/trait/kaiju
+- trait/monster/kaiju
 - trait/rarity/rare
 aliases: ["Storm Discharge"]
 ---

@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/area/emanation
 - spell/focus/3
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/enchantment
 - trait/effect/mental
 - trait/class/sorcerer

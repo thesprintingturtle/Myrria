@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/adjustment/armor
-- imported/trait/adjustment
+- equipment/adjustment/armor
+- trait/equipment/adjustment
 - trait/rarity/uncommon
 aliases: ["Twining Chains"]
 ---

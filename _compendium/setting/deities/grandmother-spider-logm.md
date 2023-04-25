@@ -10,7 +10,7 @@ tags:
 - imported/domain/family/deity
 - imported/domain/fate/deity
 - imported/domain/trickery/deity
-- imported/trait/deadly-3d8
+- trait/equipment/weapon/deadly/3d8
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/reach/15
 - trait/versatile/p

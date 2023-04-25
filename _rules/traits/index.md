@@ -368,7 +368,7 @@ cssclass: pf2e,pf2e-index
 - #imported/Mechanical
 - #imported/Trap
 
-## #imported/item
+## #item
 
 - #imported/Alchemical
 - #imported/Apex

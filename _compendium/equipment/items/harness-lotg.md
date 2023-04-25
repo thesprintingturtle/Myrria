@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotg
-- imported/item/category/adventuring-gear/animal-caretaking
+- equipment/adventuring-gear/animal-caretaking
 aliases: ["Harness"]
 ---
 # Harness *Item 0*  

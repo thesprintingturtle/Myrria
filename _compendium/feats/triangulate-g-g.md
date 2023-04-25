@@ -4,8 +4,8 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/g&g
 - trait/feat/archetype
-- trait/effect/auditory
-- trait/effect/visual
+- trait/sense/auditory
+- trait/sense/visual
 aliases: ["Triangulate"]
 ---
 # Triangulate  *Feat 4*  
@@ -18,4 +18,4 @@ Your spotter's quick signals help you make even difficult shots seem simple. As 
 The penalty you take for firing into further range increments is –3 for the third range increment, with an additional –2 penalty for each additional increment beyond the third (–5 for the fourth range increment, –7 for the fifth, and –9 for the sixth).
 
 *Source: Guns & Gears p. 138*  
-%% #imported/compendium/src/pf2e/g&g #trait/feat/archetype #trait/effect/auditory #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/g&g #trait/feat/archetype #trait/sense/auditory #trait/sense/visual %%

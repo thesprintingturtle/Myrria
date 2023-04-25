@@ -3,14 +3,16 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loag
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - imported/trait/geniekin
 - imported/trait/resonant
 - trait/rarity/uncommon
-- imported/trait/versatile-s
+- trait/equipment/weapon/versatile/s
 aliases: ["Wish Knife"]
 ---
 # Wish Knife *Item 0*  

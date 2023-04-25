@@ -11,7 +11,7 @@ tags:
 - imported/domain/repose/deity
 - trait/equipment/weapon/deadly/d8
 - trait/equipment/weapon/nonlethal
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 aliases: ["Shelyn", "The Eternal Rose"]
 ---
 # Shelyn (The Eternal Rose) *([NG](neutral-good-b1.md))*  

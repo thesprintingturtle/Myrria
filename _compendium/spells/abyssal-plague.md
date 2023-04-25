@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/5
-- imported/trait/chaotic
+- trait/alignment/chaotic
 - trait/effect/disease
 - trait/alignment/evil
 - trait/school/necromancy

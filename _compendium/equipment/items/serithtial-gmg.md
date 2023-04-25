@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/gmg
-- imported/item/category/artifact
+- equipment/artifact
 - trait/school/abjuration
 - trait/equipment/artifact
 - trait/tradition/divine
-- imported/trait/intelligent
-- imported/trait/lg
+- trait/equipment/intelligent
+- trait/alignment/lg
 - trait/rarity/unique
 aliases: ["Serithtial"]
 ---

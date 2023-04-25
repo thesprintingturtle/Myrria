@@ -7,7 +7,7 @@ tags:
 - spell/focus/1
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 - trait/class/wizard
 aliases: ["Warped Terrain"]
 ---

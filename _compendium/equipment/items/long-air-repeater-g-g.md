@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/simple
-- imported/trait/repeating
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
+- trait/equipment/weapon/repeating
 - trait/rarity/uncommon
 aliases: ["Long Air Repeater"]
 ---

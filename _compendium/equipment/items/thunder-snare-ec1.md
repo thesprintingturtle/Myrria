@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec1
-- imported/item/category/snare
-- trait/effect/auditory
+- equipment/snare
+- trait/sense/auditory
 - trait/equipment/consumable
 - trait/equipment/mechanical
 - trait/equipment/snare

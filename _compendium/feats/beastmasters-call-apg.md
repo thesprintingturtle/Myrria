@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/school/conjuration
 - trait/tradition/primal
@@ -20,4 +20,4 @@ aliases: ["Beastmaster's Call"]
 You quickly call in a primal projection of a non-active companion to provide the companion's support benefit. The projection arrives in an unoccupied square of your choice within 30 feet of you, grants you its support benefit, and then disappears on your next turn. The projection has the same AC and saving throw modifiers as the real companion, and if it would take any damage before your next turn, it disappears and the support benefit ends immediately.
 
 *Source: Advanced Player's Guide p. 161*  
-%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/effect/auditory #trait/action/concentrate #trait/school/conjuration #trait/tradition/primal %%
+%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/sense/auditory #trait/action/concentrate #trait/school/conjuration #trait/tradition/primal %%

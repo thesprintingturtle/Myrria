@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/som
 - spell/level/8
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/curse
 - trait/effect/emotion
 - trait/school/enchantment

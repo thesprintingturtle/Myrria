@@ -7,7 +7,7 @@ tags:
 - spell/level/8
 - trait/school/illusion
 - trait/effect/incapacitation
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Scintillating Pattern"]
 ---
 # Scintillating Pattern *Spell 8*   

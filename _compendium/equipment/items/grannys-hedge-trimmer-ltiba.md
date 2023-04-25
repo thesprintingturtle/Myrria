@@ -3,7 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ltiba
-- imported/item/category/weapon/simple
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/polearm
+- equipment/weapon/base-weapon/type/melee 
 - trait/school/evocation
 - trait/magical
 - trait/rarity/rare

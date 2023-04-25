@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/apg
-- imported/item/category/elixir
+- equipment/elixir
 - trait/equipment/alchemical
 - trait/equipment/consumable
-- trait/equipment/elixir
+- trait/equipment/alchemical/elixir
 aliases: ["Olfactory Obfuscator"]
 ---
 # Olfactory Obfuscator *Item 3+*  

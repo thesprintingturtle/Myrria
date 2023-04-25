@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/av3
-- imported/item/category/bomb
+- equipment/bomb
 - trait/equipment/alchemical
-- trait/equipment/bomb
+- trait/equipment/alchemical/bomb
 - trait/equipment/consumable
 - trait/energy/negative
 - trait/equipment/splash

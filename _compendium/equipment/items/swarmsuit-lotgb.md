@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/adjustment/armor
+- equipment/adjustment/armor
 aliases: ["Swarmsuit"]
 ---
 # Swarmsuit *Item 1+*  

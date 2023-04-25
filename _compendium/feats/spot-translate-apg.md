@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/linguistic
 aliases: ["Spot Translate"]
 ---
@@ -18,4 +18,4 @@ aliases: ["Spot Translate"]
 You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.
 
 *Source: Advanced Player's Guide p. 178*  
-%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/effect/auditory #trait/effect/linguistic %%
+%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/sense/auditory #trait/effect/linguistic %%

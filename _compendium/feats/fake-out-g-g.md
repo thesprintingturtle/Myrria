@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/g&g
 - trait/class/gunslinger
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Fake Out"]
 ---
 # Fake Out  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
@@ -17,4 +17,4 @@ aliases: ["Fake Out"]
 With a skilled flourish of your weapon, you force an enemy to acknowledge you as a threat. Make an attack roll to [Aid](aid.md) the triggering attack. If you dealt damage to that enemy with the same weapon since the start of your last turn, you gain a +1 circumstance bonus to this roll.
 
 *Source: Guns & Gears p. 112*  
-%% #imported/compendium/src/pf2e/g&g #trait/class/gunslinger #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/g&g #trait/class/gunslinger #trait/sense/visual %%

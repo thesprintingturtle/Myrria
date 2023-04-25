@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/bard
 - trait/action/concentrate
 - trait/action/metamagic
@@ -24,4 +24,4 @@ With a rousing call, you exhort an ally to advance. If your next action is to ca
 ## Summary
 
 *Source: Advanced Player's Guide p. 112*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%

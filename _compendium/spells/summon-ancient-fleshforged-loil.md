@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/loil
 - spell/level/9
 - trait/school/conjuration
-- imported/trait/incarnate
+- trait/spell/incarnate
 - trait/rarity/rare
 aliases: ["Summon Ancient Fleshforged"]
 ---

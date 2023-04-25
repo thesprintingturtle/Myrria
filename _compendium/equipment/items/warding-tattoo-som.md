@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/tattoo
+- equipment/tattoo
 - trait/school/abjuration
 - trait/equipment/invested
 - trait/magical
-- imported/trait/tattoo
+- trait/equipment/tattoo
 aliases: ["Warding Tattoo"]
 ---
 # Warding Tattoo *Item 5+*  

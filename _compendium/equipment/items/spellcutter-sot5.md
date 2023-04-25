@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot5
-- imported/item/category/held
+- equipment/held-item
 - trait/school/abjuration
 - trait/equipment/cursed
 - trait/magical

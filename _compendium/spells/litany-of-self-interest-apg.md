@@ -7,7 +7,7 @@ tags:
 - trait/class/champion
 - trait/school/enchantment
 - trait/alignment/evil
-- imported/trait/litany
+- trait/class/champion/litany
 - trait/effect/mental
 - trait/rarity/uncommon
 aliases: ["Litany Of Self-interest"]

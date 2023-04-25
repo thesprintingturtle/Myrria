@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/sword
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/agile
-- imported/trait/twin
+- trait/equipment/weapon/twin
 - trait/rarity/uncommon
 aliases: ["Dandpatta"]
 ---

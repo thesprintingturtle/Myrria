@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/g&g
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/flourish
 - trait/class/gunslinger
 - trait/effect/linguistic
@@ -29,4 +29,4 @@ With a stern call, carefully chosen barb, or some other challenging declaration,
 ## Summary
 
 *Source: Guns & Gears p. 114*  
-%% #imported/compendium/src/pf2e/g&g #trait/effect/auditory #trait/action/flourish #trait/class/gunslinger #trait/effect/linguistic #trait/effect/mental %%
+%% #imported/compendium/src/pf2e/g&g #trait/sense/auditory #trait/action/flourish #trait/class/gunslinger #trait/effect/linguistic #trait/effect/mental %%

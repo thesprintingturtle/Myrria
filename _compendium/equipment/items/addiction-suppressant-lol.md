@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lol
-- imported/item/category/elixir
+- equipment/elixir
 - trait/equipment/consumable
-- trait/equipment/elixir
+- trait/equipment/alchemical/elixir
 - trait/rarity/rare
 aliases: ["Addiction Suppressant"]
 ---

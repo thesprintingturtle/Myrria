@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/weapon/martial
-- imported/trait/thrown
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
+- trait/equipment/weapon/thrown
 aliases: ["Chakram"]
 ---
 # Chakram *Item 0*  

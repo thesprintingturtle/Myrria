@@ -11,7 +11,7 @@ tags:
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/reach/15
-- imported/trait/thrown-40-feet
+- trait/equipment/weapon/thrown/40
 - imported/trait/versatile-slashing
 aliases: ["Vildeis", "The Cardinal Martyr"]
 ---

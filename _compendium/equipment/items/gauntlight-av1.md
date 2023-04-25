@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/av1
-- imported/item/category/artifact
+- equipment/artifact
 - trait/equipment/artifact
 - trait/magical
 - trait/school/necromancy

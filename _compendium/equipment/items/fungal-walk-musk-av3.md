@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/av3
-- imported/item/category/consumable
+- equipment/consumable
 - trait/equipment/alchemical
 - trait/equipment/consumable
-- imported/trait/olfactory
+- trait/sense/olfactory
 aliases: ["Fungal Walk Musk"]
 ---
 # Fungal Walk Musk *Item 5*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/adventuring-gear
+- equipment/adventuring-gear
 aliases: ["Waffle Iron"]
 ---
 # Waffle Iron *Item 0+*  

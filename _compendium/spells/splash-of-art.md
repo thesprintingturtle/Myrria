@@ -8,7 +8,7 @@ tags:
 - trait/class/cleric
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Splash Of Art"]
 ---
 # Splash Of Art *Focus 1*   

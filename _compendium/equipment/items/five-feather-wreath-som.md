@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/spellheart
+- equipment/spellheart
 - trait/element/air
 - trait/magical
-- imported/trait/spellheart
+- trait/equipment/spellheart
 - trait/school/transmutation
 aliases: ["Five-feather Wreath"]
 ---

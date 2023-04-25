@@ -3,12 +3,16 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/combination
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/group/club
+- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/combination
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/critical-fusion
 - trait/equipment/weapon/fatal/d8
-- imported/trait/thrown-10-ft
+- trait/equipment/weapon/thrown/10
 - trait/rarity/uncommon
 aliases: ["Cane Pistol"]
 ---

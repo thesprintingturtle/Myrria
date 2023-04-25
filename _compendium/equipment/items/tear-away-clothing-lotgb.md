@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/adjustment/clothing
+- equipment/adjustment/clothing
 aliases: ["Tear-away Clothing"]
 ---
 # Tear-away Clothing *Item 0*  

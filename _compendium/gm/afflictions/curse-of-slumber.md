@@ -9,7 +9,7 @@ tags:
 - trait/effect/incapacitation
 - trait/magical
 - trait/school/necromancy
-- imported/trait/sleep
+- trait/effect/sleep
 aliases: ["Curse of Slumber"]
 ---
 # Curse of Slumber

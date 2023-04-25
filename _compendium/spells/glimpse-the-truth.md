@@ -7,7 +7,7 @@ tags:
 - spell/focus/4
 - trait/class/cleric
 - trait/school/divination
-- imported/trait/revelation
+- trait/effect/revelation
 - trait/rarity/uncommon
 aliases: ["Glimpse The Truth"]
 ---

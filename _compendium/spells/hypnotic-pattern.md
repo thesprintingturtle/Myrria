@@ -6,7 +6,7 @@ tags:
 - spell/area/burst
 - spell/level/3
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Hypnotic Pattern"]
 ---
 # Hypnotic Pattern *Spell 3*   

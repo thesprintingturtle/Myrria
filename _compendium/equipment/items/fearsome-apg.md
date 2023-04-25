@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/apg
-- imported/item/category/rune
+- equipment/rune
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/effect/fear

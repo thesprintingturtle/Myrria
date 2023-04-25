@@ -8,7 +8,7 @@ tags:
 - imported/domain/trickery/deity
 - imported/domain/water/deity
 - imported/domain/wealth/deity
-- imported/trait/deadly-3d8
+- trait/equipment/weapon/deadly/3d8
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/reach/15

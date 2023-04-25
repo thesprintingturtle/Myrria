@@ -6,7 +6,7 @@ tags:
 - spell/area/burst
 - spell/level/3
 - trait/school/abjuration
-- imported/trait/consecration
+- trait/spell/consecration
 aliases: ["Sanctified Ground"]
 ---
 # Sanctified Ground *Spell 3*   

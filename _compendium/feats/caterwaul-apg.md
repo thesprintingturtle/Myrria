@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/ancestry/catfolk
 - trait/action/concentrate
 - trait/effect/emotion
@@ -20,4 +20,4 @@ aliases: ["Caterwaul"]
 You give a daring yowl in the face of adversity, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Your ally's [wounded](conditions.md#Wounded) condition still increases by 1 as though they had been [dying](conditions.md#Dying) and recovered.
 
 *Source: Advanced Player's Guide p. 11*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/ancestry/catfolk #trait/action/concentrate #trait/effect/emotion #trait/effect/mental %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/ancestry/catfolk #trait/action/concentrate #trait/effect/emotion #trait/effect/mental %%

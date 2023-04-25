@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/ancestry/gnome
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Empathetic Plea"]
 ---
 # Empathetic Plea  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
@@ -27,4 +27,4 @@ Attempt a [Diplomacy](../skills.md#Diplomacy) check against your attacker's Will
 > - **Failure** The creature's attack is unaffected, and the creature is temporarily immune to your Empathic Pleas for 24 hours.
 
 *Source: Advanced Player's Guide p. 44*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/effect/emotion #trait/ancestry/gnome #trait/effect/mental #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/effect/emotion #trait/ancestry/gnome #trait/effect/mental #trait/sense/visual %%

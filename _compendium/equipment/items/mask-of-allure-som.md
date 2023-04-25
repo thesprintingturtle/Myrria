@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/apex
+- equipment/apex
 - trait/equipment/apex
 - trait/school/enchantment
 - trait/equipment/invested

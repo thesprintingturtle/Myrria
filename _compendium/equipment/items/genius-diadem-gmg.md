@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/gmg
-- imported/item/category/apex
+- equipment/apex
 - trait/equipment/apex
 - trait/tradition/arcane
 - trait/school/divination
-- imported/trait/intelligent
+- trait/equipment/intelligent
 - imported/trait/n
 - trait/rarity/rare
 aliases: ["Genius Diadem"]

@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/som
 - trait/feat/archetype/class
-- imported/trait/pervasive-magic
+- trait/variant-rule/pervasive-magic
 - trait/rarity/rare
 aliases: ["Cantrip Casting"]
 ---
@@ -21,4 +21,4 @@ You increase your ability to cast simple spells. You gain two additional cantrip
 ## Summary
 
 *Source: Secrets of Magic p. 219*  
-%% #imported/compendium/src/pf2e/som #trait/feat/archetype/class #imported/trait/pervasive-magic #trait/rarity/rare %%
+%% #imported/compendium/src/pf2e/som #trait/feat/archetype/class #trait/variant-rule/pervasive-magic #trait/rarity/rare %%

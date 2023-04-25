@@ -7,7 +7,7 @@ tags:
 - spell/level/6
 - trait/school/illusion
 - trait/effect/incapacitation
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Vibrant Pattern"]
 ---
 # Vibrant Pattern *Spell 6*   

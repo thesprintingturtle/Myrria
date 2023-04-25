@@ -6,7 +6,7 @@ tags:
 - trait/effect/emotion
 - trait/ancestry/kobold
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Cringe"]
 ---
 # Cringe  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
@@ -18,4 +18,4 @@ aliases: ["Cringe"]
 With pitiful posturing, you cause your foe to pull back a deadly attack. The attacking creature takes a circumstance penalty to the damage of the triggering [Strike](strike.md) equal to your level + 2. This penalty applies after doubling the damage for a critical hit. The attacker is then immune to your Cringe for 24 hours.
 
 *Source: Advanced Player's Guide p. 14*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/emotion #trait/ancestry/kobold #trait/effect/mental #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/apg #trait/effect/emotion #trait/ancestry/kobold #trait/effect/mental #trait/sense/visual %%

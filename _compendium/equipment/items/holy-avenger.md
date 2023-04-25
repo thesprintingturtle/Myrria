@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon
+- equipment/weapon
 - trait/tradition/divine
 - trait/school/evocation
 - trait/alignment/good
-- imported/trait/lawful
+- trait/alignment/lawful
 - trait/rarity/uncommon
 aliases: ["Holy Avenger"]
 ---

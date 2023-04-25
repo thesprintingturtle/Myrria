@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/assistive-item/prosthesis
+- equipment/assistive-item/prosthesis
 - trait/magical
 - trait/school/transmutation
 aliases: ["Immovable Arm"]

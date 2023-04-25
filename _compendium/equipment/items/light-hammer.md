@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/hammer
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/agile
-- imported/trait/thrown-20-ft
+- trait/equipment/weapon/thrown/20
 aliases: ["Light Hammer"]
 ---
 # Light Hammer *Item 0*  

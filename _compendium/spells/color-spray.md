@@ -7,7 +7,7 @@ tags:
 - spell/level/1
 - trait/school/illusion
 - trait/effect/incapacitation
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Color Spray"]
 ---
 # Color Spray *Spell 1*   

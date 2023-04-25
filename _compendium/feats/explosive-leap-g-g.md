@@ -6,7 +6,7 @@ tags:
 - trait/energy/fire
 - trait/class/inventor
 - trait/action/move
-- imported/trait/unstable
+- trait/class/inventor/unstable
 aliases: ["Explosive Leap"]
 ---
 # Explosive Leap  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
@@ -19,4 +19,4 @@ You aim an explosion from your innovation downward to launch yourself into the a
 **Special.** If your innovation is a minion, it can take this action rather than you.
 
 *Source: Guns & Gears p. 24*  
-%% #imported/compendium/src/pf2e/g&g #trait/energy/fire #trait/class/inventor #trait/action/move #imported/trait/unstable %%
+%% #imported/compendium/src/pf2e/g&g #trait/energy/fire #trait/class/inventor #trait/action/move #trait/class/inventor/unstable %%

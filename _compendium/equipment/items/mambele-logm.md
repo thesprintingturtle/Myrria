@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/logm
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/axe
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/deadly/d8
 - trait/equipment/weapon/disarm
-- imported/trait/thrown-20-feet
+- trait/equipment/weapon/thrown/20
 - trait/rarity/uncommon
 aliases: ["Mambele"]
 ---

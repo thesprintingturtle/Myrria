@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/wand
+- equipment/wand
 - trait/magical
 - trait/equipment/wand
 aliases: ["Wand of Widening"]

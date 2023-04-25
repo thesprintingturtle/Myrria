@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - imported/ritual/5
 - imported/ritual/area/misc
-- imported/trait/consecration
+- trait/spell/consecration
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/effect/fear

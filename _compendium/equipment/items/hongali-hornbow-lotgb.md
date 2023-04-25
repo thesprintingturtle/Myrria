@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/weapon/advanced
-- imported/trait/deadly-d6
-- imported/trait/propulsive
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/bow
+- equipment/weapon/base-weapon/type/ranged
+- trait/equipment/weapon/deadly/d6
+- trait/equipment/weapon/propulsive
 - trait/rarity/uncommon
 aliases: ["Hongali Hornbow"]
 ---

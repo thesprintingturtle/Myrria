@@ -10,7 +10,7 @@ tags:
 - trait/effect/incapacitation
 - trait/class/sorcerer
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Blinding Beauty"]
 ---
 # Blinding Beauty *Focus 3*   

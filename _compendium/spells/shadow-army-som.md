@@ -5,11 +5,11 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/area/burst
 - spell/level/10
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/illusion
 - trait/effect/mental
 - trait/plane/shadow
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Shadow Army"]
 ---
 # Shadow Army *Spell 10*   

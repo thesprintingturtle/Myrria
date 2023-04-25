@@ -8,7 +8,7 @@ tags:
 - trait/school/enchantment
 - trait/effect/mental
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Entrancing Eyes"]
 ---
 # Entrancing Eyes *Spell 7*   

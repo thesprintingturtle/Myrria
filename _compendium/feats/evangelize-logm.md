@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/logm
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/feat/general
 - trait/effect/linguistic
 - trait/effect/mental
@@ -24,4 +24,4 @@ You point out a detail that incontrovertibly supports your faith, causing a list
 > - **Failure** The target is unaffected.
 
 *Source: Lost Omens: Gods & Magic p. 105*  
-%% #imported/compendium/src/pf2e/logm #trait/effect/auditory #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%
+%% #imported/compendium/src/pf2e/logm #trait/sense/auditory #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%

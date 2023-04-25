@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot4
-- imported/item/category/held
+- equipment/held-item
 - trait/effect/light
 - trait/magical
 - trait/school/transmutation

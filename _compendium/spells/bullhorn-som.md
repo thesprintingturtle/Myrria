@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/som
 - spell/cantrip
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/spell/cantrip
 - trait/school/illusion
 aliases: ["Bullhorn"]

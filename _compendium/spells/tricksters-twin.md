@@ -7,7 +7,7 @@ tags:
 - trait/class/cleric
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Trickster's Twin"]
 ---
 # Trickster's Twin *Focus 4*   

@@ -7,7 +7,7 @@ tags:
 - trait/school/illusion
 - trait/effect/incapacitation
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Phantom Prison"]
 ---
 # Phantom Prison *Spell 3*   

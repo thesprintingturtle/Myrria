@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ooa3
-- imported/item/category/held
+- equipment/held-item
 - trait/school/evocation
-- imported/trait/lawful
+- trait/alignment/lawful
 - trait/magical
 - trait/rarity/uncommon
 aliases: ["Lawbringer's Lasso"]

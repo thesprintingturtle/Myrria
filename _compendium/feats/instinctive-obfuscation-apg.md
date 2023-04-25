@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/apg
 - trait/ancestry/gnome
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Instinctive Obfuscation"]
 ---
 # Instinctive Obfuscation  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
@@ -19,4 +19,4 @@ aliases: ["Instinctive Obfuscation"]
 The magic within you manifests as a natural reaction to threats. You gain the effects of [mirror image](../spells/mirror-image.md) but with two images instead of three. The tradition of this action matches the tradition of your gnome ancestry options.
 
 *Source: Advanced Player's Guide p. 44*  
-%% #imported/compendium/src/pf2e/apg #trait/ancestry/gnome #trait/school/illusion #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/apg #trait/ancestry/gnome #trait/school/illusion #trait/sense/visual %%

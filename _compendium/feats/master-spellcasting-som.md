@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/som
 - trait/feat/archetype/class
-- imported/trait/pervasive-magic
+- trait/variant-rule/pervasive-magic
 - trait/rarity/rare
 aliases: ["Master Spellcasting"]
 ---
@@ -16,4 +16,4 @@ aliases: ["Master Spellcasting"]
 You gain the master spellcasting archetype benefits.
 
 *Source: Secrets of Magic p. 219*  
-%% #imported/compendium/src/pf2e/som #trait/feat/archetype/class #imported/trait/pervasive-magic #trait/rarity/rare %%
+%% #imported/compendium/src/pf2e/som #trait/feat/archetype/class #trait/variant-rule/pervasive-magic #trait/rarity/rare %%

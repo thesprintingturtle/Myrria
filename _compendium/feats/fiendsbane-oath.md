@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/crb
 - trait/class/champion
-- imported/trait/oath
+- trait/class/champion/oath
 aliases: ["Fiendsbane Oath"]
 ---
 # Fiendsbane Oath  *Feat 2*  
@@ -25,4 +25,4 @@ You don't consider fiends to be legitimate authorities, even in nations ruled by
 ## Summary
 
 *Source: Core Rulebook p. 110*  
-%% #imported/compendium/src/pf2e/crb #trait/class/champion #imported/trait/oath %%
+%% #imported/compendium/src/pf2e/crb #trait/class/champion #trait/class/champion/oath %%

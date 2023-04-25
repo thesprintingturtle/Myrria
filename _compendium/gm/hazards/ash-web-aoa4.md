@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-hazard
 tags:
 - imported/compendium/src/pf2e/aoa4
 - trait/hazard/environmental
-- imported/trait/fungus
+- trait/creature/fungus
 aliases: ["Ash Web"]
 ---
 # Ash Web *Hazard 10*  

@@ -6,7 +6,7 @@ tags:
 - spell/level/1
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Exchange Image"]
 ---
 # Exchange Image *Spell 1*   

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/assistive-item/supports-and-splints
+- equipment/assistive-item/supports-and-splints
 aliases: ["Support"]
 ---
 # Support *Item 0*  

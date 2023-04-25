@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/siege-weapon
-- imported/trait/large
-- imported/trait/mounted
+- equipment/siege-weapon
+- trait/size/large
+- trait/equipment/weapon/mounted
 - trait/rarity/uncommon
 aliases: ["Ballista"]
 ---

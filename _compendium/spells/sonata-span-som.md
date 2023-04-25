@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/area/line
 - spell/level/2
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/conjuration
 - trait/energy/sonic
 aliases: ["Sonata Span"]

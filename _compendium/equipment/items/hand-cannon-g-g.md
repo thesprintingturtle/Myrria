@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/simple
-- imported/trait/modular-b-p-or-s
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
+- trait/equipment/weapon/modular-b-p-or-s
 - trait/rarity/uncommon
 aliases: ["Hand Cannon"]
 ---

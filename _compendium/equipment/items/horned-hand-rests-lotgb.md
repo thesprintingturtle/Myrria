@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/companion
-- imported/trait/companion
+- equipment/companion
+- trait/equipment/companion
 - trait/school/evocation
 - trait/equipment/invested
 - trait/magical

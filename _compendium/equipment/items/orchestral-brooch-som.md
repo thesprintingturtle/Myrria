@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/talisman
-- trait/effect/auditory
+- equipment/talisman
+- trait/sense/auditory
 - trait/equipment/consumable
 - trait/school/evocation
 - trait/magical

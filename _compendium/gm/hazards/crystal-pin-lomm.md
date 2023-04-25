@@ -6,7 +6,7 @@ tags:
 - trait/school/abjuration
 - trait/tradition/divine
 - trait/hazard/environmental
-- imported/trait/kaiju
+- trait/monster/kaiju
 - trait/rarity/rare
 aliases: ["Crystal Pin"]
 ---

@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/area/cone
 - spell/cantrip
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/spell/cantrip
 - trait/school/evocation
 - trait/energy/sonic

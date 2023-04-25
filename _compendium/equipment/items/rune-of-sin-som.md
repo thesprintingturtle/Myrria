@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/tattoo
+- equipment/tattoo
 - trait/tradition/arcane
 - trait/equipment/invested
-- imported/trait/tattoo
+- trait/equipment/tattoo
 - trait/rarity/uncommon
 aliases: ["Rune Of Sin"]
 ---

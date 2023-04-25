@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/apg
-- imported/item/category/snare
+- equipment/snare
 - trait/equipment/consumable
 - trait/equipment/mechanical
 - trait/equipment/snare
 - trait/equipment/trap
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Flare Snare"]
 ---
 # Flare Snare *Item 2*  

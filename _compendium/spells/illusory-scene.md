@@ -5,9 +5,9 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/area/burst
 - spell/level/5
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Illusory Scene"]
 ---
 # Illusory Scene *Spell 5*   

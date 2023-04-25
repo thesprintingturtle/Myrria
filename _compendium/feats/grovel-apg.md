@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/effect/emotion
 - trait/ancestry/kobold
@@ -19,4 +19,4 @@ aliases: ["Grovel"]
 With obsequious words and begging gestures, you convince your foe you're less of a threat. You attempt to [Feint](feint.md) against a creature. Unlike a normal [Feint](feint.md), the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its [Perception](../skills.md#Perception) DC.
 
 *Source: Advanced Player's Guide p. 14*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/action/concentrate #trait/effect/emotion #trait/ancestry/kobold #trait/effect/mental %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/action/concentrate #trait/effect/emotion #trait/ancestry/kobold #trait/effect/mental %%

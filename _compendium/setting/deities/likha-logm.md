@@ -9,7 +9,7 @@ tags:
 - imported/domain/passion/deity
 - imported/domain/sorrow/deity
 - trait/equipment/weapon/disarm
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 aliases: ["Likha", "The Teller"]
 ---
 # Likha (The Teller) *([N](neutral-b1.md))*  

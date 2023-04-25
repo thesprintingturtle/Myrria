@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/da
 - trait/school/evocation
-- imported/trait/mindshift
+- trait/action/mindshift
 - trait/tradition/occult
 - trait/class/psychic
 aliases: ["Violent Unleash"]
@@ -20,4 +20,4 @@ The force of your mind unleashing itself wracks your enemies with a violent shoc
 At 5th level and every 2 levels thereafter, the damage increases by `1d6`.
 
 *Source: Dark Archive p. 25*  
-%% #imported/compendium/src/pf2e/da #trait/school/evocation #imported/trait/mindshift #trait/tradition/occult #trait/class/psychic %%
+%% #imported/compendium/src/pf2e/da #trait/school/evocation #trait/action/mindshift #trait/tradition/occult #trait/class/psychic %%

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/apg
-- imported/item/category/other
+- equipment/other
 - trait/equipment/invested
 - trait/magical
 - trait/school/transmutation

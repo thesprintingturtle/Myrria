@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/tattoo
+- equipment/tattoo
 - trait/equipment/invested
 - trait/magical
 - trait/rarity/rare
-- imported/trait/tattoo
+- trait/equipment/tattoo
 aliases: ["Thoughtwhip Claw"]
 ---
 # Thoughtwhip Claw *Item 11*  

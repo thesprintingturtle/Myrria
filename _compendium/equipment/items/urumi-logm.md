@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/logm
-- imported/item/category/weapon/martial
-- imported/trait/deadly-d10
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/flail
+- equipment/weapon/base-weapon/type/melee 
+- trait/equipment/weapon/deadly/d10
 - trait/equipment/weapon/sweep
 - trait/rarity/uncommon
 aliases: ["Urumi"]

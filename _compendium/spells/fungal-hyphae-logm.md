@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/logm
 - spell/level/2
-- imported/trait/fungus
+- trait/creature/fungus
 - trait/school/necromancy
 aliases: ["Fungal Hyphae"]
 ---

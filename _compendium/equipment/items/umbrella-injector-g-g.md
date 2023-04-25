@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/concealable
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/sword
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/concealable
 - trait/equipment/weapon/finese
-- imported/trait/injection
+- trait/equipment/weapon/injection
 - trait/equipment/weapon/parry
 - trait/rarity/uncommon
 aliases: ["Umbrella Injector"]

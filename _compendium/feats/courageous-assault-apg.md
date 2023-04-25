@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/bard
 - trait/action/concentrate
 - trait/action/metamagic
@@ -24,4 +24,4 @@ With a mighty shout, you can stir an ally to attack. If your next action is to c
 ## Summary
 
 *Source: Advanced Player's Guide p. 114*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%

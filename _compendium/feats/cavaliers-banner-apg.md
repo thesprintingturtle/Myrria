@@ -7,7 +7,7 @@ tags:
 - trait/effect/emotion
 - trait/effect/mental
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Cavalier's Banner"]
 ---
 # Cavalier's Banner  *Feat 4*  
@@ -27,4 +27,4 @@ If your banner is destroyed or removed, allies within 30 feet become [frightened
 ## Summary
 
 *Source: Advanced Player's Guide p. 164*  
-%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/effect/emotion #trait/effect/mental #trait/rarity/uncommon #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/effect/emotion #trait/effect/mental #trait/rarity/uncommon #trait/sense/visual %%

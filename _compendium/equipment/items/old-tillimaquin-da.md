@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/da
-- imported/item/category/other
+- equipment/other
 - trait/school/enchantment
 - trait/magical
 - trait/rarity/unique

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/tool
+- equipment/tool
 - trait/equipment/alchemical
 - trait/equipment/consumable
 aliases: ["Smokestick"]

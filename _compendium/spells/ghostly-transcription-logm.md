@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/logm
 - spell/focus/4
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Ghostly Transcription"]
 ---
 # Ghostly Transcription *Focus 4*   

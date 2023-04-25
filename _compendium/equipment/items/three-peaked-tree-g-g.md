@@ -3,15 +3,19 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/combination
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/group/spear
+- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/combination
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/critical-fusion
 - trait/ancestry/elf
 - trait/equipment/weapon/fatal/d8
 - trait/equipment/weapon/parry
-- imported/trait/tethered
-- imported/trait/thrown-20-ft
+- trait/equipment/weapon/tethered
+- trait/equipment/weapon/thrown/20
 - trait/rarity/uncommon
 aliases: ["Three Peaked Tree"]
 ---

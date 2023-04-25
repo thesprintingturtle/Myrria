@@ -3,7 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/advanced
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/axe
+- equipment/weapon/base-weapon/type/melee
 - trait/ancestry/dwarf
 - trait/equipment/weapon/sweep
 - imported/trait/two-hand-d12

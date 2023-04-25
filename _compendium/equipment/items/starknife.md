@@ -3,12 +3,14 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
-- imported/trait/deadly-d6
+- trait/equipment/weapon/deadly/d6
 - trait/equipment/weapon/finese
-- imported/trait/thrown-20-ft
-- imported/trait/versatile-s
+- trait/equipment/weapon/thrown/20
+- trait/equipment/weapon/versatile/s
 aliases: ["Starknife"]
 ---
 # Starknife *Item 0*  

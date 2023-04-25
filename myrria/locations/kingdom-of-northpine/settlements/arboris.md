@@ -3,7 +3,7 @@ tags:
 - custom
 - level/13 
 - trait/location/type/settlement/metropolis 
-- imported/trait/kineticist 
+- trait/class/kineticist 
 - trait/location/captial-city
 aliases: ["Arboris"]
 ---

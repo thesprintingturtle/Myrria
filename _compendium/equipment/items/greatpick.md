@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/martial
-- imported/trait/fatal-d12
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/pick
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/fatal/d12
 aliases: ["Greatpick"]
 ---
 # Greatpick *Item 0*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/locg
-- imported/item/category/worn
+- equipment/worn-item
 - trait/school/abjuration
 - trait/school/divination
 - trait/school/evocation

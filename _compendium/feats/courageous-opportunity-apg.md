@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/bard
 - trait/action/concentrate
 aliases: ["Courageous Opportunity"]
@@ -19,4 +19,4 @@ aliases: ["Courageous Opportunity"]
 You bellow a ferocious call to arms, inspiring yourself to lash out at a foe. Make a melee [Strike](strike.md) against the triggering creature. If the attack is a critical hit and the trigger was a [manipulate](manipulate.md) action, the action is disrupted.
 
 *Source: Advanced Player's Guide p. 113*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/class/bard #trait/action/concentrate %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/class/bard #trait/action/concentrate %%

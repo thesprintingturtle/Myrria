@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/av3
-- imported/item/category/held
+- equipment/held-item
 - trait/tradition/occult
 - trait/school/transmutation
 - trait/rarity/unique

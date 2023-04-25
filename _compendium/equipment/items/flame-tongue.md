@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon
+- equipment/weapon
 - trait/school/evocation
 - trait/energy/fire
 - trait/magical

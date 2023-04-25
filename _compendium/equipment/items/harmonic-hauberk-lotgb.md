@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/armor
-- trait/effect/auditory
-- imported/trait/focused
+- equipment/armor
+- trait/sense/auditory
+- trait/equipment/focused
 - trait/school/illusion
 - trait/equipment/invested
 - trait/magical

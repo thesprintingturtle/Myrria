@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-action
 tags:
 - imported/action/basic
 - imported/compendium/src/pf2e/crb
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/action/exploration
 - trait/effect/linguistic

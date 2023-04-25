@@ -6,7 +6,7 @@ tags:
 - spell/level/1
 - trait/school/illusion
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Lose The Path"]
 ---
 # Lose The Path *Spell 1*   

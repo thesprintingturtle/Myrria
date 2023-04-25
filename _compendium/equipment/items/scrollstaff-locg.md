@@ -3,7 +3,6 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/locg
-- imported/item/category/weapon/simple
 - trait/magical
 - trait/school/transmutation
 - trait/rarity/uncommon
@@ -14,7 +13,7 @@ aliases: ["Scrollstaff"]
 
 - **Price** 12 gp
 - **Usage** held, 1 hand; **Bulk** 1
-- **Category** Simple
+- **Base Weapon** [Staff](../../../_rules/traits/staff.md) 
 
 A band of pliant wood encircles the head of this slender mahogany staff.
 

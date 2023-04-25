@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/sword
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/forceful
 - trait/equipment/weapon/sweep
-- imported/trait/two-hand-d10
+- trait/equipment/weapon/two-hand/d10
 aliases: ["Panabas"]
 ---
 # Panabas *Item 0*  

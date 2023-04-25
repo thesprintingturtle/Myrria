@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/effect/emotion
 - trait/feat/general
@@ -26,4 +26,4 @@ You launch an insightful quip at a foe, distracting them. Choose a foe within 30
 > - **Critical Failure** Your quip is atrocious. You take the same penalty an enemy would take had you succeeded. This ends after 1 minute or if you issue another Bon Mot and succeed.
 
 *Source: Advanced Player's Guide p. 203*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/action/concentrate #trait/effect/emotion #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/action/concentrate #trait/effect/emotion #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%

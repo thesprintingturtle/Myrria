@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/weapon/advanced
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/finese
-- imported/trait/injection
+- trait/equipment/weapon/injection
 - trait/rarity/uncommon
 - trait/versatile/p
 - trait/ancestry/vishkanya

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lokl
-- imported/item/category/structure
+- equipment/structure
 - trait/school/conjuration
 - trait/magical
 - trait/equipment/structure

@@ -8,7 +8,7 @@ tags:
 - trait/effect/mental
 - trait/ancestry/nagaji
 - trait/tradition/occult
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Hypnotic Lure"]
 ---
 # Hypnotic Lure  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
@@ -25,4 +25,4 @@ Your unblinking gaze is so intense it can befuddle the mind of others, drawing y
 > - **Critical Failure** The target must use all its actions on its next turn to approach you. It can't [Delay](delay.md) or take any reactions until it has reached a space that's adjacent to you (or as close to you as possible if it reaches an impassable barrier).
 
 *Source: Lost Omens: Impossible Lands p. 49*  
-%% #imported/compendium/src/pf2e/loil #trait/action/concentrate #trait/school/enchantment #trait/effect/mental #trait/ancestry/nagaji #trait/tradition/occult #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/loil #trait/action/concentrate #trait/school/enchantment #trait/effect/mental #trait/ancestry/nagaji #trait/tradition/occult #trait/sense/visual %%

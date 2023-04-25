@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/assistive-item/vision
+- equipment/assistive-item/vision
 aliases: ["Basic Corrective Lenses"]
 ---
 # Basic Corrective Lenses *Item 0*  

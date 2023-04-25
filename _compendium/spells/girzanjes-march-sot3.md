@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/sot3
 - spell/area/burst
 - spell/level/4
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/enchantment
 - trait/effect/linguistic
 - trait/effect/mental

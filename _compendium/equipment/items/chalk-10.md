@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/adventuring-gear
+- equipment/adventuring-gear
 aliases: ["Chalk (10)"]
 ---
 # Chalk (10) *Item 0*  

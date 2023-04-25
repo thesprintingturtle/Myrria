@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/armor
+- equipment/armor
 - trait/tradition/divine
 - trait/alignment/good
 - trait/equipment/invested

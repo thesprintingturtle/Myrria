@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/hammer
+- equipment/weapon/base-weapon/type/melee
 - trait/ancestry/gnome
 - trait/equipment/weapon/trip
-- imported/trait/two-hand-d10
+- trait/equipment/weapon/two-hand/d10
 - trait/rarity/uncommon
 - trait/versatile/p
 aliases: ["Gnome Hooked Hammer"]

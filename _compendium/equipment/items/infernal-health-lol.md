@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lol
-- imported/item/category/contract
+- equipment/contract
 - trait/equipment/contract
 - trait/effect/healing
 - trait/equipment/invested

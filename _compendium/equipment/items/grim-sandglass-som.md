@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/spellheart
+- equipment/spellheart
 - trait/magical
 - trait/school/necromancy
-- imported/trait/spellheart
+- trait/equipment/spellheart
 aliases: ["Grim Sandglass"]
 ---
 # Grim Sandglass *Item 3+*  

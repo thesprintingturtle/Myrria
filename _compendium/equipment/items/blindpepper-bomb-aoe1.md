@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe1
-- imported/item/category/bomb
+- equipment/bomb
 - trait/equipment/alchemical
-- trait/equipment/bomb
+- trait/equipment/alchemical/bomb
 - trait/equipment/consumable
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Blindpepper Bomb"]
 ---
 # Blindpepper Bomb *Item 5*  

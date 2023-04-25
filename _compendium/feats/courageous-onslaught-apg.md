@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/class/bard
 - trait/action/concentrate
 - trait/action/metamagic
@@ -18,4 +18,4 @@ aliases: ["Courageous Onslaught"]
 You use your performance to orchestrate an onslaught against your enemies. If your next action is to cast the [inspire courage](../spells/inspire-courage.md) composition cantrip, one ally who gains a status bonus from the spell can immediately use a reaction to [Stride](stride.md) and then make a melee [Strike](strike.md).
 
 *Source: Advanced Player's Guide p. 115*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/class/bard #trait/action/concentrate #trait/action/metamagic %%

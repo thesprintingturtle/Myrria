@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/loil
 - trait/effect/mental
 - trait/ancestry/nagaji
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Disruptive Stare"]
 ---
 # Disruptive Stare  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
@@ -21,4 +21,4 @@ Your frigid gaze can turn a foe's blood to ice. The triggering creature must att
 > - **Critical Failure** The triggering spell is disrupted.
 
 *Source: Lost Omens: Impossible Lands p. 51*  
-%% #imported/compendium/src/pf2e/loil #trait/effect/mental #trait/ancestry/nagaji #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/loil #trait/effect/mental #trait/ancestry/nagaji #trait/sense/visual %%

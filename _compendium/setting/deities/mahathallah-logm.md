@@ -8,7 +8,7 @@ tags:
 - imported/domain/trickery/deity
 - imported/domain/truth/deity
 - imported/domain/undeath/deity
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Mahathallah", "Dowager of Illusions"]
 ---
 # Mahathallah (Dowager of Illusions) *([LE](lawful-evil-b1.md))*  

@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - imported/ritual/4
 - imported/ritual/area/burst
-- imported/trait/consecration
+- trait/spell/consecration
 - trait/school/necromancy
 - trait/element/wood
 - trait/effect/poison

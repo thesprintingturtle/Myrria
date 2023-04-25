@@ -6,7 +6,7 @@ tags:
 - spell/level/5
 - trait/school/illusion
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Mirror Malefactors"]
 ---
 # Mirror Malefactors *Spell 5*   

@@ -7,7 +7,7 @@ tags:
 - trait/school/conjuration
 - trait/tradition/divine
 - trait/hazard/environmental
-- imported/trait/kaiju
+- trait/monster/kaiju
 - trait/rarity/rare
 - trait/effect/teleportation
 aliases: ["Planar Tear"]

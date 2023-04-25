@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/martial
-- imported/trait/deadly-d10
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/polearm
+- equipment/weapon/base-weapon/type/melee 
+- trait/equipment/weapon/deadly/d10
 - trait/equipment/weapon/trip
 aliases: ["Scythe"]
 ---

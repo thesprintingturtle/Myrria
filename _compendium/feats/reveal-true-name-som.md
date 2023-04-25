@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/som
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/effect/emotion
 - trait/feat/general
 - trait/effect/mental
 - trait/rarity/rare
 - trait/feat/skill
-- imported/trait/true-name
+- trait/variant-rule/true-name
 aliases: ["Reveal True Name"]
 ---
 # Reveal True Name  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
@@ -30,4 +30,4 @@ You must know and speak the creature's true name and say what you want the creat
 > - **Critical Failure** The target refuses to comply and becomes [hostile](conditions.md#Hostile), if it wasn't already. If they perceive you as weak, they might attack you; otherwise, they likely flee to avoid your further use of their true name.
 
 *Source: Secrets of Magic p. 246*  
-%% #imported/compendium/src/pf2e/som #trait/effect/auditory #trait/action/concentrate #trait/effect/emotion #trait/feat/general #trait/effect/mental #trait/rarity/rare #trait/feat/skill #imported/trait/true-name %%
+%% #imported/compendium/src/pf2e/som #trait/sense/auditory #trait/action/concentrate #trait/effect/emotion #trait/feat/general #trait/effect/mental #trait/rarity/rare #trait/feat/skill #trait/variant-rule/true-name %%

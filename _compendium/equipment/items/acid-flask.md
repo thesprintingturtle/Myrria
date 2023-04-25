@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/bomb
+- equipment/bomb
 - trait/energy/acid
 - trait/equipment/alchemical
-- trait/equipment/bomb
+- trait/equipment/alchemical/bomb
 - trait/equipment/consumable
 - trait/equipment/splash
 aliases: ["Acid Flask"]

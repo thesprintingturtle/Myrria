@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/loil
 - spell/level/5
 - trait/effect/healing
-- imported/trait/incarnate
+- trait/spell/incarnate
 - trait/school/necromancy
 - trait/energy/positive
 - trait/rarity/uncommon

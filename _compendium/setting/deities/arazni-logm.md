@@ -9,7 +9,7 @@ tags:
 - imported/domain/pain/deity
 - imported/domain/protection/deity
 - imported/domain/sorrow/deity
-- imported/trait/deadly-3d8
+- trait/equipment/weapon/deadly/3d8
 - trait/equipment/weapon/reach/15
 aliases: ["Arazni", "The Unyielding"]
 ---

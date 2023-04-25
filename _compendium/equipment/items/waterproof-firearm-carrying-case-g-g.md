@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/adventuring-gear
+- equipment/adventuring-gear
 aliases: ["Waterproof Firearm Carrying Case"]
 ---
 # Waterproof Firearm Carrying Case *Item 0*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/worn
+- equipment/worn-item
 aliases: ["Diving Suit"]
 ---
 # Diving Suit *Item 3*  

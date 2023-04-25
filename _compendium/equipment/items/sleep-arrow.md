@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/ammunition
+- equipment/ammunition
 - trait/equipment/consumable
 - trait/school/enchantment
 - trait/magical
 - trait/effect/mental
-- imported/trait/sleep
+- trait/effect/sleep
 aliases: ["Sleep Arrow"]
 ---
 # Sleep Arrow *Item 3*  

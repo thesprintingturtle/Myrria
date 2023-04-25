@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-hazard
 tags:
 - imported/compendium/src/pf2e/frp2
 - trait/hazard/environmental
-- imported/trait/kaiju
+- trait/monster/kaiju
 aliases: ["Swatting Tail"]
 ---
 # Swatting Tail *Hazard 18*  

@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/ngd
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/vigilante
 aliases: ["Voice of Authority"]
 ---
@@ -24,4 +24,4 @@ Your voice be heard easily by any creatures within 300 feet if you wish, regardl
 ## Summary
 
 *Source: Night of the Gray Death p. 64*  
-%% #imported/compendium/src/pf2e/ngd #trait/feat/archetype #trait/effect/auditory #trait/action/vigilante %%
+%% #imported/compendium/src/pf2e/ngd #trait/feat/archetype #trait/sense/auditory #trait/action/vigilante %%

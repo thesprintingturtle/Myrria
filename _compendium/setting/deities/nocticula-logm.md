@@ -13,7 +13,7 @@ tags:
 - trait/equipment/weapon/nonlethal
 - trait/equipment/weapon/reach/15
 - trait/equipment/weapon/trip
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Nocticula", "The Redeemer Queen"]
 ---
 # Nocticula (The Redeemer Queen) *([CN](chaotic-neutral-b1.md))*  

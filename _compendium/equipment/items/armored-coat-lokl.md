@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lokl
-- imported/item/category/armor/light
-- imported/trait/comfort
-- imported/trait/flexible
+- equipment/armor/light
+- trait/armor/comfort
+- trait/armor/flexible
 aliases: ["Armored Coat"]
 ---
 # Armored Coat *Item 0*  

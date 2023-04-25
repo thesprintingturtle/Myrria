@@ -7,7 +7,7 @@ tags:
 - spell/level/3
 - trait/school/illusion
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Oneiric Mire"]
 ---
 # Oneiric Mire *Spell 3*   

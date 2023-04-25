@@ -8,7 +8,7 @@ tags:
 - trait/effect/fear
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Lift Nature's Caul"]
 ---
 # Lift Nature's Caul *Focus 1*   

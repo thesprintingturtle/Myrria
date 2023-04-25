@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe2
-- imported/item/category/worn
+- equipment/worn-item
 - trait/school/divination
 - trait/equipment/invested
 - trait/magical
-- imported/trait/revelation
+- trait/effect/revelation
 - trait/rarity/uncommon
 aliases: ["Ethersight Ring"]
 ---

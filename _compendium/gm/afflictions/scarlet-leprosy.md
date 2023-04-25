@@ -6,7 +6,7 @@ tags:
 - imported/affliction/level/4
 - imported/compendium/src/pf2e/gmg
 - trait/effect/disease
-- imported/trait/virulent
+- trait/affliction/virulent
 aliases: ["Scarlet Leprosy"]
 ---
 # Scarlet Leprosy

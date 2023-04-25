@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/apg
 - trait/feat/archetype
 - trait/action/open
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Coordinated Charge"]
 ---
 # Coordinated Charge  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
@@ -19,4 +19,4 @@ You heroically dash into the fray, inspiring your allies to follow. You [Stride]
 If your [Strike](strike.md) hits and damages an enemy, each ally within 60 feet who saw you hit can use a reaction to [Stride](stride.md), but they each must end their [Stride](stride.md) closer to the creature you hit than where they started.
 
 *Source: Advanced Player's Guide p. 181*  
-%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/action/open #trait/effect/visual %%
+%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/action/open #trait/sense/visual %%

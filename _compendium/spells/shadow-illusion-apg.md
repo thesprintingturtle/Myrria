@@ -4,11 +4,11 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/apg
 - spell/focus/6
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/illusion
 - trait/plane/shadow
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Shadow Illusion"]
 ---
 # Shadow Illusion *Focus 6*   

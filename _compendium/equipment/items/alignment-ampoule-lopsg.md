@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lopsg
-- imported/item/category/bomb
+- equipment/bomb
 - trait/equipment/alchemical
-- trait/equipment/bomb
+- trait/equipment/alchemical/bomb
 - trait/equipment/consumable
 - trait/rarity/uncommon
 aliases: ["Alignment Ampoule"]

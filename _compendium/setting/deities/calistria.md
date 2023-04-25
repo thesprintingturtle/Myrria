@@ -11,7 +11,7 @@ tags:
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/nonlethal
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 aliases: ["Calistria", "The Savored Sting"]
 ---
 # Calistria (The Savored Sting) *([CN](chaotic-neutral-b1.md))*  

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/loag
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/ancestry/hobgoblin
 - trait/action/manipulate
 aliases: ["Can't Fall Here"]
@@ -18,4 +18,4 @@ aliases: ["Can't Fall Here"]
 You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [unconscious](conditions.md#Unconscious) and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [wounded](conditions.md#Wounded) condition increases by 1.
 
 *Source: Lost Omens: Ancestry Guide p. 36*  
-%% #imported/compendium/src/pf2e/loag #trait/effect/auditory #trait/ancestry/hobgoblin #trait/action/manipulate %%
+%% #imported/compendium/src/pf2e/loag #trait/sense/auditory #trait/ancestry/hobgoblin #trait/action/manipulate %%

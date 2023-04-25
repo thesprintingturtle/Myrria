@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe6
-- imported/item/category/material
+- equipment/material
 - trait/rarity/rare
 aliases: ["Warpglass Weapon"]
 ---

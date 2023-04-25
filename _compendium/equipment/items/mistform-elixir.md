@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/elixir
+- equipment/elixir
 - trait/equipment/alchemical
 - trait/equipment/consumable
-- trait/equipment/elixir
+- trait/equipment/alchemical/elixir
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Mistform Elixir"]
 ---
 # Mistform Elixir *Item 4+*  

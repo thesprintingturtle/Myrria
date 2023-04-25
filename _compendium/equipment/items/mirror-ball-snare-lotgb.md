@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/snare
+- equipment/snare
 - trait/equipment/consumable
 - trait/equipment/mechanical
 - trait/equipment/snare
 - trait/equipment/trap
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Mirror-ball Snare"]
 ---
 # Mirror-ball Snare *Item 6*  

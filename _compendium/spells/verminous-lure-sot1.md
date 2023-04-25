@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/sot1
 - spell/level/1
-- imported/trait/olfactory
+- trait/sense/olfactory
 - trait/school/transmutation
 - trait/rarity/uncommon
 aliases: ["Verminous Lure"]

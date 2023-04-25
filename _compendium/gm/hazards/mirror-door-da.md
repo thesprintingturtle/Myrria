@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/da
 - trait/magical
 - trait/equipment/trap
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Mirror Door"]
 ---
 # Mirror Door *Hazard -1*  

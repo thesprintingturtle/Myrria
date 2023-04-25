@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/som
 - spell/level/3
-- imported/trait/contingency
+- trait/spell/contingency
 - trait/effect/emotion
 - trait/school/enchantment
 - trait/effect/fear

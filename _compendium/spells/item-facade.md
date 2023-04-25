@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/1
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Item Facade"]
 ---
 # Item Facade *Spell 1*   

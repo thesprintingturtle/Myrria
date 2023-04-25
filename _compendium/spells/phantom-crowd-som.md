@@ -6,7 +6,7 @@ tags:
 - spell/area/misc
 - spell/level/2
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Phantom Crowd"]
 ---
 # Phantom Crowd *Spell 2*   

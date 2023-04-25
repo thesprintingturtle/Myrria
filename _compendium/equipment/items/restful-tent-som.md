@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/structure
+- equipment/structure
 - trait/school/enchantment
 - trait/magical
 aliases: ["Restful Tent"]

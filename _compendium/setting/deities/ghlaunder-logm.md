@@ -9,7 +9,7 @@ tags:
 - imported/domain/plague/deity
 - imported/domain/swarm/deity
 - trait/equipment/weapon/agile
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 aliases: ["Ghlaunder", "The Gossamer King"]
 ---
 # Ghlaunder (The Gossamer King) *([CE](chaotic-evil-b1.md))*  

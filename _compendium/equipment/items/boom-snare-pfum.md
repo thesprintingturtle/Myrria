@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/pfum
-- imported/item/category/snare
+- equipment/snare
 - trait/equipment/consumable
 - trait/equipment/mechanical
 - trait/equipment/snare

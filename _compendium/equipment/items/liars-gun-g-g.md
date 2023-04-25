@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/held
-- imported/trait/cobbled
+- equipment/held-item
+- trait/weapon/cobbled
 - trait/magical
 - trait/rarity/uncommon
 aliases: ["Liar's Gun"]

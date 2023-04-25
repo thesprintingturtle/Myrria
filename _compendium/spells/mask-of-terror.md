@@ -8,7 +8,7 @@ tags:
 - trait/effect/fear
 - trait/school/illusion
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Mask Of Terror"]
 ---
 # Mask Of Terror *Spell 7*   

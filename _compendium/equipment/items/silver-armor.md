@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/armor
+- equipment/armor
 aliases: ["Silver Armor"]
 ---
 # Silver Armor *Item 5+*  

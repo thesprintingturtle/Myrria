@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/sot5
-- imported/item/category/grimoire
+- equipment/grimoire
 - trait/school/divination
-- imported/trait/grimoire
+- trait/equipment/grimoire
 - trait/equipment/invested
 - trait/magical
 - trait/rarity/unique

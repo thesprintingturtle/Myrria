@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/3
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Secret Page"]
 ---
 # Secret Page *Spell 3*   

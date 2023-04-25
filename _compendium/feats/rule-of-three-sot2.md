@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/sot2
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/linguistic
 - trait/magical
 aliases: ["Rule Of Three"]
@@ -22,4 +22,4 @@ Casts a Spell against the hero, and they used that same attack, special ability,
 Heroes learn from their previous failures, often succeeding on the third attempt. You narrate a tale of the hero's success, granting them a +2 circumstance bonus to their AC or saving throw against the triggering effect. If the villain has used the same effect against the hero on both of their last two turns, and you used Rule of Three on that effect last turn as well, the bonus increases to +4.
 
 *Source: Strength of Thousands #2: Spoken on the Song Wind p. 78*  
-%% #imported/compendium/src/pf2e/sot2 #trait/feat/archetype #trait/effect/auditory #trait/effect/linguistic #trait/magical %%
+%% #imported/compendium/src/pf2e/sot2 #trait/feat/archetype #trait/sense/auditory #trait/effect/linguistic #trait/magical %%

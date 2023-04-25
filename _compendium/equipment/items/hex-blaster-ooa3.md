@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ooa3
-- imported/item/category/curse
+- equipment/curse
 - trait/effect/curse
 - trait/effect/emotion
 - trait/school/enchantment

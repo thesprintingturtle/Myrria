@@ -11,8 +11,8 @@ tags:
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/nonlethal
-- imported/trait/ranged-trip
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/ranged-trip
+- trait/equipment/weapon/reach/20
 - trait/equipment/weapon/trip
 - imported/trait/versatile-piercing
 - imported/trait/versatile-slashing

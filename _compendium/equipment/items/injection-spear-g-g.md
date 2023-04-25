@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/injection
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/spear
+- equipment/weapon/base-weapon/type/melee 
+- trait/equipment/weapon/injection
 - trait/equipment/weapon/reach
 - trait/rarity/uncommon
 aliases: ["Injection Spear"]

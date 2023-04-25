@@ -11,7 +11,7 @@ tags:
 - trait/effect/mental
 - trait/class/sorcerer
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Horrific Visage"]
 ---
 # Horrific Visage *Focus 3*   

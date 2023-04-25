@@ -6,7 +6,7 @@ tags:
 - spell/area/burst
 - spell/level/1
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Illusory Object"]
 ---
 # Illusory Object *Spell 1*   

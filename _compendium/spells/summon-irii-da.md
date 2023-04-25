@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/da
 - spell/level/8
 - trait/school/conjuration
-- imported/trait/incarnate
+- trait/spell/incarnate
 - trait/rarity/rare
 aliases: ["Summon Irii"]
 ---

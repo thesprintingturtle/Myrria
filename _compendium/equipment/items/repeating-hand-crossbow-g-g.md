@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/advanced
-- imported/trait/repeating
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/bow
+- equipment/weapon/base-weapon/type/ranged
+- trait/equipment/weapon/repeating
 - trait/rarity/uncommon
 aliases: ["Repeating Hand Crossbow"]
 ---

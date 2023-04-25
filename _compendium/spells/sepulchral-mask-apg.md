@@ -10,7 +10,7 @@ tags:
 - trait/effect/mental
 - trait/class/sorcerer
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Sepulchral Mask"]
 ---
 # Sepulchral Mask *Focus 1*   

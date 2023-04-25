@@ -3,13 +3,15 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/frp2
-- imported/item/category/weapon/advanced
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - trait/class/monk
 - trait/equipment/weapon/parry
-- imported/trait/twin
+- trait/equipment/weapon/twin
 - trait/rarity/uncommon
 - trait/versatile/p
 aliases: ["Wind and Fire Wheel"]

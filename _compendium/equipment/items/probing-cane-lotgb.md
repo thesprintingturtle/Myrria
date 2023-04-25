@@ -3,7 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/club
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/sweep
 aliases: ["Probing Cane"]

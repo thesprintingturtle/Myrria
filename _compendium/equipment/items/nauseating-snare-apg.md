@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/apg
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/consumable
 - trait/equipment/mechanical
 - trait/effect/poison

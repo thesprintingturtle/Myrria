@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/da
 - trait/action/concentrate
 - trait/school/evocation
-- imported/trait/mindshift
+- trait/action/mindshift
 - trait/tradition/occult
 - trait/class/psychic/psyche
 - trait/class/psychic
@@ -19,4 +19,4 @@ aliases: ["Psi Catastrophe"]
 You stop holding your power back, unleashing it all in a catastrophic blast. All creatures in a 20-foot emanation take `1d6` bludgeoning damage per level with a basic Reflex save. Your psyche subsides as your power is expended.
 
 *Source: Dark Archive p. 28*  
-%% #imported/compendium/src/pf2e/da #trait/action/concentrate #trait/school/evocation #imported/trait/mindshift #trait/tradition/occult #trait/class/psychic/psyche #trait/class/psychic %%
+%% #imported/compendium/src/pf2e/da #trait/action/concentrate #trait/school/evocation #trait/action/mindshift #trait/tradition/occult #trait/class/psychic/psyche #trait/class/psychic %%

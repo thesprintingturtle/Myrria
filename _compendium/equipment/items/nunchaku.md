@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/martial
-- imported/trait/backswing
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/club
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/backswing
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - trait/class/monk

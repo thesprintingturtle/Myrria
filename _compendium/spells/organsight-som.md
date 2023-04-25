@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/3
 - trait/school/divination
-- imported/trait/revelation
+- trait/effect/revelation
 aliases: ["Organsight"]
 ---
 # Organsight *Spell 3*   

@@ -6,7 +6,7 @@ tags:
 - imported/affliction/level/7
 - imported/compendium/src/pf2e/gmg
 - trait/effect/disease
-- imported/trait/virulent
+- trait/affliction/virulent
 aliases: ["Sewer Haze"]
 ---
 # Sewer Haze

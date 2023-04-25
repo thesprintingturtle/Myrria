@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/consumable
+- equipment/consumable
 - trait/school/abjuration
 - trait/equipment/consumable
 - trait/equipment/fulu

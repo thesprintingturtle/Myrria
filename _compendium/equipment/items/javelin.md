@@ -3,8 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/simple
-- imported/trait/thrown
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/dart
+- equipment/weapon/base-weapon/type/ranged
+- trait/equipment/weapon/thrown
 aliases: ["Javelin"]
 ---
 # Javelin *Item 0*  

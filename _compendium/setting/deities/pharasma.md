@@ -14,7 +14,7 @@ tags:
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/reach/15
-- imported/trait/thrown-40-feet
+- trait/equipment/weapon/thrown/40
 aliases: ["Pharasma", "Lady of Graves"]
 ---
 # Pharasma (Lady of Graves) *([N](neutral-b1.md))*  

@@ -11,7 +11,7 @@ tags:
 - imported/domain/trickery/deity
 - imported/domain/wealth/deity
 - trait/equipment/weapon/agile
-- imported/trait/thrown-40-feet
+- trait/equipment/weapon/thrown/40
 aliases: ["Nivi Rhombodazzle", "The Grey Polychrome"]
 ---
 # Nivi Rhombodazzle (The Grey Polychrome) *([N](neutral-b1.md))*  

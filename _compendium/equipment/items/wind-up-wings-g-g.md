@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/customization/weapon
+- equipment/customization/weapon
 - trait/equipment/clockwork
 - trait/rarity/rare
 aliases: ["Wind-up Wings"]

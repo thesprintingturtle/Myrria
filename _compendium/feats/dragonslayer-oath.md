@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/crb
 - trait/class/champion
-- imported/trait/oath
+- trait/class/champion/oath
 aliases: ["Dragonslayer Oath"]
 ---
 # Dragonslayer Oath  *Feat 2*  
@@ -25,4 +25,4 @@ You don't consider evil dragons to be legitimate authorities, even in nations th
 ## Summary
 
 *Source: Core Rulebook p. 110*  
-%% #imported/compendium/src/pf2e/crb #trait/class/champion #imported/trait/oath %%
+%% #imported/compendium/src/pf2e/crb #trait/class/champion #trait/class/champion/oath %%

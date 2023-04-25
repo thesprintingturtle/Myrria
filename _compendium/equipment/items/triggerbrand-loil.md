@@ -3,14 +3,18 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loil
-- imported/item/category/weapon/martial
-- imported/trait/combination
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/group/sword
+- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/combination
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/critical-fusion
 - trait/equipment/weapon/fatal/d8
 - trait/equipment/weapon/finese
 - trait/rarity/uncommon
-- imported/trait/versatile-s
+- trait/equipment/weapon/versatile/s
 aliases: ["Triggerbrand"]
 ---
 # Triggerbrand *Item 1*  

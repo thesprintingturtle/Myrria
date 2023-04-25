@@ -3,7 +3,9 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/b2
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/club
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/trip
 - imported/trait/versatile
 aliases: ["Gaff"]

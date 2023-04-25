@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/lokl
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/action/stance
 - trait/rarity/uncommon
@@ -19,4 +19,4 @@ aliases: ["Push Back the Dead!"]
 You call to your ally and strengthen their resolve and abilities to defend against the horrific tricks undead bring to bear. The ally gains a +2 circumstance bonus to saves against effects originating from undead. It also gains resistance to damage from [Strikes](strike.md) made by undead creatures equal to half your Charisma modifier.
 
 *Source: Lost Omens: Knights of Lastwall p. 80*  
-%% #imported/compendium/src/pf2e/lokl #trait/feat/archetype #trait/effect/auditory #trait/effect/emotion #trait/action/stance #trait/rarity/uncommon %%
+%% #imported/compendium/src/pf2e/lokl #trait/feat/archetype #trait/sense/auditory #trait/effect/emotion #trait/action/stance #trait/rarity/uncommon %%

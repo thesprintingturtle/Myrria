@@ -7,7 +7,7 @@ tags:
 - trait/class/champion
 - trait/school/evocation
 - trait/alignment/good
-- imported/trait/litany
+- trait/class/champion/litany
 - trait/rarity/uncommon
 aliases: ["Litany Of Righteousness"]
 ---

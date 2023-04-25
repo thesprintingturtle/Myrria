@@ -9,8 +9,8 @@ tags:
 - imported/domain/truth/deity
 - imported/domain/zeal/deity
 - trait/equipment/weapon/disarm
-- imported/trait/reach-20-feet
-- imported/trait/thrown
+- trait/equipment/weapon/reach/20
+- trait/equipment/weapon/thrown
 - trait/equipment/weapon/trip
 aliases: ["Kurgess", "The Strong Man"]
 ---

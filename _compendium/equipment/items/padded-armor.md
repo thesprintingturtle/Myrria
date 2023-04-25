@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/armor/light
-- imported/trait/comfort
+- equipment/armor/light
+- trait/armor/comfort
 aliases: ["Padded Armor"]
 ---
 # Padded Armor *Item 0*  

@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/weapon/simple
+- equipment/weapon/base-weapon/category/simple
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/finese
-- imported/trait/thrown-10-ft
-- imported/trait/versatile-s
+- trait/equipment/weapon/thrown/10
+- trait/equipment/weapon/versatile/s
 aliases: ["Dagger"]
 ---
 # Dagger *Item 0*  

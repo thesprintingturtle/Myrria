@@ -10,7 +10,7 @@ tags:
 - imported/domain/freedom/deity
 - imported/domain/sun/deity
 - imported/domain/tyranny/deity
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 - imported/trait/versatile-fire
 aliases: ["Walkena", "The Child-God"]
 ---

@@ -10,7 +10,7 @@ tags:
 - trait/school/illusion
 - trait/effect/mental
 - trait/plane/shadow
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Unspeakable Shadow"]
 ---
 # Unspeakable Shadow *Spell 9*   

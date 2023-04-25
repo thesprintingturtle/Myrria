@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/sot1
 - spell/level/2
 - trait/school/divination
-- imported/trait/lawful
+- trait/alignment/lawful
 - trait/rarity/uncommon
 aliases: ["Impeccable Flow"]
 ---

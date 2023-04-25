@@ -6,7 +6,7 @@ tags:
 - trait/hazard/environmental
 - trait/school/evocation
 - trait/energy/fire
-- imported/trait/kaiju
+- trait/monster/kaiju
 - trait/tradition/primal
 aliases: ["Mogaru's Breath"]
 ---

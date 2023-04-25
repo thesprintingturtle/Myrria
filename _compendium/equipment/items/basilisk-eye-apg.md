@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/apg
-- imported/item/category/talisman
+- equipment/talisman
 - trait/equipment/consumable
 - trait/magical
 - trait/equipment/talisman
 - trait/school/transmutation
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Basilisk Eye"]
 ---
 # Basilisk Eye *Item 9*  

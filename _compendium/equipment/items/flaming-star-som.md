@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/spellheart
+- equipment/spellheart
 - trait/school/evocation
 - trait/energy/fire
 - trait/magical
-- imported/trait/spellheart
+- trait/equipment/spellheart
 aliases: ["Flaming Star"]
 ---
 # Flaming Star *Item 3+*  

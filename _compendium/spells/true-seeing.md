@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/6
 - trait/school/divination
-- imported/trait/revelation
+- trait/effect/revelation
 aliases: ["True Seeing"]
 ---
 # True Seeing *Spell 6*   

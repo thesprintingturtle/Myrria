@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-spell
 tags:
 - imported/compendium/src/pf2e/som
 - spell/level/7
-- imported/trait/incarnate
+- trait/spell/incarnate
 - trait/school/necromancy
 aliases: ["Tempest Of Shades"]
 ---

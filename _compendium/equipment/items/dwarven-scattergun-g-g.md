@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/advanced
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/concussive
 - trait/ancestry/dwarf
-- imported/trait/kickback
+- trait/equipment/weapon/kickback
 - imported/trait/scatter-10-ft
 - trait/rarity/uncommon
 aliases: ["Dwarven Scattergun"]

@@ -11,7 +11,7 @@ tags:
 - imported/domain/plague/deity
 - imported/domain/swarm/deity
 - imported/domain/undeath/deity
-- imported/trait/deadly-d10
+- trait/equipment/weapon/deadly/d10
 - trait/equipment/weapon/reach/15
 - trait/equipment/weapon/trip
 aliases: ["Urgathoa", "Pallid Princess"]

@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe4
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/consumable
 - trait/tradition/divine
 - trait/effect/poison/injury
 - trait/effect/poison
 - trait/rarity/uncommon
-- imported/trait/virulent
+- trait/affliction/virulent
 aliases: ["Lifeblight Residue"]
 ---
 # Lifeblight Residue *Item 15*  

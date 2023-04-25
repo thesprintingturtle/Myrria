@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/5
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Cloak Of Colors"]
 ---
 # Cloak Of Colors *Spell 5*   

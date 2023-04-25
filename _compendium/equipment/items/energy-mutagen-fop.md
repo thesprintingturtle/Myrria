@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/fop
-- imported/item/category/elixir
+- equipment/elixir
 - trait/equipment/alchemical
 - trait/equipment/consumable
-- trait/equipment/elixir
-- imported/trait/mutagen
+- trait/equipment/alchemical/elixir
+- trait/equipment/alchemical/mutagen
 - trait/effect/polymorph
 - trait/rarity/uncommon
 aliases: ["Energy Mutagen"]

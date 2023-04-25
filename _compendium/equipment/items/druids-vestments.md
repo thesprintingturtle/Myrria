@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/worn
-- imported/trait/focused
+- equipment/worn-item
+- trait/equipment/focused
 - trait/equipment/invested
 - trait/tradition/primal
 - trait/school/transmutation

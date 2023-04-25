@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ability
 tags:
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/effect/fear
 - trait/effect/mental

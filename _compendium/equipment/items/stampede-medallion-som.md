@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/worn
+- equipment/worn-item
 - trait/creature/eidolon
 - trait/school/evocation
 - trait/equipment/invested

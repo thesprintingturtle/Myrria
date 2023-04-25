@@ -13,7 +13,7 @@ tags:
 - trait/equipment/weapon/disarm
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/nonlethal
-- imported/trait/reach-20-feet
+- trait/equipment/weapon/reach/20
 - trait/equipment/weapon/trip
 aliases: ["Aakriti", "The Evershifting"]
 ---

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/elixir
+- equipment/elixir
 - trait/equipment/alchemical
 - trait/equipment/consumable
-- trait/equipment/elixir
+- trait/equipment/alchemical/elixir
 aliases: ["Cheetah's Elixir"]
 ---
 # Cheetah's Elixir *Item 1+*  

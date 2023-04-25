@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/worn
+- equipment/worn-item
 - trait/school/illusion
 - trait/equipment/invested
 - trait/magical
-- imported/trait/sleep
+- trait/effect/sleep
 - trait/rarity/uncommon
 aliases: ["Mirror Of Sleeping Vigil"]
 ---

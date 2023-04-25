@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/g&g
 - trait/feat/archetype
 - trait/action/move
-- imported/trait/reckless
+- trait/action/reckless
 - trait/feat/skill
 aliases: ["Power Slide"]
 ---
@@ -19,4 +19,4 @@ aliases: ["Power Slide"]
 You throw the vehicle into a barely controlled skid, turning sharply to evade pursuit or bring your weapons to bear. You [Drive](drive-gmg.md) with a –2 penalty to your piloting check, gaining the effects of the [Drive](drive-gmg.md) action for the same number of actions you spent to Power Slide. At the end of the movement, if you succeed, you can turn the vehicle up to 90 degrees. If you critically succeed at your piloting check, you can instead turn the vehicle up to 180 degrees.
 
 *Source: Guns & Gears p. 55*  
-%% #imported/compendium/src/pf2e/g&g #trait/feat/archetype #trait/action/move #imported/trait/reckless #trait/feat/skill %%
+%% #imported/compendium/src/pf2e/g&g #trait/feat/archetype #trait/action/move #trait/action/reckless #trait/feat/skill %%

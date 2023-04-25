@@ -7,7 +7,7 @@ tags:
 - imported/compendium/src/pf2e/sli
 - trait/effect/curse
 - trait/rarity/unique
-- imported/trait/virulent
+- trait/affliction/virulent
 aliases: ["Slithering"]
 ---
 # Slithering

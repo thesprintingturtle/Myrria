@@ -6,7 +6,7 @@ tags:
 - spell/level/5
 - trait/school/illusion
 - trait/rarity/uncommon
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Drop Dead"]
 ---
 # Drop Dead *Spell 5*   

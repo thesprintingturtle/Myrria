@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-action
 tags:
 - imported/action/class/gunslinger-g-g
 - imported/compendium/src/pf2e/g&g
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/effect/fear
 - trait/class/gunslinger

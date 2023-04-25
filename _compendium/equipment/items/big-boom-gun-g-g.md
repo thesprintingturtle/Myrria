@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/cobbled
-- imported/trait/fatal-d12
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
+- trait/weapon/cobbled
+- trait/equipment/weapon/fatal/d12
 - trait/ancestry/goblin
-- imported/trait/modular-b-p-or-s
+- trait/equipment/weapon/modular-b-p-or-s
 - trait/rarity/uncommon
 aliases: ["Big Boom Gun"]
 ---

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/botd
-- imported/item/category/consumable
+- equipment/consumable
 - trait/equipment/alchemical
 - trait/equipment/consumable
 - trait/rarity/uncommon

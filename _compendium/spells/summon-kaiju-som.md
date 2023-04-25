@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/10
 - trait/school/conjuration
-- imported/trait/incarnate
+- trait/spell/incarnate
 - trait/rarity/rare
 aliases: ["Summon Kaiju"]
 ---

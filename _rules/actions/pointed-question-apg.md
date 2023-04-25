@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-action
 tags:
 - imported/action/class/investigator-apg
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/class/investigator
 - trait/effect/linguistic

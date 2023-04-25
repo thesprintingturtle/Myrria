@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/rune
+- equipment/rune
 - trait/school/enchantment
 - trait/magical
 aliases: ["Grievous"]

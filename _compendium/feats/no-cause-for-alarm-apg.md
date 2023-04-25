@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/concentrate
 - trait/effect/emotion
 - trait/feat/general
@@ -25,4 +25,4 @@ You attempt to reduce panic. Attempt a [Diplomacy](../skills.md#Diplomacy) check
 > - **Success** Reduce the creature's [frightened](conditions.md#Frightened) value by 1.
 
 *Source: Advanced Player's Guide p. 208*  
-%% #imported/compendium/src/pf2e/apg #trait/effect/auditory #trait/action/concentrate #trait/effect/emotion #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%
+%% #imported/compendium/src/pf2e/apg #trait/sense/auditory #trait/action/concentrate #trait/effect/emotion #trait/feat/general #trait/effect/linguistic #trait/effect/mental #trait/feat/skill %%

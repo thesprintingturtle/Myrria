@@ -2,6 +2,7 @@
 tags:
 - custom
 - level/23 
+- equipment/worn-item
 - trait/equipment/worn
 - trait/tradition/arcane 
 - trait/equipment/artifact 

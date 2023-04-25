@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/1
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Thicket Of Knives"]
 ---
 # Thicket Of Knives *Spell 1*   

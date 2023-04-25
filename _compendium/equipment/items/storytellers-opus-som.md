@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/grimoire
-- imported/trait/grimoire
+- equipment/grimoire
+- trait/equipment/grimoire
 - trait/school/illusion
 - trait/magical
 aliases: ["Storyteller's Opus"]

@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/armor/light
-- imported/trait/flexible
+- equipment/armor/light
+- trait/armor/flexible
 - imported/trait/noisy
 aliases: ["Chain Shirt"]
 ---

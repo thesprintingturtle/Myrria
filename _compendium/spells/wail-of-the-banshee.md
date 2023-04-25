@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/area/emanation
 - spell/level/9
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/death
 - trait/school/necromancy
 - trait/energy/negative

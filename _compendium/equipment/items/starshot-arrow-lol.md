@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lol
-- imported/item/category/consumable
+- equipment/consumable
 - trait/school/conjuration
 - trait/equipment/consumable
 - trait/magical

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec6
-- imported/item/category/held
+- equipment/held-item
 - trait/tradition/divine
 - trait/school/evocation
-- imported/trait/intelligent
+- trait/equipment/intelligent
 - trait/rarity/unique
 aliases: ["Piereta"]
 ---

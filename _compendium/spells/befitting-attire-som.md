@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/som
 - spell/level/2
 - trait/school/illusion
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Befitting Attire"]
 ---
 # Befitting Attire *Spell 2*   

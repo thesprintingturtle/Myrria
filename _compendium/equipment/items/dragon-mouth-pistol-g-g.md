@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/concussive
-- imported/trait/scatter-5-ft
+- trait/equipment/weapon/scatter/5
 - trait/rarity/uncommon
 aliases: ["Dragon Mouth Pistol"]
 ---

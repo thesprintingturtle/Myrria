@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/alchemical
 - trait/equipment/consumable
 - trait/effect/poison/ingested
 - trait/effect/poison
-- imported/trait/sleep
+- trait/effect/sleep
 aliases: ["Slumber Wine"]
 ---
 # Slumber Wine *Item 12*  

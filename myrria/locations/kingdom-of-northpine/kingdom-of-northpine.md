@@ -2,7 +2,7 @@
 tags:
 - custom
 - trait/location/type/nation 
-- imported/trait/kineticist 
+- trait/class/kineticist 
 aliases: ["Kingdom of Northpine","Northpine"]
 ---
 # Kingdom of Northpine *Nation*

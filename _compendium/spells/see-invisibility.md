@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/crb
 - spell/level/2
 - trait/school/divination
-- imported/trait/revelation
+- trait/effect/revelation
 aliases: ["See Invisibility"]
 ---
 # See Invisibility *Spell 2*   

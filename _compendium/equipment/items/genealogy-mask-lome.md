@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lome
-- imported/item/category/worn
+- equipment/worn-item
 - trait/school/divination
 - trait/equipment/invested
 - trait/rarity/uncommon

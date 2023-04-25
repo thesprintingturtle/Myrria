@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/botd
-- imported/item/category/held
+- equipment/held-item
 - trait/tradition/arcane
 - trait/school/necromancy
 - trait/energy/negative

@@ -7,7 +7,7 @@ tags:
 - trait/effect/healing
 - trait/class/inventor
 - trait/action/manipulate
-- imported/trait/unstable
+- trait/class/inventor/unstable
 aliases: ["Searing Restoration"]
 ---
 # Searing Restoration  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
@@ -22,4 +22,4 @@ At 3rd level, and every 2 levels thereafter, increase the healing by `1d10`.
 **Special.** If your innovation is a minion, it can take this action rather than you, though because it's not a living creature, it can't use the ability on itself.
 
 *Source: Guns & Gears p. 26*  
-%% #imported/compendium/src/pf2e/g&g #trait/energy/fire #trait/effect/healing #trait/class/inventor #trait/action/manipulate #imported/trait/unstable %%
+%% #imported/compendium/src/pf2e/g&g #trait/energy/fire #trait/effect/healing #trait/class/inventor #trait/action/manipulate #trait/class/inventor/unstable %%

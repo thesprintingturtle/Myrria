@@ -3,13 +3,17 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/advanced
-- imported/trait/backstabber
-- imported/trait/combination
+- equipment/weapon/base-weapon/category/advanced
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/group/sword
+- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/type/melee
+- trait/equipment/weapon/backstabber
+- trait/equipment/weapon/combination
 - trait/equipment/weapon/critical-fusion
 - trait/equipment/weapon/finese
 - trait/ancestry/goblin
-- imported/trait/scatter-5-ft
+- trait/equipment/weapon/scatter/5
 - trait/rarity/uncommon
 aliases: ["Explosive Dogslicer"]
 ---

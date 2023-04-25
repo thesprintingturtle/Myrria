@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- imported/item/category/assistive-item/wheelchair-upgrade
+- equipment/assistive-item/wheelchair-upgrade
 aliases: ["Wheel Spikes"]
 ---
 # Wheel Spikes *Item 0*  

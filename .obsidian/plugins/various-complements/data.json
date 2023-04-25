@@ -1022,6 +1022,78 @@
           "lastUpdated": 1682309567735
         }
       }
+    },
+    "Jezail": {
+      "Jezail": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682395165865
+        }
+      }
+    },
+    "imported/trait/attached-to-crossbow-or-firearm": {
+      "imported/trait/attached-to-crossbow-or-firearm": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682397866944
+        }
+      }
+    },
+    "equipment/weapon/base-weapon/reload/0": {
+      "equipment/weapon/base-weapon/reload/0": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1682397984921
+        }
+      }
+    },
+    "equipment/weapon/base-weapon/type/ranged": {
+      "equipment/weapon/base-weapon/type/ranged": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1682397980102
+        }
+      }
+    },
+    "equipment/weapon/base-weapon/group/sword": {
+      "equipment/weapon/base-weapon/group/sword": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682398000240
+        }
+      }
+    },
+    "equipment/weapon/base-weapon/type/melee": {
+      "equipment/weapon/base-weapon/type/melee": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1682401083282
+        }
+      }
+    },
+    "Staff": {
+      "Staff": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682399771226
+        }
+      }
+    },
+    "imported/ritual/area/circle": {
+      "imported/ritual/area/circle": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682400795545
+        }
+      }
+    },
+    "equipment/weapon/base-weapon/group/knife": {
+      "equipment/weapon/base-weapon/group/knife": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682401054942
+        }
+      }
     }
   }
 }

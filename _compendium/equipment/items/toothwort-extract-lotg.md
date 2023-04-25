@@ -3,8 +3,8 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotg
-- imported/item/category/plant
-- imported/trait/additive-1
+- equipment/plant
+- trait/class/alchemist/additive/1
 - trait/equipment/alchemical
 - trait/equipment/consumable
 aliases: ["Toothwort Extract"]

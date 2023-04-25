@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-ritual
 tags:
 - imported/compendium/src/pf2e/som
 - imported/ritual/5
-- imported/trait/consecration
+- trait/spell/consecration
 - trait/rarity/rare
 - trait/school/transmutation
 aliases: ["Establish Nexus"]

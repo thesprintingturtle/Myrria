@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/apg
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/action/flourish
 aliases: ["Cadence Call"]
 ---
@@ -24,4 +24,4 @@ You call out a quick cadence, guiding your allies into a more efficient rhythm. 
 ## Summary
 
 *Source: Advanced Player's Guide p. 180*  
-%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/effect/auditory #trait/action/flourish %%
+%% #imported/compendium/src/pf2e/apg #trait/feat/archetype #trait/sense/auditory #trait/action/flourish %%

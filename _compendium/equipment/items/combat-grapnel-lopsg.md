@@ -3,11 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lopsg
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/flail
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/finese
-- imported/trait/grapple
-- imported/trait/tethered
-- imported/trait/thrown-20-feet
+- trait/equipment/weapon/grapple
+- trait/equipment/weapon/tethered
+- trait/equipment/weapon/thrown/20
 - trait/rarity/uncommon
 aliases: ["Combat Grapnel"]
 ---

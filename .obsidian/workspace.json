@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cc992cdb39f1d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/equipment/thousand-yard-stare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e4f11b166d687d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/npcs/people/ismene-mistbren-glassbraid.md",
+                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#trait",
+                "query": "tag:#equipment/weapon/base-weapon/type/ranged -tag:#equipment/weapon/base-weapon/range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md"
+              }
             }
           },
           {
@@ -298,53 +290,53 @@
         ],
         "direction": "vertical",
         "x": 3640,
-        "y": 959,
+        "y": 960,
         "width": 1080,
-        "height": 961,
+        "height": 960,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ad54d2f956fa224c",
+  "active": "e8664686b897c20a",
   "lastOpenFiles": [
-    "myrria/organizations/faewood-academy.md",
-    "zz_templates/note-types/organizations/nonreligious-organization.md",
-    "myrria/outside-influences-story/first-draft/chapter-1-alicia/alicia-glassbraid-chapter-1.md",
-    "zz_templates/note-types/npcs/character.md",
-    "zz_templates/note-types/Untitled.md",
+    "_compendium/equipment/items/club.md",
+    "_compendium/equipment/items/gada-loil.md",
+    "_compendium/equipment/items/gaff-b2.md",
+    "_compendium/equipment/items/greatclub.md",
+    "_compendium/equipment/items/griffon-cane-lotgb.md",
+    "_compendium/equipment/items/juggling-club-ec1.md",
+    "_compendium/equipment/items/khakkara-apg.md",
+    "_compendium/equipment/items/light-mace.md",
+    "_compendium/equipment/items/leiomano-frp2.md",
+    "_compendium/equipment/items/mace.md",
+    "_compendium/equipment/items/morningstar.md",
+    "_compendium/equipment/items/nightstick-aoe1.md",
+    "_compendium/equipment/items/nunchaku.md",
+    "_compendium/equipment/items/probing-cane-lotgb.md",
+    "_compendium/equipment/items/reinforced-stock-g-g.md",
+    "_compendium/equipment/items/rungu-loag.md",
+    "_compendium/equipment/items/sap.md",
+    "_compendium/equipment/items/staff.md",
+    "_compendium/equipment/items/sun-sling-sot4.md",
+    "_compendium/equipment/items/thundermace-lotgb.md",
+    "_compendium/equipment/items/bo-staff.md",
+    "_compendium/equipment/items/battle-lute-av2.md",
+    "_compendium/equipment/items/shield-boss.md",
+    "_compendium/equipment/items/shield-spikes.md",
+    "_compendium/equipment/items/gnome-hooked-hammer.md",
+    "_compendium/equipment/items/light-hammer.md",
+    "Excalidraw",
     "zz_templates/note-types/organizations",
-    "myrria/npcs/people/aclicia-glassbraid.md",
     "zz_attachments/Myrria World Map.jpg",
-    "myrria/organizations/outside-influence.md",
-    "myrria/npcs/people/ismene-mistbren-glassbraid.md",
     "myrria/outside-influences-story/first-draft/chapter-1-alicia",
     "myrria/outside-influences-story/first-draft",
     "myrria/outside-influences-story",
-    "myrria/equipment/thousand-yard-stare.md",
-    "myrria/fundamentals/kineticist-nations.md",
-    "myrria/fundamentals/bastion-cities.md",
-    "myrria/npcs/people/vivian-thunderbrook.md",
-    "myrria/equipment/blink-cloak.md",
-    "myrria/npcs/people/asami-morningfell.md",
-    "myrria/equipment/cloak-of-the-phoenix.md",
     "myrria/fundamentals",
-    "myrria/equipment/titanfall-handwraps.md",
-    "zz_templates/note-types/equipment/item.md",
-    "zz_templates/note-types/equipment/weapon.md",
-    "_compendium/equipment/items/darkwood.md",
-    "_compendium/equipment/items/jezail-g-g.md",
-    "_rules/traits/artifact-gmg.md",
-    "_compendium/equipment/items/breath-blaster-g-g.md",
-    "_rules/traits/invested.md",
-    "_compendium/equipment/items/items.md",
-    "_compendium/feats/advanced-shooter-g-g.md",
-    "_compendium/equipment/items/arquebus-g-g.md",
     "zz_templates/note-types/equipment",
     "myrria/equipment",
     "zz_templates/note-types/npcs",
     "myrria/organizations",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria",
     "zz_attachments/direction-sign.svg",
     "zz_addons/canvas-gm-tables/Game Master Tables.canvas",
     "zz_addons/canvas-gm-tables/zzAttachments/Img Weapons 1.png",

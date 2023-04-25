@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/crb
-- imported/trait/half-orc
+- trait/ancestry/half-orc
 aliases: ["Orc Sight"]
 ---
 # Orc Sight  *Feat 1*  
@@ -16,4 +16,4 @@ Your orc blood is strong enough to grant you the keen vision of your orc forebea
 **Special.** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
 
 *Source: Core Rulebook p. 59*  
-%% #imported/compendium/src/pf2e/crb #imported/trait/half-orc %%
+%% #imported/compendium/src/pf2e/crb #trait/ancestry/half-orc %%

@@ -12,7 +12,7 @@ tags:
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/nonlethal
 - trait/equipment/weapon/reach/15
-- imported/trait/versatile-s
+- trait/equipment/weapon/versatile/s
 aliases: ["Chaldira", "The Calamitous Turn"]
 ---
 # Chaldira (The Calamitous Turn) *([NG](neutral-good-b1.md))*  

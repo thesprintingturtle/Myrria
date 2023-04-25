@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/gmg
-- imported/item/category/held
+- equipment/held-item
 - imported/trait/cg
 - trait/school/enchantment
-- imported/trait/intelligent
+- trait/equipment/intelligent
 - trait/tradition/occult
 - trait/rarity/rare
 aliases: ["Singing Sword"]

@@ -6,7 +6,7 @@ tags:
 - spell/focus/4
 - trait/school/illusion
 - trait/effect/mental
-- trait/effect/visual
+- trait/sense/visual
 aliases: ["Ephemeral Hazards"]
 ---
 # Ephemeral Hazards *Focus 4*   

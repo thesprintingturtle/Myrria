@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/locg
-- imported/item/category/consumable
+- equipment/consumable
 - trait/school/abjuration
 - trait/equipment/consumable
 - trait/effect/extradimensional

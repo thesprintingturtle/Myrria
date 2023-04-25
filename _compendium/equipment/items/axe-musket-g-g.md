@@ -3,8 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- imported/item/category/weapon/martial
-- imported/trait/combination
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/firearm
+- equipment/weapon/base-weapon/group/axe
+- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/type/melee
+- equipment/weapon/base-weapon/reload/1
+- trait/equipment/weapon/combination
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/critical-fusion
 - trait/equipment/weapon/fatal/d10

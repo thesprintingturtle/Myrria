@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe3
-- imported/item/category/poison
+- equipment/poison
 - trait/equipment/alchemical
 - trait/equipment/consumable
 - trait/effect/poison/contact
 - trait/effect/poison
 - trait/rarity/rare
-- imported/trait/virulent
+- trait/affliction/virulent
 aliases: ["Blackfinger Blight"]
 ---
 # Blackfinger Blight *Item 12*  

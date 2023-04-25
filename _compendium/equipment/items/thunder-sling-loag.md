@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loag
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/sling
+- equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/agile
-- imported/trait/propulsive
+- trait/equipment/weapon/propulsive
 - trait/ancestry/tengu
 - trait/rarity/uncommon
 aliases: ["Thunder Sling"]

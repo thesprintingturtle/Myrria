@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/som
-- imported/item/category/tattoo
+- equipment/tattoo
 - trait/equipment/invested
 - trait/magical
-- imported/trait/tattoo
+- trait/equipment/tattoo
 - trait/school/transmutation
 aliases: ["Familiar Tattoo"]
 ---

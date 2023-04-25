@@ -4,7 +4,7 @@ cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/sot2
 - trait/feat/archetype
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/school/transmutation
 aliases: ["Song Of Grace And Speed"]
 ---
@@ -18,4 +18,4 @@ aliases: ["Song Of Grace And Speed"]
 You instill great swiftness into your allies. You and all allies within 30 feet become [quickened](conditions.md#Quickened) for 1 minute and can use the additional action to [Strike](strike.md), [Stride](stride.md), or [Step](step.md).
 
 *Source: Strength of Thousands #2: Spoken on the Song Wind p. 79*  
-%% #imported/compendium/src/pf2e/sot2 #trait/feat/archetype #trait/effect/auditory #trait/school/transmutation %%
+%% #imported/compendium/src/pf2e/sot2 #trait/feat/archetype #trait/sense/auditory #trait/school/transmutation %%

@@ -3,12 +3,14 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/loag
-- imported/item/category/weapon/martial
+- equipment/weapon/base-weapon/category/martial
+- equipment/weapon/base-weapon/group/brawling
+- equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
-- imported/trait/backstabber
+- trait/equipment/weapon/backstabber
 - imported/trait/deadly-1d8
 - trait/equipment/weapon/finese
-- imported/trait/grapple
+- trait/equipment/weapon/grapple
 - trait/ancestry/kobold
 - trait/rarity/uncommon
 aliases: ["Fangwire"]

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-feat
 tags:
 - imported/compendium/src/pf2e/crb
-- trait/effect/auditory
+- trait/sense/auditory
 - trait/effect/emotion
 - trait/effect/fear
 - trait/effect/mental
@@ -22,4 +22,4 @@ You bellow, instilling fear in your enemies. Enemies within a 15-foot emanation 
 After you use Dragon Roar, you can't use it again for `1d4` rounds. Its effects end immediately if you leave Dragon Stance. Creatures in the area of your roar are then temporarily immune for 1 minute.
 
 *Source: Core Rulebook p. 161*  
-%% #imported/compendium/src/pf2e/crb #trait/effect/auditory #trait/effect/emotion #trait/effect/fear #trait/effect/mental #trait/class/monk %%
+%% #imported/compendium/src/pf2e/crb #trait/sense/auditory #trait/effect/emotion #trait/effect/fear #trait/effect/mental #trait/class/monk %%
