@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ogre Boss"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/7
 statblock: inline
 name: "Ogre Boss"
 level: 7

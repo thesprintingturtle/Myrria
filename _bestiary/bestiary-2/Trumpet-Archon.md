@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Trumpet Archon"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/celestial
+  - level/14
 statblock: inline
 name: "Trumpet Archon"
 level: 14

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Nuglub"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/fey
+  - level/2
 statblock: inline
 name: "Nuglub"
 level: 2

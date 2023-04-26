@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Jyoti"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/humanoid
+  - level/9
 statblock: inline
 name: "Jyoti"
 level: 9

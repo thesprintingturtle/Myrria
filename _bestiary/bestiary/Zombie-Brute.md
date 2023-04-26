@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Zombie Brute"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/undead
+  - level/2
 statblock: inline
 name: "Zombie Brute"
 level: 2

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Wight"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/undead
+  - level/3
 statblock: inline
 name: "Wight"
 level: 3

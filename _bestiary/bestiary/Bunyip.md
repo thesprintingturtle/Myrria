@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bunyip"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/animal
+  - level/3
 statblock: inline
 name: "Bunyip"
 level: 3

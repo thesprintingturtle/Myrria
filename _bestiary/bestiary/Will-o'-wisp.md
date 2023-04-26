@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Will-o'-wisp"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/aberration
+  - level/6
 statblock: inline
 name: "Will-o'-wisp"
 level: 6

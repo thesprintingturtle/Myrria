@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Melody On The Wind"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/elemental
+  - level/10
 statblock: inline
 name: "Melody On The Wind"
 level: 10

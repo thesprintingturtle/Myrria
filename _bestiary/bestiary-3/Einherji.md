@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Einherji"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/monitor
+  - level/10
 statblock: inline
 name: "Einherji"
 level: 10

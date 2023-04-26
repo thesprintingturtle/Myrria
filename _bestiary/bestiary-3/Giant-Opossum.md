@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Giant Opossum"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/animal
+  - level/2
 statblock: inline
 name: "Giant Opossum"
 level: 2

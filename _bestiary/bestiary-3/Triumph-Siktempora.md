@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Triumph Siktempora"
 tags: 
-  - imported/pf2e/creature/type/time
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/time
+  - level/14
 statblock: inline
 name: "Triumph Siktempora"
 level: 14

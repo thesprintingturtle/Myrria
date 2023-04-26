@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Roiling Incant"
 tags: 
-  - imported/pf2e/creature/level/9
+  - level/9
 statblock: inline
 name: "Roiling Incant"
 level: 9

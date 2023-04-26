@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Tooth Fairy"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/-1
+  - trait/creature/type/fey
+  - level/-1
 statblock: inline
 name: "Tooth Fairy"
 level: -1

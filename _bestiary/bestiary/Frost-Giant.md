@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Frost Giant"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/9
 statblock: inline
 name: "Frost Giant"
 level: 9

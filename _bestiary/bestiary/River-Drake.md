@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "River Drake"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/dragon
+  - level/3
 statblock: inline
 name: "River Drake"
 level: 3

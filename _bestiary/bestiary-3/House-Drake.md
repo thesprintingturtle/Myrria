@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "House Drake"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/dragon
+  - level/1
 statblock: inline
 name: "House Drake"
 level: 1

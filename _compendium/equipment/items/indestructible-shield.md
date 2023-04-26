@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/shield/specific-magic-shield ec
+- equipment/shield/specific-magic-shield
 - trait/school/abjuration
 - trait/magical
 - trait/rarity/rare

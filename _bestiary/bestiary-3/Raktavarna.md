@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Raktavarna"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/fiend
+  - level/1
 statblock: inline
 name: "Raktavarna"
 level: 1

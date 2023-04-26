@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Centaur"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/beast
+  - level/3
 statblock: inline
 name: "Centaur"
 level: 3

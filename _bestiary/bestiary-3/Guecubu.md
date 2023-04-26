@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Guecubu"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/undead
+  - level/8
 statblock: inline
 name: "Guecubu"
 level: 8

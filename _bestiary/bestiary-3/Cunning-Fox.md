@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Cunning Fox"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/beast
+  - trait/creature/type/spirit
+  - level/1
 statblock: inline
 name: "Cunning Fox"
 level: 1

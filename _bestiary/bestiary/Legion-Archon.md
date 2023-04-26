@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Legion Archon"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/celestial
+  - level/7
 statblock: inline
 name: "Legion Archon"
 level: 7

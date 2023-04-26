@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Young White Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/dragon
+  - level/6
 statblock: inline
 name: "Young White Dragon"
 level: 6

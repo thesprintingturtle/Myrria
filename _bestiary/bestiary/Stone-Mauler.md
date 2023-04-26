@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Stone Mauler"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/elemental
+  - level/9
 statblock: inline
 name: "Stone Mauler"
 level: 9

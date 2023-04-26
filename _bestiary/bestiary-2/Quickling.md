@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Quickling"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/fey
+  - level/3
 statblock: inline
 name: "Quickling"
 level: 3

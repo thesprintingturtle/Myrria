@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Sulfur Zombie"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/undead
+  - level/6
 statblock: inline
 name: "Sulfur Zombie"
 level: 6

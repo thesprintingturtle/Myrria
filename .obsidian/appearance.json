@@ -2,8 +2,7 @@
   "accentColor": "",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "PF2e-Actions-Font",
-    "Pathfinder2E-TTRPG-Statblock-v1.4"
+    "PF2e-Actions-Font"
   ],
   "theme": "obsidian",
   "baseFontSize": 16,

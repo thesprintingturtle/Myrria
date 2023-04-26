@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Zomok"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/dragon
+  - trait/creature/type/plant
+  - level/16
 statblock: inline
 name: "Zomok"
 level: 16

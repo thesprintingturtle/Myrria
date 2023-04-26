@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Adult Brine Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/12
 statblock: inline
 name: "Adult Brine Dragon"
 level: 12

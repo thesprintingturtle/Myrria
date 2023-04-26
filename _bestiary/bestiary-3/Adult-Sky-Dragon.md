@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Adult Sky Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/dragon
+  - level/13
 statblock: inline
 name: "Adult Sky Dragon"
 level: 13

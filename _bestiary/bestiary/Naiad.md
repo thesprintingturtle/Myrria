@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Naiad"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/fey
+  - level/1
 statblock: inline
 name: "Naiad"
 level: 1

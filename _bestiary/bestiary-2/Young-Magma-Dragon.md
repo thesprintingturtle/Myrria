@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Young Magma Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/9
 statblock: inline
 name: "Young Magma Dragon"
 level: 9

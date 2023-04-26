@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Tzitzimitl"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/undead
+  - level/19
 statblock: inline
 name: "Tzitzimitl"
 level: 19

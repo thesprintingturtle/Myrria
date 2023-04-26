@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Two-headed Troll"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/giant
+  - level/8
 statblock: inline
 name: "Two-headed Troll"
 level: 8

@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Young Cloud Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/10
 statblock: inline
 name: "Young Cloud Dragon"
 level: 10

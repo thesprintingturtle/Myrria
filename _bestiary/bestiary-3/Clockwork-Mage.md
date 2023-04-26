@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Clockwork Mage"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/construct
+  - level/9
 statblock: inline
 name: "Clockwork Mage"
 level: 9

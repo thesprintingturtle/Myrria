@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Leydroth"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/17
+  - trait/creature/type/beast
+  - level/17
 statblock: inline
 name: "Leydroth"
 level: 17

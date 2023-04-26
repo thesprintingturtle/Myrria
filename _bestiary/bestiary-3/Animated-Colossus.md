@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Animated Colossus"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/15
+  - trait/creature/type/construct
+  - level/15
 statblock: inline
 name: "Animated Colossus"
 level: 15

@@ -56,5 +56,6 @@
   "ITS@@text-highlight-bg-active@@dark": "#751AFF4F",
   "ITS@@text-selection@@dark": "#3018564F",
   "ITS@@graph-focused@@dark": "#751AFF4F",
-  "ITS@@its-i": false
+  "ITS@@its-i": false,
+  "path2eblock@@statblock-theme-creature": "path2eblock-theme-default"
 }

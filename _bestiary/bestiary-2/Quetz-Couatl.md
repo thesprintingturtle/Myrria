@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Quetz Couatl"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/beast
+  - level/10
 statblock: inline
 name: "Quetz Couatl"
 level: 10

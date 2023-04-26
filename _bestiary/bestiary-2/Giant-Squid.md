@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Giant Squid"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/animal
+  - level/9
 statblock: inline
 name: "Giant Squid"
 level: 9

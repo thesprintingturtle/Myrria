@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Akizendri"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/monitor
+  - level/3
 statblock: inline
 name: "Akizendri"
 level: 3

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Giant Octopus"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/animal
+  - level/8
 statblock: inline
 name: "Giant Octopus"
 level: 8

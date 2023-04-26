@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gliminal"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/spirit
+  - level/9
 statblock: inline
 name: "Gliminal"
 level: 9

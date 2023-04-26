@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ankou"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/fey
+  - level/14
 statblock: inline
 name: "Ankou"
 level: 14

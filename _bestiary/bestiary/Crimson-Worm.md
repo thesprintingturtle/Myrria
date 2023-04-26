@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Crimson Worm"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/beast
+  - level/18
 statblock: inline
 name: "Crimson Worm"
 level: 18

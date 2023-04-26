@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Mudwretch"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/elemental
+  - level/2
 statblock: inline
 name: "Mudwretch"
 level: 2

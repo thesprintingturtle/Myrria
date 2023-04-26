@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Xulgath Skulker"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/humanoid
+  - level/2
 statblock: inline
 name: "Xulgath Skulker"
 level: 2

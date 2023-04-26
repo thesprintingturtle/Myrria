@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Vishkanya Infiltrator"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/humanoid
+  - level/3
 statblock: inline
 name: "Vishkanya Infiltrator"
 level: 3

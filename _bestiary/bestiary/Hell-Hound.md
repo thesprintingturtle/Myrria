@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Hell Hound"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/beast
+  - trait/creature/type/fiend
+  - level/3
 statblock: inline
 name: "Hell Hound"
 level: 3

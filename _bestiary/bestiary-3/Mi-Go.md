@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Mi-Go"
 tags: 
-  - imported/pf2e/creature/type/fungus
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/fungus
+  - level/6
 statblock: inline
 name: "Mi-Go"
 level: 6

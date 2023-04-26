@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Nereid"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/fey
+  - level/10
 statblock: inline
 name: "Nereid"
 level: 10

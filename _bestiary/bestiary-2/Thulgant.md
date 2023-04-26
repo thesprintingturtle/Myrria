@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Thulgant"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/fiend
+  - level/18
 statblock: inline
 name: "Thulgant"
 level: 18

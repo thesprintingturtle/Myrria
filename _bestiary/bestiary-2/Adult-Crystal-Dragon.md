@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Adult Crystal Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/11
 statblock: inline
 name: "Adult Crystal Dragon"
 level: 11

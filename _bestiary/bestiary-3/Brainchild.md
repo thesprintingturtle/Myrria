@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Brainchild"
 tags: 
-  - imported/pf2e/creature/level/11
+  - level/11
 statblock: inline
 name: "Brainchild"
 level: 11

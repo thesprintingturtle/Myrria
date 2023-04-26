@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Coral Capuchin"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/beast
+  - level/1
 statblock: inline
 name: "Coral Capuchin"
 level: 1

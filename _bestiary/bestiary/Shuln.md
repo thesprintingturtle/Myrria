@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Shuln"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/beast
+  - level/12
 statblock: inline
 name: "Shuln"
 level: 12

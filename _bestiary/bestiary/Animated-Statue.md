@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Animated Statue"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/construct
+  - level/3
 statblock: inline
 name: "Animated Statue"
 level: 3

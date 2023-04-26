@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Tooth Fairy Swarm"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/fey
+  - level/3
 statblock: inline
 name: "Tooth Fairy Swarm"
 level: 3

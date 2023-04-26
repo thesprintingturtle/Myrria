@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Harmona"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/fey
+  - level/11
 statblock: inline
 name: "Harmona"
 level: 11

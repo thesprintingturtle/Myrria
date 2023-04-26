@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Flaming Skull"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/undead
+  - level/2
 statblock: inline
 name: "Flaming Skull"
 level: 2

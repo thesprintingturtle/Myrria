@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Zelekhut"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/monitor
+  - level/9
 statblock: inline
 name: "Zelekhut"
 level: 9

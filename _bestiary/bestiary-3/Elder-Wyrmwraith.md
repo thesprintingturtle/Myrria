@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Elder Wyrmwraith"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/23
+  - trait/creature/type/dragon
+  - trait/creature/type/undead
+  - level/23
 statblock: inline
 name: "Elder Wyrmwraith"
 level: 23

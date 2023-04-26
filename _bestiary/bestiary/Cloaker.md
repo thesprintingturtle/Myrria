@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Cloaker"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/aberration
+  - level/5
 statblock: inline
 name: "Cloaker"
 level: 5

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ancient Silver Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/dragon
+  - level/19
 statblock: inline
 name: "Ancient Silver Dragon"
 level: 19

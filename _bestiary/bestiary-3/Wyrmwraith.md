@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Wyrmwraith"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/17
+  - trait/creature/type/dragon
+  - trait/creature/type/undead
+  - level/17
 statblock: inline
 name: "Wyrmwraith"
 level: 17

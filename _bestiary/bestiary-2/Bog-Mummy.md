@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bog Mummy"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/undead
+  - level/5
 statblock: inline
 name: "Bog Mummy"
 level: 5

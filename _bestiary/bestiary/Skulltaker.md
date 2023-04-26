@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Skulltaker"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/undead
+  - level/18
 statblock: inline
 name: "Skulltaker"
 level: 18

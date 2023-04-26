@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Monadic Deva"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/celestial
+  - level/12
 statblock: inline
 name: "Monadic Deva"
 level: 12

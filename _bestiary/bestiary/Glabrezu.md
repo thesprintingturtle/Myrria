@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Glabrezu"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/fiend
+  - level/13
 statblock: inline
 name: "Glabrezu"
 level: 13

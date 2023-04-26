@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Shadow"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/undead
+  - level/4
 statblock: inline
 name: "Shadow"
 level: 4

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Crag Linnorm"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/dragon
+  - level/14
 statblock: inline
 name: "Crag Linnorm"
 level: 14

@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Hellbound Attorney"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/fiend
+  - trait/creature/type/humanoid
+  - level/4
 statblock: inline
 name: "Hellbound Attorney"
 level: 4

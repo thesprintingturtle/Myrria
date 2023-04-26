@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Lamia"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/beast
+  - level/6
 statblock: inline
 name: "Lamia"
 level: 6

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gancanagh"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/celestial
+  - level/4
 statblock: inline
 name: "Gancanagh"
 level: 4

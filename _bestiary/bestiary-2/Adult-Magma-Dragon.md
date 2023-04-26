@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Adult Magma Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/13
 statblock: inline
 name: "Adult Magma Dragon"
 level: 13

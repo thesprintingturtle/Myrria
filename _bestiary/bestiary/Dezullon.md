@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Dezullon"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/plant
+  - level/10
 statblock: inline
 name: "Dezullon"
 level: 10

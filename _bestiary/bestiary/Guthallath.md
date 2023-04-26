@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Guthallath"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/construct
+  - level/19
 statblock: inline
 name: "Guthallath"
 level: 19

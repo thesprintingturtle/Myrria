@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Night Hag"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/fiend
+  - trait/creature/type/humanoid
+  - level/9
 statblock: inline
 name: "Night Hag"
 level: 9

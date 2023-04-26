@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Woolly Rhinoceros"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/animal
+  - level/6
 statblock: inline
 name: "Woolly Rhinoceros"
 level: 6

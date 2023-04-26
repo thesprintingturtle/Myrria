@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Taiga Giant"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/12
 statblock: inline
 name: "Taiga Giant"
 level: 12

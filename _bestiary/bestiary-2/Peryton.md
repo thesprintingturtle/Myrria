@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Peryton"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/beast
+  - level/4
 statblock: inline
 name: "Peryton"
 level: 4

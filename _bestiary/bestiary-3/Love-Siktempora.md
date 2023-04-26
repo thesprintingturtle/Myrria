@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Love Siktempora"
 tags: 
-  - imported/pf2e/creature/type/time
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/time
+  - level/16
 statblock: inline
 name: "Love Siktempora"
 level: 16

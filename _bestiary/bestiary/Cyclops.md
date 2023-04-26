@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Cyclops"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/5
 statblock: inline
 name: "Cyclops"
 level: 5

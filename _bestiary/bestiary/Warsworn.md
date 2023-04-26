@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Warsworn"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/undead
+  - level/16
 statblock: inline
 name: "Warsworn"
 level: 16

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Chuul"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/aberration
+  - level/7
 statblock: inline
 name: "Chuul"
 level: 7

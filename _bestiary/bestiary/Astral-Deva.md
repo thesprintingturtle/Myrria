@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Astral Deva"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/celestial
+  - level/14
 statblock: inline
 name: "Astral Deva"
 level: 14

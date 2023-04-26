@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Shae"
 tags: 
-  - imported/pf2e/creature/level/4
+  - level/4
 statblock: inline
 name: "Shae"
 level: 4

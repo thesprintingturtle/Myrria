@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Clockwork Soldier"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/construct
+  - level/6
 statblock: inline
 name: "Clockwork Soldier"
 level: 6

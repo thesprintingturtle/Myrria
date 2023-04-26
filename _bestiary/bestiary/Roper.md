@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Roper"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/aberration
+  - level/10
 statblock: inline
 name: "Roper"
 level: 10

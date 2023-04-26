@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ancient Cloud Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/19
 statblock: inline
 name: "Ancient Cloud Dragon"
 level: 19

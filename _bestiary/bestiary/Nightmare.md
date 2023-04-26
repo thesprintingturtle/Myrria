@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Nightmare"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/beast
+  - trait/creature/type/fiend
+  - level/6
 statblock: inline
 name: "Nightmare"
 level: 6

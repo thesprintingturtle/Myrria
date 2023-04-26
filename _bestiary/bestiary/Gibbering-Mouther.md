@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gibbering Mouther"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/aberration
+  - level/5
 statblock: inline
 name: "Gibbering Mouther"
 level: 5

@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Sandpoint Devil"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/beast
+  - trait/creature/type/fiend
+  - level/8
 statblock: inline
 name: "Sandpoint Devil"
 level: 8

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "D'ziriak"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/aberration
+  - level/3
 statblock: inline
 name: "D'ziriak"
 level: 3

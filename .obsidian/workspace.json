@@ -8,95 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4f11b166d687d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_compendium/equipment/items/barding-of-the-zephyr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dadc4a8b5931d46d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/npcs/people/aclicia-glassbraid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d43669c3ba23d418",
+            "id": "e03bc3bce62a7485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "myrria/organizations/faewood-academy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a940527abb9ee0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/organizations/faewood-academy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "709326ec55b96593",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zz_attachments/Myrria World Map.jpg"
-              }
-            }
-          },
-          {
-            "id": "89f009d53577cdfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/equipment/blink-cloak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b945b51c7db9248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/organizations/outside-influence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c4135bc328118c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/equipment/cloak-of-the-phoenix.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -130,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#equipment/companion",
+                "query": "tag:#item",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,6 +78,7 @@
       {
         "id": "508c56b6edd43788",
         "type": "tabs",
+        "dimension": 86.11111111111111,
         "children": [
           {
             "id": "0f55a2d0156f1985",
@@ -168,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_compendium/equipment/items/barding-of-the-zephyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_compendium/equipment/items/barding-of-the-zephyr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,24 +123,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_compendium/equipment/items/barding-of-the-zephyr.md"
-              }
-            }
-          },
-          {
-            "id": "6d824f16ba447809",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5b288dbcc8a56dc3",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
@@ -243,13 +141,43 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e3184954b974bd32",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "a89ddd9a4c36bafa",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "ebc4af15088df2d8",
+        "type": "tabs",
+        "dimension": 13.88888888888889,
+        "children": [
+          {
+            "id": "21bf78c61c8e3ae7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,10 +187,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "floating": {
@@ -291,62 +219,62 @@
         "direction": "vertical",
         "x": 3640,
         "y": 960,
-        "width": 1026,
-        "height": 802,
+        "width": 1080,
+        "height": 960,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e4f11b166d687d90",
+  "active": "ad54d2f956fa224c",
   "lastOpenFiles": [
-    "_compendium/equipment/items/arrow-attracting-gmg.md",
-    "_compendium/equipment/items/wooden-shield.md",
-    "_compendium/equipment/items/tower-shield.md",
-    "_compendium/equipment/items/sturdy-shield.md",
-    "_compendium/equipment/items/steel-shield.md",
-    "_compendium/equipment/items/spined-shield.md",
-    "_compendium/equipment/items/spellguard-shield.md",
-    "_compendium/equipment/items/silver-shield.md",
-    "_compendium/equipment/items/siccatite-shield-lotgb.md",
-    "_compendium/equipment/items/shield-of-the-unified-legion-ec6.md",
-    "_compendium/equipment/items/reflecting-shield.md",
-    "_compendium/equipment/items/orichalcum-shield.md",
-    "_compendium/equipment/items/noqual-shield-lotgb.md",
-    "_compendium/equipment/items/mithral-shield.md",
-    "_compendium/equipment/items/lions-shield.md",
-    "_compendium/equipment/items/inubrix-shield-lotgb.md",
-    "_compendium/equipment/items/indestructible-shield.md",
-    "_compendium/equipment/items/forge-warden.md",
-    "_compendium/equipment/items/force-shield.md",
-    "_compendium/equipment/items/floating-shield.md",
-    "_compendium/equipment/items/dragonslayers-shield.md",
-    "_compendium/equipment/items/dragonhide-shield.md",
-    "_compendium/equipment/items/djezet-shield-lotgb.md",
-    "_compendium/equipment/items/arrow-catching-shield.md",
-    "_compendium/equipment/items/darkwood-shield.md",
-    "_compendium/equipment/items/cold-iron-shield.md",
+    "myrria/organizations/faewood-academy.md",
+    "_compendium/setting/domains.md",
+    "_compendium/setting",
+    "myrria/organizations/outside-influence.md",
+    "myrria/npcs/people/ismene-mistbren-glassbraid.md",
+    "myrria/npcs/people/vivian-thunderbrook.md",
+    "myrria/npcs/people/asami-morningfell.md",
+    "myrria/npcs/people/aclicia-glassbraid.md",
+    "bestiary-custom/snow-bison.md",
+    "_rules/conditions.md",
+    "_compendium/gm/afflictions/blinding-sickness.md",
+    "_compendium/gm/afflictions/choking-death.md",
+    "_compendium/gm/afflictions/boatmans-toll-curse-loil.md",
+    "_compendium/feats/accelerating-touch-apg.md",
+    "_compendium/feats/accursed-magic-da.md",
+    "_compendium/feats/adaptive-adept.md",
+    "_compendium/feats/adroit-manipulation-locg.md",
+    "_compendium/feats/additional-companion-apg.md",
+    "_compendium/feats/accursed-clay-fist-ec3.md",
+    "_compendium/feats/acrobatic-performer-apg.md",
+    "_compendium/feats/accompany-apg.md",
+    "_compendium/feats/acquired-tolerance-apg.md",
+    "_compendium/feats/adhyabhau-loag.md",
+    "_compendium/feats/adapted-cantrip.md",
+    "_compendium/feats/achaekeks-grip-lol.md",
+    "_compendium/feats/accurate-swing-ngd.md",
+    "_compendium/feats/abundant-step.md",
+    "Stat Blocks/Snow Bison/snow_bison-1679544074.png",
+    "bestiary-custom",
+    "zz_templates/action-icons/Untitled",
+    "zz_templates/note-types/stat-blocks",
+    "Stat Blocks/Draconian Dreadnaught/draconian_dreadnaught-1675732485.png",
+    "Rewards",
+    "_rules/assets/img/two_actions.svg",
+    "_rules/assets/img/three_actions.svg",
+    "_rules/assets/img/single_action.svg",
+    "_rules/assets/img/reaction.svg",
+    "_rules/assets/img/load.svg",
+    "_rules/assets/img/hour-glass.svg",
+    "_rules/assets/img/delay.svg",
     "Excalidraw",
     "zz_templates/note-types/organizations",
     "zz_attachments/Myrria World Map.jpg",
-    "myrria/outside-influences-story/first-draft/chapter-1-alicia",
-    "myrria/outside-influences-story/first-draft",
-    "myrria/outside-influences-story",
-    "myrria/fundamentals",
-    "zz_templates/note-types/equipment",
-    "myrria/equipment",
-    "zz_templates/note-types/npcs",
-    "myrria/organizations",
-    "zz_attachments/direction-sign.svg",
+    "outside-influences-story/first-draft/chapter-1-alicia",
+    "outside-influences-story/first-draft",
+    "outside-influences-story",
     "zz_addons/canvas-gm-tables/Game Master Tables.canvas",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Weapons 1.png",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Structure Tables.png",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Simple Hazards.png",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Move Skill Tables.png",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Miscellaneous Charts.png",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Environmental Feature Tables.png",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Encounter Adjustments.png",
-    "zz_addons/canvas-gm-tables/zzAttachments/Img Difficulty Classes.png",
     "Untitled.canvas"
   ]
 }

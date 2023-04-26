@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Dryad"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/fey
+  - trait/creature/type/plant
+  - level/3
 statblock: inline
 name: "Dryad"
 level: 3

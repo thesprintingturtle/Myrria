@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Elasmosaurus"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/animal
+  - level/7
 statblock: inline
 name: "Elasmosaurus"
 level: 7

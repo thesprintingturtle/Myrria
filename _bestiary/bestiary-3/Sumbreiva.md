@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Sumbreiva"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/humanoid
+  - level/16
 statblock: inline
 name: "Sumbreiva"
 level: 16

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Trailgaunt"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/undead
+  - level/3
 statblock: inline
 name: "Trailgaunt"
 level: 3

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Frost Worm"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/animal
+  - level/12
 statblock: inline
 name: "Frost Worm"
 level: 12

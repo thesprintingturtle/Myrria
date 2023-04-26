@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Shoggoth"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/aberration
+  - level/18
 statblock: inline
 name: "Shoggoth"
 level: 18

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Priest Of Pharasma"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/humanoid
+  - level/6
 statblock: inline
 name: "Priest Of Pharasma"
 level: 6

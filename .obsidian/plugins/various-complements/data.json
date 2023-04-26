@@ -12,7 +12,7 @@
   "complementAutomatically": true,
   "delayMilliSeconds": 0,
   "disableSuggestionsDuringImeOn": false,
-  "insertAfterCompletion": true,
+  "insertAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
   "useCommonPrefixCompletionOfSuggestion": false,
   "patternsToSuppressTrigger": [
@@ -586,16 +586,16 @@
     "custom": {
       "custom": {
         "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1682308976779
+          "count": 6,
+          "lastUpdated": 1682544386948
         }
       }
     },
     "level/X": {
       "level/X": {
         "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1681930786321
+          "count": 3,
+          "lastUpdated": 1682544398539
         }
       }
     },
@@ -1156,6 +1156,38 @@
         "frontMatter": {
           "count": 3,
           "lastUpdated": 1682520254669
+        }
+      }
+    },
+    "reach": {
+      "reach": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682545951962
+        }
+      }
+    },
+    "Animal": {
+      "Animal": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682547801088
+        }
+      }
+    },
+    "Buck": {
+      "Buck": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682547233340
+        }
+      }
+    },
+    "pf2eMonster": {
+      "pf2eMonster": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682547899584
         }
       }
     }

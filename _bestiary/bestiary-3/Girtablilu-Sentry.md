@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Girtablilu Sentry"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/beast
+  - level/8
 statblock: inline
 name: "Girtablilu Sentry"
 level: 8

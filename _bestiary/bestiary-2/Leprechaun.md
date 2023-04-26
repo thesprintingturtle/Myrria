@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Leprechaun"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/fey
+  - level/2
 statblock: inline
 name: "Leprechaun"
 level: 2

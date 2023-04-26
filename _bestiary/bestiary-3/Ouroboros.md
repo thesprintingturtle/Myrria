@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ouroboros"
 tags: 
-  - imported/pf2e/creature/type/astral
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/21
+  - trait/creature/type/astral
+  - trait/creature/type/beast
+  - level/21
 statblock: inline
 name: "Ouroboros"
 level: 21

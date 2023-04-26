@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Wendigo"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/17
+  - trait/creature/type/beast
+  - level/17
 statblock: inline
 name: "Wendigo"
 level: 17

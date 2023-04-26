@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Hesperid"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/fey
+  - level/9
 statblock: inline
 name: "Hesperid"
 level: 9

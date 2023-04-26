@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Sod Hound"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/elemental
+  - level/3
 statblock: inline
 name: "Sod Hound"
 level: 3

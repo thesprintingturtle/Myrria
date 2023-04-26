@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Cave Fisher"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/animal
+  - level/2
 statblock: inline
 name: "Cave Fisher"
 level: 2

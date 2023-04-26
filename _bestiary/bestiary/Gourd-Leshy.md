@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gourd Leshy"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/plant
+  - level/1
 statblock: inline
 name: "Gourd Leshy"
 level: 1

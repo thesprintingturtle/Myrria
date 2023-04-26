@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Snapping Flytrap"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/plant
+  - level/3
 statblock: inline
 name: "Snapping Flytrap"
 level: 3

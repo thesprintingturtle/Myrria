@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gelatinous Cube"
 tags: 
-  - imported/pf2e/creature/type/ooze
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/ooze
+  - level/3
 statblock: inline
 name: "Gelatinous Cube"
 level: 3

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Mohrg"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/undead
+  - level/8
 statblock: inline
 name: "Mohrg"
 level: 8

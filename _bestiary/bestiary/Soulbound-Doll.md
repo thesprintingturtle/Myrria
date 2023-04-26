@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Soulbound Doll"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/construct
+  - level/2
 statblock: inline
 name: "Soulbound Doll"
 level: 2

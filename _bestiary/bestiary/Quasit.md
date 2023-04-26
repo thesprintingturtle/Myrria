@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Quasit"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/fiend
+  - level/1
 statblock: inline
 name: "Quasit"
 level: 1

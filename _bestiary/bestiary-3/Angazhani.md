@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Angazhani"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/beast
+  - level/8
 statblock: inline
 name: "Angazhani"
 level: 8

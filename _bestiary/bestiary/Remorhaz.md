@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Remorhaz"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/beast
+  - level/7
 statblock: inline
 name: "Remorhaz"
 level: 7

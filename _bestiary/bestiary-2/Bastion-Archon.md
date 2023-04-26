@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bastion Archon"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/20
+  - trait/creature/type/celestial
+  - level/20
 statblock: inline
 name: "Bastion Archon"
 level: 20

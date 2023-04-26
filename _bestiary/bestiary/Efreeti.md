@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Efreeti"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/elemental
+  - level/9
 statblock: inline
 name: "Efreeti"
 level: 9

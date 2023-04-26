@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Alchemical Golem"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/construct
+  - level/9
 statblock: inline
 name: "Alchemical Golem"
 level: 9

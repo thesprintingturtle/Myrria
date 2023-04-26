@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Adult Green Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/dragon
+  - level/12
 statblock: inline
 name: "Adult Green Dragon"
 level: 12

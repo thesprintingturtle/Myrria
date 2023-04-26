@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Lemure"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/0
+  - trait/creature/type/fiend
+  - level/0
 statblock: inline
 name: "Lemure"
 level: 0

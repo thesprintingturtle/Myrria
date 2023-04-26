@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Sarglagon"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/fiend
+  - level/8
 statblock: inline
 name: "Sarglagon"
 level: 8

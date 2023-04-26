@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ettin"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/6
 statblock: inline
 name: "Ettin"
 level: 6

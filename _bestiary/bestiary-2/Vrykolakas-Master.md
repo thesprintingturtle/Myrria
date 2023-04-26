@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Vrykolakas Master"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/undead
+  - level/10
 statblock: inline
 name: "Vrykolakas Master"
 level: 10

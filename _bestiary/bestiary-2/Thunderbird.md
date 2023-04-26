@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Thunderbird"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/beast
+  - level/11
 statblock: inline
 name: "Thunderbird"
 level: 11

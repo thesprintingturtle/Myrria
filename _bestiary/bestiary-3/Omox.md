@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Omox"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/type/ooze
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/fiend
+  - trait/creature/type/ooze
+  - level/12
 statblock: inline
 name: "Omox"
 level: 12

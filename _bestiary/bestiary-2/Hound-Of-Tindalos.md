@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Hound Of Tindalos"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/type/time
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/aberration
+  - trait/creature/type/time
+  - level/7
 statblock: inline
 name: "Hound Of Tindalos"
 level: 7

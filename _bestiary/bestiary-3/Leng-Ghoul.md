@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Leng Ghoul"
 tags: 
-  - imported/pf2e/creature/type/dream
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/dream
+  - trait/creature/type/undead
+  - level/10
 statblock: inline
 name: "Leng Ghoul"
 level: 10

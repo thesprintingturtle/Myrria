@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Zombie Shambler"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/-1
+  - trait/creature/type/undead
+  - level/-1
 statblock: inline
 name: "Zombie Shambler"
 level: -1

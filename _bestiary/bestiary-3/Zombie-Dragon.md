@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Zombie Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/dragon
+  - trait/creature/type/undead
+  - level/9
 statblock: inline
 name: "Zombie Dragon"
 level: 9

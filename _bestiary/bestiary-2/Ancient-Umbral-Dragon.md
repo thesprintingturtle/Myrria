@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ancient Umbral Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/20
+  - trait/creature/type/dragon
+  - level/20
 statblock: inline
 name: "Ancient Umbral Dragon"
 level: 20

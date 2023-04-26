@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Caulborn"
 tags: 
-  - imported/pf2e/creature/type/astral
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/astral
+  - level/7
 statblock: inline
 name: "Caulborn"
 level: 7

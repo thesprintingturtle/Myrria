@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Kongamato"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/dragon
+  - level/11
 statblock: inline
 name: "Kongamato"
 level: 11

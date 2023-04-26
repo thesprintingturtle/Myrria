@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Imentesh"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/monitor
+  - level/10
 statblock: inline
 name: "Imentesh"
 level: 10

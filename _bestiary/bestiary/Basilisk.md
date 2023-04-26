@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Basilisk"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/beast
+  - level/5
 statblock: inline
 name: "Basilisk"
 level: 5

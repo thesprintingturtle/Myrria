@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Sewer Ooze"
 tags: 
-  - imported/pf2e/creature/type/ooze
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/ooze
+  - level/1
 statblock: inline
 name: "Sewer Ooze"
 level: 1

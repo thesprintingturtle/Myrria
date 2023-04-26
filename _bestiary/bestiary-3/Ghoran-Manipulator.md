@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ghoran Manipulator"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/humanoid
+  - trait/creature/type/plant
+  - level/3
 statblock: inline
 name: "Ghoran Manipulator"
 level: 3

@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ravener Husk"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/dragon
+  - trait/creature/type/undead
+  - level/14
 statblock: inline
 name: "Ravener Husk"
 level: 14

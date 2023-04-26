@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Keketar"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/17
+  - trait/creature/type/monitor
+  - level/17
 statblock: inline
 name: "Keketar"
 level: 17

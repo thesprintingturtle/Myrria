@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Hesperid Queen"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/fey
+  - level/19
 statblock: inline
 name: "Hesperid Queen"
 level: 19

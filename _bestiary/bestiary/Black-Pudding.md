@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Black Pudding"
 tags: 
-  - imported/pf2e/creature/type/ooze
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/ooze
+  - level/7
 statblock: inline
 name: "Black Pudding"
 level: 7

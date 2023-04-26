@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Elemental Hurricane"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/elemental
+  - level/11
 statblock: inline
 name: "Elemental Hurricane"
 level: 11

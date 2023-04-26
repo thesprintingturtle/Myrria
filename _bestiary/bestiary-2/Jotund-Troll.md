@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Jotund Troll"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/level/15
+  - trait/creature/type/giant
+  - level/15
 statblock: inline
 name: "Jotund Troll"
 level: 15

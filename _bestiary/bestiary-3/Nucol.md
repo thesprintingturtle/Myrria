@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Nucol"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/fiend
+  - level/4
 statblock: inline
 name: "Nucol"
 level: 4

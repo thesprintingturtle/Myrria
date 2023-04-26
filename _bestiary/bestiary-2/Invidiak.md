@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Invidiak"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/fiend
+  - level/7
 statblock: inline
 name: "Invidiak"
 level: 7

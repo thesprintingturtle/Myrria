@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ancient Crystal Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/16
 statblock: inline
 name: "Ancient Crystal Dragon"
 level: 16

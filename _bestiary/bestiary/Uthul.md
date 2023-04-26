@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Uthul"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/elemental
+  - level/14
 statblock: inline
 name: "Uthul"
 level: 14

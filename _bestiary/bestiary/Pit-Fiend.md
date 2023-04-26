@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Pit Fiend"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/20
+  - trait/creature/type/fiend
+  - level/20
 statblock: inline
 name: "Pit Fiend"
 level: 20

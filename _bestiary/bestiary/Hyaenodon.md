@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Hyaenodon"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/animal
+  - level/3
 statblock: inline
 name: "Hyaenodon"
 level: 3

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Tick Swarm"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/animal
+  - level/9
 statblock: inline
 name: "Tick Swarm"
 level: 9

@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Witchfire"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/9
 statblock: inline
 name: "Witchfire"
 level: 9

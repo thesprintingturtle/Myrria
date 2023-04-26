@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Tyrannosaurus Skeleton"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/undead
+  - level/9
 statblock: inline
 name: "Tyrannosaurus Skeleton"
 level: 9

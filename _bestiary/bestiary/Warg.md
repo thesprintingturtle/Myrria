@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Warg"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/beast
+  - level/2
 statblock: inline
 name: "Warg"
 level: 2

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bandit"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/humanoid
+  - level/2
 statblock: inline
 name: "Bandit"
 level: 2

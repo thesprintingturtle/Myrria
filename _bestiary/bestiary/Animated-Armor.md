@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Animated Armor"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/construct
+  - level/2
 statblock: inline
 name: "Animated Armor"
 level: 2

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bythos"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/monitor
+  - level/16
 statblock: inline
 name: "Bythos"
 level: 16

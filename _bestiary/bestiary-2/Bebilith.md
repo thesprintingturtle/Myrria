@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Bebilith"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/beast
+  - trait/creature/type/fiend
+  - level/10
 statblock: inline
 name: "Bebilith"
 level: 10

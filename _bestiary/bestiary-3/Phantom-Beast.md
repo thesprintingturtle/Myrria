@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Phantom Beast"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/spirit
+  - level/8
 statblock: inline
 name: "Phantom Beast"
 level: 8

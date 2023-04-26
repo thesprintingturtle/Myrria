@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Marsh Giant"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/8
 statblock: inline
 name: "Marsh Giant"
 level: 8

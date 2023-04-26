@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Fire Giant"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/10
 statblock: inline
 name: "Fire Giant"
 level: 10

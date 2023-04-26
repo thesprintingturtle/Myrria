@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Blood Painter"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/aberration
+  - level/9
 statblock: inline
 name: "Blood Painter"
 level: 9

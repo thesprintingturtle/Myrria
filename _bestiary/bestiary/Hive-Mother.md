@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Hive Mother"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/animal
+  - level/8
 statblock: inline
 name: "Hive Mother"
 level: 8

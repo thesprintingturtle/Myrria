@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Dramofir"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/type/dream
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/aberration
+  - trait/creature/type/dream
+  - level/14
 statblock: inline
 name: "Dramofir"
 level: 14

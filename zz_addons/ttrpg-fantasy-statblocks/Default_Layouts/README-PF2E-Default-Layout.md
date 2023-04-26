@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Clockwork Dragon"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/construct
+  - level/16
 statblock: inline
 name: "Clockwork Dragon"
 level: 16
@@ -83,7 +83,7 @@ perception:
     desc: "Perception +28; __darkvision__;"
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +29 (1d20+29); __Athletics__: +33 (1d20+33); "
+    desc: "Acrobatics: +29 (1d20+29); Athletics: +33 (1d20+33)"
 abilityMods: [9, 5, 5, -5, 4, -5]
 
 abilities_mid:

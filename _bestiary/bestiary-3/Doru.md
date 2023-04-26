@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Doru"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/fiend
+  - level/1
 statblock: inline
 name: "Doru"
 level: 1

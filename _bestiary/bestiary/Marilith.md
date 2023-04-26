@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Marilith"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/17
+  - trait/creature/type/fiend
+  - level/17
 statblock: inline
 name: "Marilith"
 level: 17

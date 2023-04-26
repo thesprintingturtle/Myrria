@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Frost Drake"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/dragon
+  - level/7
 statblock: inline
 name: "Frost Drake"
 level: 7

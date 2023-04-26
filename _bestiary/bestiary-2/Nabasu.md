@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Nabasu"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/fiend
+  - level/8
 statblock: inline
 name: "Nabasu"
 level: 8

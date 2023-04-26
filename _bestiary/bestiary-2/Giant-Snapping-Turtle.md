@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Giant Snapping Turtle"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/animal
+  - level/9
 statblock: inline
 name: "Giant Snapping Turtle"
 level: 9

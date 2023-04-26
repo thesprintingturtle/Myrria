@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Phantom Knight"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/spirit
+  - level/4
 statblock: inline
 name: "Phantom Knight"
 level: 4

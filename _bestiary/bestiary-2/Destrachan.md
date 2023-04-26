@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Destrachan"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/aberration
+  - level/8
 statblock: inline
 name: "Destrachan"
 level: 8

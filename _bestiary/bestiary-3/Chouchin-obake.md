@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Chouchin-obake"
 tags: 
-  - imported/pf2e/creature/level/6
+  - level/6
 statblock: inline
 name: "Chouchin-obake"
 level: 6

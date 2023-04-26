@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Animated Furnace"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/construct
+  - level/9
 statblock: inline
 name: "Animated Furnace"
 level: 9

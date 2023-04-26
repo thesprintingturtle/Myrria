@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Flame Drake"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/dragon
+  - level/5
 statblock: inline
 name: "Flame Drake"
 level: 5

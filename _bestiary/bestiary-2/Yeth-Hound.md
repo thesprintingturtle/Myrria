@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Yeth Hound"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/beast
+  - trait/creature/type/fiend
+  - level/3
 statblock: inline
 name: "Yeth Hound"
 level: 3

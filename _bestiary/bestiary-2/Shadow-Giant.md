@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Shadow Giant"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/13
 statblock: inline
 name: "Shadow Giant"
 level: 13

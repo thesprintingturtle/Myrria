@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Fire Wisp"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/0
+  - trait/creature/type/elemental
+  - level/0
 statblock: inline
 name: "Fire Wisp"
 level: 0

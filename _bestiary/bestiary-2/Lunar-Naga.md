@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Lunar Naga"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/aberration
+  - level/6
 statblock: inline
 name: "Lunar Naga"
 level: 6

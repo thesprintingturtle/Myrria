@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Goblin Dog"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/animal
+  - level/1
 statblock: inline
 name: "Goblin Dog"
 level: 1

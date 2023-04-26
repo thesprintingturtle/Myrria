@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Solar"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/23
+  - trait/creature/type/celestial
+  - level/23
 statblock: inline
 name: "Solar"
 level: 23

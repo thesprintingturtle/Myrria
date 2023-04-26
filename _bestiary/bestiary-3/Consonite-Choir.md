@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Consonite Choir"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/elemental
+  - level/13
 statblock: inline
 name: "Consonite Choir"
 level: 13

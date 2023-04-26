@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Striding Fire"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/elemental
+  - level/6
 statblock: inline
 name: "Striding Fire"
 level: 6

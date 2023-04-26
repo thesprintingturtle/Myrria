@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Owb"
 tags: 
-  - imported/pf2e/creature/level/6
+  - level/6
 statblock: inline
 name: "Owb"
 level: 6

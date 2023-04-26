@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Moonflower"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/plant
+  - level/8
 statblock: inline
 name: "Moonflower"
 level: 8

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Grikkitog"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/aberration
+  - level/14
 statblock: inline
 name: "Grikkitog"
 level: 14

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Homunculus"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/0
+  - trait/creature/type/construct
+  - level/0
 statblock: inline
 name: "Homunculus"
 level: 0

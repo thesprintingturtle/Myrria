@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ancient Copper Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/17
+  - trait/creature/type/dragon
+  - level/17
 statblock: inline
 name: "Ancient Copper Dragon"
 level: 17

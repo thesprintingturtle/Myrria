@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Moon Hag"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/fiend
+  - trait/creature/type/humanoid
+  - level/10
 statblock: inline
 name: "Moon Hag"
 level: 10

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Adult White Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/dragon
+  - level/10
 statblock: inline
 name: "Adult White Dragon"
 level: 10

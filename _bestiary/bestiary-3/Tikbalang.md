@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Tikbalang"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/beast
+  - level/9
 statblock: inline
 name: "Tikbalang"
 level: 9

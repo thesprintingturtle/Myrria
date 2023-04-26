@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Poracha"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/beast
+  - level/4
 statblock: inline
 name: "Poracha"
 level: 4

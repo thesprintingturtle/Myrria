@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Denizen Of Leng"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/type/dream
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/aberration
+  - trait/creature/type/dream
+  - level/8
 statblock: inline
 name: "Denizen Of Leng"
 level: 8

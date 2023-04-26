@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Etioling Blightmage"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/humanoid
+  - level/10
 statblock: inline
 name: "Etioling Blightmage"
 level: 10

@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Feathered Bear"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/beast
+  - trait/creature/type/spirit
+  - level/10
 statblock: inline
 name: "Feathered Bear"
 level: 10

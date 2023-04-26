@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Quoppopak"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/aberration
+  - level/11
 statblock: inline
 name: "Quoppopak"
 level: 11

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Redcap"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/fey
+  - level/5
 statblock: inline
 name: "Redcap"
 level: 5

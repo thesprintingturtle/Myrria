@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Unicorn"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/beast
+  - trait/creature/type/fey
+  - level/3
 statblock: inline
 name: "Unicorn"
 level: 3

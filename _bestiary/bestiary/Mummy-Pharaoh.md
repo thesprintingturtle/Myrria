@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Mummy Pharaoh"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/undead
+  - level/9
 statblock: inline
 name: "Mummy Pharaoh"
 level: 9

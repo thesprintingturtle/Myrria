@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Clay Golem"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/construct
+  - level/10
 statblock: inline
 name: "Clay Golem"
 level: 10

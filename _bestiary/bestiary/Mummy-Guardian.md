@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Mummy Guardian"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/undead
+  - level/6
 statblock: inline
 name: "Mummy Guardian"
 level: 6

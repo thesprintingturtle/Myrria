@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Fortune Eater"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/7
 statblock: inline
 name: "Fortune Eater"
 level: 7

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Toshigami"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/15
+  - trait/creature/type/spirit
+  - level/15
 statblock: inline
 name: "Toshigami"
 level: 15

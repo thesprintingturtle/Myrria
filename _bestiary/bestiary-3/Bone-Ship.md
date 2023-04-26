@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bone Ship"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/undead
+  - level/18
 statblock: inline
 name: "Bone Ship"
 level: 18

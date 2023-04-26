@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Yellow Musk Brute"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/plant
+  - level/2
 statblock: inline
 name: "Yellow Musk Brute"
 level: 2

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ancient Bronze Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/dragon
+  - level/18
 statblock: inline
 name: "Ancient Bronze Dragon"
 level: 18

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Marrmora"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/15
+  - trait/creature/type/fey
+  - level/15
 statblock: inline
 name: "Marrmora"
 level: 15

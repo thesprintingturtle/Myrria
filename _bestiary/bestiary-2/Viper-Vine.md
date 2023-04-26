@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Viper Vine"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/plant
+  - level/13
 statblock: inline
 name: "Viper Vine"
 level: 13

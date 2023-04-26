@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Spark Bat"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/elemental
+  - level/2
 statblock: inline
 name: "Spark Bat"
 level: 2

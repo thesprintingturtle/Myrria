@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Devourer"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/undead
+  - level/11
 statblock: inline
 name: "Devourer"
 level: 11

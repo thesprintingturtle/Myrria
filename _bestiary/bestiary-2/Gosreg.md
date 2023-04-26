@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gosreg"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/aberration
+  - level/11
 statblock: inline
 name: "Gosreg"
 level: 11

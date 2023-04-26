@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Poltergeist"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/5
 statblock: inline
 name: "Poltergeist"
 level: 5

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ostiarius"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/fiend
+  - level/5
 statblock: inline
 name: "Ostiarius"
 level: 5

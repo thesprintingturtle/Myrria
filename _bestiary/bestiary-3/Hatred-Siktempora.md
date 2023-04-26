@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Hatred Siktempora"
 tags: 
-  - imported/pf2e/creature/type/time
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/time
+  - level/18
 statblock: inline
 name: "Hatred Siktempora"
 level: 18

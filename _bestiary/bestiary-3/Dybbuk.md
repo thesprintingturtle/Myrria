@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Dybbuk"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/15
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/15
 statblock: inline
 name: "Dybbuk"
 level: 15

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Hekatonkheires Titan"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/24
+  - trait/creature/type/aberration
+  - level/24
 statblock: inline
 name: "Hekatonkheires Titan"
 level: 24

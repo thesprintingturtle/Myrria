@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Banshee"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/17
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/17
 statblock: inline
 name: "Banshee"
 level: 17

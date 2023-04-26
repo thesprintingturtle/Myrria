@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Spy"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/humanoid
+  - level/6
 statblock: inline
 name: "Spy"
 level: 6

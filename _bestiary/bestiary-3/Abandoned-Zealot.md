@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Abandoned Zealot"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/6
 statblock: inline
 name: "Abandoned Zealot"
 level: 6

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Oil Living Graffiti"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/construct
+  - level/3
 statblock: inline
 name: "Oil Living Graffiti"
 level: 3

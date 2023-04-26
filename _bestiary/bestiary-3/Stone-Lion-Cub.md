@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Stone Lion Cub"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/celestial
+  - level/2
 statblock: inline
 name: "Stone Lion Cub"
 level: 2

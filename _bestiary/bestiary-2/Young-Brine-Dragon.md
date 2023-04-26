@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Young Brine Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/8
 statblock: inline
 name: "Young Brine Dragon"
 level: 8

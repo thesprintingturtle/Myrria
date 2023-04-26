@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Baomal"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/20
+  - trait/creature/type/aberration
+  - level/20
 statblock: inline
 name: "Baomal"
 level: 20

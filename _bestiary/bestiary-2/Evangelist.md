@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Evangelist"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/fiend
+  - level/6
 statblock: inline
 name: "Evangelist"
 level: 6

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Naunet"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/monitor
+  - level/7
 statblock: inline
 name: "Naunet"
 level: 7

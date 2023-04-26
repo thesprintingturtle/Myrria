@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Skrik Nettle"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/aberration
+  - level/6
 statblock: inline
 name: "Skrik Nettle"
 level: 6

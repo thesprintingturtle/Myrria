@@ -3,7 +3,7 @@ tags:
 - custom 
 - level/12
 - trait/organization 
-aliases: "Faewood", "Faewood Academy", "Faewood Academy for the Extraplanar"
+aliases: Faewood, Faewood Academy, Faewood Academy for the Extraplanar
 ---
 # Faewood Academy for the Extraplanar *Organization 12*
 Traits 

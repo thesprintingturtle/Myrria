@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Shemhazian"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/fiend
+  - level/16
 statblock: inline
 name: "Shemhazian"
 level: 16

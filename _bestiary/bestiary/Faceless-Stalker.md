@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Faceless Stalker"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/aberration
+  - level/4
 statblock: inline
 name: "Faceless Stalker"
 level: 4

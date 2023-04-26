@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ioton"
 tags: 
-  - imported/pf2e/creature/type/astral
-  - imported/pf2e/creature/level/0
+  - trait/creature/type/astral
+  - level/0
 statblock: inline
 name: "Ioton"
 level: 0

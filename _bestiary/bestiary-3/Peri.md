@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Peri"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/celestial
+  - level/14
 statblock: inline
 name: "Peri"
 level: 14

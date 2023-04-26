@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Farmer"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/0
+  - trait/creature/type/humanoid
+  - level/0
 statblock: inline
 name: "Farmer"
 level: 0

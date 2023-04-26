@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ghost Commoner"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/4
 statblock: inline
 name: "Ghost Commoner"
 level: 4

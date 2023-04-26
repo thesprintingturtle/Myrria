@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Basidirond"
 tags: 
-  - imported/pf2e/creature/type/fungus
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/fungus
+  - level/5
 statblock: inline
 name: "Basidirond"
 level: 5

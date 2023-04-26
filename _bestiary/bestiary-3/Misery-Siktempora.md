@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Misery Siktempora"
 tags: 
-  - imported/pf2e/creature/type/time
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/time
+  - level/12
 statblock: inline
 name: "Misery Siktempora"
 level: 12

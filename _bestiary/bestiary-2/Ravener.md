@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ravener"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/21
+  - trait/creature/type/dragon
+  - trait/creature/type/undead
+  - level/21
 statblock: inline
 name: "Ravener"
 level: 21

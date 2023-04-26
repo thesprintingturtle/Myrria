@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Triceratops"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/animal
+  - level/8
 statblock: inline
 name: "Triceratops"
 level: 8

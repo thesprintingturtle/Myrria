@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Violet Fungus"
 tags: 
-  - imported/pf2e/creature/type/fungus
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/fungus
+  - level/3
 statblock: inline
 name: "Violet Fungus"
 level: 3

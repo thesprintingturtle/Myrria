@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Ice Golem"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/construct
+  - level/5
 statblock: inline
 name: "Ice Golem"
 level: 5

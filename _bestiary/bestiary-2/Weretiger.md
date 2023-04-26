@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Weretiger"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/beast
+  - trait/creature/type/humanoid
+  - level/4
 statblock: inline
 name: "Weretiger"
 level: 4

@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ogre Glutton"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/4
 statblock: inline
 name: "Ogre Glutton"
 level: 4

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gray Ooze"
 tags: 
-  - imported/pf2e/creature/type/ooze
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/ooze
+  - level/4
 statblock: inline
 name: "Gray Ooze"
 level: 4

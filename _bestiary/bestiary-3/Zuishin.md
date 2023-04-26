@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Zuishin"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/spirit
+  - level/10
 statblock: inline
 name: "Zuishin"
 level: 10

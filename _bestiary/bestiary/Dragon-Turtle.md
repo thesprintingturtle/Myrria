@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Dragon Turtle"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/dragon
+  - level/9
 statblock: inline
 name: "Dragon Turtle"
 level: 9

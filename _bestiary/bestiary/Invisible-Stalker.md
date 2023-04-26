@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Invisible Stalker"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/elemental
+  - level/7
 statblock: inline
 name: "Invisible Stalker"
 level: 7

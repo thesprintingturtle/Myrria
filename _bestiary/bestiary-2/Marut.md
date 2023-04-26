@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Marut"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/15
+  - trait/creature/type/monitor
+  - level/15
 statblock: inline
 name: "Marut"
 level: 15

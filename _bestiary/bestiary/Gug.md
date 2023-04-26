@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Gug"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/aberration
+  - level/10
 statblock: inline
 name: "Gug"
 level: 10

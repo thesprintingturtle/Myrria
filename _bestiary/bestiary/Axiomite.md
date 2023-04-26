@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Axiomite"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/monitor
+  - level/8
 statblock: inline
 name: "Axiomite"
 level: 8

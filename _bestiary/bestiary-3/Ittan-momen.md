@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Ittan-momen"
 tags: 
-  - imported/pf2e/creature/level/2
+  - level/2
 statblock: inline
 name: "Ittan-momen"
 level: 2

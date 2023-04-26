@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Beast Tamer"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/humanoid
+  - level/4
 statblock: inline
 name: "Beast Tamer"
 level: 4

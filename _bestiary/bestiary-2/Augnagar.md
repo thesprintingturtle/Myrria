@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Augnagar"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/fiend
+  - level/14
 statblock: inline
 name: "Augnagar"
 level: 14

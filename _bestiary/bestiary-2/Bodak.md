@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bodak"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/undead
+  - level/8
 statblock: inline
 name: "Bodak"
 level: 8

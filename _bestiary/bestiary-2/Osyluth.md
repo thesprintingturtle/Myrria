@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Osyluth"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/fiend
+  - level/9
 statblock: inline
 name: "Osyluth"
 level: 9

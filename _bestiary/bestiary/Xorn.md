@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Xorn"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/elemental
+  - level/7
 statblock: inline
 name: "Xorn"
 level: 7

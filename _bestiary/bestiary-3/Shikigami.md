@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Shikigami"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/spirit
+  - level/1
 statblock: inline
 name: "Shikigami"
 level: 1

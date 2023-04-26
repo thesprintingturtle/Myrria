@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Manticore Paaridar"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/beast
+  - trait/creature/type/humanoid
+  - level/7
 statblock: inline
 name: "Manticore Paaridar"
 level: 7

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Froghemoth"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/aberration
+  - level/13
 statblock: inline
 name: "Froghemoth"
 level: 13

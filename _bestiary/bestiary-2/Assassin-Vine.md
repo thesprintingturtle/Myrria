@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Assassin Vine"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/plant
+  - level/3
 statblock: inline
 name: "Assassin Vine"
 level: 3

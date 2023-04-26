@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Adult Cloud Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/dragon
+  - trait/creature/type/elemental
+  - level/14
 statblock: inline
 name: "Adult Cloud Dragon"
 level: 14

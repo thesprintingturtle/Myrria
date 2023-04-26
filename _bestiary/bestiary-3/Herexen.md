@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Herexen"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/undead
+  - level/2
 statblock: inline
 name: "Herexen"
 level: 2

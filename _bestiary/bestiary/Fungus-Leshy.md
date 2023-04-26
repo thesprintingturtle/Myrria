@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Fungus Leshy"
 tags: 
-  - imported/pf2e/creature/type/fungus
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/fungus
+  - level/2
 statblock: inline
 name: "Fungus Leshy"
 level: 2

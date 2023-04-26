@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Goliath Spider"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/animal
+  - level/11
 statblock: inline
 name: "Goliath Spider"
 level: 11

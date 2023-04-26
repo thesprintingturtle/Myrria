@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Chernobue"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/fiend
+  - level/12
 statblock: inline
 name: "Chernobue"
 level: 12

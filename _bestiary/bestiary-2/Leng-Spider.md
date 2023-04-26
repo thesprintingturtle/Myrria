@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Leng Spider"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/type/dream
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/aberration
+  - trait/creature/type/dream
+  - level/13
 statblock: inline
 name: "Leng Spider"
 level: 13

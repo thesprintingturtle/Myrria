@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Troll"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/giant
+  - level/5
 statblock: inline
 name: "Troll"
 level: 5

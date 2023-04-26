@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Zebub"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/3
+  - trait/creature/type/fiend
+  - level/3
 statblock: inline
 name: "Zebub"
 level: 3

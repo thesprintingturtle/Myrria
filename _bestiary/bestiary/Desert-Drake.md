@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Desert Drake"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/dragon
+  - level/8
 statblock: inline
 name: "Desert Drake"
 level: 8

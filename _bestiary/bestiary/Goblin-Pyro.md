@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Goblin Pyro"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/humanoid
+  - level/1
 statblock: inline
 name: "Goblin Pyro"
 level: 1

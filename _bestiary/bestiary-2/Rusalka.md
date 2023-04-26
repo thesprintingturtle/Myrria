@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Rusalka"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/fey
+  - level/12
 statblock: inline
 name: "Rusalka"
 level: 12

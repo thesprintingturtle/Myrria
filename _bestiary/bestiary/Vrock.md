@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Vrock"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/9
+  - trait/creature/type/fiend
+  - level/9
 statblock: inline
 name: "Vrock"
 level: 9

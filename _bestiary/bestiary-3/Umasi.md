@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Umasi"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/aberration
+  - trait/creature/type/humanoid
+  - level/6
 statblock: inline
 name: "Umasi"
 level: 6

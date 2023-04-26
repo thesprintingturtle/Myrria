@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Spear Frog"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/0
+  - trait/creature/type/animal
+  - level/0
 statblock: inline
 name: "Spear Frog"
 level: 0

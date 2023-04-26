@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Owb Prophet"
 tags: 
-  - imported/pf2e/creature/level/13
+  - level/13
 statblock: inline
 name: "Owb Prophet"
 level: 13

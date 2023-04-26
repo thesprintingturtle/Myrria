@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Theletos"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/monitor
+  - level/7
 statblock: inline
 name: "Theletos"
 level: 7

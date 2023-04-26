@@ -2,10 +2,10 @@
 noteType: pf2eMonster
 aliases: "Ice Yai"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/fiend
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/13
 statblock: inline
 name: "Ice Yai"
 level: 13

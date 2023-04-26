@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Harpy Skeleton"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/undead
+  - level/5
 statblock: inline
 name: "Harpy Skeleton"
 level: 5

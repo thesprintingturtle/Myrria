@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Young Red Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/dragon
+  - level/10
 statblock: inline
 name: "Young Red Dragon"
 level: 10

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Arboreal Reaper"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/plant
+  - level/7
 statblock: inline
 name: "Arboreal Reaper"
 level: 7

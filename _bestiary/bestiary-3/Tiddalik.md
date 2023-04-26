@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Tiddalik"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/beast
+  - level/7
 statblock: inline
 name: "Tiddalik"
 level: 7

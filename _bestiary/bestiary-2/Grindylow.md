@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Grindylow"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/0
+  - trait/creature/type/aberration
+  - level/0
 statblock: inline
 name: "Grindylow"
 level: 0

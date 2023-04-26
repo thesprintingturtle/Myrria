@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Totenmaske"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/undead
+  - level/7
 statblock: inline
 name: "Totenmaske"
 level: 7

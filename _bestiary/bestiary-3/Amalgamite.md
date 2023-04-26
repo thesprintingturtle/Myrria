@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Amalgamite"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/aberration
+  - level/13
 statblock: inline
 name: "Amalgamite"
 level: 13

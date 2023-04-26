@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Black Scorpion"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/15
+  - trait/creature/type/animal
+  - level/15
 statblock: inline
 name: "Black Scorpion"
 level: 15

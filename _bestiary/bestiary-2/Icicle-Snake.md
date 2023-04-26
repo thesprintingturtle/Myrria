@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Icicle Snake"
 tags: 
-  - imported/pf2e/creature/type/elemental
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/elemental
+  - level/2
 statblock: inline
 name: "Icicle Snake"
 level: 2

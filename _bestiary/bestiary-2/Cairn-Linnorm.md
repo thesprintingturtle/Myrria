@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Cairn Linnorm"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/dragon
+  - level/18
 statblock: inline
 name: "Cairn Linnorm"
 level: 18

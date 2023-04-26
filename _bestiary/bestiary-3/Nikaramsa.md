@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Nikaramsa"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/fiend
+  - level/14
 statblock: inline
 name: "Nikaramsa"
 level: 14

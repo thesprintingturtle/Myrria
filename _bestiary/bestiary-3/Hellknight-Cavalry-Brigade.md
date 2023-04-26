@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Hellknight Cavalry Brigade"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/animal
+  - trait/creature/type/humanoid
+  - level/8
 statblock: inline
 name: "Hellknight Cavalry Brigade"
 level: 8

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Akata"
 tags: 
-  - imported/pf2e/creature/type/aberration
-  - imported/pf2e/creature/level/1
+  - trait/creature/type/aberration
+  - level/1
 statblock: inline
 name: "Akata"
 level: 1

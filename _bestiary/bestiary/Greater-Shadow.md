@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Greater Shadow"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/undead
+  - level/7
 statblock: inline
 name: "Greater Shadow"
 level: 7

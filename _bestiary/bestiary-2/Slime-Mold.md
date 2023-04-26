@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Slime Mold"
 tags: 
-  - imported/pf2e/creature/type/fungus
-  - imported/pf2e/creature/type/ooze
-  - imported/pf2e/creature/level/2
+  - trait/creature/type/fungus
+  - trait/creature/type/ooze
+  - level/2
 statblock: inline
 name: "Slime Mold"
 level: 2

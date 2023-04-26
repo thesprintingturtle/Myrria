@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Bulette"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/animal
+  - level/8
 statblock: inline
 name: "Bulette"
 level: 8

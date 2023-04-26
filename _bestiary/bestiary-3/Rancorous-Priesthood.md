@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Rancorous Priesthood"
 tags: 
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/humanoid
+  - level/11
 statblock: inline
 name: "Rancorous Priesthood"
 level: 11

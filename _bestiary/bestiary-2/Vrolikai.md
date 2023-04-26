@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Vrolikai"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/fiend
+  - level/19
 statblock: inline
 name: "Vrolikai"
 level: 19

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Vrykolakas Ancient"
 tags: 
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/undead
+  - level/13
 statblock: inline
 name: "Vrykolakas Ancient"
 level: 13

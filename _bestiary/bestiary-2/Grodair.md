@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Grodair"
 tags: 
-  - imported/pf2e/creature/type/beast
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/beast
+  - trait/creature/type/fey
+  - level/5
 statblock: inline
 name: "Grodair"
 level: 5

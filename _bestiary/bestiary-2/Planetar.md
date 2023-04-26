@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Planetar"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/celestial
+  - level/16
 statblock: inline
 name: "Planetar"
 level: 16

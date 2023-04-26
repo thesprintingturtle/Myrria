@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Movanic Deva"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/celestial
+  - level/10
 statblock: inline
 name: "Movanic Deva"
 level: 10

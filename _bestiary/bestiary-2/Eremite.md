@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Eremite"
 tags: 
-  - imported/pf2e/creature/type/fiend
-  - imported/pf2e/creature/level/20
+  - trait/creature/type/fiend
+  - level/20
 statblock: inline
 name: "Eremite"
 level: 20

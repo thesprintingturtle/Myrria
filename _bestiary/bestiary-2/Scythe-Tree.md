@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Scythe Tree"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/plant
+  - level/6
 statblock: inline
 name: "Scythe Tree"
 level: 6

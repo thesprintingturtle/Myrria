@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Duneshaker Solifugid"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/18
+  - trait/creature/type/animal
+  - level/18
 statblock: inline
 name: "Duneshaker Solifugid"
 level: 18

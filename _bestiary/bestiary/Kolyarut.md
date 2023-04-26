@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Kolyarut"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/12
+  - trait/creature/type/monitor
+  - level/12
 statblock: inline
 name: "Kolyarut"
 level: 12

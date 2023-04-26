@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Rune Giant"
 tags: 
-  - imported/pf2e/creature/type/giant
-  - imported/pf2e/creature/type/humanoid
-  - imported/pf2e/creature/level/16
+  - trait/creature/type/giant
+  - trait/creature/type/humanoid
+  - level/16
 statblock: inline
 name: "Rune Giant"
 level: 16

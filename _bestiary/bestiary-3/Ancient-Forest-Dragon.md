@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ancient Forest Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/dragon
+  - trait/creature/type/plant
+  - level/19
 statblock: inline
 name: "Ancient Forest Dragon"
 level: 19

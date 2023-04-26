@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Sard"
 tags: 
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/19
+  - trait/creature/type/plant
+  - level/19
 statblock: inline
 name: "Sard"
 level: 19

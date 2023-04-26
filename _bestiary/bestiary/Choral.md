@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Choral"
 tags: 
-  - imported/pf2e/creature/type/celestial
-  - imported/pf2e/creature/level/6
+  - trait/creature/type/celestial
+  - level/6
 statblock: inline
 name: "Choral"
 level: 6

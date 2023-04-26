@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Divine Warden Of Nethys"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/construct
+  - level/5
 statblock: inline
 name: "Divine Warden Of Nethys"
 level: 5

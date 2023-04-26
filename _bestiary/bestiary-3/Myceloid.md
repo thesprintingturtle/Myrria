@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Myceloid"
 tags: 
-  - imported/pf2e/creature/type/fungus
-  - imported/pf2e/creature/level/4
+  - trait/creature/type/fungus
+  - level/4
 statblock: inline
 name: "Myceloid"
 level: 4

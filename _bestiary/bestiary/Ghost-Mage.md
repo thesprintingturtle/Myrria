@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Ghost Mage"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/10
 statblock: inline
 name: "Ghost Mage"
 level: 10

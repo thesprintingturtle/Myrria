@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Kasa-obake"
 tags: 
-  - imported/pf2e/creature/level/4
+  - level/4
 statblock: inline
 name: "Kasa-obake"
 level: 4

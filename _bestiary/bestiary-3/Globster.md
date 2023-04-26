@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Globster"
 tags: 
-  - imported/pf2e/creature/type/ooze
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/ooze
+  - level/5
 statblock: inline
 name: "Globster"
 level: 5

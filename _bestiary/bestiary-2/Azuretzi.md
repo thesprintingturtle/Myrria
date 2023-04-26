@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Azuretzi"
 tags: 
-  - imported/pf2e/creature/type/monitor
-  - imported/pf2e/creature/level/5
+  - trait/creature/type/monitor
+  - level/5
 statblock: inline
 name: "Azuretzi"
 level: 5

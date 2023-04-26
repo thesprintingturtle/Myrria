@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Giant Animated Statue"
 tags: 
-  - imported/pf2e/creature/type/construct
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/construct
+  - level/7
 statblock: inline
 name: "Giant Animated Statue"
 level: 7

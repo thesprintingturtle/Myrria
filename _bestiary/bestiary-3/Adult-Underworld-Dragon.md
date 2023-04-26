@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Adult Underworld Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/11
+  - trait/creature/type/dragon
+  - level/11
 statblock: inline
 name: "Adult Underworld Dragon"
 level: 11

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Behemoth Hippopotamus"
 tags: 
-  - imported/pf2e/creature/type/animal
-  - imported/pf2e/creature/level/10
+  - trait/creature/type/animal
+  - level/10
 statblock: inline
 name: "Behemoth Hippopotamus"
 level: 10

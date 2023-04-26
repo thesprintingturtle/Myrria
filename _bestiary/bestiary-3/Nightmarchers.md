@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Nightmarchers"
 tags: 
-  - imported/pf2e/creature/type/spirit
-  - imported/pf2e/creature/type/undead
-  - imported/pf2e/creature/level/14
+  - trait/creature/type/spirit
+  - trait/creature/type/undead
+  - level/14
 statblock: inline
 name: "Nightmarchers"
 level: 14

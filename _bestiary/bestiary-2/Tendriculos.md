@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Tendriculos"
 tags: 
-  - imported/pf2e/creature/type/fungus
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/7
+  - trait/creature/type/fungus
+  - trait/creature/type/plant
+  - level/7
 statblock: inline
 name: "Tendriculos"
 level: 7

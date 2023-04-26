@@ -2,9 +2,9 @@
 noteType: pf2eMonster
 aliases: "Dryad Queen"
 tags: 
-  - imported/pf2e/creature/type/fey
-  - imported/pf2e/creature/type/plant
-  - imported/pf2e/creature/level/13
+  - trait/creature/type/fey
+  - trait/creature/type/plant
+  - level/13
 statblock: inline
 name: "Dryad Queen"
 level: 13

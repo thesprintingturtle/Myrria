@@ -8,35 +8,35 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag: trait/location/type/nation",
+      "query": "tag:#trait/location/type/nation",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag: trait/location/type/settlement OR tag: trait/location/type/city-state",
+      "query": "tag:#trait/location/type/settlement OR tag: trait/location/type/city-state",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag: trait/location/type/district",
+      "query": "tag:#trait/location/type/district",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "tag: trait/organization",
+      "query": "tag:#trait/organization",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "tag: trait/npc",
+      "query": "tag:#trait/npc",
       "color": {
         "a": 1,
         "rgb": 5431473

@@ -2,8 +2,8 @@
 noteType: pf2eMonster
 aliases: "Young Sea Dragon"
 tags: 
-  - imported/pf2e/creature/type/dragon
-  - imported/pf2e/creature/level/8
+  - trait/creature/type/dragon
+  - level/8
 statblock: inline
 name: "Young Sea Dragon"
 level: 8
