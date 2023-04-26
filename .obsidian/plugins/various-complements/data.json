@@ -1066,8 +1066,8 @@
     "equipment/weapon/base-weapon/type/melee": {
       "equipment/weapon/base-weapon/type/melee": {
         "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1682401083282
+          "count": 3,
+          "lastUpdated": 1682433538042
         }
       }
     },
@@ -1092,6 +1092,70 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1682401054942
+        }
+      }
+    },
+    "equipment/weapon/base-weapon/range/60": {
+      "equipment/weapon/base-weapon/range/60": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1682519040308
+        }
+      }
+    },
+    "equipment/weapon/specific-magic-weapon": {
+      "equipment/weapon/specific-magic-weapon": {
+        "frontMatter": {
+          "count": 19,
+          "lastUpdated": 1682519385313
+        }
+      }
+    },
+    "equipment/weapon/precious-metal": {
+      "equipment/weapon/precious-metal": {
+        "frontMatter": {
+          "count": 9,
+          "lastUpdated": 1682519033737
+        }
+      }
+    },
+    "equipment/armor/specific-magic-armor": {
+      "equipment/armor/specific-magic-armor": {
+        "frontMatter": {
+          "count": 30,
+          "lastUpdated": 1682519443082
+        }
+      }
+    },
+    "equipment/armor/precious-metal": {
+      "equipment/armor/precious-metal": {
+        "frontMatter": {
+          "count": 12,
+          "lastUpdated": 1682519432145
+        }
+      }
+    },
+    "equipment/shield/precious-material": {
+      "equipment/shield/precious-material": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1682520191786
+        }
+      }
+    },
+    "equipment/shield/specific-magic-shield": {
+      "equipment/shield/specific-magic-shield": {
+        "frontMatter": {
+          "count": 11,
+          "lastUpdated": 1682520226831
+        }
+      }
+    },
+    "equipment/shield/base-shield": {
+      "equipment/shield/base-shield": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1682520254669
         }
       }
     }

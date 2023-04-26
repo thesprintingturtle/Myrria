@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/armor/medium
+- equipment/armor/base-armor/medium
 - trait/armor/flexible
 - imported/trait/noisy
 aliases: ["Chain Mail"]

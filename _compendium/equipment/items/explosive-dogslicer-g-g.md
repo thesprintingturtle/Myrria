@@ -8,6 +8,8 @@ tags:
 - equipment/weapon/base-weapon/group/sword
 - equipment/weapon/base-weapon/type/ranged
 - equipment/weapon/base-weapon/type/melee
+- equipment/weapon/base-weapon/range/20
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/backstabber
 - trait/equipment/weapon/combination
 - trait/equipment/weapon/critical-fusion

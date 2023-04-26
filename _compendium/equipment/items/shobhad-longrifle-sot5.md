@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/120
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/backstabber
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/fatal/d12
@@ -15,7 +17,7 @@ tags:
 aliases: ["Shobhad Longrifle"]
 ---
 # Shobhad Longrifle *Item 1*  
-[backstabber](backstabber.md)  [concussive](concussive-g-g.md)  [fatal <d12>](fatal.md)  [kickback](kickback-g-g.md)  [rare](rare.md)  [volley <30 feet>](volley.md)  
+[backstabber](backstabber.md)  [concussive](concussive-g-g.md)  [fatal d12](fatal.md)  [kickback](kickback-g-g.md)  [rare](rare.md)  [volley <30 feet>](volley.md)  
 
 - **Price** 20 gp
 - **Bulk** 1

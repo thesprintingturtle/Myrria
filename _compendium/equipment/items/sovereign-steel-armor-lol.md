@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lol
-- equipment/armor
+- equipment/armor/precious-material 
 - trait/rarity/rare
 aliases: ["Sovereign Steel Armor"]
 ---

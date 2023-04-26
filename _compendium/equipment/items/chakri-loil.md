@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/dart
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/30
+- equipment/weapon/base-weapon/reload/0
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/deadly/d8
 - trait/equipment/weapon/thrown

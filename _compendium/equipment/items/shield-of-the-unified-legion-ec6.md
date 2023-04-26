@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec6
-- equipment/shield
+- equipment/shield/specific-magic-shield 
 - trait/school/evocation
 - trait/magical
 - imported/trait/shield

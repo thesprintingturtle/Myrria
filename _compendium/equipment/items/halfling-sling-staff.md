@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/sling
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/80
+- equipment/weapon/base-weapon/reload/1
 - trait/ancestry/halfling
 - trait/equipment/weapon/propulsive
 - trait/rarity/uncommon

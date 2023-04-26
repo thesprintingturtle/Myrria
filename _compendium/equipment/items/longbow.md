@@ -5,13 +5,15 @@ tags:
 - imported/compendium/src/pf2e/crb
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/bow
+- equipment/weapon/base-weapon/range/100
+- equipment/weapon/base-weapon/reload/0
 - equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/deadly/d10
 - imported/trait/volley-30-ft
 aliases: ["Longbow"]
 ---
 # Longbow *Item 0*  
-[deadly <d10>](deadly.md)  [volley <30 ft.>](volley.md)  
+[deadly d10](deadly.md)  [volley <30 ft.>](volley.md)  
 
 - **Price** 6 gp
 - **Bulk** 2

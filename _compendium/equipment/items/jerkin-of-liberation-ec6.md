@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec6
-- equipment/armor
+- equipment/armor/specific-magic-armor 
 - trait/school/abjuration
 - imported/trait/armor
 - trait/equipment/invested

@@ -4,8 +4,8 @@ cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
 - equipment/weapon/base-weapon/category/simple
-- equipment/weapon/base-weapon/group/dart
-- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/group/knife
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/trip

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec2
-- equipment/talisman
+- equipment/consumable/talisman
 - trait/equipment/consumable
 - trait/school/divination
 - trait/effect/fortune

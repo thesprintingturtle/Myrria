@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotg
-- equipment/adventuring-gear/animal-caretaking
+- equipment/animal-caretaking-gear
 aliases: ["Leash"]
 ---
 # Leash *Item 0*  

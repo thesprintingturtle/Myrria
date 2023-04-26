@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/bow
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/100
+- equipment/weapon/base-weapon/reload/0
 - trait/equipment/weapon/deadly/d10
 - trait/equipment/weapon/propulsive
 - imported/trait/volley-30-ft

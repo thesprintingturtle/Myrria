@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/shield
+- equipment/shield/specific-magic-shield 
 - trait/school/conjuration
 - trait/magical
 aliases: ["Lion's Shield"]

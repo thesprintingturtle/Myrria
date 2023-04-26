@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/lopsg
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/dart
-- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/concealable
 - trait/equipment/weapon/finese

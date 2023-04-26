@@ -5,7 +5,7 @@ tags:
 - imported/compendium/src/pf2e/av2
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/dart
-- equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/deadly/d6
 - trait/equipment/weapon/finese
@@ -14,7 +14,7 @@ tags:
 aliases: ["Tamchal Chakram"]
 ---
 # Tamchal Chakram *Item 0*  
-[agile](agile.md)  [deadly <d6>](deadly.md)  [finesse](finesse.md)  [thrown <20 feet>](thrown.md)  [uncommon](uncommon.md)  
+[agile](agile.md)  [deadly d6](deadly.md)  [finesse](finesse.md)  [thrown <20 feet>](thrown.md)  [uncommon](uncommon.md)  
 
 - **Price** 5 gp
 - **Bulk** L

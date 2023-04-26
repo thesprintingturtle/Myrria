@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/weapon
+- equipment/weapon/precious-material
 - trait/rarity/uncommon
 aliases: ["Adamantine Weapon"]
 ---

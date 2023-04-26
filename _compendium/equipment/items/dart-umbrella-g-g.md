@@ -6,6 +6,7 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/dart
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/30
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/concealable
 - trait/equipment/weapon/nonlethal

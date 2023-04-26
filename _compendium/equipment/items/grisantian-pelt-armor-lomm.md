@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lomm
-- equipment/armor
+- equipment/armor/precious-material 
 - trait/rarity/rare
 aliases: ["Grisantian Pelt Armor"]
 ---

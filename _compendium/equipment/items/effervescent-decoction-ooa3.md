@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ooa3
-- equipment/potion
+- equipment/consumable/potion
 - trait/element/air
 - trait/equipment/consumable
 - trait/school/evocation

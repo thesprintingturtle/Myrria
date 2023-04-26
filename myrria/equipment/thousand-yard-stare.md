@@ -2,8 +2,7 @@
 tags:
 - custom
 - level/23 
-- equipment/weapon/range/600
-- trait/equipment/weapon/volley/50
+- equipment/weapon/specific-magic-weapon
 - trait/tradition/arcane 
 - trait/equipment/artifact 
 - trait/equipment/invested 

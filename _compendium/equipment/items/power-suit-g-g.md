@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- equipment/armor/medium
+- equipment/armor/base-armor/medium
 aliases: ["Power Suit"]
 ---
 # Power Suit *Item 0*  

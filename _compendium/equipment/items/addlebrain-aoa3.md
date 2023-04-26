@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoa3
-- equipment/poison
+- equipment/alchemical/poison
 - trait/equipment/alchemical
 - trait/equipment/consumable
 - trait/effect/poison/inhaled

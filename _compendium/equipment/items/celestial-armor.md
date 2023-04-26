@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/armor
+- equipment/armor/specific-magic-armor 
 - trait/tradition/divine
 - trait/alignment/good
 - trait/equipment/invested

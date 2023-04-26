@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/shield
+- equipment/shield/base-shield 
 aliases: ["Wooden Shield"]
 ---
 # Wooden Shield *Item 0*  

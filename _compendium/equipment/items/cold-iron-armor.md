@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/armor
+- equipment/armor/precious-material 
 aliases: ["Cold Iron Armor"]
 ---
 # Cold Iron Armor *Item 5+*  

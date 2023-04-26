@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ooa3
-- equipment/bomb
+- equipment/alchemical/bomb
 - trait/equipment/alchemical
 - trait/equipment/alchemical/bomb
 - trait/equipment/consumable

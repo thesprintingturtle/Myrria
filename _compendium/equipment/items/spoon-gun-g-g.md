@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/30
+- equipment/weapon/base-weapon/reload/1
 - trait/weapon/cobbled
 - trait/ancestry/goblin
 - trait/equipment/weapon/modular-b-p-or-s

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lomm
-- equipment/weapon
+- equipment/weapon/specific-magic-weapon 
 - trait/school/enchantment
 - trait/magical
 - trait/rarity/unique

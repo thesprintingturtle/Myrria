@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/aoe5
-- equipment/armor
+- equipment/armor/specific-magic-armor 
 - trait/equipment/invested
 - trait/magical
 - trait/rarity/rare

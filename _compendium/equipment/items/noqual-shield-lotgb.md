@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- equipment/shield
+- equipment/shield/precious-material 
 - trait/rarity/rare
 aliases: ["Noqual Shield"]
 ---

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/locg
-- equipment/armor/heavy
+- equipment/armor/base-armor/heavy
 - trait/armor/bulwark
 - trait/rarity/uncommon
 aliases: ["Hellknight Plate"]

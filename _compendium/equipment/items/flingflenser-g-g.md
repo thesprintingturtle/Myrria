@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/30
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/backstabber
 - trait/equipment/weapon/fatal/d10
 - trait/ancestry/goblin
@@ -14,7 +16,7 @@ tags:
 aliases: ["Flingflenser"]
 ---
 # Flingflenser *Item 0*  
-[backstabber](backstabber.md)  [fatal <d10>](fatal.md)  [goblin](goblin.md)  [scatter <5 ft.>](scatter-g-g.md)  [uncommon](uncommon.md)  
+[backstabber](backstabber.md)  [fatal d10](fatal.md)  [goblin](goblin.md)  [scatter <5 ft.>](scatter-g-g.md)  [uncommon](uncommon.md)  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 6 gp

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/ec2
-- equipment/oil
+- equipment/consumable/oil
 - trait/equipment/consumable
 - trait/effect/healing
 - trait/magical

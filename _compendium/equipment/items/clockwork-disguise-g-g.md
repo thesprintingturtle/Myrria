@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/g&g
-- equipment/armor/light
+- equipment/armor/base-armor/light
 - trait/equipment/clockwork
 - trait/rarity/uncommon
 aliases: ["Clockwork Disguise"]

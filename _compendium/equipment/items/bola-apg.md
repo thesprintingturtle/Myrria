@@ -6,6 +6,7 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/sling
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/20
 - trait/equipment/weapon/nonlethal
 - trait/equipment/weapon/ranged-trip
 - trait/equipment/weapon/thrown

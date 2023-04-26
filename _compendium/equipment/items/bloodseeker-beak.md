@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/talisman
+- equipment/consumable/talisman
 - trait/equipment/consumable
 - trait/magical
 - trait/school/necromancy

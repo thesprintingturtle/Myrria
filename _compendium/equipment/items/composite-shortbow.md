@@ -6,12 +6,14 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/bow
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/60
+- equipment/weapon/base-weapon/reload/0
 - trait/equipment/weapon/deadly/d10
 - trait/equipment/weapon/propulsive
 aliases: ["Composite Shortbow"]
 ---
 # Composite Shortbow *Item 0*  
-[deadly <d10>](deadly.md)  [propulsive](propulsive.md)  
+[deadly d10](deadly.md)  [propulsive](propulsive.md)  
 
 - **Price** 14 gp
 - **Bulk** 1

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/lotgb
-- equipment/armor
+- equipment/armor/specific-magic-armor 
 - trait/sense/auditory
 - trait/equipment/focused
 - trait/school/illusion

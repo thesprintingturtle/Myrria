@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/150
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/concussive
 - trait/ancestry/elf
 - trait/equipment/weapon/fatal/d10
@@ -14,7 +16,7 @@ tags:
 aliases: ["Mithral Tree"]
 ---
 # Mithral Tree *Item 0*  
-[concussive](concussive-g-g.md)  [elf](elf.md)  [fatal <d10>](fatal.md)  [parry](parry.md)  [uncommon](uncommon.md)  
+[concussive](concussive-g-g.md)  [elf](elf.md)  [fatal d10](fatal.md)  [parry](parry.md)  [uncommon](uncommon.md)  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 9 gp

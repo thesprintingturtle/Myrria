@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/weapon
+- equipment/weapon/specific-magic-weapon 
 - trait/tradition/divine
 - trait/school/evocation
 - trait/alignment/good
@@ -27,12 +27,12 @@ title: Activate [>>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#
 
 You command the sword and point it at a creature you can see. The sword casts detect alignment to detect evil, but this targets only the selected creature instead of detecting in an area.
 
+
+```
 Paladin Wielder If you're a champion of the paladin cause, you also gain the following two benefits.
 
 - When you critically hit an evil creature with the holy avenger, the creature is [slowed](../../../rules/conditions.md#Slowed) and [enfeebled](../../../rules/conditions.md#Enfeebled) for 1 round.
 - You can activate the sword in the following way.
-```
-
 ```ad-embed-ability
 title: Activate [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 

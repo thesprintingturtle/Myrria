@@ -6,13 +6,15 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/90
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/concussive
 - imported/trait/fatal-aim-d12
 - trait/rarity/uncommon
 aliases: ["Jezail"]
 ---
 # Jezail *Item 1*  
-[concussive](concussive-g-g.md)  [fatal aim <d12>](fatal.md)  [uncommon](uncommon.md)  
+[concussive](concussive-g-g.md)  [fatal aim d12](fatal.md)  [uncommon](uncommon.md)  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 11 gp

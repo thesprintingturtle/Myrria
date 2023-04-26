@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md",
+                "file": "_compendium/equipment/items/barding-of-the-zephyr.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#equipment/weapon/base-weapon/type/ranged -tag:#equipment/weapon/base-weapon/range",
+                "query": "tag:#equipment/companion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md",
+                "file": "_compendium/equipment/items/barding-of-the-zephyr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md",
+                "file": "_compendium/equipment/items/barding-of-the-zephyr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_compendium/equipment/items/clockwork-macuahuitl-lotgb.md"
+                "file": "_compendium/equipment/items/barding-of-the-zephyr.md"
               }
             }
           },
@@ -291,41 +291,41 @@
         "direction": "vertical",
         "x": 3640,
         "y": 960,
-        "width": 1080,
-        "height": 960,
+        "width": 1026,
+        "height": 802,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e8664686b897c20a",
+  "active": "e4f11b166d687d90",
   "lastOpenFiles": [
-    "_compendium/equipment/items/club.md",
-    "_compendium/equipment/items/gada-loil.md",
-    "_compendium/equipment/items/gaff-b2.md",
-    "_compendium/equipment/items/greatclub.md",
-    "_compendium/equipment/items/griffon-cane-lotgb.md",
-    "_compendium/equipment/items/juggling-club-ec1.md",
-    "_compendium/equipment/items/khakkara-apg.md",
-    "_compendium/equipment/items/light-mace.md",
-    "_compendium/equipment/items/leiomano-frp2.md",
-    "_compendium/equipment/items/mace.md",
-    "_compendium/equipment/items/morningstar.md",
-    "_compendium/equipment/items/nightstick-aoe1.md",
-    "_compendium/equipment/items/nunchaku.md",
-    "_compendium/equipment/items/probing-cane-lotgb.md",
-    "_compendium/equipment/items/reinforced-stock-g-g.md",
-    "_compendium/equipment/items/rungu-loag.md",
-    "_compendium/equipment/items/sap.md",
-    "_compendium/equipment/items/staff.md",
-    "_compendium/equipment/items/sun-sling-sot4.md",
-    "_compendium/equipment/items/thundermace-lotgb.md",
-    "_compendium/equipment/items/bo-staff.md",
-    "_compendium/equipment/items/battle-lute-av2.md",
-    "_compendium/equipment/items/shield-boss.md",
-    "_compendium/equipment/items/shield-spikes.md",
-    "_compendium/equipment/items/gnome-hooked-hammer.md",
-    "_compendium/equipment/items/light-hammer.md",
+    "_compendium/equipment/items/arrow-attracting-gmg.md",
+    "_compendium/equipment/items/wooden-shield.md",
+    "_compendium/equipment/items/tower-shield.md",
+    "_compendium/equipment/items/sturdy-shield.md",
+    "_compendium/equipment/items/steel-shield.md",
+    "_compendium/equipment/items/spined-shield.md",
+    "_compendium/equipment/items/spellguard-shield.md",
+    "_compendium/equipment/items/silver-shield.md",
+    "_compendium/equipment/items/siccatite-shield-lotgb.md",
+    "_compendium/equipment/items/shield-of-the-unified-legion-ec6.md",
+    "_compendium/equipment/items/reflecting-shield.md",
+    "_compendium/equipment/items/orichalcum-shield.md",
+    "_compendium/equipment/items/noqual-shield-lotgb.md",
+    "_compendium/equipment/items/mithral-shield.md",
+    "_compendium/equipment/items/lions-shield.md",
+    "_compendium/equipment/items/inubrix-shield-lotgb.md",
+    "_compendium/equipment/items/indestructible-shield.md",
+    "_compendium/equipment/items/forge-warden.md",
+    "_compendium/equipment/items/force-shield.md",
+    "_compendium/equipment/items/floating-shield.md",
+    "_compendium/equipment/items/dragonslayers-shield.md",
+    "_compendium/equipment/items/dragonhide-shield.md",
+    "_compendium/equipment/items/djezet-shield-lotgb.md",
+    "_compendium/equipment/items/arrow-catching-shield.md",
+    "_compendium/equipment/items/darkwood-shield.md",
+    "_compendium/equipment/items/cold-iron-shield.md",
     "Excalidraw",
     "zz_templates/note-types/organizations",
     "zz_attachments/Myrria World Map.jpg",

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/locg
-- equipment/talisman
+- equipment/consumable/talisman
 - trait/equipment/consumable
 - trait/school/illusion
 - trait/magical

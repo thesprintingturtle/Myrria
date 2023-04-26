@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/shield
+- equipment/shield/precious-material 
 aliases: ["Silver Shield"]
 ---
 # Silver Shield *Item 2+*  

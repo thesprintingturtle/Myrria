@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/simple
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/30
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/concealable
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/fatal/d8

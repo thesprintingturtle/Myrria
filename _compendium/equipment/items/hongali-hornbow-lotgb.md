@@ -6,13 +6,15 @@ tags:
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/bow
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/40
+- equipment/weapon/base-weapon/reload/0
 - trait/equipment/weapon/deadly/d6
 - trait/equipment/weapon/propulsive
 - trait/rarity/uncommon
 aliases: ["Hongali Hornbow"]
 ---
 # Hongali Hornbow *Item 0*  
-[deadly <d6>](deadly.md)  [propulsive](propulsive.md)  [uncommon](uncommon.md)  
+[deadly d6](deadly.md)  [propulsive](propulsive.md)  [uncommon](uncommon.md)  
 
 - **Price** 11 gp
 - **Bulk** 2

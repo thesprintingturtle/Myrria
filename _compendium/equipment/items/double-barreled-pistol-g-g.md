@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/30
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/concussive
 - imported/trait/double-barrel
 - trait/equipment/weapon/fatal/d8
@@ -13,7 +15,7 @@ tags:
 aliases: ["Double-barreled Pistol"]
 ---
 # Double-barreled Pistol *Item 0*  
-[concussive](concussive-g-g.md)  [double barrel](double-barrel-g-g.md)  [fatal <d8>](fatal.md)  [uncommon](uncommon.md)  
+[concussive](concussive-g-g.md)  [double barrel](double-barrel-g-g.md)  [fatal d8](fatal.md)  [uncommon](uncommon.md)  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 7 gp

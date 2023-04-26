@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/simple
 - equipment/weapon/base-weapon/group/dart
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/20
+- equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/nonlethal
 aliases: ["Blowgun"]

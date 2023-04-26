@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
 - imported/compendium/src/pf2e/crb
-- equipment/armor
+- equipment/armor/specific-magic-armor 
 - trait/rarity/uncommon
 aliases: ["Elven Chain"]
 ---

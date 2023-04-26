@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/dart
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/20
+- equipment/weapon/base-weapon/reload/0
 - trait/equipment/weapon/agile
 - trait/class/monk
 - trait/equipment/weapon/thrown

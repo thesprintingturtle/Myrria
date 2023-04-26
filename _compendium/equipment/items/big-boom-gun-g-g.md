@@ -6,6 +6,8 @@ tags:
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/reload/1
+- equipment/weapon/base-weapon/range/20
 - trait/weapon/cobbled
 - trait/equipment/weapon/fatal/d12
 - trait/ancestry/goblin
@@ -14,7 +16,7 @@ tags:
 aliases: ["Big Boom Gun"]
 ---
 # Big Boom Gun *Item 1*  
-[cobbled](cobbled-g-g.md)  [fatal <d12>](fatal.md)  [goblin](goblin.md)  [modular <b, p, or s>](modular-logm.md)  [uncommon](uncommon.md)  
+[cobbled](cobbled-g-g.md)  [fatal d12](fatal.md)  [goblin](goblin.md)  [modular <b, p, or s>](modular-logm.md)  [uncommon](uncommon.md)  
 
 - **Price** 10 gp
 - **Bulk** 2

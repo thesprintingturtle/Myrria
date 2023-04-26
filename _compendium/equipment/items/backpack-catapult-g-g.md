@@ -6,6 +6,7 @@ tags:
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/sling
 - equipment/weapon/base-weapon/type/ranged
+- equipment/weapon/base-weapon/range/240
 - equipment/weapon/base-weapon/reload/1-min
 - trait/rarity/uncommon
 - imported/trait/volley-50-ft
