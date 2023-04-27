@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lantern Archon"
 tags: 
   - trait/creature/type/celestial
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Lantern Archon"
 level: 1

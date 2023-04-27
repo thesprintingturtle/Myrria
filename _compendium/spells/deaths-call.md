@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/necromancy
@@ -12,7 +12,7 @@ aliases: ["Death's Call"]
 # Death's Call *Focus 1*   
 [cleric](rules/traits/cleric.md)  [necromancy](necromancy.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[death](../setting/domains.md#Death)]
+- **Domains**: [[death](../domains.md#Death)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A living creature within 20 feet of you dies, or an undead creature within 20 feet of you is destroyed.
 - **Duration**1 minute

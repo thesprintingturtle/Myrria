@@ -4,7 +4,7 @@ aliases: "Corrupted Relic"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Corrupted Relic"
 level: 4

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/ec4
+- compendium/src/pf2e/ec4
 - trait/energy/electricity
 - trait/magical
 - trait/energy/sonic

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/sli
+- compendium/src/pf2e/sli
 - trait/hazard/complex
 - trait/equipment/mechanical
 - trait/equipment/trap

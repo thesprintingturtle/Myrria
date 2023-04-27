@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/alchemist
-- imported/compendium/src/pf2e/crb
+- action/class/alchemist
+- compendium/src/pf2e/crb
 - trait/class/alchemist
 aliases: ["Mutagenic Flashback"]
 ---

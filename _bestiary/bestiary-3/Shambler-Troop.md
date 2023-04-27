@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shambler Troop"
 tags: 
   - trait/creature/type/undead
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Shambler Troop"
 level: 4

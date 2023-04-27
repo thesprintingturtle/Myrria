@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Maftet Guardian"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Maftet Guardian"
 level: 6

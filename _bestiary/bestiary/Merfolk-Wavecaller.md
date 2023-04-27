@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Merfolk Wavecaller"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Merfolk Wavecaller"
 level: 2

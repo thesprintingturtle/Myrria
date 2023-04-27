@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Riding Horse"
 tags: 
   - trait/creature/type/animal
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Riding Horse"
 level: 1

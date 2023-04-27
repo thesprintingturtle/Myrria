@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Worm That Walks Cultist"
 tags: 
   - trait/creature/type/aberration
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Worm That Walks Cultist"
 level: 14

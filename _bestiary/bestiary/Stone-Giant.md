@@ -4,7 +4,7 @@ aliases: "Stone Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Stone Giant"
 level: 8

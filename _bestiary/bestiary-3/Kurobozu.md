@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kurobozu"
 tags: 
   - trait/creature/type/undead
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Kurobozu"
 level: 6

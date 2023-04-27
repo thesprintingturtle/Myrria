@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Orc Commander"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Orc Commander"
 level: 2

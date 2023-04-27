@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/effect/incapacitation
 - trait/school/transmutation
@@ -11,7 +11,7 @@ aliases: ["Stasis"]
 # Stasis *Focus 4*   
 [incapacitation](incapacitation.md)  [transmutation](transmutation.md)  
 
-- **Domains**: [[time](../setting/domains.md#Time)]
+- **Domains**: [[time](../domains.md#Time)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature or up to 1 Bulk of objects

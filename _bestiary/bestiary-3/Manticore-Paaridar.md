@@ -4,7 +4,7 @@ aliases: "Manticore Paaridar"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/humanoid
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Manticore Paaridar"
 level: 7

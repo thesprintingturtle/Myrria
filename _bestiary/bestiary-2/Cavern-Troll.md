@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cavern Troll"
 tags: 
   - trait/creature/type/giant
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Cavern Troll"
 level: 6

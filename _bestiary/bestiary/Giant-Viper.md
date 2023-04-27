@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Viper"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Giant Viper"
 level: 2

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tzitzimitl"
 tags: 
   - trait/creature/type/undead
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Tzitzimitl"
 level: 19

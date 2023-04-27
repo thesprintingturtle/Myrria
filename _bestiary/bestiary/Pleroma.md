@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Pleroma"
 tags: 
   - trait/creature/type/monitor
-  - level/20
+  - creature/level/20
 statblock: inline
 name: "Pleroma"
 level: 20

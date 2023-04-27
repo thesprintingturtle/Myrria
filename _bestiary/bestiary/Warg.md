@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Warg"
 tags: 
   - trait/creature/type/beast
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Warg"
 level: 2

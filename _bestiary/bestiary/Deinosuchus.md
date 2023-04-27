@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Deinosuchus"
 tags: 
   - trait/creature/type/animal
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Deinosuchus"
 level: 9

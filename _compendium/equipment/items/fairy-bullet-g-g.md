@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/consumable
 - trait/school/conjuration
 - trait/equipment/consumable
-- imported/trait/fey
+- trait/creature/fey
 - trait/magical
 - trait/rarity/uncommon
 aliases: ["Fairy Bullet"]

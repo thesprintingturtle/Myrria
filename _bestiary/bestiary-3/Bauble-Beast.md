@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Bauble Beast"
 tags: 
   - trait/creature/type/beast
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Bauble Beast"
 level: 6

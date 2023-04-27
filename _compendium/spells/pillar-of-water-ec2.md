@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/ec2
+- compendium/src/pf2e/ec2
 - spell/level/3
 - trait/school/evocation
 - trait/rarity/uncommon

@@ -1,8 +1,8 @@
 ---
 tags:
 - custom
-- level/2
-- trait/location/type/settlement/town 
+- location/settlement/level/2
+- trait/settlement/type/town 
 aliases: ["Kaburnham"]
 ---
 # Kaburnham *Settlement 2*

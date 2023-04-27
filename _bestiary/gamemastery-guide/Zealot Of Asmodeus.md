@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Zealot Of Asmodeus"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Zealot Of Asmodeus"
 level: 4

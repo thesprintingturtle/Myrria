@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Amoeba"
 tags: 
   - trait/creature/type/ooze
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Giant Amoeba"
 level: 1

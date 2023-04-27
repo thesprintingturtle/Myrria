@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/barbarian
-- imported/compendium/src/pf2e/crb
+- action/class/barbarian
+- compendium/src/pf2e/crb
 - trait/class/barbarian
 - trait/action/concentrate
 - trait/effect/emotion

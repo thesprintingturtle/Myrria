@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/fighter
-- imported/compendium/src/pf2e/crb
+- action/class/fighter
+- compendium/src/pf2e/crb
 aliases: ["Attack of Opportunity"]
 ---
 # Attack of Opportunity [R](chapter-9-playing-the-game.md#Actions "Reaction")

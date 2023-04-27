@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/energy/electricity
 - trait/school/evocation
@@ -11,7 +11,7 @@ aliases: ["Bottle The Storm"]
 # Bottle The Storm *Focus 4*   
 [electricity](electricity.md)  [evocation](evocation.md)  
 
-- **Domains**: [[lightning](../setting/domains.md#Lightning)]
+- **Domains**: [[lightning](../domains.md#Lightning)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You would take electricity damage.
 - **Duration**1 minute

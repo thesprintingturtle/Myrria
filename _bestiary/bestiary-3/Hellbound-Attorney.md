@@ -4,7 +4,7 @@ aliases: "Hellbound Attorney"
 tags: 
   - trait/creature/type/fiend
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Hellbound Attorney"
 level: 4

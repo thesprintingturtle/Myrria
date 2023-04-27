@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tengu Sneak"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Tengu Sneak"
 level: 2

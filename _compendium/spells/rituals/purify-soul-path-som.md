@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/2
+- compendium/src/pf2e/som
+- ritual/level/2
 - trait/school/abjuration
 - trait/rarity/uncommon
 aliases: ["Purify Soul Path"]

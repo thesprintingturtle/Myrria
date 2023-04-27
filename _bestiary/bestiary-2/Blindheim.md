@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Blindheim"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Blindheim"
 level: 2

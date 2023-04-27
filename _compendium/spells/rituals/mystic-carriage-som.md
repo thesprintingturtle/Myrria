@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/3
+- compendium/src/pf2e/som
+- ritual/level/3
 - trait/school/conjuration
 - trait/rarity/uncommon
 aliases: ["Mystic Carriage"]

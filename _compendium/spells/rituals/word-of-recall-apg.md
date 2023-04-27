@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/apg
-- imported/ritual/7
+- compendium/src/pf2e/apg
+- ritual/level/7
 - trait/school/conjuration
 - trait/rarity/rare
 - trait/effect/teleportation

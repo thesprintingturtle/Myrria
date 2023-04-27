@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Verdurous Ooze"
 tags: 
   - trait/creature/type/ooze
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Verdurous Ooze"
 level: 6

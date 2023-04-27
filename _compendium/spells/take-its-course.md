@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/necromancy
@@ -12,7 +12,7 @@ aliases: ["Take Its Course"]
 # Take Its Course *Focus 4*   
 [cleric](rules/traits/cleric.md)  [necromancy](necromancy.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[indulgence](../setting/domains.md#Indulgence)]
+- **Domains**: [[indulgence](../domains.md#Indulgence)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature

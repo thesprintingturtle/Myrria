@@ -4,7 +4,7 @@ aliases: "Levaloch"
 tags: 
   - trait/creature/type/construct
   - trait/creature/type/fiend
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Levaloch"
 level: 7

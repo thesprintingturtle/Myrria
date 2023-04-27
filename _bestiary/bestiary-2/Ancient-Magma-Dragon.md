@@ -4,7 +4,7 @@ aliases: "Ancient Magma Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Ancient Magma Dragon"
 level: 18

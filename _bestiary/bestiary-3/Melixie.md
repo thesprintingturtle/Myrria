@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Melixie"
 tags: 
   - trait/creature/type/fey
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Melixie"
 level: 0

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Moray Eel"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Giant Moray Eel"
 level: 5

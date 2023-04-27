@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/ritual/4
+- compendium/src/pf2e/crb
+- ritual/level/4
 - trait/school/abjuration
 - trait/rarity/uncommon
 aliases: ["Atone"]

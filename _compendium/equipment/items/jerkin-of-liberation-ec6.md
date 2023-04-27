@@ -2,17 +2,16 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ec6
+- compendium/src/pf2e/ec6
 - equipment/armor/specific-magic-armor 
 - trait/school/abjuration
-- imported/trait/armor
 - trait/equipment/invested
 - trait/magical
 - trait/rarity/uncommon
 aliases: ["Jerkin Of Liberation"]
 ---
 # Jerkin Of Liberation *Item 17*  
-[abjuration](abjuration.md)  [invested](invested.md)  [magical](magical.md)  [uncommon](uncommon.md)  armor  
+[abjuration](abjuration.md)  [invested](invested.md)  [magical](magical.md)  [uncommon](uncommon.md)
 
 - **Price** 14000 gp
 - **Usage** worn armor; **Bulk** 1

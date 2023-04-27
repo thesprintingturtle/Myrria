@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/X
-- trait/organization 
+- organization/level/X
 aliases: Name
 ---
 # Name *Organization X*

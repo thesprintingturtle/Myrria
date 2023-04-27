@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cinder Rat"
 tags: 
   - trait/creature/type/elemental
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Cinder Rat"
 level: 3

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Cockroach"
 tags: 
   - trait/creature/type/animal
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Giant Cockroach"
 level: 1

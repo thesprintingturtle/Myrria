@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "River Drake"
 tags: 
   - trait/creature/type/dragon
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "River Drake"
 level: 3

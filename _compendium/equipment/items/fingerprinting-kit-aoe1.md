@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/aoe1
+- compendium/src/pf2e/aoe1
 - equipment/held-item
 - trait/rarity/uncommon
 aliases: ["Fingerprinting Kit"]

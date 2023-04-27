@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/alignment
-- imported/trait/category/planar
+- compendium/src/pf2e/crb
+- trait/category/alignment
+- trait/category/planar
 aliases: ["Lawful"]
 ---
 # Lawful  

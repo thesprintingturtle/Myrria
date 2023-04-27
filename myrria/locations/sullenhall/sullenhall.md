@@ -1,9 +1,8 @@
 ---
 tags:
 - custom
-- level/12 
-- trait/location/type/city-state
-- trait/location/bastion-city
+- location/city-state/level/12 
+- trait/settlement/bastion-city
 aliases: ["Sullenhall"]
 ---
 # Sullenhall *City-State 12*

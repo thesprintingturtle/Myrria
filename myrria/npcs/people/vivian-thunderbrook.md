@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/20
-- trait/npc
+- character/level/20
 aliases: Vivian Thunderbrook
 ---
 # Vivian Thunderbrook *Character 20*

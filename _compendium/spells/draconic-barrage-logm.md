@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/evocation
 aliases: ["Draconic Barrage"]
@@ -10,7 +10,7 @@ aliases: ["Draconic Barrage"]
 # Draconic Barrage *Focus 1*   
 [evocation](evocation.md)  
 
-- **Domains**: [[wyrmkin](../setting/domains.md#Wyrmkin)]
+- **Domains**: [[wyrmkin](../domains.md#Wyrmkin)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

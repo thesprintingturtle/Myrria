@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/burst
 - spell/focus/4
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Downpour"]
 # Downpour *Focus 4*   
 [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [uncommon](uncommon.md)  [water](water.md)  
 
-- **Domains**: [[water](../setting/domains.md#Water)]
+- **Domains**: [[water](../domains.md#Water)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**30-foot burst

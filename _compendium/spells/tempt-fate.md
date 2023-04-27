@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/divination
@@ -13,7 +13,7 @@ aliases: ["Tempt Fate"]
 # Tempt Fate *Focus 4*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [fortune](fortune.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[fate](../setting/domains.md#Fate)]
+- **Domains**: [[fate](../domains.md#Fate)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You or an ally within range attempts a saving throw.
 - **Range**120 foot

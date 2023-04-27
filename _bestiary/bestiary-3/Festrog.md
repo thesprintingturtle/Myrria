@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Festrog"
 tags: 
   - trait/creature/type/undead
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Festrog"
 level: 1

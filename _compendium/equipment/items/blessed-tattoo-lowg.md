@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lowg
+- compendium/src/pf2e/lowg
 - equipment/tattoo
 - trait/school/abjuration
 - trait/equipment/invested

@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
 - equipment/weapon/base-weapon/range/40
 - equipment/weapon/base-weapon/reload/1
 - trait/equipment/weapon/concussive
-- imported/trait/scatter-10-ft
+- trait/equipment/weapon/scatter/10
 - trait/rarity/uncommon
 aliases: ["Blunderbuss"]
 ---

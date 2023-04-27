@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tiger"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Tiger"
 level: 4

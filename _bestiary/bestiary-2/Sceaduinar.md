@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sceaduinar"
 tags: 
   - trait/creature/type/aberration
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Sceaduinar"
 level: 7

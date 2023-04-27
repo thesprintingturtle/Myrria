@@ -4,7 +4,7 @@ aliases: "Ravener"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/undead
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Ravener"
 level: 21

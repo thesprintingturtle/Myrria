@@ -2,7 +2,9 @@
 aliases: "Snow Bison"
 tags: 
 - custom
-- level/1
+- creature/level/1
+- trait/alignment/n
+- trait/size/large
 - trait/creature/type/animal
 statblock: inline
 name: "Snow Bison"

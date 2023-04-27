@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vrykolakas Spawn"
 tags: 
   - trait/creature/type/undead
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Vrykolakas Spawn"
 level: 6

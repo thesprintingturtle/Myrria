@@ -4,7 +4,7 @@ aliases: "Zomok"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/plant
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Zomok"
 level: 16

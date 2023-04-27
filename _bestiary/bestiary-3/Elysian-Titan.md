@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Elysian Titan"
 tags: 
   - trait/creature/type/humanoid
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Elysian Titan"
 level: 21

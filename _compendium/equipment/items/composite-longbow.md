@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/bow
 - equipment/weapon/base-weapon/type/ranged
@@ -10,7 +10,7 @@ tags:
 - equipment/weapon/base-weapon/reload/0
 - trait/equipment/weapon/deadly/d10
 - trait/equipment/weapon/propulsive
-- imported/trait/volley-30-ft
+- trait/equipment/weapon/volley/30
 aliases: ["Composite Longbow"]
 ---
 # Composite Longbow *Item 0*  

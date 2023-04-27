@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Thrasfyr"
 tags: 
   - trait/creature/type/beast
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Thrasfyr"
 level: 17

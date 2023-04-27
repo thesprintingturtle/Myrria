@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kovintus Geomancer"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Kovintus Geomancer"
 level: 3

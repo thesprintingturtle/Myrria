@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Elephant"
 tags: 
   - trait/creature/type/animal
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Elephant"
 level: 7

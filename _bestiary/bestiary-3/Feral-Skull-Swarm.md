@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Feral Skull Swarm"
 tags: 
   - trait/creature/type/undead
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Feral Skull Swarm"
 level: 12

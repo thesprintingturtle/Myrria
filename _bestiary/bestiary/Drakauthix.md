@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Drakauthix"
 tags: 
   - trait/creature/type/fungus
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Drakauthix"
 level: 9

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Xulgath Boss"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Xulgath Boss"
 level: 3

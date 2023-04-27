@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Air Mephit"
 tags: 
   - trait/creature/type/elemental
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Air Mephit"
 level: 1

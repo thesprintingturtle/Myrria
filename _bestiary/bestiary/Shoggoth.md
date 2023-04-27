@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shoggoth"
 tags: 
   - trait/creature/type/aberration
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Shoggoth"
 level: 18

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/loil
+- compendium/src/pf2e/loil
 - trait/hazard/environmental
 aliases: ["Spell Pitchers"]
 ---

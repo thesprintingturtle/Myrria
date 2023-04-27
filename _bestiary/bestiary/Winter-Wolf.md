@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Winter Wolf"
 tags: 
   - trait/creature/type/beast
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Winter Wolf"
 level: 5

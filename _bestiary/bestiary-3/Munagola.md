@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Munagola"
 tags: 
   - trait/creature/type/fiend
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Munagola"
 level: 11

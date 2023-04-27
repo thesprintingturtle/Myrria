@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Grimstalker"
 tags: 
   - trait/creature/type/fey
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Grimstalker"
 level: 5

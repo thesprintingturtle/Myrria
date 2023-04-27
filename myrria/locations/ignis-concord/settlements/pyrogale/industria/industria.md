@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/5
-- trait/location/type/district 
+- location/district/level/5
 aliases: Industria
 ---
 # Industria *District 5*

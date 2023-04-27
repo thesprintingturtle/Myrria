@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Caligni Stalker"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Caligni Stalker"
 level: 4

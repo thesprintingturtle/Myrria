@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Aurumvorax"
 tags: 
   - trait/creature/type/animal
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Aurumvorax"
 level: 9

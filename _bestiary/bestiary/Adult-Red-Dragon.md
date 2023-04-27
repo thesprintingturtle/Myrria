@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adult Red Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Adult Red Dragon"
 level: 14

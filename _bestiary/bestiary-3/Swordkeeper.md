@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Swordkeeper"
 tags: 
   - trait/creature/type/construct
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Swordkeeper"
 level: 10

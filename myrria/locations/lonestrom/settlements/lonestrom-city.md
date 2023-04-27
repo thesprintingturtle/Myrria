@@ -1,10 +1,10 @@
 ---
 tags:
 - custom
-- level/12 
-- trait/location/type/settlement/metropolis 
-- trait/location/bastion-city 
-- trait/location/capital-city
+- location/settlement/level/12 
+- trait/settlement/type/metropolis 
+- trait/settlement/bastion-city 
+- trait/settlement/capital-city
 aliases: ["Lonestrom (City)","Lonestrom"]
 ---
 # Lonestrom *Settlement 12*

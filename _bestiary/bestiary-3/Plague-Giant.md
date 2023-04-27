@@ -4,7 +4,7 @@ aliases: "Plague Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Plague Giant"
 level: 14

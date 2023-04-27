@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/sot1
+- compendium/src/pf2e/sot1
 - spell/level/1
 - trait/sense/olfactory
 - trait/school/transmutation

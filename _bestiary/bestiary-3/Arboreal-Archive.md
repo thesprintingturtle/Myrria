@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Arboreal Archive"
 tags: 
   - trait/creature/type/plant
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Arboreal Archive"
 level: 12

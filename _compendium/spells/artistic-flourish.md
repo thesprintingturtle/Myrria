@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/transmutation
@@ -12,7 +12,7 @@ aliases: ["Artistic Flourish"]
 # Artistic Flourish *Focus 4*   
 [cleric](rules/traits/cleric.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[creation](../setting/domains.md#Creation)]
+- **Domains**: [[creation](../domains.md#Creation)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**15 foot
 - **Targets**1 item or work of art that fits entirely within the range

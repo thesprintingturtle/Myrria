@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ancient White Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Ancient White Dragon"
 level: 15

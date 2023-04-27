@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Amphisbaena"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Amphisbaena"
 level: 4

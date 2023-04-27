@@ -4,7 +4,7 @@ aliases: "Zombie Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/undead
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Zombie Dragon"
 level: 9

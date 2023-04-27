@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Axiomite"
 tags: 
   - trait/creature/type/monitor
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Axiomite"
 level: 8

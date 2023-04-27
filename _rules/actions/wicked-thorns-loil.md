@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/ghoran-loil
-- imported/compendium/src/pf2e/loil
+- action/ancestry/ghoran-loil
+- compendium/src/pf2e/loil
 aliases: ["Wicked Thorns"]
 ---
 # Wicked Thorns [R](chapter-9-playing-the-game.md#Actions "Reaction")

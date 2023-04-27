@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Guardian Naga"
 tags: 
   - trait/creature/type/aberration
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Guardian Naga"
 level: 10

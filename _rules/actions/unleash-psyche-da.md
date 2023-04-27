@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/psychic-da
-- imported/compendium/src/pf2e/da
+- action/class/psychic-da
+- compendium/src/pf2e/da
 - trait/class/psychic
 aliases: ["Unleash Psyche"]
 ---

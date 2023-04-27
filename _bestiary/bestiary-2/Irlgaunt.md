@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Irlgaunt"
 tags: 
   - trait/creature/type/aberration
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Irlgaunt"
 level: 13

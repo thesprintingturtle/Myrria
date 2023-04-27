@@ -1,7 +1,7 @@
 ---
 tags:
 - custom
-- level/23 
+- equipment/level/23 
 - equipment/weapon/specific-magic-weapon
 - trait/tradition/arcane 
 - trait/equipment/artifact 

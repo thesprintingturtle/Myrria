@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Azure Worm"
 tags: 
   - trait/creature/type/animal
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Azure Worm"
 level: 15

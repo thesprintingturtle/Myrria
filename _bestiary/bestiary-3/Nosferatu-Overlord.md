@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Nosferatu Overlord"
 tags: 
   - trait/creature/type/undead
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Nosferatu Overlord"
 level: 15

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ancient Bronze Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Ancient Bronze Dragon"
 level: 18

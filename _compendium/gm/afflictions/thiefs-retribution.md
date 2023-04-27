@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse
-- imported/affliction/level/19
-- imported/compendium/src/pf2e/gmg
+- affliction/curse/level/19
+- compendium/src/pf2e/gmg
 - trait/school/conjuration
 - trait/effect/curse
 - trait/magical

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/school/illusion
 - trait/sense/visual
@@ -11,7 +11,7 @@ aliases: ["Ghostly Transcription"]
 # Ghostly Transcription *Focus 4*   
 [illusion](illusion.md)  [visual](visual.md)  
 
-- **Domains**: [[glyph](../setting/domains.md#Glyph)]
+- **Domains**: [[glyph](../domains.md#Glyph)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

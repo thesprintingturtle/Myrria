@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lopsg
+- compendium/src/pf2e/lopsg
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/flail
 - equipment/weapon/base-weapon/type/melee 

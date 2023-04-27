@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Basilisk"
 tags: 
   - trait/creature/type/beast
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Basilisk"
 level: 5

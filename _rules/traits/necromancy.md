@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/school
-- imported/trait/category/spell/necromancy
+- compendium/src/pf2e/crb
+- trait/category/school
+- trait/category/spell/necromancy
 aliases: ["Necromancy"]
 ---
 # Necromancy  

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fading Fox"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Fading Fox"
 level: 2

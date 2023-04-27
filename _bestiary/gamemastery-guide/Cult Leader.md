@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cult Leader"
 tags: 
   - trait/creature/type/humanoid
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Cult Leader"
 level: 7

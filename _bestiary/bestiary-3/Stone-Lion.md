@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Stone Lion"
 tags: 
   - trait/creature/type/celestial
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Stone Lion"
 level: 4

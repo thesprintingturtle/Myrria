@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Slithering Pit"
 tags: 
   - trait/creature/type/ooze
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Slithering Pit"
 level: 7

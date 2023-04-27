@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adult Umbral Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Adult Umbral Dragon"
 level: 15

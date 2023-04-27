@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Abrikandilu"
 tags: 
   - trait/creature/type/fiend
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Abrikandilu"
 level: 4

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lamia Matriarch"
 tags: 
   - trait/creature/type/beast
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Lamia Matriarch"
 level: 8

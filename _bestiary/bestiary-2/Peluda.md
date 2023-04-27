@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Peluda"
 tags: 
   - trait/creature/type/dragon
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Peluda"
 level: 10

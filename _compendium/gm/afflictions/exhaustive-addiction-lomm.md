@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/disease
-- imported/affliction/level/15
-- imported/compendium/src/pf2e/lomm
+- affliction/disease/level/15
+- compendium/src/pf2e/lomm
 - trait/effect/disease
 - trait/rarity/unique
 aliases: ["Exhaustive Addiction"]

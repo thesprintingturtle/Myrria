@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/aoa4
+- compendium/src/pf2e/aoa4
 - trait/hazard/complex
 - trait/hazard/haunt
-- imported/trait/ne
+- trait/alignment/ne
 - trait/rarity/unique
 aliases: ["Echoes Of Betrayal"]
 ---

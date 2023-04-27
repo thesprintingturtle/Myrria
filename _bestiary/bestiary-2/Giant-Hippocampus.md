@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Hippocampus"
 tags: 
   - trait/creature/type/animal
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Giant Hippocampus"
 level: 8

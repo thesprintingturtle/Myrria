@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Changeling Exile"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Changeling Exile"
 level: 3

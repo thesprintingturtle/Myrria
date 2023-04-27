@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/divination
 aliases: ["Object Memory"]
@@ -10,7 +10,7 @@ aliases: ["Object Memory"]
 # Object Memory *Focus 1*   
 [divination](divination.md)  
 
-- **Domains**: [[vigil](../setting/domains.md#Vigil)]
+- **Domains**: [[vigil](../domains.md#Vigil)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Targets**1 weapon or tool
 - **Duration**1 minute

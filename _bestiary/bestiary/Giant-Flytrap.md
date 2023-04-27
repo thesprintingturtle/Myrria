@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Flytrap"
 tags: 
   - trait/creature/type/plant
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Giant Flytrap"
 level: 10

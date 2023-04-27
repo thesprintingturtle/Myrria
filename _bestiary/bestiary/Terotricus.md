@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Terotricus"
 tags: 
   - trait/creature/type/fungus
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Terotricus"
 level: 19

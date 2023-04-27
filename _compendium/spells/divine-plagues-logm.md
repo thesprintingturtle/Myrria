@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/effect/disease
 - trait/school/necromancy
@@ -11,7 +11,7 @@ aliases: ["Divine Plagues"]
 # Divine Plagues *Focus 1*   
 [disease](rules/traits/disease.md)  [necromancy](necromancy.md)  
 
-- **Domains**: [[plague](../setting/domains.md#Plague)]
+- **Domains**: [[plague](../domains.md#Plague)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**15 foot
 - **Saving Throw** Fortitude

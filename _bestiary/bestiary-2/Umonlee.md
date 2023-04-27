@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Umonlee"
 tags: 
   - trait/creature/type/beast
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Umonlee"
 level: 15

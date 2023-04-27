@@ -4,7 +4,7 @@ aliases: "Cunning Fox"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/spirit
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Cunning Fox"
 level: 1

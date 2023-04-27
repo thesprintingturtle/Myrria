@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Blink Dog"
 tags: 
   - trait/creature/type/beast
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Blink Dog"
 level: 2

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Annis Hag"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Annis Hag"
 level: 6

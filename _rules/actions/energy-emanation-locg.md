@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/dwarf
-- imported/compendium/src/pf2e/locg
+- action/ancestry/dwarf
+- compendium/src/pf2e/locg
 aliases: ["Energy Emanation"]
 ---
 # Energy Emanation [>>](chapter-9-playing-the-game.md#Actions "Two-Action")

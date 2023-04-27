@@ -1,10 +1,10 @@
 ---
 tags:
 - custom
-- level/13 
-- trait/location/type/settlement/metropolis 
+- location/settlement/level/13 
+- trait/settlement/type/metropolis 
 - trait/class/kineticist 
-- trait/location/captial-city
+- trait/settlement/capital-city
 aliases: ["Requiess"]
 ---
 # Requiess *Settlement 13*

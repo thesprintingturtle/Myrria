@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/gmg
-- imported/trait/category/planar
-- imported/trait/category/scope
+- compendium/src/pf2e/gmg
+- trait/category/planar
+- trait/category/scope
 aliases: ["Finite"]
 ---
 # Finite  

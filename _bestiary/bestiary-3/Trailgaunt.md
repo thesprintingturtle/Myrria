@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Trailgaunt"
 tags: 
   - trait/creature/type/undead
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Trailgaunt"
 level: 3

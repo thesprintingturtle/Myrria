@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Anaconda"
 tags: 
   - trait/creature/type/animal
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Giant Anaconda"
 level: 8

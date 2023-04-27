@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoa4
+- compendium/src/pf2e/aoa4
 - spell/focus/1
 - trait/class/cleric
 - trait/school/divination
@@ -12,7 +12,7 @@ aliases: ["Practice Makes Perfect"]
 # Practice Makes Perfect *Focus 1*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[toil](../setting/domains.md#Toil)]
+- **Domains**: [[toil](../domains.md#Toil)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You or an ally within range fails a skill check for a skill in which you or they are trained.
 - **Range**30 foot

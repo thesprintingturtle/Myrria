@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/necromancy
@@ -13,7 +13,7 @@ aliases: ["Malignant Sustenance"]
 # Malignant Sustenance *Focus 4*   
 [cleric](rules/traits/cleric.md)  [necromancy](necromancy.md)  [negative](negative.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[undeath](../setting/domains.md#Undeath)]
+- **Domains**: [[undeath](../domains.md#Undeath)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 willing undead creature

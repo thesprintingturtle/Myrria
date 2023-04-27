@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Garuda"
 tags: 
   - trait/creature/type/celestial
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Garuda"
 level: 9

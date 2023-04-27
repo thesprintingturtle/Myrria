@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/effect/morph
@@ -14,7 +14,7 @@ aliases: ["Vibrant Thorns"]
 # Vibrant Thorns *Focus 1*   
 [cleric](rules/traits/cleric.md)  [morph](morph.md)  [plant](plant.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[nature](../setting/domains.md#Nature)]
+- **Domains**: [[nature](../domains.md#Nature)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute
 

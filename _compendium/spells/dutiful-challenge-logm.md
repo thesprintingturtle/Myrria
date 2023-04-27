@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/school/abjuration
 aliases: ["Dutiful Challenge"]
@@ -10,7 +10,7 @@ aliases: ["Dutiful Challenge"]
 # Dutiful Challenge *Focus 4*   
 [abjuration](abjuration.md)  
 
-- **Domains**: [[duty](../setting/domains.md#Duty)]
+- **Domains**: [[duty](../domains.md#Duty)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

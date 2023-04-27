@@ -4,7 +4,7 @@ aliases: "Great Cyclops"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Great Cyclops"
 level: 12

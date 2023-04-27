@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Choker"
 tags: 
   - trait/creature/type/aberration
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Choker"
 level: 2

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ec1
+- compendium/src/pf2e/ec1
 - equipment/snare
 - trait/equipment/consumable
 - trait/equipment/mechanical

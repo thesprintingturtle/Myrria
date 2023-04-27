@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dretch"
 tags: 
   - trait/creature/type/fiend
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Dretch"
 level: 2

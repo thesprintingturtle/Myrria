@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gogiteth"
 tags: 
   - trait/creature/type/aberration
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Gogiteth"
 level: 12

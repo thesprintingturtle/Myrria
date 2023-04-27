@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Duergar Sharpshooter"
 tags: 
   - trait/creature/type/humanoid
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Duergar Sharpshooter"
 level: 0

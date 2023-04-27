@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/effect/morph
 - trait/school/transmutation
@@ -11,7 +11,7 @@ aliases: ["Adapt Self"]
 # Adapt Self *Focus 1*   
 [morph](morph.md)  [transmutation](transmutation.md)  
 
-- **Domains**: [[change](../setting/domains.md#Change)]
+- **Domains**: [[change](../domains.md#Change)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**1 minute
 

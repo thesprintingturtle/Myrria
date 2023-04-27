@@ -4,7 +4,7 @@ aliases: "Feathered Bear"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/spirit
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Feathered Bear"
 level: 10

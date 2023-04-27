@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Young Gold Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Young Gold Dragon"
 level: 11

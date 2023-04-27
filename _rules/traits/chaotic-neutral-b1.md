@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/b1
-- imported/trait/category/_alignabv
-- imported/trait/category/alignment
+- compendium/src/pf2e/b1
+- trait/category/_alignabv
+- trait/category/alignment
 aliases: ["Chaotic Neutral"]
 ---
 # Chaotic Neutral  

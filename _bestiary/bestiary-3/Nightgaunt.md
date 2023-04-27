@@ -4,7 +4,7 @@ aliases: "Nightgaunt"
 tags: 
   - trait/creature/type/aberration
   - trait/creature/type/dream
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Nightgaunt"
 level: 4

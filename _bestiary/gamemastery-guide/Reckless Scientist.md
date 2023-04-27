@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Reckless Scientist"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Reckless Scientist"
 level: 6

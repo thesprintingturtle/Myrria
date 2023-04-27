@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sorcerous Skull Swarm"
 tags: 
   - trait/creature/type/undead
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Sorcerous Skull Swarm"
 level: 14

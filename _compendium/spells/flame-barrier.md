@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/school/abjuration
 - trait/class/cleric
@@ -12,7 +12,7 @@ aliases: ["Flame Barrier"]
 # Flame Barrier *Focus 4*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[fire](../setting/domains.md#Fire)]
+- **Domains**: [[fire](../domains.md#Fire)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**An effect would deal fire damage to either you or an ally within range.
 - **Range**60 foot

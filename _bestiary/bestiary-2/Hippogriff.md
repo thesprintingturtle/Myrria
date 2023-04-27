@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hippogriff"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Hippogriff"
 level: 2

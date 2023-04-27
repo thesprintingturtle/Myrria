@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Animate Dream"
 tags: 
   - trait/creature/type/dream
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Animate Dream"
 level: 8

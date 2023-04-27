@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Empress Bore Worm"
 tags: 
   - trait/creature/type/animal
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Empress Bore Worm"
 level: 7

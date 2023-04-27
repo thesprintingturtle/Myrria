@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Green Man"
 tags: 
   - trait/creature/type/plant
-  - level/24
+  - creature/level/24
 statblock: inline
 name: "Green Man"
 level: 24

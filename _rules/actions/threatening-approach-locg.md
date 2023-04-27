@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/lizardfolk-locg
-- imported/compendium/src/pf2e/locg
+- action/ancestry/lizardfolk-locg
+- compendium/src/pf2e/locg
 aliases: ["Threatening Approach"]
 ---
 # Threatening Approach [>>](chapter-9-playing-the-game.md#Actions "Two-Action")

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/b2
-- imported/ritual/7
+- compendium/src/pf2e/b2
+- ritual/level/7
 - trait/alignment/evil
 - trait/school/necromancy
 - trait/rarity/rare

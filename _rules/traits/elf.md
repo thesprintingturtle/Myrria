@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/ancestry-heritage
-- imported/trait/category/creature
+- compendium/src/pf2e/crb
+- trait/category/ancestry-heritage
+- trait/category/creature
 aliases: ["Elf"]
 ---
 # Elf  

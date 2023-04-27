@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/lokl
+- compendium/src/pf2e/lokl
 - spell/area/cone
 - spell/level/1
 - trait/element/air

@@ -4,7 +4,7 @@ aliases: "Fire Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Fire Giant"
 level: 10

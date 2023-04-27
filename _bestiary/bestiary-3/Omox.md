@@ -4,7 +4,7 @@ aliases: "Omox"
 tags: 
   - trait/creature/type/fiend
   - trait/creature/type/ooze
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Omox"
 level: 12

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gurgist Mauler"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Gurgist Mauler"
 level: 6

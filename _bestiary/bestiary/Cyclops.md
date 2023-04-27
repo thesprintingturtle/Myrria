@@ -4,7 +4,7 @@ aliases: "Cyclops"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Cyclops"
 level: 5

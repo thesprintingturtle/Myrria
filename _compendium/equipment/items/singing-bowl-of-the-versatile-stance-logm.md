@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - equipment/held-item
 - trait/school/enchantment
 - trait/magical

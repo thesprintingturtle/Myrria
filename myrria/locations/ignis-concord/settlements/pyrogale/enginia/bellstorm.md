@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/7
-- trait/location/type/district 
+- location/district/level/7
 aliases: Bellstorm
 ---
 # Bellstorm *District 7*

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gorgon"
 tags: 
   - trait/creature/type/beast
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Gorgon"
 level: 8

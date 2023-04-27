@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/sling
 - equipment/weapon/base-weapon/type/ranged
 - equipment/weapon/base-weapon/range/240
 - equipment/weapon/base-weapon/reload/1-min
 - trait/rarity/uncommon
-- imported/trait/volley-50-ft
+- trait/equipment/weapon/volley/50
 aliases: ["Backpack Catapult"]
 ---
 # Backpack Catapult *Item 1*  

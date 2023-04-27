@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ganzi Martial Artist"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Ganzi Martial Artist"
 level: 3

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Incutilis"
 tags: 
   - trait/creature/type/aberration
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Incutilis"
 level: 2

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/apg
+- compendium/src/pf2e/apg
 - spell/area/burst
 - spell/level/3
 - trait/school/conjuration

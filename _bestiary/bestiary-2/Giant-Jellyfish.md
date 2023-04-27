@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Jellyfish"
 tags: 
   - trait/creature/type/animal
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Giant Jellyfish"
 level: 7

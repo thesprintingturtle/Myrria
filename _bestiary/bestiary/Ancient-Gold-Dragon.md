@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ancient Gold Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/20
+  - creature/level/20
 statblock: inline
 name: "Ancient Gold Dragon"
 level: 20

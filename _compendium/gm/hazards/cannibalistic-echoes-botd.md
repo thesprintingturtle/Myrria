@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/botd
+- compendium/src/pf2e/botd
 - trait/hazard/haunt
 aliases: ["Cannibalistic Echoes"]
 ---

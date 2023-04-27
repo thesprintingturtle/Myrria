@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sand Sentry"
 tags: 
   - trait/creature/type/elemental
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Sand Sentry"
 level: 6

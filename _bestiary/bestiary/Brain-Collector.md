@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Brain Collector"
 tags: 
   - trait/creature/type/aberration
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Brain Collector"
 level: 8

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dragon Turtle"
 tags: 
   - trait/creature/type/dragon
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Dragon Turtle"
 level: 9

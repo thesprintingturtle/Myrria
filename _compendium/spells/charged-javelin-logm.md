@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/effect/attack
 - trait/energy/electricity
@@ -12,7 +12,7 @@ aliases: ["Charged Javelin"]
 # Charged Javelin *Focus 1*   
 [attack](attack.md)  [electricity](electricity.md)  [evocation](evocation.md)  
 
-- **Domains**: [[lightning](../setting/domains.md#Lightning)]
+- **Domains**: [[lightning](../domains.md#Lightning)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 or more creatures

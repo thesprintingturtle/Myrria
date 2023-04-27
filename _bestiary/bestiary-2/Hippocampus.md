@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hippocampus"
 tags: 
   - trait/creature/type/animal
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Hippocampus"
 level: 1

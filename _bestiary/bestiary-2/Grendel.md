@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Grendel"
 tags: 
   - trait/creature/type/humanoid
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Grendel"
 level: 19

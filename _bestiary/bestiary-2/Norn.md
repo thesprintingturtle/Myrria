@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Norn"
 tags: 
   - trait/creature/type/fey
-  - level/20
+  - creature/level/20
 statblock: inline
 name: "Norn"
 level: 20

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Neothelid"
 tags: 
   - trait/creature/type/aberration
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Neothelid"
 level: 15

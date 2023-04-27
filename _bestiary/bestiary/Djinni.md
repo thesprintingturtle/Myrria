@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Djinni"
 tags: 
   - trait/creature/type/elemental
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Djinni"
 level: 5

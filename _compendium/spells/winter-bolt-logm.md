@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/effect/attack
 - trait/energy/cold
@@ -12,7 +12,7 @@ aliases: ["Winter Bolt"]
 # Winter Bolt *Focus 1*   
 [attack](attack.md)  [cold](cold.md)  [evocation](evocation.md)  
 
-- **Domains**: [[cold](../setting/domains.md#Cold)]
+- **Domains**: [[cold](../domains.md#Cold)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Angheuvore Flesh-gnawer"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Angheuvore Flesh-gnawer"
 level: 2

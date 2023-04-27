@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sportlebore Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Sportlebore Swarm"
 level: 7

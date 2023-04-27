@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vampire Spawn Rogue"
 tags: 
   - trait/creature/type/undead
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Vampire Spawn Rogue"
 level: 4

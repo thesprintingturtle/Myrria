@@ -4,7 +4,7 @@ aliases: "Ghoran Manipulator"
 tags: 
   - trait/creature/type/humanoid
   - trait/creature/type/plant
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Ghoran Manipulator"
 level: 3

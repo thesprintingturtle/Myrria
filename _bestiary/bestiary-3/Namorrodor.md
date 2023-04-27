@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Namorrodor"
 tags: 
   - trait/creature/type/undead
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Namorrodor"
 level: 5

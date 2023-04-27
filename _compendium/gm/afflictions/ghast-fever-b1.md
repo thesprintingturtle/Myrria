@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/disease
-- imported/affliction/level/1
-- imported/compendium/src/pf2e/b1
+- affliction/disease/level/1
+- compendium/src/pf2e/b1
 - trait/effect/disease
 aliases: ["Ghast Fever"]
 ---

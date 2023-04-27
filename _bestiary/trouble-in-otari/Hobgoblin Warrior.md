@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hobgoblin Warrior"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Hobgoblin Warrior"
 level: 1

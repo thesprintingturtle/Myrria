@@ -4,7 +4,7 @@ aliases: "Twigjack"
 tags: 
   - trait/creature/type/fey
   - trait/creature/type/plant
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Twigjack"
 level: 3

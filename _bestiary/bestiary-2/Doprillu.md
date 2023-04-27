@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Doprillu"
 tags: 
   - trait/creature/type/aberration
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Doprillu"
 level: 14

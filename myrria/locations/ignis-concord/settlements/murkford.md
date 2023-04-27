@@ -1,8 +1,8 @@
 ---
 tags:
 - custom
-- level/4 
-- trait/location/type/settlement/town 
+- location/settlement/level/4 
+- trait/settlement/type/town 
 aliases: ["Murkford"]
 ---
 # Murkford *Settlement 4*

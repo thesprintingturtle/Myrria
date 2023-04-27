@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kuchisake-onna"
 tags: 
   - trait/creature/type/aberration
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Kuchisake-onna"
 level: 14

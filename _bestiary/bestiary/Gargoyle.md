@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gargoyle"
 tags: 
   - trait/creature/type/beast
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Gargoyle"
 level: 4

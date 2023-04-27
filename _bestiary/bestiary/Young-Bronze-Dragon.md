@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Young Bronze Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Young Bronze Dragon"
 level: 9

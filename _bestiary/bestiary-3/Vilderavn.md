@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vilderavn"
 tags: 
   - trait/creature/type/fey
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Vilderavn"
 level: 16

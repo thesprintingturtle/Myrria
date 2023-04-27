@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Animated Furnace"
 tags: 
   - trait/creature/type/construct
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Animated Furnace"
 level: 9

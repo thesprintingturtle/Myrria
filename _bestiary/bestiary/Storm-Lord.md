@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Storm Lord"
 tags: 
   - trait/creature/type/elemental
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Storm Lord"
 level: 9

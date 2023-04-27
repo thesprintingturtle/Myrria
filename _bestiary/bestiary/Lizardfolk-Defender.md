@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lizardfolk Defender"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Lizardfolk Defender"
 level: 1

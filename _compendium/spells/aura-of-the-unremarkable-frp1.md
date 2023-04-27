@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/frp1
+- compendium/src/pf2e/frp1
 - spell/area/emanation
 - spell/level/6
 - trait/school/illusion

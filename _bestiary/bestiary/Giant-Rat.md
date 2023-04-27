@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Rat"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Giant Rat"
 level: -1

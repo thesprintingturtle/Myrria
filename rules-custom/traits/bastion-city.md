@@ -1,7 +1,7 @@
 ---
 tags:
 - custom
-- imported/trait/category/settlement  
+- trait/category/settlement  
 aliases: ["Bastion City","bastion city"]
 ---
 # Bastion City  

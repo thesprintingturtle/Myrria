@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/lokl
+- compendium/src/pf2e/lokl
 - spell/focus/6
 - trait/energy/electricity
 - trait/school/evocation

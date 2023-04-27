@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Imp"
 tags: 
   - trait/creature/type/fiend
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Imp"
 level: 1

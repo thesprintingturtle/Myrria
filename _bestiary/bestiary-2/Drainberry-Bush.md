@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Drainberry Bush"
 tags: 
   - trait/creature/type/plant
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Drainberry Bush"
 level: 7

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/av2
+- compendium/src/pf2e/av2
 - equipment/contract
 - trait/equipment/contract
 - trait/equipment/invested

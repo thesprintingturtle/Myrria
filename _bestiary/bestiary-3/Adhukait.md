@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adhukait"
 tags: 
   - trait/creature/type/fiend
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Adhukait"
 level: 7

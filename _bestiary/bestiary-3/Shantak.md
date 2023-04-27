@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shantak"
 tags: 
   - trait/creature/type/beast
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Shantak"
 level: 8

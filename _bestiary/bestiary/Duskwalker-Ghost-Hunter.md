@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Duskwalker Ghost Hunter"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Duskwalker Ghost Hunter"
 level: 4

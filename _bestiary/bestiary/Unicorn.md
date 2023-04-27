@@ -4,7 +4,7 @@ aliases: "Unicorn"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fey
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Unicorn"
 level: 3

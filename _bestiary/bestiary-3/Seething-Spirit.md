@@ -4,7 +4,7 @@ aliases: "Seething Spirit"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Seething Spirit"
 level: 11

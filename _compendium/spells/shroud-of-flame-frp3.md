@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/frp3
+- compendium/src/pf2e/frp3
 - spell/area/emanation
 - spell/focus/3
 - trait/school/evocation

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Balisse"
 tags: 
   - trait/creature/type/celestial
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Balisse"
 level: 8

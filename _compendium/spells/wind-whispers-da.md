@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/4
 - trait/class/cleric
 - trait/school/enchantment
@@ -14,7 +14,7 @@ aliases: ["Wind Whispers"]
 # Wind Whispers *Focus 4*   
 [cleric](rules/traits/cleric.md)  [enchantment](enchantment.md)  [linguistic](linguistic.md)  [mental](mental.md)  [rare](rare.md)  
 
-- **Domains**: [[air (apocryphal)](../setting/domains.md#Air%20(apocryphal))]
+- **Domains**: [[air (apocryphal)](../domains.md#Air%20(apocryphal))]
 - **Cast** 1 hour 
 - **Range**mile
 

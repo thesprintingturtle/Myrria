@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse
-- imported/affliction/level/15
-- imported/compendium/src/pf2e/sli
+- affliction/curse/level/15
+- compendium/src/pf2e/sli
 - trait/effect/curse
 - trait/rarity/unique
 - trait/affliction/virulent

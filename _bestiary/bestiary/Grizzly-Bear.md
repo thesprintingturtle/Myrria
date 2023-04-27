@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Grizzly Bear"
 tags: 
   - trait/creature/type/animal
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Grizzly Bear"
 level: 3

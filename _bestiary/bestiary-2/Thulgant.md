@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Thulgant"
 tags: 
   - trait/creature/type/fiend
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Thulgant"
 level: 18

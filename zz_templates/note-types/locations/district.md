@@ -1,7 +1,6 @@
 ---
 tags:
-- level/X
-- trait/location/type/district
+- location/district/level/X
 aliases: Name
 ---
 # Name *District X*

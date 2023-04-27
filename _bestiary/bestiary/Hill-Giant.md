@@ -4,7 +4,7 @@ aliases: "Hill Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Hill Giant"
 level: 7

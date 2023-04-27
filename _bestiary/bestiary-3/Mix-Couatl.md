@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mix Couatl"
 tags: 
   - trait/creature/type/beast
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Mix Couatl"
 level: 8

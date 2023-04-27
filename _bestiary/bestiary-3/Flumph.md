@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Flumph"
 tags: 
   - trait/creature/type/aberration
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Flumph"
 level: 1

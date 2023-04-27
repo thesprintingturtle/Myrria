@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Maggot"
 tags: 
   - trait/creature/type/animal
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Giant Maggot"
 level: 0

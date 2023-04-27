@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shining Child"
 tags: 
   - trait/creature/type/astral
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Shining Child"
 level: 12

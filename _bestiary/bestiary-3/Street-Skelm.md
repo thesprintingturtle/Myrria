@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Street Skelm"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Street Skelm"
 level: 3

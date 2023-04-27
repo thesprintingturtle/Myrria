@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Three-toed Sloth"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Three-toed Sloth"
 level: -1

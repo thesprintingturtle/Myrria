@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/school/abjuration
 - trait/class/cleric
@@ -13,7 +13,7 @@ aliases: ["Sudden Shift"]
 # Sudden Shift *Focus 1*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [illusion](illusion.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[trickery](../setting/domains.md#Trickery)]
+- **Domains**: [[trickery](../domains.md#Trickery)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**An enemy misses you with a melee attack.
 - **Duration**until the end of your next turn

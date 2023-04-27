@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Terra-cotta Soldier"
 tags: 
   - trait/creature/type/construct
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Terra-cotta Soldier"
 level: 6

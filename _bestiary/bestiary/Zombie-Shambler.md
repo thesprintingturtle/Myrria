@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Zombie Shambler"
 tags: 
   - trait/creature/type/undead
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Zombie Shambler"
 level: -1

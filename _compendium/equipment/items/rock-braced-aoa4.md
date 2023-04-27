@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/aoa4
+- compendium/src/pf2e/aoa4
 - equipment/rune
 - trait/school/abjuration
 - trait/ancestry/dwarf
 - trait/magical
 - trait/rarity/rare
-- imported/trait/saggorak
+- trait/ap-specific/saggorak
 aliases: ["Rock-braced"]
 ---
 # Rock-braced *Item 13*  

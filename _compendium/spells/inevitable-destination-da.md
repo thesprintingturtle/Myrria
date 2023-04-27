@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/4
 - trait/class/cleric
 - trait/school/conjuration
@@ -12,7 +12,7 @@ aliases: ["Inevitable Destination"]
 # Inevitable Destination *Focus 4*   
 [cleric](rules/traits/cleric.md)  [conjuration](conjuration.md)  [rare](rare.md)  
 
-- **Domains**: [[travel (apocryphal)](../setting/domains.md#Travel%20(apocryphal))]
+- **Domains**: [[travel (apocryphal)](../domains.md#Travel%20(apocryphal))]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**you and 1 enemy

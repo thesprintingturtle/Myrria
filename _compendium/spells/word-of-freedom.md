@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/enchantment
@@ -13,7 +13,7 @@ aliases: ["Word Of Freedom"]
 # Word Of Freedom *Focus 4*   
 [cleric](../../rules/traits/cleric.md)  [enchantment](../../rules/traits/enchantment.md)  [mental](../../rules/traits/mental.md)  [uncommon](../../rules/traits/uncommon.md)  
 
-- **Domains**: [[freedom](../setting/domains.md#Freedom)]
+- **Domains**: [[freedom](../domains.md#Freedom)]
 - **Cast** [>](../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**30 foot
 - **Targets**1 creature

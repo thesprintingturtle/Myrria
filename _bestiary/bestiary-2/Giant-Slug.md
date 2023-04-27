@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Slug"
 tags: 
   - trait/creature/type/animal
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Giant Slug"
 level: 8

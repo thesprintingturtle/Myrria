@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Crocodile"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Crocodile"
 level: 2

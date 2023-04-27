@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Young Black Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Young Black Dragon"
 level: 7

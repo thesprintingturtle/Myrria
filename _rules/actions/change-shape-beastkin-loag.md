@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/compendium/src/pf2e/loag
+- compendium/src/pf2e/loag
 - trait/action/concentrate
 - trait/effect/polymorph
 - trait/tradition/primal

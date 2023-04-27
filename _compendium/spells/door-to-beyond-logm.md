@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
 - trait/school/conjuration
@@ -11,7 +11,7 @@ aliases: ["Door To Beyond"]
 # Door To Beyond *Focus 4*   
 [conjuration](conjuration.md)  
 
-- **Domains**: [[void](../setting/domains.md#Void)]
+- **Domains**: [[void](../domains.md#Void)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**5 foot
 - **Area**20-foot emanation

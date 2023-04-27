@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoa3
+- compendium/src/pf2e/aoa3
 - spell/cantrip
 - trait/spell/cantrip
 - trait/school/divination

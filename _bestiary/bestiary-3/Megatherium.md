@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Megatherium"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Megatherium"
 level: 5

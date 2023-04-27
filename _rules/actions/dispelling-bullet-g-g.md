@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/archetype/spellshot-g-g
-- imported/action/class/gunslinger-g-g
-- imported/compendium/src/pf2e/g&g
+- action/archetype/spellshot-g-g
+- action/class/gunslinger-g-g
+- compendium/src/pf2e/g&g
 - trait/school/abjuration
 - trait/magical
-- imported/trait/spellshot
+- trait/equipment/ammunition/spellshot
 aliases: ["Dispelling Bullet"]
 ---
 # Dispelling Bullet [>>](chapter-9-playing-the-game.md#Actions "Two-Action")

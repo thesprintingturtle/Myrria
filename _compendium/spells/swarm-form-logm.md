@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/effect/polymorph
 - trait/school/transmutation
@@ -11,7 +11,7 @@ aliases: ["Swarm Form"]
 # Swarm Form *Focus 4*   
 [polymorph](polymorph.md)  [transmutation](transmutation.md)  
 
-- **Domains**: [[swarm](../setting/domains.md#Swarm)]
+- **Domains**: [[swarm](../domains.md#Swarm)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**5 minutes
 

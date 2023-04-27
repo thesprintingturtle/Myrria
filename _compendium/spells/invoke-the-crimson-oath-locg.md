@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/locg
+- compendium/src/pf2e/locg
 - spell/area/cone
 - spell/focus/2
 - trait/school/evocation

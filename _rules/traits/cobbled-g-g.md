@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/g&g
-- imported/trait/category/weapon
+- compendium/src/pf2e/g&g
+- trait/category/weapon
 aliases: ["Cobbled"]
 ---
 # Cobbled  

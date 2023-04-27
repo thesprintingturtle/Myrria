@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Grim Reaper"
 tags: 
   - trait/creature/type/undead
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Grim Reaper"
 level: 21

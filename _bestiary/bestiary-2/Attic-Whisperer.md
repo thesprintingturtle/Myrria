@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Attic Whisperer"
 tags: 
   - trait/creature/type/undead
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Attic Whisperer"
 level: 4

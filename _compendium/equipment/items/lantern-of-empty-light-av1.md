@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/av1
+- compendium/src/pf2e/av1
 - equipment/held-item
 - trait/school/enchantment
 - trait/magical

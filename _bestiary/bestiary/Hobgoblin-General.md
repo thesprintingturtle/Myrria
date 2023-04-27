@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hobgoblin General"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Hobgoblin General"
 level: 6

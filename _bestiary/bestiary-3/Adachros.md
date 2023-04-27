@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adachros"
 tags: 
   - trait/creature/type/astral
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Adachros"
 level: 13

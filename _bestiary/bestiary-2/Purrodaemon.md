@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Purrodaemon"
 tags: 
   - trait/creature/type/fiend
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Purrodaemon"
 level: 18

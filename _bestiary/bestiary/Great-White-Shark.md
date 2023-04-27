@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Great White Shark"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Great White Shark"
 level: 4

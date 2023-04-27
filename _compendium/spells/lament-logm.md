@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/sense/auditory
 - trait/effect/emotion
@@ -13,7 +13,7 @@ aliases: ["Lament"]
 # Lament *Focus 1*   
 [auditory](auditory.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  
 
-- **Domains**: [[sorrow](../setting/domains.md#Sorrow)]
+- **Domains**: [[sorrow](../domains.md#Sorrow)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30-foot cone
 - **Targets**1 or more creatures

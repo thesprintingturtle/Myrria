@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shoal Linnorm"
 tags: 
   - trait/creature/type/dragon
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Shoal Linnorm"
 level: 15

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Toshigami"
 tags: 
   - trait/creature/type/spirit
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Toshigami"
 level: 15

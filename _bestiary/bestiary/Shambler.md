@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shambler"
 tags: 
   - trait/creature/type/plant
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Shambler"
 level: 6

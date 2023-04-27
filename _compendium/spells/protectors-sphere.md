@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/emanation
 - spell/focus/4
 - trait/school/abjuration
@@ -14,7 +14,7 @@ aliases: ["Protector's Sphere"]
 # Protector's Sphere *Focus 4*   
 [abjuration](abjuration.md)  [aura](rules/traits/aura.md)  [cleric](rules/traits/cleric.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[protection](../setting/domains.md#Protection)]
+- **Domains**: [[protection](../domains.md#Protection)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot emanation
 - **Duration**sustained up to 1 minute

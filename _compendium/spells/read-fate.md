@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/divination
@@ -13,7 +13,7 @@ aliases: ["Read Fate"]
 # Read Fate *Focus 1*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [prediction](prediction.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[fate](../setting/domains.md#Fate)]
+- **Domains**: [[fate](../domains.md#Fate)]
 - **Cast** 1 minute 
 - **Range**10 foot
 - **Targets**1 creature other than you

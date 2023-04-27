@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/sense/auditory
 - trait/class/cleric
@@ -16,7 +16,7 @@ aliases: ["Sweet Dream"]
 # Sweet Dream *Focus 1*   
 [auditory](auditory.md)  [cleric](rules/traits/cleric.md)  [enchantment](enchantment.md)  [linguistic](linguistic.md)  [mental](mental.md)  [sleep](rules/traits/sleep.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[dreams](../setting/domains.md#Dreams)]
+- **Domains**: [[dreams](../domains.md#Dreams)]
 - **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**30 foot
 - **Targets**1 willing creature

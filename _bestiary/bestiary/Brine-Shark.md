@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Brine Shark"
 tags: 
   - trait/creature/type/elemental
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Brine Shark"
 level: 3

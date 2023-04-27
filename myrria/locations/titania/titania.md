@@ -1,7 +1,7 @@
 ---
 tags:
 - custom
-- trait/location/type/nation
+- location/nation
 - trait/class/kineticist 
 aliases: ["Titania"]
 ---

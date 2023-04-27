@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Behir"
 tags: 
   - trait/creature/type/beast
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Behir"
 level: 8

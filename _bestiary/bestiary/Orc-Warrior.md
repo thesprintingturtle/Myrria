@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Orc Warrior"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Orc Warrior"
 level: 1

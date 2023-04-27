@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Calikang"
 tags: 
   - trait/creature/type/humanoid
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Calikang"
 level: 12

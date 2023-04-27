@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sturzstromer"
 tags: 
   - trait/creature/type/aberration
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Sturzstromer"
 level: 19

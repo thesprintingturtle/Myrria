@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Moose"
 tags: 
   - trait/creature/type/animal
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Moose"
 level: 3

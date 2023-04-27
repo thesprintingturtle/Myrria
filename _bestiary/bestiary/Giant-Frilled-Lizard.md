@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Frilled Lizard"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Giant Frilled Lizard"
 level: 5

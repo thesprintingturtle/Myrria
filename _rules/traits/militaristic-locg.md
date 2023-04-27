@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/locg
-- imported/trait/category/general
+- compendium/src/pf2e/locg
+- trait/category/general
 aliases: ["Militaristic"]
 ---
 # Militaristic  

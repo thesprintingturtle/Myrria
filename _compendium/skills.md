@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-note
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 aliases: ["Skills"]
 ---
 # Skills  

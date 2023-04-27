@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/da
-- imported/trait/category/action-ability
-- imported/trait/category/class
-- imported/trait/category/feat
+- compendium/src/pf2e/da
+- trait/category/action-ability
+- trait/category/class
+- trait/category/feat
 aliases: ["Deviant"]
 ---
 # Deviant  

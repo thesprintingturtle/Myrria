@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Scorpion Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Scorpion Swarm"
 level: 4

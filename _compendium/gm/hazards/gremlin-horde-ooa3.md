@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/ooa3
+- compendium/src/pf2e/ooa3
 - trait/hazard/complex
 - trait/magical
 aliases: ["Gremlin Horde"]

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Skeletal Hulk"
 tags: 
   - trait/creature/type/undead
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Skeletal Hulk"
 level: 7

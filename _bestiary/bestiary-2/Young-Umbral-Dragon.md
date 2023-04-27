@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Young Umbral Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Young Umbral Dragon"
 level: 11

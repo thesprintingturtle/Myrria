@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Clockwork Spy"
 tags: 
   - trait/creature/type/construct
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Clockwork Spy"
 level: -1

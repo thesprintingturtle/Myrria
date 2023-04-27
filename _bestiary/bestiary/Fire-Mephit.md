@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fire Mephit"
 tags: 
   - trait/creature/type/elemental
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Fire Mephit"
 level: 1

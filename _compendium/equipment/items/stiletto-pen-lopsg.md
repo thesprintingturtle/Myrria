@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lopsg
+- compendium/src/pf2e/lopsg
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/dart
 - equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/concealable
 - trait/equipment/weapon/finese
-- imported/trait/thrown-10-feet
+- trait/equipment/weapon/thrown/10
 - trait/rarity/uncommon
 aliases: ["Stiletto Pen"]
 ---

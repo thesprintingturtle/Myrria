@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Eunemvro"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Eunemvro"
 level: 5

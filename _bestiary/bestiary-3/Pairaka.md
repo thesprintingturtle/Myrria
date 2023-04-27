@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Pairaka"
 tags: 
   - trait/creature/type/fiend
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Pairaka"
 level: 7

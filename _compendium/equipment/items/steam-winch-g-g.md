@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/adventuring-gear
 - trait/rarity/rare
-- imported/trait/steam
+- trait/equipment/steam
 aliases: ["Steam Winch"]
 ---
 # Steam Winch *Item 8*  

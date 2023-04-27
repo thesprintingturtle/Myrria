@@ -4,7 +4,7 @@ aliases: "Ancient Forest Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/plant
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Ancient Forest Dragon"
 level: 19

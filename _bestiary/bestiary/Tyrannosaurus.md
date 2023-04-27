@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tyrannosaurus"
 tags: 
   - trait/creature/type/animal
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Tyrannosaurus"
 level: 10

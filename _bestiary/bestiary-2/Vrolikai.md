@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vrolikai"
 tags: 
   - trait/creature/type/fiend
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Vrolikai"
 level: 19

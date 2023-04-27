@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Wemmuth"
 tags: 
   - trait/creature/type/plant
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Wemmuth"
 level: 15

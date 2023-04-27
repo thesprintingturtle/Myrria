@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/ooa2
+- compendium/src/pf2e/ooa2
 - trait/equipment/mechanical
 - trait/equipment/trap
 - trait/rarity/uncommon

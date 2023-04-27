@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action
-- imported/compendium/src/pf2e/lomm
+- action
+- compendium/src/pf2e/lomm
 - trait/action/downtime
 - trait/action/manipulate
 - trait/rarity/rare

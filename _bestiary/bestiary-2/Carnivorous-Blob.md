@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Carnivorous Blob"
 tags: 
   - trait/creature/type/ooze
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Carnivorous Blob"
 level: 13

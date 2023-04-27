@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/sot3
+- compendium/src/pf2e/sot3
 - spell/level/6
 - trait/school/necromancy
 - trait/plane/shadow

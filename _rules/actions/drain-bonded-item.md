@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/wizard
-- imported/compendium/src/pf2e/crb
+- action/class/wizard
+- compendium/src/pf2e/crb
 - trait/tradition/arcane
 - trait/class/wizard
 aliases: ["Drain Bonded Item"]

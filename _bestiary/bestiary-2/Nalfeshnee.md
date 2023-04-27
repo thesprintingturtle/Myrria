@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Nalfeshnee"
 tags: 
   - trait/creature/type/fiend
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Nalfeshnee"
 level: 14

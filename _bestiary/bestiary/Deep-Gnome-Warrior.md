@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Deep Gnome Warrior"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Deep Gnome Warrior"
 level: 2

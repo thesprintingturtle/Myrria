@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/apg
-- imported/ritual/6
-- imported/ritual/area/misc
+- compendium/src/pf2e/apg
+- ritual/level/6
+- ritual/area/misc
 - trait/school/abjuration
 - trait/rarity/uncommon
 aliases: ["Ward Domain"]

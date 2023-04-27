@@ -4,7 +4,7 @@ aliases: "Gathlain Wanderer"
 tags: 
   - trait/creature/type/fey
   - trait/creature/type/plant
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Gathlain Wanderer"
 level: 1

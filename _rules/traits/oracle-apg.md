@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/apg
-- imported/trait/category/class
+- compendium/src/pf2e/apg
+- trait/category/class
 aliases: ["Oracle"]
 ---
 # Oracle  

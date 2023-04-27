@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/divination
 aliases: ["Swarmsense"]
@@ -10,7 +10,7 @@ aliases: ["Swarmsense"]
 # Swarmsense *Focus 1*   
 [divination](divination.md)  
 
-- **Domains**: [[swarm](../setting/domains.md#Swarm)]
+- **Domains**: [[swarm](../domains.md#Swarm)]
 - **Cast** 1 minute 
 - **Duration**sustained
 

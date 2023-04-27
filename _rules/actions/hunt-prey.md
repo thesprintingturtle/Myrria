@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/ranger
-- imported/compendium/src/pf2e/crb
+- action/class/ranger
+- compendium/src/pf2e/crb
 - trait/action/concentrate
 - trait/class/ranger
 aliases: ["Hunt Prey", "Mark Prey"]

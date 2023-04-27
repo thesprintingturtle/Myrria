@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kraken"
 tags: 
   - trait/creature/type/beast
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Kraken"
 level: 18

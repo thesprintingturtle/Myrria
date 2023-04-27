@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/monk
-- imported/compendium/src/pf2e/crb
+- action/class/monk
+- compendium/src/pf2e/crb
 - trait/action/flourish
 - trait/class/monk
 aliases: ["Flurry of Blows"]

@@ -4,7 +4,7 @@ aliases: "Tendriculos"
 tags: 
   - trait/creature/type/fungus
   - trait/creature/type/plant
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Tendriculos"
 level: 7

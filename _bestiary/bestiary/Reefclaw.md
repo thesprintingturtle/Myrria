@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Reefclaw"
 tags: 
   - trait/creature/type/aberration
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Reefclaw"
 level: 1

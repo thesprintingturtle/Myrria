@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kishi"
 tags: 
   - trait/creature/type/fey
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Kishi"
 level: 8

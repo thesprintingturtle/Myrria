@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/som
+- compendium/src/pf2e/som
 - spell/level/7
 - trait/school/evocation
 - trait/energy/force

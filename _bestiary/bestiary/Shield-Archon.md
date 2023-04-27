@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shield Archon"
 tags: 
   - trait/creature/type/celestial
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Shield Archon"
 level: 10

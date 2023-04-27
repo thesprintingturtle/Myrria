@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/school/evocation
 - trait/effect/light
@@ -11,7 +11,7 @@ aliases: ["Asterism"]
 # Asterism *Focus 4*   
 [evocation](evocation.md)  [light](rules/traits/light.md)  
 
-- **Domains**: [[stars](../setting/domains.md#Stars)]
+- **Domains**: [[stars](../domains.md#Stars)]
 - **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**150 foot
 - **Saving Throw**  basic Reflex

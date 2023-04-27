@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Arboreal Reaper"
 tags: 
   - trait/creature/type/plant
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Arboreal Reaper"
 level: 7

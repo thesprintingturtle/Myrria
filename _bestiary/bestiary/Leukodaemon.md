@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Leukodaemon"
 tags: 
   - trait/creature/type/fiend
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Leukodaemon"
 level: 9

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/school/abjuration
 - trait/class/cleric
@@ -12,7 +12,7 @@ aliases: ["Forced Quiet"]
 # Forced Quiet *Focus 1*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[secrecy](../setting/domains.md#Secrecy)]
+- **Domains**: [[secrecy](../domains.md#Secrecy)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

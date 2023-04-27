@@ -4,7 +4,7 @@ aliases: "Ogre Warrior"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Ogre Warrior"
 level: 3

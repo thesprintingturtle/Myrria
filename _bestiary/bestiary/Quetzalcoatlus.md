@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Quetzalcoatlus"
 tags: 
   - trait/creature/type/animal
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Quetzalcoatlus"
 level: 7

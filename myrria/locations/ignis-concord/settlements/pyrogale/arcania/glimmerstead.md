@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/8
-- trait/location/type/district 
+- location/district/level/8
 aliases: Glimmerstead
 ---
 # Glimmerstead *District 8*

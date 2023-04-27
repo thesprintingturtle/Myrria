@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/ec1
+- compendium/src/pf2e/ec1
 - trait/equipment/mechanical
 - trait/equipment/trap
 aliases: ["Envenomed Thorns Trap"]

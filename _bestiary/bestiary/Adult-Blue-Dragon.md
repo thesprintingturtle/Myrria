@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adult Blue Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Adult Blue Dragon"
 level: 13

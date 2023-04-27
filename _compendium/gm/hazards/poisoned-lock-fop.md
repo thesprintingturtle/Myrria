@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/fop
+- compendium/src/pf2e/fop
 - trait/equipment/mechanical
 - trait/equipment/trap
 aliases: ["Poisoned Lock"]

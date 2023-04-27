@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/som
+- compendium/src/pf2e/som
 - equipment/consumable
 - trait/equipment/consumable
 - trait/school/divination

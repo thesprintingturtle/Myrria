@@ -1,6 +1,7 @@
 ---
 tags:
-- trait/location/type/nation
+- custom
+- location/nation
 aliases: Name
 ---
 # Name *Nation*

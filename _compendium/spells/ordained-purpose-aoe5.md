@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoe5
+- compendium/src/pf2e/aoe5
 - spell/area/emanation
 - spell/focus/4
 - trait/school/enchantment
@@ -13,7 +13,7 @@ aliases: ["Ordained Purpose"]
 # Ordained Purpose *Focus 4*   
 [enchantment](enchantment.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[naga](../setting/domains.md#Naga)]
+- **Domains**: [[naga](../domains.md#Naga)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot-radius emanation centered on you
 - **Saving Throw**  basic Will

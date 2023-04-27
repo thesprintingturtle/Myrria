@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Necrophidius"
 tags: 
   - trait/creature/type/construct
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Necrophidius"
 level: 3

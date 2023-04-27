@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
 - trait/sense/auditory
@@ -14,7 +14,7 @@ aliases: ["Roar Of The Wyrm"]
 # Roar Of The Wyrm *Focus 4*   
 [auditory](auditory.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  
 
-- **Domains**: [[wyrmkin](../setting/domains.md#Wyrmkin)]
+- **Domains**: [[wyrmkin](../domains.md#Wyrmkin)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot emanation
 - **Saving Throw** Will

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Drow Sneak"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Drow Sneak"
 level: 2

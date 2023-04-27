@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lich"
 tags: 
   - trait/creature/type/undead
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Lich"
 level: 12

@@ -4,7 +4,7 @@ aliases: "Banshee"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Banshee"
 level: 17

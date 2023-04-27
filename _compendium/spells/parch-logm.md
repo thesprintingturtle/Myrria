@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/element/air
 - trait/school/evocation
@@ -11,7 +11,7 @@ aliases: ["Parch"]
 # Parch *Focus 1*   
 [air](air.md)  [evocation](evocation.md)  
 
-- **Domains**: [[dust](../setting/domains.md#Dust)]
+- **Domains**: [[dust](../domains.md#Dust)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

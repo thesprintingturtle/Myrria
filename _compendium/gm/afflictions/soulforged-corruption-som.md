@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse
-- imported/affliction/level/1
-- imported/compendium/src/pf2e/som
+- affliction/curse/level/1
+- compendium/src/pf2e/som
 - trait/effect/curse
 - trait/tradition/divine
 - trait/school/enchantment

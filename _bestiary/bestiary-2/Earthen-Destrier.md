@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Earthen Destrier"
 tags: 
   - trait/creature/type/elemental
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Earthen Destrier"
 level: 4

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/archetype/unexpected-sharpshooter-g-g
-- imported/compendium/src/pf2e/g&g
+- action/archetype/unexpected-sharpshooter-g-g
+- compendium/src/pf2e/g&g
 - trait/effect/fortune
 aliases: ["Accidental Shot"]
 ---

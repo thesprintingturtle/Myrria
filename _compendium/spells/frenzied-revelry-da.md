@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/area/emanation
 - spell/focus/1
 - trait/class/cleric
@@ -15,7 +15,7 @@ aliases: ["Frenzied Revelry"]
 # Frenzied Revelry *Focus 1*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  [rare](rare.md)  
 
-- **Domains**: [[indulgence (apocryphal)](../setting/domains.md#Indulgence%20(apocryphal))]
+- **Domains**: [[indulgence (apocryphal)](../domains.md#Indulgence%20(apocryphal))]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**5-foot emanation
 - **Targets**you and allies in the area

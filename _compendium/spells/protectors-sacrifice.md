@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/school/abjuration
 - trait/class/cleric
@@ -12,7 +12,7 @@ aliases: ["Protector's Sacrifice"]
 # Protector's Sacrifice *Focus 1*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[protection](../setting/domains.md#Protection)]
+- **Domains**: [[protection](../domains.md#Protection)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**An ally within 30 feet takes damage.
 - **Range**30 foot

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Stygira"
 tags: 
   - trait/creature/type/fey
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Stygira"
 level: 7

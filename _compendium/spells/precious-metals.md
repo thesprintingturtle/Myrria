@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/transmutation
@@ -12,7 +12,7 @@ aliases: ["Precious Metals"]
 # Precious Metals *Focus 4*   
 [cleric](rules/traits/cleric.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[wealth](../setting/domains.md#Wealth)]
+- **Domains**: [[wealth](../domains.md#Wealth)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**1 metal weapon, up to 10 pieces of metal or metal-tipped ammunition, 1 suit of metal armor, or up to 1 bulk of metal material (such as coins)

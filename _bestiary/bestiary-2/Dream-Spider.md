@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dream Spider"
 tags: 
   - trait/creature/type/animal
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Dream Spider"
 level: 0

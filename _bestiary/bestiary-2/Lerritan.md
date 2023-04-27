@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lerritan"
 tags: 
   - trait/creature/type/elemental
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Lerritan"
 level: 21

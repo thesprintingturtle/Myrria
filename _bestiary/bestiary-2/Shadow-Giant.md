@@ -4,7 +4,7 @@ aliases: "Shadow Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Shadow Giant"
 level: 13

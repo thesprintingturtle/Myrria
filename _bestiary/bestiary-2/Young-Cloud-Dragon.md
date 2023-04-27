@@ -4,7 +4,7 @@ aliases: "Young Cloud Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Young Cloud Dragon"
 level: 10

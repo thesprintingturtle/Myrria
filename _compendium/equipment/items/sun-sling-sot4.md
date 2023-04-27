@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/sot4
+- compendium/src/pf2e/sot4
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/
 - equipment/weapon/base-weapon/type/ranged

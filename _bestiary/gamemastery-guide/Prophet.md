@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Prophet"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Prophet"
 level: 2

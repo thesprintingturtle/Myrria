@@ -1,9 +1,9 @@
 ---
 tags:
 - custom
-- level/4
-- trait/location/type/settlement/city 
-- trait/location/port-city
+- location/settlement/level/4
+- trait/settlement/type/city 
+- trait/settlement/port-city
 aliases: ["Racketedge"]
 ---
 # Racketedge *Settlement 4*

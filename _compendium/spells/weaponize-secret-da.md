@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/4
 - trait/class/cleric
 - trait/school/divination
@@ -13,7 +13,7 @@ aliases: ["Weaponize Secret"]
 # Weaponize Secret *Focus 4*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [mental](mental.md)  [rare](rare.md)  
 
-- **Domains**: [[secrecy (apocryphal)](../setting/domains.md#Secrecy%20(apocryphal))]
+- **Domains**: [[secrecy (apocryphal)](../domains.md#Secrecy%20(apocryphal))]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**up to 3 creatures

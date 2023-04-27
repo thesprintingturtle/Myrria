@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoe6
+- compendium/src/pf2e/aoe6
 - spell/level/9
 - trait/school/enchantment
 - trait/rarity/rare

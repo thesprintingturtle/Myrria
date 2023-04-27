@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vaspercham"
 tags: 
   - trait/creature/type/aberration
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Vaspercham"
 level: 17

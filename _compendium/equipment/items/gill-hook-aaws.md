@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/aaws
+- compendium/src/pf2e/aaws
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/spear
 - equipment/weapon/base-weapon/type/melee 

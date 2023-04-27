@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Skeletal Giant"
 tags: 
   - trait/creature/type/undead
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Skeletal Giant"
 level: 3

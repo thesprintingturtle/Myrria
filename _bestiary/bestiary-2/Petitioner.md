@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Petitioner"
 tags: 
   - trait/creature/type/petitioner
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Petitioner"
 level: 1

@@ -4,7 +4,7 @@ aliases: "Dramofir"
 tags: 
   - trait/creature/type/aberration
   - trait/creature/type/dream
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Dramofir"
 level: 14

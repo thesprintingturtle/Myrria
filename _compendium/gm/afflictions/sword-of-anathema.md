@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse
-- imported/affliction/level/20
-- imported/compendium/src/pf2e/gmg
+- affliction/curse/level/20
+- compendium/src/pf2e/gmg
 - trait/effect/curse
 - trait/tradition/divine
 - trait/school/evocation

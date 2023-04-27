@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Steam Mephit"
 tags: 
   - trait/creature/type/elemental
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Steam Mephit"
 level: 1

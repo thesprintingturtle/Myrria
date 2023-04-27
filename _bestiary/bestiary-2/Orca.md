@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Orca"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Orca"
 level: 5

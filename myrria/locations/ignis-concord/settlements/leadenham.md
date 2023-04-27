@@ -1,8 +1,8 @@
 ---
 tags:
 - custom
-- level/3 
-- trait/location/type/settlement/town 
+- location/settlement/level/3 
+- trait/settlement/type/town 
 aliases: ["Leadenham"]
 ---
 # Leadenham *Settlement 3*

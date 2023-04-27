@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tiefling Adept"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Tiefling Adept"
 level: 3

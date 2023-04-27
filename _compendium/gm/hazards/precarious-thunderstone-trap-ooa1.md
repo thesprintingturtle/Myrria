@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/ooa1
+- compendium/src/pf2e/ooa1
 - trait/equipment/mechanical
 - trait/equipment/trap
 aliases: ["Precarious Thunderstone Trap"]

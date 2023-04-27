@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/evocation
@@ -13,7 +13,7 @@ aliases: ["Tidal Surge"]
 # Tidal Surge *Focus 1*   
 [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [uncommon](uncommon.md)  [water](water.md)  
 
-- **Domains**: [[water](../setting/domains.md#Water)]
+- **Domains**: [[water](../domains.md#Water)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**60 foot
 - **Targets**1 creature

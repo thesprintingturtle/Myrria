@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sea Devil Brute"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Sea Devil Brute"
 level: 4

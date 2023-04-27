@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sea Serpent"
 tags: 
   - trait/creature/type/animal
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Sea Serpent"
 level: 12

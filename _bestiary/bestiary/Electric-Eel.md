@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Electric Eel"
 tags: 
   - trait/creature/type/animal
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Electric Eel"
 level: 1

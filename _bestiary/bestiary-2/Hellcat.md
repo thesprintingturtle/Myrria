@@ -4,7 +4,7 @@ aliases: "Hellcat"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fiend
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Hellcat"
 level: 7

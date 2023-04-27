@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/lomm
-- imported/ritual/10
+- compendium/src/pf2e/lomm
+- ritual/level/10
 - trait/school/necromancy
 - trait/rarity/unique
 aliases: ["Raga of Remembrance"]

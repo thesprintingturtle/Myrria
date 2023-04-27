@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/gunslinger-g-g
-- imported/compendium/src/pf2e/loil
+- action/class/gunslinger-g-g
+- compendium/src/pf2e/loil
 - trait/class/gunslinger
 aliases: ["Wind Them Up"]
 ---

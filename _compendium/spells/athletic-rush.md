@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/transmutation
@@ -12,7 +12,7 @@ aliases: ["Athletic Rush"]
 # Athletic Rush *Focus 1*   
 [cleric](rules/traits/cleric.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[might](../setting/domains.md#Might)]
+- **Domains**: [[might](../domains.md#Might)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 round
 

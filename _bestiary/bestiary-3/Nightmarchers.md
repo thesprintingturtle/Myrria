@@ -4,7 +4,7 @@ aliases: "Nightmarchers"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Nightmarchers"
 level: 14

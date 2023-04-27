@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/2
-- trait/location/type/settlement/town 
+- location/district/level/2
 aliases: ["Dynathian"]
 ---
 # Dynathian *Settlement 3*

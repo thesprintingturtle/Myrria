@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Spider Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Spider Swarm"
 level: 0

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mastermind"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Mastermind"
 level: 4

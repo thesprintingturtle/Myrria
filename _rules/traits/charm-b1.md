@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/b1
+- compendium/src/pf2e/b1
 aliases: ["Charm"]
 ---
 # Charm  

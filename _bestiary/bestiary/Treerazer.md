@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Treerazer"
 tags: 
   - trait/creature/type/fiend
-  - level/25
+  - creature/level/25
 statblock: inline
 name: "Treerazer"
 level: 25

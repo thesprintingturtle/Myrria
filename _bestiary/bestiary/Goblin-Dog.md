@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Goblin Dog"
 tags: 
   - trait/creature/type/animal
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Goblin Dog"
 level: 1

@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/disease
-- imported/affliction/level/0
-- imported/compendium/src/pf2e/gmg
+- affliction/disease/level/0
+- compendium/src/pf2e/gmg
 - trait/effect/disease
 aliases: ["Bog Rot"]
 ---

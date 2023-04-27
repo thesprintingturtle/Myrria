@@ -4,7 +4,7 @@ aliases: "Dybbuk"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Dybbuk"
 level: 15

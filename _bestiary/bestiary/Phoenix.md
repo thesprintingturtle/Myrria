@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Phoenix"
 tags: 
   - trait/creature/type/beast
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Phoenix"
 level: 15

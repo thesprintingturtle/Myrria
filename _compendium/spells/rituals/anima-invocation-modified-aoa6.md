@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/aoa6
-- imported/ritual/10
+- compendium/src/pf2e/aoa6
+- ritual/level/10
 - trait/school/abjuration
 - trait/rarity/rare
 aliases: ["Anima Invocation (Modified)"]

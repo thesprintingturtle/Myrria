@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/effect/darkness
@@ -13,7 +13,7 @@ aliases: ["Darkened Eyes"]
 # Darkened Eyes *Focus 4*   
 [cleric](rules/traits/cleric.md)  [darkness](rules/traits/darkness.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[darkness](../setting/domains.md#Darkness)]
+- **Domains**: [[darkness](../domains.md#Darkness)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

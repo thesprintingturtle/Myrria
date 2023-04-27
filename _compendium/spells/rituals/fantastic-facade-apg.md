@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/apg
-- imported/ritual/9
-- imported/ritual/area/circle
+- compendium/src/pf2e/apg
+- ritual/level/9
+- ritual/area/circle
 - trait/school/illusion
 - trait/rarity/rare
 aliases: ["Fantastic Façade"]

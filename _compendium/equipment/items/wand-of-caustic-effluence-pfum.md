@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/pfum
+- compendium/src/pf2e/pfum
 - equipment/wand
 - trait/energy/acid
 - trait/school/conjuration

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/effect/emotion
@@ -14,7 +14,7 @@ aliases: ["Blind Ambition"]
 # Blind Ambition *Focus 1*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[ambition](../setting/domains.md#Ambition)]
+- **Domains**: [[ambition](../domains.md#Ambition)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

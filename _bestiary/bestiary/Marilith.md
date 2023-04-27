@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Marilith"
 tags: 
   - trait/creature/type/fiend
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Marilith"
 level: 17

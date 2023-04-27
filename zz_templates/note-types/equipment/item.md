@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/X 
-- trait/equipment
+- equipment/level/X 
 aliases: Name
 ---
 # Name *Item X*  

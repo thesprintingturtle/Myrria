@@ -2,7 +2,7 @@
 aliases: "Name"
 tags: 
 - custom
-- level/X
+- creature/level/X
 - trait/creature/type/
 statblock: inline
 name: "Name"

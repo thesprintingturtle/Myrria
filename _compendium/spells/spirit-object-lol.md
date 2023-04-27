@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/lol
+- compendium/src/pf2e/lol
 - spell/cantrip
 - trait/spell/cantrip
 - trait/effect/hex

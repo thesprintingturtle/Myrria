@@ -4,7 +4,7 @@ aliases: "Night Hag"
 tags: 
   - trait/creature/type/fiend
   - trait/creature/type/humanoid
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Night Hag"
 level: 9

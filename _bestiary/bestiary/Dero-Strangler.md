@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dero Strangler"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Dero Strangler"
 level: 3

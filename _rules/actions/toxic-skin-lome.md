@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/grippli-lome
-- imported/compendium/src/pf2e/lome
+- action/ancestry/grippli-lome
+- compendium/src/pf2e/lome
 - trait/ancestry/grippli
 - trait/effect/poison
 aliases: ["Toxic Skin"]

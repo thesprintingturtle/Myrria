@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Wraith"
 tags: 
   - trait/creature/type/undead
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Wraith"
 level: 6

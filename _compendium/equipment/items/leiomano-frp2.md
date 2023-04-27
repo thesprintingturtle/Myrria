@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/frp2
+- compendium/src/pf2e/frp2
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/club
 - equipment/weapon/base-weapon/type/melee

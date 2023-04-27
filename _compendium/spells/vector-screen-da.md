@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/area/misc
 - spell/cantrip
 - trait/school/abjuration

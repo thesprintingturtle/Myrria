@@ -4,7 +4,7 @@ aliases: "Hellknight Cavalry Brigade"
 tags: 
   - trait/creature/type/animal
   - trait/creature/type/humanoid
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Hellknight Cavalry Brigade"
 level: 8

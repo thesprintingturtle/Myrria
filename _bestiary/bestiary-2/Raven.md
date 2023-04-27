@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Raven"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Raven"
 level: -1

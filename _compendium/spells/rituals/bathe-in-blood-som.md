@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/8
+- compendium/src/pf2e/som
+- ritual/level/8
 - trait/school/necromancy
 - trait/rarity/rare
 aliases: ["Bathe In Blood"]

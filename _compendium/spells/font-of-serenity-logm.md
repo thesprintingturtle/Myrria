@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
 - trait/school/abjuration
@@ -13,7 +13,7 @@ aliases: ["Font Of Serenity"]
 # Font Of Serenity *Focus 4*   
 [abjuration](abjuration.md)  [emotion](emotion.md)  [mental](mental.md)  
 
-- **Domains**: [[repose](../setting/domains.md#Repose)]
+- **Domains**: [[repose](../domains.md#Repose)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Area**15-foot emanation

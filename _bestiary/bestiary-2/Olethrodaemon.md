@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Olethrodaemon"
 tags: 
   - trait/creature/type/fiend
-  - level/20
+  - creature/level/20
 statblock: inline
 name: "Olethrodaemon"
 level: 20

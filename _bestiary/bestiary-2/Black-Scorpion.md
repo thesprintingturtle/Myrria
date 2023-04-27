@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Black Scorpion"
 tags: 
   - trait/creature/type/animal
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Black Scorpion"
 level: 15

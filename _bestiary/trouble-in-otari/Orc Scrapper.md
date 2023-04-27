@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Orc Scrapper"
 tags: 
   - trait/creature/type/humanoid
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Orc Scrapper"
 level: 0

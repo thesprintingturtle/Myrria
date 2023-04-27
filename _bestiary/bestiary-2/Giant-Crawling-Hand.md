@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Crawling Hand"
 tags: 
   - trait/creature/type/undead
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Giant Crawling Hand"
 level: 5

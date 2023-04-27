@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cairn Linnorm"
 tags: 
   - trait/creature/type/dragon
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Cairn Linnorm"
 level: 18

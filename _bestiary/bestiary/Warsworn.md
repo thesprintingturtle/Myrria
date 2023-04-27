@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Warsworn"
 tags: 
   - trait/creature/type/undead
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Warsworn"
 level: 16

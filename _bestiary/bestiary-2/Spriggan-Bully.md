@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Spriggan Bully"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Spriggan Bully"
 level: 3

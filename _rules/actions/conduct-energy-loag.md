@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/item
-- imported/compendium/src/pf2e/loag
-- imported/trait/energy
+- action/item
+- compendium/src/pf2e/loag
+- trait/energy
 aliases: ["Conduct Energy"]
 ---
 # Conduct Energy [F](chapter-9-playing-the-game.md#Actions "Free Action")

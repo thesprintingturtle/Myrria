@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/som
+- compendium/src/pf2e/som
 - spell/level/3
 - trait/school/necromancy
 aliases: ["Claim Curse"]

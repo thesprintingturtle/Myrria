@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/effect/emotion
@@ -14,7 +14,7 @@ aliases: ["Delusional Pride"]
 # Delusional Pride *Focus 4*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[confidence](../setting/domains.md#Confidence)]
+- **Domains**: [[confidence](../domains.md#Confidence)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - equipment/scroll
 - trait/equipment/consumable
 - trait/magical
-- imported/trait/scroll
+- trait/equipment/scroll
 aliases: ["Scroll"]
 ---
 # Scroll *Item 1+*  

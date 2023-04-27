@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Astradaemon"
 tags: 
   - trait/creature/type/fiend
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Astradaemon"
 level: 16

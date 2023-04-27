@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/burst
 - spell/focus/1
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Splash Of Art"]
 # Splash Of Art *Focus 1*   
 [cleric](rules/traits/cleric.md)  [illusion](illusion.md)  [uncommon](uncommon.md)  [visual](visual.md)  
 
-- **Domains**: [[creation](../setting/domains.md#Creation)]
+- **Domains**: [[creation](../domains.md#Creation)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Area**5-foot burst

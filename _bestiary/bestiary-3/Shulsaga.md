@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shulsaga"
 tags: 
   - trait/creature/type/astral
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Shulsaga"
 level: 3

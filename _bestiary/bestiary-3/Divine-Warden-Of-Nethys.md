@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Divine Warden Of Nethys"
 tags: 
   - trait/creature/type/construct
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Divine Warden Of Nethys"
 level: 5

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adlet"
 tags: 
   - trait/creature/type/humanoid
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Adlet"
 level: 10

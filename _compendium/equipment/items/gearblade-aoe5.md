@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/aoe5
+- compendium/src/pf2e/aoe5
 - equipment/held-item
 - trait/equipment/clockwork
 - trait/equipment/invested

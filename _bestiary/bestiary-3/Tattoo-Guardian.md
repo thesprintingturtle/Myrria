@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tattoo Guardian"
 tags: 
   - trait/creature/type/construct
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Tattoo Guardian"
 level: 3

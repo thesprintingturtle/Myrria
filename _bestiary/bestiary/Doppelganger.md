@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Doppelganger"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Doppelganger"
 level: 3

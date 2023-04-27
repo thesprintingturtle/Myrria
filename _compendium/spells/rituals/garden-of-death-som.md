@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/4
-- imported/ritual/area/burst
+- compendium/src/pf2e/som
+- ritual/level/4
+- ritual/area/burst
 - trait/spell/consecration
 - trait/school/necromancy
 - trait/element/wood

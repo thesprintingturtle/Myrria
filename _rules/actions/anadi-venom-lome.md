@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/anadi-lome
-- imported/compendium/src/pf2e/lome
+- action/ancestry/anadi-lome
+- compendium/src/pf2e/lome
 aliases: ["Anadi Venom"]
 ---
 # Anadi Venom [>](chapter-9-playing-the-game.md#Actions "Single Action")

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Faerie Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Faerie Dragon"
 level: 2

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Buso Farmer"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Buso Farmer"
 level: 3

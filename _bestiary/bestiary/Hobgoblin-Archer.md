@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hobgoblin Archer"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Hobgoblin Archer"
 level: 4

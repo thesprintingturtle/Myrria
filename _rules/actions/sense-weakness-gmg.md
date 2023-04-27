@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/compendium/src/pf2e/gmg
+- compendium/src/pf2e/gmg
 aliases: ["Sense Weakness"]
 ---
 # Sense Weakness [R](chapter-9-playing-the-game.md#Actions "Reaction")

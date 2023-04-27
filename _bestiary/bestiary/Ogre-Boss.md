@@ -4,7 +4,7 @@ aliases: "Ogre Boss"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Ogre Boss"
 level: 7

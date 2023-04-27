@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tor Linnorm"
 tags: 
   - trait/creature/type/dragon
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Tor Linnorm"
 level: 21

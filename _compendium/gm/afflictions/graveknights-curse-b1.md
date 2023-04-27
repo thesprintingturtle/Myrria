@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse
-- imported/affliction/level/1
-- imported/compendium/src/pf2e/b1
+- affliction/curse/level/1
+- compendium/src/pf2e/b1
 - trait/tradition/arcane
 - trait/effect/curse
 - trait/school/necromancy

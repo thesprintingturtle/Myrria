@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/divination
@@ -13,7 +13,7 @@ aliases: ["Scholarly Recollection"]
 # Scholarly Recollection *Focus 1*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [fortune](fortune.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[knowledge](../setting/domains.md#Knowledge)]
+- **Domains**: [[knowledge](../domains.md#Knowledge)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You attempt a [Perception](../skills.md#Perception) check to [Seek](seek.md), or you attempt a skill check to [Recall Knowledge](recall-knowledge.md) with a skill you're trained in.
 

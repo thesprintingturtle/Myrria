@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Nuckelavee"
 tags: 
   - trait/creature/type/fey
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Nuckelavee"
 level: 9

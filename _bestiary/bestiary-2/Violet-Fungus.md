@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Violet Fungus"
 tags: 
   - trait/creature/type/fungus
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Violet Fungus"
 level: 3

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/1
 - trait/class/cleric
 - trait/school/evocation
@@ -13,7 +13,7 @@ aliases: ["Victory Cry"]
 # Victory Cry *Focus 1*   
 [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [rare](rare.md)  [sonic](sonic.md)  
 
-- **Domains**: [[might (apocryphal)](../setting/domains.md#Might%20(apocryphal))]
+- **Domains**: [[might (apocryphal)](../domains.md#Might%20(apocryphal))]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**An ally within range critically succeeds at a melee [Strike](strike.md).
 - **Range**30 foot

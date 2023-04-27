@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/compendium/src/pf2e/som
+- compendium/src/pf2e/som
 - trait/action/downtime
 - trait/rarity/rare
 - trait/secret

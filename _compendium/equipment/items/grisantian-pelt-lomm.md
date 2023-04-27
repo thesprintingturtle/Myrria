@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lomm
+- compendium/src/pf2e/lomm
 - equipment/material
 - trait/equipment/precious
 - trait/rarity/rare

@@ -4,7 +4,7 @@ aliases: "Cloud Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Cloud Giant"
 level: 11

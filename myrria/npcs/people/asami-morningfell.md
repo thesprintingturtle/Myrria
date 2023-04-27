@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/20
-- trait/npc
+- character/20
 aliases: Asami Morningfell
 ---
 # Asami Morningfell *Character 20*

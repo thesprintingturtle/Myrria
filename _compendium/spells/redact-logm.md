@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/transmutation
 aliases: ["Redact"]
@@ -10,7 +10,7 @@ aliases: ["Redact"]
 # Redact *Focus 1*   
 [transmutation](transmutation.md)  
 
-- **Domains**: [[glyph](../setting/domains.md#Glyph)]
+- **Domains**: [[glyph](../domains.md#Glyph)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**unattended written materials of up to 1 Bulk or less

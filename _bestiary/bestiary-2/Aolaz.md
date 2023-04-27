@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Aolaz"
 tags: 
   - trait/creature/type/construct
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Aolaz"
 level: 18

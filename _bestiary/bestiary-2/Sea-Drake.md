@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sea Drake"
 tags: 
   - trait/creature/type/dragon
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Sea Drake"
 level: 6

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mukradi"
 tags: 
   - trait/creature/type/beast
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Mukradi"
 level: 15

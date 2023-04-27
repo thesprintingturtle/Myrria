@@ -4,7 +4,7 @@ aliases: "Young Crystal Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Young Crystal Dragon"
 level: 7

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dandasuka"
 tags: 
   - trait/creature/type/fiend
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Dandasuka"
 level: 5

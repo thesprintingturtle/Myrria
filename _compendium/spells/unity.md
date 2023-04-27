@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/school/abjuration
 - trait/class/cleric
@@ -13,7 +13,7 @@ aliases: ["Unity"]
 # Unity *Focus 4*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [fortune](fortune.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[family](../setting/domains.md#Family)]
+- **Domains**: [[family](../domains.md#Family)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You and 1 or more allies within range are targeted by a spell or ability that allows a saving throw.
 - **Range**30 foot

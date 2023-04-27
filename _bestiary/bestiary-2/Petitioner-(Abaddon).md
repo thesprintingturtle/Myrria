@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Petitioner (Abaddon)"
 tags: 
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Petitioner (Abaddon)"
 level: 1

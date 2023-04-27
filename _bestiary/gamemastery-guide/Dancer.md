@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dancer"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Dancer"
 level: 1

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/basic
-- imported/compendium/src/pf2e/crb
+- action/basic
+- compendium/src/pf2e/crb
 aliases: ["Cast a Spell"]
 ---
 # Cast a Spell (basic) [V](chapter-9-playing-the-game.md#Actions "Varies")

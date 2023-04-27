@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sewer Ooze"
 tags: 
   - trait/creature/type/ooze
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Sewer Ooze"
 level: 1

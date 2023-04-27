@@ -4,7 +4,7 @@ aliases: "Ogre Glutton"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Ogre Glutton"
 level: 4

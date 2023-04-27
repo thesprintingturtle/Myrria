@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/enchantment
@@ -14,7 +14,7 @@ aliases: ["Dreamer's Call"]
 # Dreamer's Call *Focus 4*   
 [cleric](rules/traits/cleric.md)  [enchantment](enchantment.md)  [incapacitation](incapacitation.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[dreams](../setting/domains.md#Dreams)]
+- **Domains**: [[dreams](../domains.md#Dreams)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

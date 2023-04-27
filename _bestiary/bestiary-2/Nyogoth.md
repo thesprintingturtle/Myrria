@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Nyogoth"
 tags: 
   - trait/creature/type/fiend
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Nyogoth"
 level: 10

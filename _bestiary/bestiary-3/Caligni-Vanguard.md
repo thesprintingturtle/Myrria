@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Caligni Vanguard"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Caligni Vanguard"
 level: 5

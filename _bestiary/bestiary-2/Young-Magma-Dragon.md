@@ -4,7 +4,7 @@ aliases: "Young Magma Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Young Magma Dragon"
 level: 9

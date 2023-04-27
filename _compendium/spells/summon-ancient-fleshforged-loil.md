@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/loil
+- compendium/src/pf2e/loil
 - spell/level/9
 - trait/school/conjuration
 - trait/spell/incarnate

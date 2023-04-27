@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/school/illusion
 - trait/effect/mental
@@ -12,7 +12,7 @@ aliases: ["Ephemeral Hazards"]
 # Ephemeral Hazards *Focus 4*   
 [illusion](illusion.md)  [mental](mental.md)  [visual](visual.md)  
 
-- **Domains**: [[delirium](../setting/domains.md#Delirium)]
+- **Domains**: [[delirium](../domains.md#Delirium)]
 - **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**60 foot
 - **Duration**1 minute

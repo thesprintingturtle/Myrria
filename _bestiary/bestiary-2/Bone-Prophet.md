@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Bone Prophet"
 tags: 
   - trait/creature/type/humanoid
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Bone Prophet"
 level: 8

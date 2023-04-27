@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/dwarf
-- imported/compendium/src/pf2e/crb
+- action/ancestry/dwarf
+- compendium/src/pf2e/crb
 aliases: ["Call on Ancient Blood"]
 ---
 # Call on Ancient Blood [R](chapter-9-playing-the-game.md#Actions "Reaction")

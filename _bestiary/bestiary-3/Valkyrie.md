@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Valkyrie"
 tags: 
   - trait/creature/type/monitor
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Valkyrie"
 level: 12

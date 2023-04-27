@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dvorovoi"
 tags: 
   - trait/creature/type/fey
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Dvorovoi"
 level: 3

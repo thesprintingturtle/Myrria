@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shadow Drake"
 tags: 
   - trait/creature/type/dragon
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Shadow Drake"
 level: 2

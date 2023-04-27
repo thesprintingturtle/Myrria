@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Clacking Skull Swarm"
 tags: 
   - trait/creature/type/undead
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Clacking Skull Swarm"
 level: 10

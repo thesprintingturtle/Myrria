@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/4
 - trait/school/abjuration
 aliases: ["Adaptive Ablation"]
@@ -10,7 +10,7 @@ aliases: ["Adaptive Ablation"]
 # Adaptive Ablation *Focus 4*   
 [abjuration](abjuration.md)  
 
-- **Domains**: [[change](../setting/domains.md#Change)]
+- **Domains**: [[change](../domains.md#Change)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You take acid, cold, electricity, fire, or sonic damage.
 - **Duration**1 minute

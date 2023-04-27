@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Urdefhan Warrior"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Urdefhan Warrior"
 level: 3

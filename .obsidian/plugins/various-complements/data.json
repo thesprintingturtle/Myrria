@@ -23,7 +23,7 @@
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Enter",
+  "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
@@ -586,16 +586,16 @@
     "custom": {
       "custom": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1682544386948
+          "count": 7,
+          "lastUpdated": 1682549838215
         }
       }
     },
     "level/X": {
       "level/X": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1682544398539
+          "count": 4,
+          "lastUpdated": 1682549820513
         }
       }
     },

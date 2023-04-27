@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Babau"
 tags: 
   - trait/creature/type/fiend
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Babau"
 level: 6

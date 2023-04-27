@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/loil
+- compendium/src/pf2e/loil
 - equipment/consumable
 - trait/equipment/alchemical
 - trait/equipment/consumable

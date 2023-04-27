@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
 - trait/school/necromancy
@@ -11,7 +11,7 @@ aliases: ["Ectoplasmic Interstice"]
 # Ectoplasmic Interstice *Focus 4*   
 [necromancy](necromancy.md)  
 
-- **Domains**: [[souls](../setting/domains.md#Souls)]
+- **Domains**: [[souls](../domains.md#Souls)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Area**15-foot emanation

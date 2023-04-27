@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Drow Fighter"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Drow Fighter"
 level: 1

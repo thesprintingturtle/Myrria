@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Daeodon"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Daeodon"
 level: 4

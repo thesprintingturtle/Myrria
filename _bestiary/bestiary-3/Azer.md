@@ -4,7 +4,7 @@ aliases: "Azer"
 tags: 
   - trait/creature/type/elemental
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Azer"
 level: 2

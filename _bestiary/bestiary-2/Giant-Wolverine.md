@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Wolverine"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Giant Wolverine"
 level: 4

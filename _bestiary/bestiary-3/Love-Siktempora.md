@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Love Siktempora"
 tags: 
   - trait/creature/type/time
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Love Siktempora"
 level: 16

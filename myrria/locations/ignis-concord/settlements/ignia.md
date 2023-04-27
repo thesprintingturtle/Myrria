@@ -1,8 +1,8 @@
 ---
 tags:
 - custom
-- level/13
-- trait/location/type/settlement/metropolis 
+- location/settlement/level/13
+- trait/settlement/type/metropolis 
 aliases: Ignia
 ---
 # Ignia *Settlement 13*

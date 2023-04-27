@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/ec6
+- compendium/src/pf2e/ec6
 - trait/hazard/complex
 - trait/hazard/environmental
 - trait/rarity/unique

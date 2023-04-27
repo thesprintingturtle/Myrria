@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/cone
 - spell/focus/1
 - trait/class/cleric
@@ -15,7 +15,7 @@ aliases: ["Dazzling Flash"]
 # Dazzling Flash *Focus 1*   
 [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [light](rules/traits/light.md)  [uncommon](uncommon.md)  [visual](visual.md)  
 
-- **Domains**: [[sun](../setting/domains.md#Sun)]
+- **Domains**: [[sun](../domains.md#Sun)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot cone
 - **Saving Throw** Fortitude

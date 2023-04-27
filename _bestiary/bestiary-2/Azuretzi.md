@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Azuretzi"
 tags: 
   - trait/creature/type/monitor
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Azuretzi"
 level: 5

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/basic
-- imported/compendium/src/pf2e/som
+- action/basic
+- compendium/src/pf2e/som
 - trait/action/concentrate
 aliases: ["Tap Ley Line"]
 ---

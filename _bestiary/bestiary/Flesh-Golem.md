@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Flesh Golem"
 tags: 
   - trait/creature/type/construct
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Flesh Golem"
 level: 8

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Spiral Centurion"
 tags: 
   - trait/creature/type/construct
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Spiral Centurion"
 level: 11

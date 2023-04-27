@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Zephyr Hawk"
 tags: 
   - trait/creature/type/elemental
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Zephyr Hawk"
 level: 3

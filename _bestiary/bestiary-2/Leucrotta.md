@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Leucrotta"
 tags: 
   - trait/creature/type/beast
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Leucrotta"
 level: 5

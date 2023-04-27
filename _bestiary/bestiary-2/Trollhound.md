@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Trollhound"
 tags: 
   - trait/creature/type/beast
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Trollhound"
 level: 3

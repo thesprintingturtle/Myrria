@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mist Stalker"
 tags: 
   - trait/creature/type/elemental
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Mist Stalker"
 level: 4

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Aapoph Serpentfolk"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Aapoph Serpentfolk"
 level: 3

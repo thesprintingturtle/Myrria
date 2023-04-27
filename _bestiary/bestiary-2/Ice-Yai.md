@@ -5,7 +5,7 @@ tags:
   - trait/creature/type/fiend
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Ice Yai"
 level: 13

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/som
+- compendium/src/pf2e/som
 - equipment/ammunition
-- imported/trait/ammunition
+- trait/equipment/ammunition
 - trait/equipment/consumable
 - trait/school/evocation
 - trait/magical

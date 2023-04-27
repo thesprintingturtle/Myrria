@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Nosferatu Malefactor"
 tags: 
   - trait/creature/type/undead
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Nosferatu Malefactor"
 level: 10

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Young Sovereign Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Young Sovereign Dragon"
 level: 11

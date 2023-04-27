@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/gmg
-- imported/trait/category/gravity
-- imported/trait/category/planar
+- compendium/src/pf2e/gmg
+- trait/category/gravity
+- trait/category/planar
 aliases: ["Microgravity"]
 ---
 # Microgravity  

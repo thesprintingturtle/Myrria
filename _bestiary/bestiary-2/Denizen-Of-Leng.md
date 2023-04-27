@@ -4,7 +4,7 @@ aliases: "Denizen Of Leng"
 tags: 
   - trait/creature/type/aberration
   - trait/creature/type/dream
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Denizen Of Leng"
 level: 8

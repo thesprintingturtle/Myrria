@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/av3
+- compendium/src/pf2e/av3
 - equipment/adventuring-gear
 - trait/rarity/uncommon
 aliases: ["Shootist Bandolier"]

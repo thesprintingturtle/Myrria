@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Living Wildfire"
 tags: 
   - trait/creature/type/elemental
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Living Wildfire"
 level: 5

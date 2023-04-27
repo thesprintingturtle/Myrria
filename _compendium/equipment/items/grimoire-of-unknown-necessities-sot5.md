@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/sot5
+- compendium/src/pf2e/sot5
 - equipment/grimoire
 - trait/school/divination
 - trait/equipment/grimoire

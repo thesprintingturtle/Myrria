@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Skeletal Champion"
 tags: 
   - trait/creature/type/undead
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Skeletal Champion"
 level: 2

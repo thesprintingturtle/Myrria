@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Wyrwood Sneak"
 tags: 
   - trait/creature/type/construct
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Wyrwood Sneak"
 level: 1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Monkey Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Monkey Swarm"
 level: 2

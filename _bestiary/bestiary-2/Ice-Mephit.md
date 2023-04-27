@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ice Mephit"
 tags: 
   - trait/creature/type/elemental
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Ice Mephit"
 level: 1

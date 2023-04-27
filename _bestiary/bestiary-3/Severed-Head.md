@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Severed Head"
 tags: 
   - trait/creature/type/undead
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Severed Head"
 level: -1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Undine Hydromancer"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Undine Hydromancer"
 level: 1

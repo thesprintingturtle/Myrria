@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ochre Jelly"
 tags: 
   - trait/creature/type/ooze
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Ochre Jelly"
 level: 5

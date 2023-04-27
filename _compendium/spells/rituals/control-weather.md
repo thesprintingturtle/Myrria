@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/ritual/8
-- imported/ritual/area/misc
+- compendium/src/pf2e/crb
+- ritual/level/8
+- ritual/area/misc
 - trait/school/evocation
 - trait/rarity/uncommon
 aliases: ["Control Weather"]

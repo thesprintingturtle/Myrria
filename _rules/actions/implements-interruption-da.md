@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action
-- imported/compendium/src/pf2e/da
+- action
+- compendium/src/pf2e/da
 - trait/school/evocation
 - trait/magical
 - trait/class/thaumaturge

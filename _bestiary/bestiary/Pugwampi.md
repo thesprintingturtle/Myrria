@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Pugwampi"
 tags: 
   - trait/creature/type/fey
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Pugwampi"
 level: 0

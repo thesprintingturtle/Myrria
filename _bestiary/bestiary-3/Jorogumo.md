@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Jorogumo"
 tags: 
   - trait/creature/type/humanoid
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Jorogumo"
 level: 13

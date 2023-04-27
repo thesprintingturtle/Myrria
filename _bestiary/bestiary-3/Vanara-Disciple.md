@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vanara Disciple"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Vanara Disciple"
 level: 1

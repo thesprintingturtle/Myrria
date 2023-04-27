@@ -4,7 +4,7 @@ aliases: "Rune Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Rune Giant"
 level: 16

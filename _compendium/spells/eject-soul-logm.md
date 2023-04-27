@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/effect/incapacitation
 - trait/school/necromancy
@@ -11,7 +11,7 @@ aliases: ["Eject Soul"]
 # Eject Soul *Focus 1*   
 [incapacitation](incapacitation.md)  [necromancy](necromancy.md)  
 
-- **Domains**: [[souls](../setting/domains.md#Souls)]
+- **Domains**: [[souls](../domains.md#Souls)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 living creature that has a soul

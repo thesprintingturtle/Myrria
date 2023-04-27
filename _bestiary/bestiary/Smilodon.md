@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Smilodon"
 tags: 
   - trait/creature/type/animal
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Smilodon"
 level: 6

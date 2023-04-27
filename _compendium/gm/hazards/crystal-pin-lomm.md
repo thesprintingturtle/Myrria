@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/lomm
+- compendium/src/pf2e/lomm
 - trait/school/abjuration
 - trait/tradition/divine
 - trait/hazard/environmental

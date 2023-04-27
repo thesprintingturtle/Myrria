@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Snapping Flytrap"
 tags: 
   - trait/creature/type/plant
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Snapping Flytrap"
 level: 3

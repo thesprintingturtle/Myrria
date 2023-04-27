@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Acolyte Of Nethys"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Acolyte Of Nethys"
 level: 1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dragon, Wyrmling Green"
 tags: 
   - trait/creature/type/dragon
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Dragon, Wyrmling Green"
 level: 4

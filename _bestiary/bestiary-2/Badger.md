@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Badger"
 tags: 
   - trait/creature/type/animal
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Badger"
 level: 0

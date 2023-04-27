@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/effect/attack
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Fire Ray"]
 # Fire Ray *Focus 1*   
 [attack](attack.md)  [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [fire](fire.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[fire](../setting/domains.md#Fire)]
+- **Domains**: [[fire](../domains.md#Fire)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

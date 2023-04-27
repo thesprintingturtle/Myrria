@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mammoth"
 tags: 
   - trait/creature/type/animal
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Mammoth"
 level: 10

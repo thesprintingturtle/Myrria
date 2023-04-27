@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Duende"
 tags: 
   - trait/creature/type/fey
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Duende"
 level: 2

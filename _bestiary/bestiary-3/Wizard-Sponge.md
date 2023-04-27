@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Wizard Sponge"
 tags: 
   - trait/creature/type/fungus
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Wizard Sponge"
 level: 5

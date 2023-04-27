@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/element/air
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Disperse Into Air"]
 # Disperse Into Air *Focus 4*   
 [air](air.md)  [cleric](rules/traits/cleric.md)  [polymorph](polymorph.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[air](../setting/domains.md#Air)]
+- **Domains**: [[air](../domains.md#Air)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You take damage from an enemy or a hazard.
 

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hamatula"
 tags: 
   - trait/creature/type/fiend
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Hamatula"
 level: 11

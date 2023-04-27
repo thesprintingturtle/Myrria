@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adult Black Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Adult Black Dragon"
 level: 11

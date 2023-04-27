@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Skinstitch"
 tags: 
   - trait/creature/type/construct
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Skinstitch"
 level: 5

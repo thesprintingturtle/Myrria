@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/loag
+- compendium/src/pf2e/loag
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/club
 - equipment/weapon/base-weapon/type/melee
 - trait/ancestry/grippli
 - trait/equipment/weapon/shove
-- imported/trait/thrown-30-ft
+- trait/equipment/weapon/thrown/30
 aliases: ["Rungu"]
 ---
 # Rungu *Item 0*  

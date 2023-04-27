@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shoggti"
 tags: 
   - trait/creature/type/fiend
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Shoggti"
 level: 7

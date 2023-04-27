@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/sot1
-- imported/ritual/1
-- imported/ritual/area/misc
+- compendium/src/pf2e/sot1
+- ritual/level/1
+- ritual/area/misc
 - trait/school/abjuration
 - trait/rarity/rare
 aliases: ["Fey Abeyance"]

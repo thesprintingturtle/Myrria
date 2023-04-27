@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/group/knife
@@ -13,7 +13,7 @@ tags:
 - trait/equipment/weapon/combination
 - trait/equipment/weapon/concussive
 - trait/equipment/weapon/critical-fusion
-- imported/trait/fatal-aim-d10
+- trait/equipment/weapon/fatal-aim/d10
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/forceful
 - trait/equipment/weapon/sweep

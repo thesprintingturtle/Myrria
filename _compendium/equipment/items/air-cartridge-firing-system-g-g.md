@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/customization/firing-mechanism
 - trait/rarity/uncommon
 aliases: ["Air Cartridge Firing System"]

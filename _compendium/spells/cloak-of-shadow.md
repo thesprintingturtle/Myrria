@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/effect/darkness
@@ -14,7 +14,7 @@ aliases: ["Cloak Of Shadow"]
 # Cloak Of Shadow *Focus 1*   
 [cleric](rules/traits/cleric.md)  [darkness](rules/traits/darkness.md)  [evocation](evocation.md)  [shadow](rules/traits/shadow.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[darkness](../setting/domains.md#Darkness)]
+- **Domains**: [[darkness](../domains.md#Darkness)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**1 willing creature

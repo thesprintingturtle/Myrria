@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/siege-weapon
-- imported/trait/portable
-- imported/trait/small
+- trait/siege-weapon/portable
+- trait/size/small
 - trait/rarity/uncommon
 aliases: ["Door Ram"]
 ---

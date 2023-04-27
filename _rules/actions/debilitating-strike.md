@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/rogue
-- imported/compendium/src/pf2e/crb
+- action/class/rogue
+- compendium/src/pf2e/crb
 - trait/class/rogue
 aliases: ["Debilitating Strike"]
 ---

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Centipede Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Centipede Swarm"
 level: 3

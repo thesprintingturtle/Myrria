@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/3
-- trait/location/type/district 
+- location/district/level/3
 aliases: Gravenmere
 ---
 # Gravenmere *District 3*

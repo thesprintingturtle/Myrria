@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/sot2
-- imported/ritual/4
+- compendium/src/pf2e/sot2
+- ritual/level/4
 - trait/effect/emotion
 - trait/rarity/rare
 - trait/school/transmutation

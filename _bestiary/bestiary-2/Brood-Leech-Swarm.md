@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Brood Leech Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Brood Leech Swarm"
 level: 4

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Globster"
 tags: 
   - trait/creature/type/ooze
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Globster"
 level: 5

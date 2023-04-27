@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Skaveling"
 tags: 
   - trait/creature/type/undead
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Skaveling"
 level: 5

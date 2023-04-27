@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Intellect Devourer"
 tags: 
   - trait/creature/type/aberration
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Intellect Devourer"
 level: 8

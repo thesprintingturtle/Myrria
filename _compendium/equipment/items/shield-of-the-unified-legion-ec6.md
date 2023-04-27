@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ec6
+- compendium/src/pf2e/ec6
 - equipment/shield/specific-magic-shield 
 - trait/school/evocation
 - trait/magical
-- imported/trait/shield
+- trait/equipment/shield
 - trait/rarity/uncommon
 aliases: ["Shield Of The Unified Legion"]
 ---

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ostovite"
 tags: 
   - trait/creature/type/fiend
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Ostovite"
 level: 1

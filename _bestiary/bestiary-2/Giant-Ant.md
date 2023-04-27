@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Ant"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Giant Ant"
 level: 2

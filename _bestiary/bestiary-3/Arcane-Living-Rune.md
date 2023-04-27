@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Arcane Living Rune"
 tags: 
   - trait/creature/type/construct
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Arcane Living Rune"
 level: 13

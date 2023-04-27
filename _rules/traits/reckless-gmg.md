@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/gmg
-- imported/trait/category/action-ability
+- compendium/src/pf2e/gmg
+- trait/category/action-ability
 aliases: ["Reckless"]
 ---
 # Reckless  

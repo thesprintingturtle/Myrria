@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/divination
 - trait/effect/light
@@ -11,7 +11,7 @@ aliases: ["Zenith Star"]
 # Zenith Star *Focus 1*   
 [divination](../../rules/traits/divination.md)  [light](../../rules/traits/light.md)  
 
-- **Domains**: [[stars](../setting/domains.md#Stars)]
+- **Domains**: [[stars](../domains.md#Stars)]
 - **Cast** [>>](../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 creature

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/1
+- compendium/src/pf2e/som
+- ritual/level/1
 - trait/school/conjuration
 - trait/rarity/uncommon
 aliases: ["Elemental Sentinel"]

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ringhorn Ram"
 tags: 
   - trait/creature/type/animal
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Ringhorn Ram"
 level: 0

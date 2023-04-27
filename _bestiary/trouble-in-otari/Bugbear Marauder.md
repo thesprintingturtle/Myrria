@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Bugbear Marauder"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Bugbear Marauder"
 level: 2

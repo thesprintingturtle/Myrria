@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Danava Titan"
 tags: 
   - trait/creature/type/humanoid
-  - level/23
+  - creature/level/23
 statblock: inline
 name: "Danava Titan"
 level: 23

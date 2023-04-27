@@ -4,7 +4,7 @@ aliases: "Young Forest Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/plant
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Young Forest Dragon"
 level: 10

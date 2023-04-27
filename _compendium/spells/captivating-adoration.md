@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/emanation
 - spell/focus/4
 - trait/class/cleric
@@ -16,7 +16,7 @@ aliases: ["Captivating Adoration"]
 # Captivating Adoration *Focus 4*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  [uncommon](uncommon.md)  [visual](visual.md)  
 
-- **Domains**: [[passion](../setting/domains.md#Passion)]
+- **Domains**: [[passion](../domains.md#Passion)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot emanation
 - **Saving Throw** Will

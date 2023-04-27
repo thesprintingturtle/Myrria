@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ximtal"
 tags: 
   - trait/creature/type/fiend
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Ximtal"
 level: 17

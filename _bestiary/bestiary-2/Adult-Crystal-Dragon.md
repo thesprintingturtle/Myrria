@@ -4,7 +4,7 @@ aliases: "Adult Crystal Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Adult Crystal Dragon"
 level: 11

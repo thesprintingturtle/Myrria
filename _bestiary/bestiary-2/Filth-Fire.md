@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Filth Fire"
 tags: 
   - trait/creature/type/elemental
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Filth Fire"
 level: 4

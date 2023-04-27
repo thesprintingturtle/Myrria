@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Spinosaurus"
 tags: 
   - trait/creature/type/animal
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Spinosaurus"
 level: 11

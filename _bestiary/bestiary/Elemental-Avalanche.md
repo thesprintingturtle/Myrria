@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Elemental Avalanche"
 tags: 
   - trait/creature/type/elemental
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Elemental Avalanche"
 level: 11

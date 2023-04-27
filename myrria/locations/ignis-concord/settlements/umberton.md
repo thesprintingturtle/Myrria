@@ -1,8 +1,8 @@
 ---
 tags:
 - custom
-- level/7
-- trait/location/type/settlement/city 
+- location/settlement/level/7
+- trait/settlement/type/city 
 aliases: ["Umberton"]
 ---
 # Umberton *Settlement 7*

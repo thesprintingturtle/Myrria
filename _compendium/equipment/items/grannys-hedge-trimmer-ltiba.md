@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ltiba
+- compendium/src/pf2e/ltiba
 - equipment/weapon/base-weapon/category/simple
 - equipment/weapon/base-weapon/group/polearm
 - equipment/weapon/base-weapon/type/melee 

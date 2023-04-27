@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Froghemoth"
 tags: 
   - trait/creature/type/aberration
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Froghemoth"
 level: 13

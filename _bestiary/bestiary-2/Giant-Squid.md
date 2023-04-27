@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Squid"
 tags: 
   - trait/creature/type/animal
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Giant Squid"
 level: 9

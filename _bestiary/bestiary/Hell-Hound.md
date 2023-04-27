@@ -4,7 +4,7 @@ aliases: "Hell Hound"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fiend
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Hell Hound"
 level: 3

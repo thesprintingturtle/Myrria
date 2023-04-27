@@ -4,7 +4,7 @@ aliases: "Greater Nightmare"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fiend
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Greater Nightmare"
 level: 11

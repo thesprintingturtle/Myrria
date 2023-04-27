@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ec4
+- compendium/src/pf2e/ec4
 - equipment/worn-item
 - trait/school/evocation
 - trait/magical

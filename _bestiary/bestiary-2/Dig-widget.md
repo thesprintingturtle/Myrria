@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dig-widget"
 tags: 
   - trait/creature/type/construct
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Dig-widget"
 level: 5

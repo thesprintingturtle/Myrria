@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/energy-element
-- imported/trait/category/planar
+- compendium/src/pf2e/crb
+- trait/category/energy-element
+- trait/category/planar
 aliases: ["Air"]
 ---
 # Air  

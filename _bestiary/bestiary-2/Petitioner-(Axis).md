@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Petitioner (Axis)"
 tags: 
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Petitioner (Axis)"
 level: 1

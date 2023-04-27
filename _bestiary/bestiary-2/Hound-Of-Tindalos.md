@@ -4,7 +4,7 @@ aliases: "Hound Of Tindalos"
 tags: 
   - trait/creature/type/aberration
   - trait/creature/type/time
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Hound Of Tindalos"
 level: 7

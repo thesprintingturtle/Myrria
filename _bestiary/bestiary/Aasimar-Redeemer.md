@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Aasimar Redeemer"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Aasimar Redeemer"
 level: 5

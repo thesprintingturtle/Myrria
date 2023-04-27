@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Monster Hunter"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Monster Hunter"
 level: 6

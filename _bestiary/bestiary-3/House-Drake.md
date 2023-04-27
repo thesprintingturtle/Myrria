@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "House Drake"
 tags: 
   - trait/creature/type/dragon
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "House Drake"
 level: 1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Emperor Cobra"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Emperor Cobra"
 level: 5

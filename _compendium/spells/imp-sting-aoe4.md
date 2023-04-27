@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoe4
+- compendium/src/pf2e/aoe4
 - spell/level/2
 - trait/alignment/evil
 - trait/school/necromancy

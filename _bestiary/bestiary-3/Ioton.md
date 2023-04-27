@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ioton"
 tags: 
   - trait/creature/type/astral
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Ioton"
 level: 0

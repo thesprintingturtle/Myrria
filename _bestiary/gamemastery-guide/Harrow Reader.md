@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Harrow Reader"
 tags: 
   - trait/creature/type/humanoid
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Harrow Reader"
 level: -1

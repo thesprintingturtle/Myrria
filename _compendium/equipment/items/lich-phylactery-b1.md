@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/b1
+- compendium/src/pf2e/b1
 - equipment/held-item
 - trait/tradition/arcane
 - trait/school/necromancy

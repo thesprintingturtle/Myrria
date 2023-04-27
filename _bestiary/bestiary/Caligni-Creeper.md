@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Caligni Creeper"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Caligni Creeper"
 level: 2

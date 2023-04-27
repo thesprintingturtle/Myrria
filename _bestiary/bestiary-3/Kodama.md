@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kodama"
 tags: 
   - trait/creature/type/spirit
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Kodama"
 level: 5

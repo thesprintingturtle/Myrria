@@ -4,7 +4,7 @@ aliases: "Dryad Queen"
 tags: 
   - trait/creature/type/fey
   - trait/creature/type/plant
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Dryad Queen"
 level: 13

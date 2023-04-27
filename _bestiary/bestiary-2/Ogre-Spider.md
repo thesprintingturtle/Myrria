@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ogre Spider"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Ogre Spider"
 level: 5

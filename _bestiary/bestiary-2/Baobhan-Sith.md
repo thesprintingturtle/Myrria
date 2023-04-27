@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Baobhan Sith"
 tags: 
   - trait/creature/type/fey
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Baobhan Sith"
 level: 6

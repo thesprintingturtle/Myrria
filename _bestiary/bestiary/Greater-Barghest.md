@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Greater Barghest"
 tags: 
   - trait/creature/type/fiend
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Greater Barghest"
 level: 7

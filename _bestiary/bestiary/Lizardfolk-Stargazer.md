@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lizardfolk Stargazer"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Lizardfolk Stargazer"
 level: 2

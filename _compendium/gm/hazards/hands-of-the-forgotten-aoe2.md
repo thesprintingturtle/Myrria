@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/aoe2
+- compendium/src/pf2e/aoe2
 - trait/hazard/haunt
 aliases: ["Hands Of The Forgotten"]
 ---

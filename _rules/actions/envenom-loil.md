@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/vishkanya-loil
-- imported/compendium/src/pf2e/loil
+- action/ancestry/vishkanya-loil
+- compendium/src/pf2e/loil
 - trait/action/manipulate
 aliases: ["Envenom"]
 ---

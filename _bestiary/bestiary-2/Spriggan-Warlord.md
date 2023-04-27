@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Spriggan Warlord"
 tags: 
   - trait/creature/type/humanoid
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Spriggan Warlord"
 level: 7

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Wayang Whisperblade"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Wayang Whisperblade"
 level: 1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Caligni Slayer"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Caligni Slayer"
 level: 3

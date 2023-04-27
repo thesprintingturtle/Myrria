@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/investigator-apg
-- imported/compendium/src/pf2e/apg
+- action/class/investigator-apg
+- compendium/src/pf2e/apg
 - trait/sense/auditory
 - trait/action/concentrate
 - trait/class/investigator

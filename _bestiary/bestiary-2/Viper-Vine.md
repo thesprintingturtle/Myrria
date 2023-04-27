@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Viper Vine"
 tags: 
   - trait/creature/type/plant
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Viper Vine"
 level: 13

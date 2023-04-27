@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/apg
-- imported/ritual/2
-- imported/ritual/area/misc
+- compendium/src/pf2e/apg
+- ritual/level/2
+- ritual/area/misc
 - trait/school/conjuration
 - trait/rarity/uncommon
 aliases: ["Unseen Custodians"]

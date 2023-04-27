@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Megaprimatus"
 tags: 
   - trait/creature/type/animal
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Megaprimatus"
 level: 8

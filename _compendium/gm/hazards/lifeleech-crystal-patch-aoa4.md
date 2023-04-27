@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/aoa4
+- compendium/src/pf2e/aoa4
 - trait/hazard/environmental
 - trait/magical
 aliases: ["Lifeleech Crystal Patch"]

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Popobawa"
 tags: 
   - trait/creature/type/humanoid
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Popobawa"
 level: 15

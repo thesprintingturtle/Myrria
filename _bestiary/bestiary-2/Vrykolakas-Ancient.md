@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vrykolakas Ancient"
 tags: 
   - trait/creature/type/undead
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Vrykolakas Ancient"
 level: 13

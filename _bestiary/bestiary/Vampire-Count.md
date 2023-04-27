@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vampire Count"
 tags: 
   - trait/creature/type/undead
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Vampire Count"
 level: 6

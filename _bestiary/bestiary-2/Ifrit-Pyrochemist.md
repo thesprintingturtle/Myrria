@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ifrit Pyrochemist"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Ifrit Pyrochemist"
 level: 1

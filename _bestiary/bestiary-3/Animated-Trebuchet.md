@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Animated Trebuchet"
 tags: 
   - trait/creature/type/construct
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Animated Trebuchet"
 level: 13

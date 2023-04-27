@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/held-item
 - trait/school/evocation
 - trait/equipment/intelligent
-- imported/trait/ln
+- trait/alignment/ln
 - trait/tradition/primal
 - trait/rarity/rare
 aliases: ["Boastful Hunter"]

@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/level/7
 - trait/effect/incapacitation
 - trait/effect/mental
 - trait/school/necromancy
-- imported/trait/possession
+- trait/effect/possession
 - trait/rarity/uncommon
 aliases: ["Possession"]
 ---

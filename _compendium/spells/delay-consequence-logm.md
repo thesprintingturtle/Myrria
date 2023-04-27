@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/abjuration
 aliases: ["Delay Consequence"]
@@ -10,7 +10,7 @@ aliases: ["Delay Consequence"]
 # Delay Consequence *Focus 1*   
 [abjuration](abjuration.md)  
 
-- **Domains**: [[time](../setting/domains.md#Time)]
+- **Domains**: [[time](../domains.md#Time)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature or object within range is hit by an attack.
 - **Range**30 foot

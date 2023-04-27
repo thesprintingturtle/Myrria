@@ -4,7 +4,7 @@ aliases: "Ancient Cloud Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Ancient Cloud Dragon"
 level: 19

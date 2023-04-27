@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sunflower Leshy"
 tags: 
   - trait/creature/type/plant
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Sunflower Leshy"
 level: 1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Plague Doctor"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Plague Doctor"
 level: 5

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/necromancy
 - trait/energy/negative
@@ -11,7 +11,7 @@ aliases: ["Withering Grasp"]
 # Withering Grasp *Focus 1*   
 [necromancy](../../rules/traits/necromancy.md)  [negative](../../rules/traits/negative.md)  
 
-- **Domains**: [[decay](../setting/domains.md#Decay)]
+- **Domains**: [[decay](../domains.md#Decay)]
 - **Cast** [>>](../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**touch
 - **Targets**1 creature or object

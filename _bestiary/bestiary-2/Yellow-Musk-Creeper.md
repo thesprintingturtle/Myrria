@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Yellow Musk Creeper"
 tags: 
   - trait/creature/type/plant
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Yellow Musk Creeper"
 level: 2

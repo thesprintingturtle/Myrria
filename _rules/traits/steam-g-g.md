@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 aliases: ["Steam"]
 ---
 # Steam  

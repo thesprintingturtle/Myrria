@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/4
+- compendium/src/pf2e/som
+- ritual/level/4
 - trait/effect/curse
 - trait/school/divination
 - trait/effect/mental

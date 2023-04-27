@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dread Wraith"
 tags: 
   - trait/creature/type/undead
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Dread Wraith"
 level: 9

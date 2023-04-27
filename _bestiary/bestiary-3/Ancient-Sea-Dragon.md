@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ancient Sea Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Ancient Sea Dragon"
 level: 17

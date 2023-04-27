@@ -4,7 +4,7 @@ aliases: "Nemhaith"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/15
+  - creature/level/15
 statblock: inline
 name: "Nemhaith"
 level: 15

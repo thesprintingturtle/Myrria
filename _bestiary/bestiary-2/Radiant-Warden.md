@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Radiant Warden"
 tags: 
   - trait/creature/type/construct
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Radiant Warden"
 level: 17

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/loil
-- imported/trait/category/settlement
+- compendium/src/pf2e/loil
+- trait/category/settlement
 aliases: ["City-state"]
 ---
 # City-state  

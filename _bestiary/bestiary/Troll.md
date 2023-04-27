@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Troll"
 tags: 
   - trait/creature/type/giant
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Troll"
 level: 5

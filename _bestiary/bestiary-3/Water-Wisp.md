@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Water Wisp"
 tags: 
   - trait/creature/type/elemental
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Water Wisp"
 level: 0

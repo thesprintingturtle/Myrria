@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/frp1
+- compendium/src/pf2e/frp1
 - equipment/artifact
 - trait/equipment/artifact
 - trait/effect/healing

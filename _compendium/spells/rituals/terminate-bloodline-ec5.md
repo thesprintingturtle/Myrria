@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/ec5
-- imported/ritual/6
+- compendium/src/pf2e/ec5
+- ritual/level/6
 - trait/school/necromancy
 - trait/rarity/uncommon
 aliases: ["Terminate Bloodline"]

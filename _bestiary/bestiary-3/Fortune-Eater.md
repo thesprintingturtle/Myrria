@@ -4,7 +4,7 @@ aliases: "Fortune Eater"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Fortune Eater"
 level: 7

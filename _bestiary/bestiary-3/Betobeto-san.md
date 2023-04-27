@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Betobeto-san"
 tags: 
   - trait/creature/type/spirit
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Betobeto-san"
 level: 12

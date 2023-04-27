@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lol
+- compendium/src/pf2e/lol
 - equipment/held-item
 - trait/school/evocation
 - trait/equipment/invested

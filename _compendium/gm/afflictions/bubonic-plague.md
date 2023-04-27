@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/disease
-- imported/affliction/level/3
-- imported/compendium/src/pf2e/gmg
+- affliction/disease/level/3
+- compendium/src/pf2e/gmg
 - trait/effect/disease
 aliases: ["Bubonic Plague"]
 ---

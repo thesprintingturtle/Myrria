@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Grothlut"
 tags: 
   - trait/creature/type/aberration
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Grothlut"
 level: 3

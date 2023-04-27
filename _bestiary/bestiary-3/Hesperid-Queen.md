@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hesperid Queen"
 tags: 
   - trait/creature/type/fey
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Hesperid Queen"
 level: 19

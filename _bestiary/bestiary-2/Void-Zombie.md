@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Void Zombie"
 tags: 
   - trait/creature/type/undead
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Void Zombie"
 level: 1

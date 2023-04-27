@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/som
-- imported/trait/category/equipment
+- compendium/src/pf2e/som
+- trait/category/equipment
 aliases: ["Spellheart"]
 ---
 # Spellheart  

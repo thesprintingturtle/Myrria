@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Keketar"
 tags: 
   - trait/creature/type/monitor
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Keketar"
 level: 17

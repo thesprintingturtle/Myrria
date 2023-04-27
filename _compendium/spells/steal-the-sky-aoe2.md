@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoe2
+- compendium/src/pf2e/aoe2
 - spell/focus/5
 - trait/element/air
 - trait/school/evocation

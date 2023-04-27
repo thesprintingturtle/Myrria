@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/transmutation
@@ -12,7 +12,7 @@ aliases: ["Agile Feet"]
 # Agile Feet *Focus 1*   
 [cleric](rules/traits/cleric.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[travel](../setting/domains.md#Travel)]
+- **Domains**: [[travel](../domains.md#Travel)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**until the end of the current turn
 

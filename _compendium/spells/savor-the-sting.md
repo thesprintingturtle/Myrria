@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/enchantment
@@ -14,7 +14,7 @@ aliases: ["Savor The Sting"]
 # Savor The Sting *Focus 1*   
 [cleric](rules/traits/cleric.md)  [enchantment](enchantment.md)  [mental](mental.md)  [nonlethal](nonlethal.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[pain](../setting/domains.md#Pain)]
+- **Domains**: [[pain](../domains.md#Pain)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**1 creature

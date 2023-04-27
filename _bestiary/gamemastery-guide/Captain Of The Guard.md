@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Captain Of The Guard"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Captain Of The Guard"
 level: 6

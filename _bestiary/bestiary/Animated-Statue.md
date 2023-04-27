@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Animated Statue"
 tags: 
   - trait/creature/type/construct
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Animated Statue"
 level: 3

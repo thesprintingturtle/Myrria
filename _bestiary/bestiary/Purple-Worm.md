@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Purple Worm"
 tags: 
   - trait/creature/type/animal
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Purple Worm"
 level: 13

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ghaele"
 tags: 
   - trait/creature/type/celestial
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Ghaele"
 level: 13

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Soul Eater"
 tags: 
   - trait/creature/type/fiend
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Soul Eater"
 level: 7

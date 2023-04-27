@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Yamaraj"
 tags: 
   - trait/creature/type/monitor
-  - level/20
+  - creature/level/20
 statblock: inline
 name: "Yamaraj"
 level: 20

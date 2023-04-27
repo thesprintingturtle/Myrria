@@ -1,7 +1,7 @@
 ---
 tags:
-- level/X
-- trait/location/type/settlement
+- custom
+- location/settlement/level/X
 aliases: Name
 ---
 # Name *Settlement X*

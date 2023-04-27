@@ -4,7 +4,7 @@ aliases: "Nessian Warhound"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fiend
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Nessian Warhound"
 level: 9

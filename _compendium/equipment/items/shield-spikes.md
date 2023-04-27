@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/shield
 - equipment/weapon/base-weapon/type/melee
-- imported/trait/attached-to-shield
+- trait/equipment/weapon/attached-to-shield
 aliases: ["Shield Spikes"]
 ---
 # Shield Spikes *Item 0*  

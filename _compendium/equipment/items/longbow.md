@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/bow
 - equipment/weapon/base-weapon/range/100
 - equipment/weapon/base-weapon/reload/0
 - equipment/weapon/base-weapon/type/ranged
 - trait/equipment/weapon/deadly/d10
-- imported/trait/volley-30-ft
+- trait/equipment/weapon/volley/30
 aliases: ["Longbow"]
 ---
 # Longbow *Item 0*  

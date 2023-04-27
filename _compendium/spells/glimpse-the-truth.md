@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/emanation
 - spell/focus/4
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Glimpse The Truth"]
 # Glimpse The Truth *Focus 4*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [revelation](revelation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[truth](../setting/domains.md#Truth)]
+- **Domains**: [[truth](../domains.md#Truth)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**30-foot emanation
 - **Duration**1 round

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mohrg"
 tags: 
   - trait/creature/type/undead
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Mohrg"
 level: 8

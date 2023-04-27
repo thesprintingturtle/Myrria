@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/gunslinger-g-g
-- imported/compendium/src/pf2e/g&g
+- action/class/gunslinger-g-g
+- compendium/src/pf2e/g&g
 - trait/sense/auditory
 - trait/effect/emotion
 - trait/effect/fear

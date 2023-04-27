@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/necromancy
@@ -13,7 +13,7 @@ aliases: ["Touch Of Undeath"]
 # Touch Of Undeath *Focus 1*   
 [cleric](rules/traits/cleric.md)  [necromancy](necromancy.md)  [negative](negative.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[undeath](../setting/domains.md#Undeath)]
+- **Domains**: [[undeath](../domains.md#Undeath)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**1 living creature

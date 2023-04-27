@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/4
 - trait/class/cleric
 - trait/school/necromancy
@@ -12,7 +12,7 @@ aliases: ["Euphoric Renewal"]
 # Euphoric Renewal *Focus 4*   
 [cleric](rules/traits/cleric.md)  [necromancy](necromancy.md)  [rare](rare.md)  
 
-- **Domains**: [[death (apocryphal)](../setting/domains.md#Death%20(apocryphal))]
+- **Domains**: [[death (apocryphal)](../domains.md#Death%20(apocryphal))]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Duration**10 minutes
 

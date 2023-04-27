@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Jungle Drake"
 tags: 
   - trait/creature/type/dragon
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Jungle Drake"
 level: 6

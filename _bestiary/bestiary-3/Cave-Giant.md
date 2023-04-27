@@ -4,7 +4,7 @@ aliases: "Cave Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Cave Giant"
 level: 6

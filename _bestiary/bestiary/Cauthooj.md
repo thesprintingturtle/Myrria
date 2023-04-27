@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cauthooj"
 tags: 
   - trait/creature/type/beast
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Cauthooj"
 level: 12

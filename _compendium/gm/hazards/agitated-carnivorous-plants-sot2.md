@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/sot2
+- compendium/src/pf2e/sot2
 - trait/hazard/environmental
 - trait/rarity/uncommon
 aliases: ["Agitated Carnivorous Plants"]

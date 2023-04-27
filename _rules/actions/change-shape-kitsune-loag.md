@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/kitsune-loag
-- imported/compendium/src/pf2e/loag
+- action/ancestry/kitsune-loag
+- compendium/src/pf2e/loag
 - trait/action/concentrate
 - trait/tradition/divine
 - trait/ancestry/kitsune

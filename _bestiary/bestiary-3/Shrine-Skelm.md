@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shrine Skelm"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Shrine Skelm"
 level: 5

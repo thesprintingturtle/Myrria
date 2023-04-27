@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Megalania"
 tags: 
   - trait/creature/type/animal
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Megalania"
 level: 7

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hadrinnex"
 tags: 
   - trait/creature/type/aberration
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Hadrinnex"
 level: 8

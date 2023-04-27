@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action
-- imported/compendium/src/pf2e/da
+- action
+- compendium/src/pf2e/da
 - trait/magical
 - trait/action/manipulate
 - trait/school/necromancy

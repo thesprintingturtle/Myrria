@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mummy Pharaoh"
 tags: 
   - trait/creature/type/undead
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Mummy Pharaoh"
 level: 9

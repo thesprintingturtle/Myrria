@@ -4,7 +4,7 @@ aliases: "Poltergeist"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Poltergeist"
 level: 5

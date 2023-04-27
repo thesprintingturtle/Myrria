@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/archetype/spellshot-g-g
-- imported/action/class/gunslinger-g-g
-- imported/compendium/src/pf2e/g&g
+- action/archetype/spellshot-g-g
+- action/class/gunslinger-g-g
+- compendium/src/pf2e/g&g
 - trait/school/conjuration
 - trait/magical
-- imported/trait/spellshot
+- trait/equipment/ammunition/spellshot
 - trait/effect/teleportation
 aliases: ["Recall Ammunition"]
 ---

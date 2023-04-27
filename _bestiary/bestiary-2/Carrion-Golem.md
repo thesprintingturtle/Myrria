@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Carrion Golem"
 tags: 
   - trait/creature/type/construct
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Carrion Golem"
 level: 4

@@ -4,7 +4,7 @@ aliases: "Ouroboros"
 tags: 
   - trait/creature/type/astral
   - trait/creature/type/beast
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Ouroboros"
 level: 21

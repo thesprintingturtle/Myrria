@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse/tempted
-- imported/affliction/level/7
-- imported/compendium/src/pf2e/da
+- affliction/curse/tempted
+- affliction/curse/level/7
+- compendium/src/pf2e/da
 - trait/effect/curse
 - trait/school/enchantment
 - trait/magical

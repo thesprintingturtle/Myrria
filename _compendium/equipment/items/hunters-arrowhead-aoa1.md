@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/aoa1
+- compendium/src/pf2e/aoa1
 - equipment/worn-item
 - trait/school/enchantment
 - trait/equipment/invested

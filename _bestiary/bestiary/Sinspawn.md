@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sinspawn"
 tags: 
   - trait/creature/type/aberration
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Sinspawn"
 level: 2

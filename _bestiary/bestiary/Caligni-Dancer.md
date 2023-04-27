@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Caligni Dancer"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Caligni Dancer"
 level: 1

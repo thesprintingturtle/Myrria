@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Nosoi"
 tags: 
   - trait/creature/type/monitor
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Nosoi"
 level: 1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Demonologist"
 tags: 
   - trait/creature/type/humanoid
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Demonologist"
 level: 7

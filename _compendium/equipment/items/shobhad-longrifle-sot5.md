@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/sot5
+- compendium/src/pf2e/sot5
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/firearm
 - equipment/weapon/base-weapon/type/ranged
@@ -13,7 +13,7 @@ tags:
 - trait/equipment/weapon/fatal/d12
 - trait/equipment/weapon/kickback
 - trait/rarity/rare
-- imported/trait/volley-30-feet
+- trait/equipment/weapon/volley/30
 aliases: ["Shobhad Longrifle"]
 ---
 # Shobhad Longrifle *Item 1*  

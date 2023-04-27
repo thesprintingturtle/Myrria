@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/7
+- compendium/src/pf2e/som
+- ritual/level/7
 - trait/school/evocation
 - trait/rarity/rare
 aliases: ["Empower Ley Line"]

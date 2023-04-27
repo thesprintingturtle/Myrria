@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Procyal"
 tags: 
   - trait/creature/type/celestial
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Procyal"
 level: 8

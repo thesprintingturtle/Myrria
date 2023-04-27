@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Girtablilu Seer"
 tags: 
   - trait/creature/type/beast
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Girtablilu Seer"
 level: 12

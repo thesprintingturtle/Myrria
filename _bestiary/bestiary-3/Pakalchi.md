@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Pakalchi"
 tags: 
   - trait/creature/type/fiend
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Pakalchi"
 level: 9

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Thanatotic Titan"
 tags: 
   - trait/creature/type/humanoid
-  - level/22
+  - creature/level/22
 statblock: inline
 name: "Thanatotic Titan"
 level: 22

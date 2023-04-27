@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/aaws
-- imported/trait/category/weapon
+- compendium/src/pf2e/aaws
+- trait/category/weapon
 aliases: ["Climbing"]
 ---
 # Climbing  

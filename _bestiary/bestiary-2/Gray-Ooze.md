@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gray Ooze"
 tags: 
   - trait/creature/type/ooze
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Gray Ooze"
 level: 4

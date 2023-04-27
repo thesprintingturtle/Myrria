@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Pegasus"
 tags: 
   - trait/creature/type/beast
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Pegasus"
 level: 3

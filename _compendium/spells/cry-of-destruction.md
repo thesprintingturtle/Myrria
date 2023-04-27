@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/cone
 - spell/focus/1
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Cry Of Destruction"]
 # Cry Of Destruction *Focus 1*   
 [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [sonic](sonic.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[destruction](../setting/domains.md#Destruction)]
+- **Domains**: [[destruction](../domains.md#Destruction)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot cone
 - **Saving Throw**  basic Fortitude

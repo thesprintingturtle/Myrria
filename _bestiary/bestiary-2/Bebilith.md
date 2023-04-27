@@ -4,7 +4,7 @@ aliases: "Bebilith"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fiend
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Bebilith"
 level: 10

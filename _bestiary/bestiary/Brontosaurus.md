@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Brontosaurus"
 tags: 
   - trait/creature/type/animal
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Brontosaurus"
 level: 10

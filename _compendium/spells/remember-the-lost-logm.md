@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
 - trait/school/divination
@@ -12,7 +12,7 @@ aliases: ["Remember The Lost"]
 # Remember The Lost *Focus 4*   
 [divination](divination.md)  [mental](mental.md)  
 
-- **Domains**: [[vigil](../setting/domains.md#Vigil)]
+- **Domains**: [[vigil](../domains.md#Vigil)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot-radius emanation centered on you
 - **Saving Throw**  basic Will

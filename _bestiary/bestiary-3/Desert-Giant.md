@@ -4,7 +4,7 @@ aliases: "Desert Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Desert Giant"
 level: 9

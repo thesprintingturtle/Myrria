@@ -5,7 +5,7 @@ tags:
   - trait/creature/type/fiend
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Onidoshi"
 level: 8

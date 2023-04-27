@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/b1
-- imported/trait/category/tradition
+- compendium/src/pf2e/b1
+- trait/category/tradition
 aliases: ["Any Magical Tradition"]
 ---
 # Any Magical Tradition  

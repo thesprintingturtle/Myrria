@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/effect/light
@@ -14,7 +14,7 @@ aliases: ["Positive Luminance"]
 # Positive Luminance *Focus 4*   
 [cleric](rules/traits/cleric.md)  [light](rules/traits/light.md)  [necromancy](necromancy.md)  [positive](positive.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[sun](../setting/domains.md#Sun)]
+- **Domains**: [[sun](../domains.md#Sun)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute
 

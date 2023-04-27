@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ether Spider"
 tags: 
   - trait/creature/type/beast
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Ether Spider"
 level: 5

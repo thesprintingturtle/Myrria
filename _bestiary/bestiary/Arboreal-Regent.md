@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Arboreal Regent"
 tags: 
   - trait/creature/type/plant
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Arboreal Regent"
 level: 8

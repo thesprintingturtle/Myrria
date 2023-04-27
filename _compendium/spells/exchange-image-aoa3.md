@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoa3
+- compendium/src/pf2e/aoa3
 - spell/level/1
 - trait/school/illusion
 - trait/rarity/uncommon

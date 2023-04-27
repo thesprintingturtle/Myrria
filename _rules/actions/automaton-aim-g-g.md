@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/automaton-g-g
-- imported/compendium/src/pf2e/g&g
+- action/ancestry/automaton-g-g
+- compendium/src/pf2e/g&g
 aliases: ["Automaton Aim"]
 ---
 # Automaton Aim [>](chapter-9-playing-the-game.md#Actions "Single Action")

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Voidworm"
 tags: 
   - trait/creature/type/monitor
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Voidworm"
 level: 1

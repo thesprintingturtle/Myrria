@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action
-- imported/compendium/src/pf2e/g&g
+- action
+- compendium/src/pf2e/g&g
 - trait/class/gunslinger
 aliases: ["Thoughtful Reload"]
 ---

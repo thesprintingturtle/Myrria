@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/4 
-- trait/location/type/district 
+- location/district/level/4 
 aliases: Steelgate
 ---
 # Steelgate *District 4*

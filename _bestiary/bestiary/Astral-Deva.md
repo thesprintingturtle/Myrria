@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Astral Deva"
 tags: 
   - trait/creature/type/celestial
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Astral Deva"
 level: 14

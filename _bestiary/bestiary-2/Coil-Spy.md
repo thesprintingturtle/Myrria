@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Coil Spy"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Coil Spy"
 level: 4

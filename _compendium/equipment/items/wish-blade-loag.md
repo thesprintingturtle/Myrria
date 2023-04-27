@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/loag
+- compendium/src/pf2e/loag
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/sword
 - equipment/weapon/base-weapon/type/melee
 - trait/equipment/weapon/disarm
-- imported/trait/geniekin
-- imported/trait/resonant
+- trait/ancestry/geniekin
+- trait/equipment/weapon/resonant
 - trait/equipment/weapon/two-hand/d10
 - trait/rarity/uncommon
 aliases: ["Wish Blade"]

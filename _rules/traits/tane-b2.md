@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/b2
-- imported/trait/category/creature
+- compendium/src/pf2e/b2
+- trait/category/creature
 aliases: ["Tane"]
 ---
 # Tane  

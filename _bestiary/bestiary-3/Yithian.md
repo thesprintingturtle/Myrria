@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Yithian"
 tags: 
   - trait/creature/type/aberration
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Yithian"
 level: 9

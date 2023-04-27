@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/loil
+- compendium/src/pf2e/loil
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/polearm
 - equipment/weapon/base-weapon/type/melee 
-- imported/trait/hampering
+- trait/equipment/weapon/hampering
 - trait/equipment/weapon/reach
 - trait/equipment/weapon/tethered
 - trait/equipment/weapon/thrown/20

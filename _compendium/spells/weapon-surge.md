@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/evocation
@@ -12,7 +12,7 @@ aliases: ["Weapon Surge"]
 # Weapon Surge *Focus 1*   
 [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[zeal](../setting/domains.md#Zeal)]
+- **Domains**: [[zeal](../domains.md#Zeal)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**1 weapon you're wielding

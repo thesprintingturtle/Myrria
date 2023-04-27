@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Peryton"
 tags: 
   - trait/creature/type/beast
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Peryton"
 level: 4

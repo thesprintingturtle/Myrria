@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/school
-- imported/trait/category/spell/transmutation
+- compendium/src/pf2e/crb
+- trait/category/school
+- trait/category/spell/transmutation
 aliases: ["Transmutation"]
 ---
 # Transmutation  

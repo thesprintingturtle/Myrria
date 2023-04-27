@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lokl
+- compendium/src/pf2e/lokl
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/spear
 - equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/deadly/d8
-- imported/trait/jousting-d6
+- trait/equipment/weapon/jousting/d6
 - trait/equipment/weapon/parry
 - trait/equipment/weapon/shove
 - trait/rarity/uncommon

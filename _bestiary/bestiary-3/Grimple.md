@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Grimple"
 tags: 
   - trait/creature/type/fey
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Grimple"
 level: -1

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/nagaji-loil
-- imported/compendium/src/pf2e/loil
+- action/ancestry/nagaji-loil
+- compendium/src/pf2e/loil
 aliases: ["Raise Neck"]
 ---
 # Raise Neck [>](chapter-9-playing-the-game.md#Actions "Single Action")

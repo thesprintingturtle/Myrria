@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
 - trait/effect/emotion
@@ -14,7 +14,7 @@ aliases: ["Overflowing Sorrow"]
 # Overflowing Sorrow *Focus 4*   
 [emotion](emotion.md)  [enchantment](enchantment.md)  [incapacitation](incapacitation.md)  [mental](mental.md)  
 
-- **Domains**: [[sorrow](../setting/domains.md#Sorrow)]
+- **Domains**: [[sorrow](../domains.md#Sorrow)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot emanation, centered on you
 - **Saving Throw** Will

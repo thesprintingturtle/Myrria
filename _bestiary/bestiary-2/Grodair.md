@@ -4,7 +4,7 @@ aliases: "Grodair"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fey
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Grodair"
 level: 5

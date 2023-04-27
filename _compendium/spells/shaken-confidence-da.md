@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/4
 - trait/class/cleric
 - trait/effect/emotion
@@ -15,7 +15,7 @@ aliases: ["Shaken Confidence"]
 # Shaken Confidence *Focus 4*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  [misfortune](misfortune.md)  [rare](rare.md)  
 
-- **Domains**: [[confidence (apocryphal)](../setting/domains.md#Confidence%20(apocryphal))]
+- **Domains**: [[confidence (apocryphal)](../domains.md#Confidence%20(apocryphal))]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**An enemy within 30 feet of you critically fails an attack roll, [Perception](../skills.md#Perception) check, or skill check.
 - **Saving Throw** Will

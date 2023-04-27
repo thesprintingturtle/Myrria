@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hadrosaurid"
 tags: 
   - trait/creature/type/animal
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Hadrosaurid"
 level: 4

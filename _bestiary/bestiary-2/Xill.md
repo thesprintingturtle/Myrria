@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Xill"
 tags: 
   - trait/creature/type/aberration
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Xill"
 level: 6

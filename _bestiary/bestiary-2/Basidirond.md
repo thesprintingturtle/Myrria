@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Basidirond"
 tags: 
   - trait/creature/type/fungus
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Basidirond"
 level: 5

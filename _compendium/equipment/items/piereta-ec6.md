@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ec6
+- compendium/src/pf2e/ec6
 - equipment/held-item
 - trait/tradition/divine
 - trait/school/evocation

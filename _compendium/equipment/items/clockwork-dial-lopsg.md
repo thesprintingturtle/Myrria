@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lopsg
+- compendium/src/pf2e/lopsg
 - equipment/adventuring-gear
 - trait/rarity/uncommon
 aliases: ["Clockwork Dial"]

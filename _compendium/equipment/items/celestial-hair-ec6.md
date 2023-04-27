@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ec6
+- compendium/src/pf2e/ec6
 - equipment/consumable/talisman
 - trait/school/abjuration
 - trait/equipment/consumable

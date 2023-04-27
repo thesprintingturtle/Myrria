@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/conrasu-lome
-- imported/compendium/src/pf2e/lome
+- action/ancestry/conrasu-lome
+- compendium/src/pf2e/lome
 - trait/effect/fortune
 aliases: ["Call to Axis"]
 ---

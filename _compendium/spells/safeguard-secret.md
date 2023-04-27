@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/school/abjuration
 - trait/class/cleric
@@ -13,7 +13,7 @@ aliases: ["Safeguard Secret"]
 # Safeguard Secret *Focus 4*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[secrecy](../setting/domains.md#Secrecy)]
+- **Domains**: [[secrecy](../domains.md#Secrecy)]
 - **Cast** 1 minute 
 - **Range**10 foot
 - **Targets**you and any number of willing allies

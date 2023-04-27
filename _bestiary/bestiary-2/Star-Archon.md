@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Star Archon"
 tags: 
   - trait/creature/type/celestial
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Star Archon"
 level: 19

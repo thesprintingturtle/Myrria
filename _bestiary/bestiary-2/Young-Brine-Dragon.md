@@ -4,7 +4,7 @@ aliases: "Young Brine Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Young Brine Dragon"
 level: 8

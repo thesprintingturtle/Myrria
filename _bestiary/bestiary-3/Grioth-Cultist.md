@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Grioth Cultist"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Grioth Cultist"
 level: 3

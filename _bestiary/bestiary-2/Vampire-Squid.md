@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vampire Squid"
 tags: 
   - trait/creature/type/animal
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Vampire Squid"
 level: 0

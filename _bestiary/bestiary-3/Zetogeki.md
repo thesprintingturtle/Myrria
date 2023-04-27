@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Zetogeki"
 tags: 
   - trait/creature/type/animal
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Zetogeki"
 level: 7

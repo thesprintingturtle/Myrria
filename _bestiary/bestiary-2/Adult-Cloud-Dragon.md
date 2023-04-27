@@ -4,7 +4,7 @@ aliases: "Adult Cloud Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Adult Cloud Dragon"
 level: 14

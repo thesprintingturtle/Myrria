@@ -4,7 +4,7 @@ aliases: "Umasi"
 tags: 
   - trait/creature/type/aberration
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Umasi"
 level: 6

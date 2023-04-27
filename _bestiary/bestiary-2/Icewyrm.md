@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Icewyrm"
 tags: 
   - trait/creature/type/elemental
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Icewyrm"
 level: 10

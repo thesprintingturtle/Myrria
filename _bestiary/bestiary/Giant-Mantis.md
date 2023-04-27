@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Mantis"
 tags: 
   - trait/creature/type/animal
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Giant Mantis"
 level: 3

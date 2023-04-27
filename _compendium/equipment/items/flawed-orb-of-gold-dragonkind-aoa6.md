@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/aoa6
+- compendium/src/pf2e/aoa6
 - equipment/artifact
 - trait/equipment/artifact
 - trait/school/enchantment

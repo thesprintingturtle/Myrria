@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/effect/emotion
@@ -15,7 +15,7 @@ aliases: ["Charming Touch"]
 # Charming Touch *Focus 1*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [incapacitation](incapacitation.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[passion](../setting/domains.md#Passion)]
+- **Domains**: [[passion](../domains.md#Passion)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**touch
 - **Targets**1 creature that could find you attractive

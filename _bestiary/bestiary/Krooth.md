@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Krooth"
 tags: 
   - trait/creature/type/animal
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Krooth"
 level: 8

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Black Bear"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Black Bear"
 level: 2

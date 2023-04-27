@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Munavri Spellblade"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Munavri Spellblade"
 level: 2

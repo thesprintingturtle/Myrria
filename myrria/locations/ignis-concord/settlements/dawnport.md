@@ -1,9 +1,9 @@
 ---
 tags:
 - custom
-- level/3
-- trait/location/type/settlement/city 
-- trait/location/port-city 
+- location/settlement/level/3
+- trait/settlement/type/city 
+- trait/settlement/port-city 
 aliases: ["Dawnport"]
 ---
 # Dawnport *Settlement 3*

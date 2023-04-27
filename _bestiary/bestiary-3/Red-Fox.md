@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Red Fox"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Red Fox"
 level: -1

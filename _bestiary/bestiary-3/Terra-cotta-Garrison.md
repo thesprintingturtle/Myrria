@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Terra-cotta Garrison"
 tags: 
   - trait/creature/type/construct
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Terra-cotta Garrison"
 level: 13

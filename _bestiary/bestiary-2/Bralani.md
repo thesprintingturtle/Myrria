@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Bralani"
 tags: 
   - trait/creature/type/celestial
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Bralani"
 level: 6

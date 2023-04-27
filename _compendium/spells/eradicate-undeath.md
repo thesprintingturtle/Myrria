@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/cone
 - spell/focus/4
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Eradicate Undeath"]
 # Eradicate Undeath *Focus 4*   
 [cleric](rules/traits/cleric.md)  [necromancy](necromancy.md)  [positive](positive.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[death](../setting/domains.md#Death)]
+- **Domains**: [[death](../domains.md#Death)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**30-foot cone
 - **Saving Throw**  basic Fortitude

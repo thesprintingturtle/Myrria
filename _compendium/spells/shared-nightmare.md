@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/effect/emotion
@@ -15,7 +15,7 @@ aliases: ["Shared Nightmare"]
 # Shared Nightmare *Focus 4*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [incapacitation](incapacitation.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[nightmares](../setting/domains.md#Nightmares)]
+- **Domains**: [[nightmares](../domains.md#Nightmares)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

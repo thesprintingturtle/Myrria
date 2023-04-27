@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Hezrou"
 tags: 
   - trait/creature/type/fiend
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Hezrou"
 level: 11

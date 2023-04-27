@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Flame Drake"
 tags: 
   - trait/creature/type/dragon
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Flame Drake"
 level: 5

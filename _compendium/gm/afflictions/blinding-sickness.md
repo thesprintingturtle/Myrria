@@ -2,9 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/disease
-- imported/affliction/level/7
-- imported/compendium/src/pf2e/gmg
+- affliction/disease/level/7
+- compendium/src/pf2e/gmg
 - trait/effect/disease
 aliases: ["Blinding Sickness"]
 ---

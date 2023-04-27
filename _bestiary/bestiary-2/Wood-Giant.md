@@ -4,7 +4,7 @@ aliases: "Wood Giant"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Wood Giant"
 level: 6

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Elder Sphinx"
 tags: 
   - trait/creature/type/beast
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Elder Sphinx"
 level: 16

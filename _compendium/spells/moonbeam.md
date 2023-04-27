@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/effect/attack
 - trait/class/cleric
@@ -15,7 +15,7 @@ aliases: ["Moonbeam"]
 # Moonbeam *Focus 1*   
 [attack](attack.md)  [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [fire](fire.md)  [light](rules/traits/light.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[moon](../setting/domains.md#Moon)]
+- **Domains**: [[moon](../domains.md#Moon)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Targets**1 creature or object

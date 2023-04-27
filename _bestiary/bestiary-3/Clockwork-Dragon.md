@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Clockwork Dragon"
 tags: 
   - trait/creature/type/construct
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Clockwork Dragon"
 level: 16

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Khravgodon"
 tags: 
   - trait/creature/type/animal
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Khravgodon"
 level: 9

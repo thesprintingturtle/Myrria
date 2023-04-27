@@ -4,7 +4,7 @@ aliases: "Ghost Mage"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Ghost Mage"
 level: 10

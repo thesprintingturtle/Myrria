@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lurker In Light"
 tags: 
   - trait/creature/type/fey
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Lurker In Light"
 level: 5

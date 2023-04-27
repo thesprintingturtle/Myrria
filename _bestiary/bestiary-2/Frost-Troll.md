@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Frost Troll"
 tags: 
   - trait/creature/type/giant
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Frost Troll"
 level: 4

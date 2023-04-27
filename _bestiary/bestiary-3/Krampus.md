@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Krampus"
 tags: 
   - trait/creature/type/humanoid
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Krampus"
 level: 21

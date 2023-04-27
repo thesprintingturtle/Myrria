@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cactus Leshy"
 tags: 
   - trait/creature/type/plant
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Cactus Leshy"
 level: 2

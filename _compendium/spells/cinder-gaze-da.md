@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/1
 - trait/class/cleric
 - trait/school/divination
@@ -13,7 +13,7 @@ aliases: ["Cinder Gaze"]
 # Cinder Gaze *Focus 1*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [prediction](prediction.md)  [rare](rare.md)  
 
-- **Domains**: [[fire (apocryphal)](../setting/domains.md#Fire%20(apocryphal))]
+- **Domains**: [[fire (apocryphal)](../domains.md#Fire%20(apocryphal))]
 - **Cast** 1 minute 
 
 You've learned to read the future in the patterns of flames and smoke. Though inexact and often symbolic, these readings help prepare you for upcoming events. When Casting this Spell, you must be near a fire (of any size) for the duration.

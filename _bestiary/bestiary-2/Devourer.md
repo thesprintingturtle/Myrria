@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Devourer"
 tags: 
   - trait/creature/type/undead
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Devourer"
 level: 11

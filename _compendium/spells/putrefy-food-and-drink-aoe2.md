@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoe2
+- compendium/src/pf2e/aoe2
 - spell/level/1
 - trait/school/necromancy
 aliases: ["Putrefy Food And Drink"]

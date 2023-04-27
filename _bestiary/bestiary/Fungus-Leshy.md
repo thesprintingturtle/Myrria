@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fungus Leshy"
 tags: 
   - trait/creature/type/fungus
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Fungus Leshy"
 level: 2

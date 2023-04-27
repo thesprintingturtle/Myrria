@@ -2,14 +2,14 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/loag
+- compendium/src/pf2e/loag
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/bow
 - equipment/weapon/base-weapon/type/ranged
 - equipment/weapon/base-weapon/range/100
 - equipment/weapon/base-weapon/reload/1
 - trait/ancestry/conrasu
-- imported/trait/deadly-1d10
+- trait/equipment/weapon/deadly/d10
 - trait/equipment/weapon/modular-b-p-or-s
 - trait/rarity/uncommon
 aliases: ["Taw Launcher"]

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Blood Hag"
 tags: 
   - trait/creature/type/humanoid
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Blood Hag"
 level: 8

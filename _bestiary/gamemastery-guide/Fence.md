@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fence"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Fence"
 level: 5

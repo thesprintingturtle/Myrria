@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tomb Raider"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Tomb Raider"
 level: 5

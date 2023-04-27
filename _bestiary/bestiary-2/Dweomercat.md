@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dweomercat"
 tags: 
   - trait/creature/type/beast
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Dweomercat"
 level: 7

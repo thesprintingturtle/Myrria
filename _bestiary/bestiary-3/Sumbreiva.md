@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sumbreiva"
 tags: 
   - trait/creature/type/humanoid
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Sumbreiva"
 level: 16

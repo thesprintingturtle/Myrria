@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Polar Bear"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Polar Bear"
 level: 5

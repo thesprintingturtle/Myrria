@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Trilobite"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Trilobite"
 level: -1

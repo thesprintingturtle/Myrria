@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Seaweed Leshy"
 tags: 
   - trait/creature/type/plant
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Seaweed Leshy"
 level: 3

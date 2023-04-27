@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/sli
+- compendium/src/pf2e/sli
 - equipment/consumable/talisman
 - trait/school/conjuration
 - trait/equipment/consumable

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Chyzaedu"
 tags: 
   - trait/creature/type/aberration
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Chyzaedu"
 level: 10

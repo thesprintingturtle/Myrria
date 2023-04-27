@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Goblin War Chanter"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Goblin War Chanter"
 level: 1

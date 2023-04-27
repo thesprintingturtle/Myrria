@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/4
 - trait/class/cleric
 - trait/school/illusion
@@ -12,7 +12,7 @@ aliases: ["Isolation"]
 # Isolation *Focus 4*   
 [cleric](rules/traits/cleric.md)  [illusion](illusion.md)  [rare](rare.md)  
 
-- **Domains**: [[darkness (apocryphal)](../setting/domains.md#Darkness%20(apocryphal))]
+- **Domains**: [[darkness (apocryphal)](../domains.md#Darkness%20(apocryphal))]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

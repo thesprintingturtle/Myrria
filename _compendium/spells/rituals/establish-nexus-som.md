@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/5
+- compendium/src/pf2e/som
+- ritual/level/5
 - trait/spell/consecration
 - trait/rarity/rare
 - trait/school/transmutation

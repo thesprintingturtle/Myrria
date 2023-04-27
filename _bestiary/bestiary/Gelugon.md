@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gelugon"
 tags: 
   - trait/creature/type/fiend
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Gelugon"
 level: 13

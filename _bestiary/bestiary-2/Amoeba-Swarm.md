@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Amoeba Swarm"
 tags: 
   - trait/creature/type/ooze
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Amoeba Swarm"
 level: 1

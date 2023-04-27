@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/summoner-som
-- imported/compendium/src/pf2e/som
+- action/class/summoner-som
+- compendium/src/pf2e/som
 - trait/class/summoner
 - trait/class/summoner/tandem
 aliases: ["Act Together"]

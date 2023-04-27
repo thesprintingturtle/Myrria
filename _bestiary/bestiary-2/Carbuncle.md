@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Carbuncle"
 tags: 
   - trait/creature/type/beast
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Carbuncle"
 level: 1

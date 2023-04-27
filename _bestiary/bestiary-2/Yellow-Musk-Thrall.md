@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Yellow Musk Thrall"
 tags: 
   - trait/creature/type/plant
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Yellow Musk Thrall"
 level: -1

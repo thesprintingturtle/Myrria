@@ -2,11 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/worn-item
 - trait/equipment/clockwork
 - trait/rarity/rare
-- imported/trait/steam
+- trait/equipment/steam
 aliases: ["Steamflight Pack"]
 ---
 # Steamflight Pack *Item 15*  

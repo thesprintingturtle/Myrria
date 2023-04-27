@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mithral Golem"
 tags: 
   - trait/creature/type/construct
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Mithral Golem"
 level: 16

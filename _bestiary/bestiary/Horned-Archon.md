@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Horned Archon"
 tags: 
   - trait/creature/type/celestial
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Horned Archon"
 level: 4

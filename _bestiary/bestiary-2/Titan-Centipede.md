@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Titan Centipede"
 tags: 
   - trait/creature/type/animal
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Titan Centipede"
 level: 9

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/aoe1
+- compendium/src/pf2e/aoe1
 - trait/hazard/environmental
 - trait/energy/fire
 aliases: ["Explosive Barrels"]

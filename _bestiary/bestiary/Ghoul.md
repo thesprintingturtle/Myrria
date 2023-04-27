@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ghoul"
 tags: 
   - trait/creature/type/undead
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Ghoul"
 level: 1

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ooa2
+- compendium/src/pf2e/ooa2
 - equipment/held-item
 - trait/equipment/cursed
 - trait/tradition/divine
 - trait/school/evocation
 - trait/equipment/intelligent
-- imported/trait/ln
+- trait/alignment/ln
 - trait/rarity/unique
 aliases: ["Jax"]
 ---

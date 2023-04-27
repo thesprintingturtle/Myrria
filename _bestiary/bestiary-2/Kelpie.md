@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kelpie"
 tags: 
   - trait/creature/type/fey
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Kelpie"
 level: 4

@@ -4,7 +4,7 @@ aliases: "Ghost Commoner"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Ghost Commoner"
 level: 4

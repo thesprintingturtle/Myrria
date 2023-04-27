@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/ec1
+- compendium/src/pf2e/ec1
 - spell/area/burst
 - spell/level/2
 - trait/energy/cold

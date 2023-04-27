@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Witchwyrd"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Witchwyrd"
 level: 6

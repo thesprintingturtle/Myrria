@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dockhand"
 tags: 
   - trait/creature/type/humanoid
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Dockhand"
 level: 0

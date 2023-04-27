@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/shisk-lome
-- imported/compendium/src/pf2e/lome
+- action/ancestry/shisk-lome
+- compendium/src/pf2e/lome
 aliases: ["Barbed Quills"]
 ---
 # Barbed Quills [R](chapter-9-playing-the-game.md#Actions "Reaction")

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Poacher"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Poacher"
 level: 2

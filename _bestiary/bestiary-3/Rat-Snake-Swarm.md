@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Rat Snake Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Rat Snake Swarm"
 level: 2

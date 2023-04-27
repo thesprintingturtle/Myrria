@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lifeleecher Brawler"
 tags: 
   - trait/creature/type/humanoid
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Lifeleecher Brawler"
 level: 8

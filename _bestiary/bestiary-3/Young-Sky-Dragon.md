@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Young Sky Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Young Sky Dragon"
 level: 9

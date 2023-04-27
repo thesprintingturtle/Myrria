@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/burst
 - spell/focus/4
 - trait/element/air
@@ -13,7 +13,7 @@ aliases: ["Dust Storm"]
 # Dust Storm *Focus 4*   
 [air](air.md)  [conjuration](conjuration.md)  [nonlethal](nonlethal.md)  
 
-- **Domains**: [[dust](../setting/domains.md#Dust)]
+- **Domains**: [[dust](../domains.md#Dust)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**120 foot
 - **Area**20-foot-radius burst

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/ritual/4
-- imported/ritual/area/misc
+- compendium/src/pf2e/crb
+- ritual/level/4
+- ritual/area/misc
 - trait/school/necromancy
 - trait/element/wood
 - trait/energy/positive

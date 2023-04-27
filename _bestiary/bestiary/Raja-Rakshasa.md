@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Raja Rakshasa"
 tags: 
   - trait/creature/type/fiend
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Raja Rakshasa"
 level: 10

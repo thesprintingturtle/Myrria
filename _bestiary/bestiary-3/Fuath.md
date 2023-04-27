@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fuath"
 tags: 
   - trait/creature/type/fey
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Fuath"
 level: 1

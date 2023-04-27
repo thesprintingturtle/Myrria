@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/kobold-apg
-- imported/compendium/src/pf2e/apg
+- action/ancestry/kobold-apg
+- compendium/src/pf2e/apg
 - trait/ancestry/kobold
 - trait/effect/poison
 aliases: ["Tail Toxin"]

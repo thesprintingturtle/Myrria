@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mu Spore"
 tags: 
   - trait/creature/type/fungus
-  - level/21
+  - creature/level/21
 statblock: inline
 name: "Mu Spore"
 level: 21

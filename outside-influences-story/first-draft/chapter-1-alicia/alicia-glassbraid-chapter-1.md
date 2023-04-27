@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/3
-- trait/npc
+- character/3
 aliases: 
 ---
 # Alicia Glassbraid *Character 3*

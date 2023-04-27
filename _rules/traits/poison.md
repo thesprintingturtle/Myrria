@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/effect
-- imported/trait/category/item
+- compendium/src/pf2e/crb
+- trait/category/effect
+- trait/category/item
 aliases: ["Poison"]
 ---
 # Poison  

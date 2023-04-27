@@ -4,7 +4,7 @@ aliases: "Soul Skelm"
 tags: 
   - trait/creature/type/fiend
   - trait/creature/type/humanoid
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Soul Skelm"
 level: 10

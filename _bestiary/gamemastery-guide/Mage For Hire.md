@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mage For Hire"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Mage For Hire"
 level: 3

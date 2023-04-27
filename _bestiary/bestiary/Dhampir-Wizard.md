@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dhampir Wizard"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Dhampir Wizard"
 level: 2

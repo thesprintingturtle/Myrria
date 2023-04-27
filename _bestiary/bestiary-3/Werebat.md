@@ -4,7 +4,7 @@ aliases: "Werebat"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Werebat"
 level: 2

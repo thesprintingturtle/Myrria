@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Guard Dog"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Guard Dog"
 level: -1

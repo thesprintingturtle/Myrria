@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/conjuration
@@ -14,7 +14,7 @@ aliases: ["Nature's Bounty"]
 # Nature's Bounty *Focus 4*   
 [cleric](rules/traits/cleric.md)  [conjuration](conjuration.md)  [plant](plant.md)  [positive](positive.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[nature](../setting/domains.md#Nature)]
+- **Domains**: [[nature](../domains.md#Nature)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**You have a free hand.
 

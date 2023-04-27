@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Esobok"
 tags: 
   - trait/creature/type/monitor
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Esobok"
 level: 3

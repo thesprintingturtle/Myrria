@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sea Hag"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Sea Hag"
 level: 3

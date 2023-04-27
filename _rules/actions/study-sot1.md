@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action
-- imported/compendium/src/pf2e/sot1
+- action
+- compendium/src/pf2e/sot1
 - trait/action/downtime
 aliases: ["Study"]
 ---

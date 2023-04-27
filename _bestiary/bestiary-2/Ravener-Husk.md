@@ -4,7 +4,7 @@ aliases: "Ravener Husk"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/undead
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Ravener Husk"
 level: 14

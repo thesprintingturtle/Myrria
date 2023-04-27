@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/sot4
+- compendium/src/pf2e/sot4
 - equipment/consumable
 - trait/equipment/catalyst
 - trait/equipment/consumable

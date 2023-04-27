@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Troll King"
 tags: 
   - trait/creature/type/giant
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Troll King"
 level: 10

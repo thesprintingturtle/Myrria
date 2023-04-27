@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-hazard
 tags:
-- imported/compendium/src/pf2e/av2
+- compendium/src/pf2e/av2
 - trait/magical
 - trait/equipment/trap
 aliases: ["Painful Suggestion Trap"]

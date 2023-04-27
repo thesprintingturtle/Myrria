@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Army Ant Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Army Ant Swarm"
 level: 5

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Merfolk Warrior"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Merfolk Warrior"
 level: 1

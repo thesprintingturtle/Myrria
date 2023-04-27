@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fossil Golem"
 tags: 
   - trait/creature/type/construct
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Fossil Golem"
 level: 12

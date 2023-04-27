@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Otyugh"
 tags: 
   - trait/creature/type/aberration
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Otyugh"
 level: 4

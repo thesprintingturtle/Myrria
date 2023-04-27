@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/gmg
+- compendium/src/pf2e/gmg
 - equipment/held-item
-- imported/trait/cg
+- trait/alignment/cg
 - trait/school/enchantment
 - trait/equipment/intelligent
 - trait/tradition/occult

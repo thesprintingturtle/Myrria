@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Zombie Hulk"
 tags: 
   - trait/creature/type/undead
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Zombie Hulk"
 level: 6

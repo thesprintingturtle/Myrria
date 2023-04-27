@@ -4,7 +4,7 @@ aliases: "Dracolisk"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/dragon
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Dracolisk"
 level: 9

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/locg
+- compendium/src/pf2e/locg
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/polearm
 - equipment/weapon/base-weapon/type/melee 

@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/axe
 - equipment/weapon/base-weapon/type/melee
 - trait/ancestry/dwarf
 - trait/equipment/weapon/sweep
-- imported/trait/two-hand-d12
+- trait/equipment/weapon/two-hand/d12
 - trait/rarity/uncommon
 aliases: ["Dwarven War Axe"]
 ---

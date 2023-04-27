@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Viper"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Viper"
 level: -1

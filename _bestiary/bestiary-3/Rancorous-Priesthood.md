@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Rancorous Priesthood"
 tags: 
   - trait/creature/type/humanoid
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Rancorous Priesthood"
 level: 11

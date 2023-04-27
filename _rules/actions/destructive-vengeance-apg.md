@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/champion
-- imported/compendium/src/pf2e/apg
+- action/class/champion
+- compendium/src/pf2e/apg
 - trait/class/champion
 - trait/rarity/uncommon
 aliases: ["Destructive Vengeance"]

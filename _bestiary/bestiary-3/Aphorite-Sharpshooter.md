@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Aphorite Sharpshooter"
 tags: 
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Aphorite Sharpshooter"
 level: 4

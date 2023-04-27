@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Storm Hag"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Storm Hag"
 level: 5

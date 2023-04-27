@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cave Bear"
 tags: 
   - trait/creature/type/animal
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Cave Bear"
 level: 6

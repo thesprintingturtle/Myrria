@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Magma Scorpion"
 tags: 
   - trait/creature/type/elemental
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Magma Scorpion"
 level: 8

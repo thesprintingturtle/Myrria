@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mezlan"
 tags: 
   - trait/creature/type/ooze
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Mezlan"
 level: 14

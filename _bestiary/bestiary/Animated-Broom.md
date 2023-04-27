@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Animated Broom"
 tags: 
   - trait/creature/type/construct
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Animated Broom"
 level: -1

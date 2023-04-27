@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/combat
+- compendium/src/pf2e/crb
+- trait/category/combat
 aliases: ["Attack"]
 ---
 # Attack  

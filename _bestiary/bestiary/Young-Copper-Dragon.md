@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Young Copper Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Young Copper Dragon"
 level: 8

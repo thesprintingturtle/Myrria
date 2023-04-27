@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Myceloid"
 tags: 
   - trait/creature/type/fungus
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Myceloid"
 level: 4

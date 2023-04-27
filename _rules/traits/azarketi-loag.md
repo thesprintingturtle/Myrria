@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/loag
-- imported/trait/category/ancestry-heritage
-- imported/trait/category/creature
+- compendium/src/pf2e/loag
+- trait/category/ancestry-heritage
+- trait/category/creature
 aliases: ["Azarketi"]
 ---
 # Azarketi  

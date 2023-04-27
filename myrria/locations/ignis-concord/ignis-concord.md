@@ -1,7 +1,7 @@
 ---
 tags:
 - custom
-- trait/location/type/nation  
+- location/nation  
 aliases: ["Ignis Concord"]
 ---
 # Ignis Concord *Nation*

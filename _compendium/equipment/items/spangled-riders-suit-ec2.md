@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ec2
+- compendium/src/pf2e/ec2
 - equipment/armor/specific-magic-armor 
 - trait/school/divination
 - trait/equipment/invested

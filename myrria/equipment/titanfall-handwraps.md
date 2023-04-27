@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/23 
-- trait/equipment/worn/handwraps
+- equipment/level/23 
 - trait/equipment/apex 
 - trait/tradition/arcane 
 - trait/equipment/artifact 

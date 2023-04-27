@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/area/emanation
 - spell/focus/4
 - trait/school/necromancy
@@ -12,7 +12,7 @@ aliases: ["Fallow Field"]
 # Fallow Field *Focus 4*   
 [necromancy](necromancy.md)  [negative](negative.md)  
 
-- **Domains**: [[decay](../setting/domains.md#Decay)]
+- **Domains**: [[decay](../domains.md#Decay)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Area**15-foot emanation

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse
-- imported/affliction/level/level-varies
-- imported/compendium/src/pf2e/gmg
+- affliction/curse
+- affliction/curse/level/level-varies
+- compendium/src/pf2e/gmg
 - trait/effect/curse
 - trait/magical
 - trait/school/necromancy

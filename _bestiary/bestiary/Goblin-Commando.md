@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Goblin Commando"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Goblin Commando"
 level: 1

@@ -4,7 +4,7 @@ aliases: "Leng Spider"
 tags: 
   - trait/creature/type/aberration
   - trait/creature/type/dream
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Leng Spider"
 level: 13

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Water Mephit"
 tags: 
   - trait/creature/type/elemental
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Water Mephit"
 level: 1

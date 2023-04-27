@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Janni"
 tags: 
   - trait/creature/type/elemental
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Janni"
 level: 4

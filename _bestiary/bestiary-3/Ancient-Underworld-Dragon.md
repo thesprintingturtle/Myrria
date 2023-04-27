@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ancient Underworld Dragon"
 tags: 
   - trait/creature/type/dragon
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Ancient Underworld Dragon"
 level: 16

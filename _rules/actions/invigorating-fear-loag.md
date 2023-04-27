@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/kitsune-loag
-- imported/compendium/src/pf2e/loag
+- action/ancestry/kitsune-loag
+- compendium/src/pf2e/loag
 aliases: ["Invigorating Fear"]
 ---
 # Invigorating Fear [R](chapter-9-playing-the-game.md#Actions "Reaction")

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shocker Lizard"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Shocker Lizard"
 level: 2

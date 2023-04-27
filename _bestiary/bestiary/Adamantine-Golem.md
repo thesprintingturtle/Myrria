@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Adamantine Golem"
 tags: 
   - trait/creature/type/construct
-  - level/18
+  - creature/level/18
 statblock: inline
 name: "Adamantine Golem"
 level: 18

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/effect/attack
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Hurtling Stone"]
 # Hurtling Stone *Focus 1*   
 [attack](attack.md)  [cleric](rules/traits/cleric.md)  [earth](earth.md)  [evocation](evocation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[earth](../setting/domains.md#Earth)]
+- **Domains**: [[earth](../domains.md#Earth)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**60 foot
 - **Targets**1 creature

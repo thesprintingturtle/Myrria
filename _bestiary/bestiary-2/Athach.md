@@ -4,7 +4,7 @@ aliases: "Athach"
 tags: 
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Athach"
 level: 12

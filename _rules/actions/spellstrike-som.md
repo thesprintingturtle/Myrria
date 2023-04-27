@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/magus-som
-- imported/compendium/src/pf2e/som
+- action/class/magus-som
+- compendium/src/pf2e/som
 - trait/class/magus
 aliases: ["Spellstrike"]
 ---

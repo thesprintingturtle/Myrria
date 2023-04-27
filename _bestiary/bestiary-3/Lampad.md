@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lampad"
 tags: 
   - trait/creature/type/fey
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "Lampad"
 level: 5

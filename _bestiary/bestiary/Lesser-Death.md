@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lesser Death"
 tags: 
   - trait/creature/type/undead
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Lesser Death"
 level: 16

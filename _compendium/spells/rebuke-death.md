@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/emanation
 - spell/focus/4
 - trait/class/cleric
@@ -15,7 +15,7 @@ aliases: ["Rebuke Death"]
 # Rebuke Death *Focus 4*   
 [cleric](rules/traits/cleric.md)  [healing](healing.md)  [necromancy](necromancy.md)  [positive](positive.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[healing](../setting/domains.md#Healing)]
+- **Domains**: [[healing](../domains.md#Healing)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Area**20-foot emanation
 - **Targets**1 living creature per action spent to cast this spell

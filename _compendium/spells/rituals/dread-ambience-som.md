@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/som
-- imported/ritual/5
-- imported/ritual/area/misc
+- compendium/src/pf2e/som
+- ritual/level/5
+- ritual/area/misc
 - trait/spell/consecration
 - trait/effect/emotion
 - trait/school/enchantment

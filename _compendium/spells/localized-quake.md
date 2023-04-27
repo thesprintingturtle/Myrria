@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/area/cone
 - spell/area/emanation
 - spell/focus/4
@@ -15,7 +15,7 @@ aliases: ["Localized Quake"]
 # Localized Quake *Focus 4*   
 [cleric](rules/traits/cleric.md)  [earth](earth.md)  [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[earth](../setting/domains.md#Earth)]
+- **Domains**: [[earth](../domains.md#Earth)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**15-foot emanation or 15-foot cone
 - **Saving Throw** Reflex

@@ -4,7 +4,7 @@ aliases: "Werebear"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Werebear"
 level: 4

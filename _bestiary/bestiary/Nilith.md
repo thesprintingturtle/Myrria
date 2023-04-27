@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Nilith"
 tags: 
   - trait/creature/type/aberration
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Nilith"
 level: 10

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Skeleton Infantry"
 tags: 
   - trait/creature/type/undead
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Skeleton Infantry"
 level: 11

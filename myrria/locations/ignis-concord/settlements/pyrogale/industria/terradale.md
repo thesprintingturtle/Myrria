@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/2
-- trait/location/type/district 
+- location/district/level/2
 aliases: Terradale
 ---
 # Terradale *District 2*

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Japalisura"
 tags: 
   - trait/creature/type/fiend
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Japalisura"
 level: 12

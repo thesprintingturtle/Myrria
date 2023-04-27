@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/sot1
-- imported/ritual/3
+- compendium/src/pf2e/sot1
+- ritual/level/3
 - trait/sense/auditory
 - trait/school/divination
 - trait/effect/linguistic

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/illusion
@@ -13,7 +13,7 @@ aliases: ["Trickster's Twin"]
 # Trickster's Twin *Focus 4*   
 [cleric](rules/traits/cleric.md)  [illusion](illusion.md)  [uncommon](uncommon.md)  [visual](visual.md)  
 
-- **Domains**: [[trickery](../setting/domains.md#Trickery)]
+- **Domains**: [[trickery](../domains.md#Trickery)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 creature

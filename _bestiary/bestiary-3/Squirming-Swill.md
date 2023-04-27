@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Squirming Swill"
 tags: 
   - trait/creature/type/undead
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Squirming Swill"
 level: 2

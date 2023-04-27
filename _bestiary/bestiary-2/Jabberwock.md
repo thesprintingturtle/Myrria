@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Jabberwock"
 tags: 
   - trait/creature/type/dragon
-  - level/23
+  - creature/level/23
 statblock: inline
 name: "Jabberwock"
 level: 23

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/ritual/5
+- compendium/src/pf2e/crb
+- ritual/level/5
 - trait/school/conjuration
 - trait/rarity/uncommon
 aliases: ["Planar Ally"]

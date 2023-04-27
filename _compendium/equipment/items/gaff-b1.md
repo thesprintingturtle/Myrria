@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/b1
+- compendium/src/pf2e/b1
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/pick
 - equipment/weapon/base-weapon/type/melee

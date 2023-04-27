@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/trait/category/effect
-- imported/trait/category/spell
+- compendium/src/pf2e/crb
+- trait/category/effect
+- trait/category/spell
 aliases: ["Consecration"]
 ---
 # Consecration  

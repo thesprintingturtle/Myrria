@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fjord Linnorm"
 tags: 
   - trait/creature/type/dragon
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Fjord Linnorm"
 level: 16

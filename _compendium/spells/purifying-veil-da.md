@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/4
 - trait/class/cleric
 - trait/school/evocation
@@ -14,7 +14,7 @@ aliases: ["Purifying Veil"]
 # Purifying Veil *Focus 4*   
 [cleric](rules/traits/cleric.md)  [evocation](evocation.md)  [good](good.md)  [rare](rare.md)  [water](water.md)  
 
-- **Domains**: [[water (apocryphal)](../setting/domains.md#Water%20(apocryphal))]
+- **Domains**: [[water (apocryphal)](../domains.md#Water%20(apocryphal))]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**60 foot
 - **Targets**1 Large or smaller creature

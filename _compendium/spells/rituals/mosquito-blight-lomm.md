@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/lomm
-- imported/ritual/5
-- imported/ritual/area/misc
+- compendium/src/pf2e/lomm
+- ritual/level/5
+- ritual/area/misc
 - trait/school/conjuration
 - trait/effect/disease
 - trait/school/necromancy

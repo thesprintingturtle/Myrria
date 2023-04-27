@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Flytrap Leshy"
 tags: 
   - trait/creature/type/plant
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Flytrap Leshy"
 level: 4

@@ -4,7 +4,7 @@ aliases: "Slime Mold"
 tags: 
   - trait/creature/type/fungus
   - trait/creature/type/ooze
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Slime Mold"
 level: 2

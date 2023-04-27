@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Spirit Naga"
 tags: 
   - trait/creature/type/aberration
-  - level/9
+  - creature/level/9
 statblock: inline
 name: "Spirit Naga"
 level: 9

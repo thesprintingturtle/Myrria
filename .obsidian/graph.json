@@ -34,13 +34,6 @@
         "a": 1,
         "rgb": 5431378
       }
-    },
-    {
-      "query": "tag:#trait/npc",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
     }
   ],
   "collapse-display": false,

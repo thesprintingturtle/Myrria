@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gnoll Cultist"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Gnoll Cultist"
 level: 3

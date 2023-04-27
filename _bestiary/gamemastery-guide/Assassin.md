@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Assassin"
 tags: 
   - trait/creature/type/humanoid
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Assassin"
 level: 8

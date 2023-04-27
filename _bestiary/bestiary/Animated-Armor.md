@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Animated Armor"
 tags: 
   - trait/creature/type/construct
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Animated Armor"
 level: 2

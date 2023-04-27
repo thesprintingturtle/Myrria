@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Stingray"
 tags: 
   - trait/creature/type/animal
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Stingray"
 level: 0

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lemure"
 tags: 
   - trait/creature/type/fiend
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Lemure"
 level: 0

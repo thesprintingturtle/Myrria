@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Gimmerling"
 tags: 
   - trait/creature/type/fey
-  - level/12
+  - creature/level/12
 statblock: inline
 name: "Gimmerling"
 level: 12

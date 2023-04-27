@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cobbleswarm"
 tags: 
   - trait/creature/type/aberration
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Cobbleswarm"
 level: 2

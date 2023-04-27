@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/logm
+- compendium/src/pf2e/logm
 - spell/focus/1
 - trait/school/conjuration
 aliases: ["Oathkeeper's Insignia"]
@@ -10,7 +10,7 @@ aliases: ["Oathkeeper's Insignia"]
 # Oathkeeper's Insignia *Focus 1*   
 [conjuration](conjuration.md)  
 
-- **Domains**: [[duty](../setting/domains.md#Duty)]
+- **Domains**: [[duty](../domains.md#Duty)]
 - **Cast** [F](chapter-9-playing-the-game.md#Actions "Free Action") 
 - **Trigger**You make a promise or deal.
 - **Duration**1 hour

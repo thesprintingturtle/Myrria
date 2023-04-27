@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - equipment/armor/base-armor/unarmored
-- trait/armor/comfort
+- trait/equipment/armor/comfort
 aliases: ["Explorer's Clothing"]
 ---
 # Explorer's Clothing *Item 0*  

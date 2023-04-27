@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Suli Dune Dancer"
 tags: 
   - trait/creature/type/humanoid
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Suli Dune Dancer"
 level: 1

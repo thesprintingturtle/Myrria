@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/b1
-- imported/trait/category/effect
+- compendium/src/pf2e/b1
+- trait/category/effect
 aliases: ["Olfactory"]
 ---
 # Olfactory  

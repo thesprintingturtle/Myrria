@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/fop
+- compendium/src/pf2e/fop
 - equipment/weapon/base-weapon/category/simple
 - equipment/weapon/base-weapon/group/bow
 - equipment/weapon/base-weapon/type/ranged

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Tarn Linnorm"
 tags: 
   - trait/creature/type/dragon
-  - level/20
+  - creature/level/20
 statblock: inline
 name: "Tarn Linnorm"
 level: 20

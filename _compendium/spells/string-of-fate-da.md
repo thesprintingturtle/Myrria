@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/da
+- compendium/src/pf2e/da
 - spell/focus/1
 - trait/school/abjuration
 - trait/class/cleric
@@ -13,7 +13,7 @@ aliases: ["String of Fate"]
 # String of Fate *Focus 1*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [fortune](fortune.md)  [rare](rare.md)  
 
-- **Domains**: [[fate (apocryphal)](../setting/domains.md#Fate%20(apocryphal))]
+- **Domains**: [[fate (apocryphal)](../domains.md#Fate%20(apocryphal))]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**60 foot
 - **Targets**you and 1 ally

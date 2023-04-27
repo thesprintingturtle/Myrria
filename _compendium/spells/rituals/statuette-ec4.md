@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/ec4
-- imported/ritual/6
+- compendium/src/pf2e/ec4
+- ritual/level/6
 - trait/effect/polymorph
 - trait/rarity/rare
 aliases: ["Statuette"]

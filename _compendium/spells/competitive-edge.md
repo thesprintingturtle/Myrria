@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/effect/emotion
@@ -14,7 +14,7 @@ aliases: ["Competitive Edge"]
 # Competitive Edge *Focus 4*   
 [cleric](rules/traits/cleric.md)  [emotion](emotion.md)  [enchantment](enchantment.md)  [mental](mental.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[ambition](../setting/domains.md#Ambition)]
+- **Domains**: [[ambition](../domains.md#Ambition)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**sustained up to 1 minute
 

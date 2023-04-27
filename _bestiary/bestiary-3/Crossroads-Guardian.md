@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Crossroads Guardian"
 tags: 
   - trait/creature/type/fey
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Crossroads Guardian"
 level: 7

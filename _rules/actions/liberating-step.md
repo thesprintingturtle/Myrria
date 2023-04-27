@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/champion
-- imported/compendium/src/pf2e/crb
+- action/class/champion
+- compendium/src/pf2e/crb
 - trait/class/champion
 aliases: ["Liberating Step"]
 ---

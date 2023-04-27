@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Scarecrow"
 tags: 
   - trait/creature/type/construct
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Scarecrow"
 level: 4

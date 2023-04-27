@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cave Fisher"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Cave Fisher"
 level: 2

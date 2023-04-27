@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/da
-- imported/trait/category/action-ability
-- imported/trait/category/combat
+- compendium/src/pf2e/da
+- trait/category/action-ability
+- trait/category/combat
 aliases: ["Mindshift"]
 ---
 # Mindshift  

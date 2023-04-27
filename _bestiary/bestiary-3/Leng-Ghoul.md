@@ -4,7 +4,7 @@ aliases: "Leng Ghoul"
 tags: 
   - trait/creature/type/dream
   - trait/creature/type/undead
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Leng Ghoul"
 level: 10

@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-affliction
 tags:
-- imported/affliction/curse
-- imported/affliction/level/20
-- imported/compendium/src/pf2e/loil
+- affliction/curse
+- affliction/curse/level/20
+- compendium/src/pf2e/loil
 - trait/effect/curse
 - trait/effect/death
 - trait/magical

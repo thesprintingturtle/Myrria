@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/lol
-- imported/trait/category/item
+- compendium/src/pf2e/lol
+- trait/category/item
 aliases: ["Contract"]
 ---
 # Contract  

@@ -4,7 +4,7 @@ aliases: "Wyrmwraith"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/undead
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Wyrmwraith"
 level: 17

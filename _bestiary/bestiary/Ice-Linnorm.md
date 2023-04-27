@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Ice Linnorm"
 tags: 
   - trait/creature/type/dragon
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Ice Linnorm"
 level: 17

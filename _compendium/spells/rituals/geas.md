@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/ritual/3
+- compendium/src/pf2e/crb
+- ritual/level/3
 - trait/effect/curse
 - trait/school/enchantment
 - trait/effect/mental

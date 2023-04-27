@@ -4,7 +4,7 @@ aliases: "Ancient Brine Dragon"
 tags: 
   - trait/creature/type/dragon
   - trait/creature/type/elemental
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Ancient Brine Dragon"
 level: 17

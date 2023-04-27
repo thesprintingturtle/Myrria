@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Bugbear Tormentor"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Bugbear Tormentor"
 level: 3

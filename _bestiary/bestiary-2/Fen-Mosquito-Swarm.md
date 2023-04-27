@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fen Mosquito Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Fen Mosquito Swarm"
 level: 3

@@ -1,6 +1,5 @@
 {
   "kanban-plugin": false,
-  "search": false,
   "editor": false,
   "tag-wrangler:tag-pane": false,
   "starred": false

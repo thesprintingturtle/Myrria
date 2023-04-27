@@ -4,7 +4,7 @@ aliases: "Blodeuwedd"
 tags: 
   - trait/creature/type/fey
   - trait/creature/type/plant
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Blodeuwedd"
 level: 6

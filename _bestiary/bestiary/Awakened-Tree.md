@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Awakened Tree"
 tags: 
   - trait/creature/type/plant
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Awakened Tree"
 level: 6

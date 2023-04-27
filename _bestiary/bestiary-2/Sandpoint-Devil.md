@@ -4,7 +4,7 @@ aliases: "Sandpoint Devil"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fiend
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Sandpoint Devil"
 level: 8

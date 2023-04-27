@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/sot2
+- compendium/src/pf2e/sot2
 - equipment/armor/specific-magic-armor 
 - trait/magical
 - trait/school/transmutation

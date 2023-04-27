@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/aoe5
+- compendium/src/pf2e/aoe5
 - spell/focus/1
 - trait/school/transmutation
 - trait/rarity/uncommon
@@ -11,7 +11,7 @@ aliases: ["Split The Tongue"]
 # Split The Tongue *Focus 1*   
 [transmutation](transmutation.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[naga](../setting/domains.md#Naga)]
+- **Domains**: [[naga](../domains.md#Naga)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature within 30 feet fails a [Deception](../skills.md#Deception) or [Diplomacy](../skills.md#Diplomacy) check.
 - **Saving Throw**  basic Fortitude

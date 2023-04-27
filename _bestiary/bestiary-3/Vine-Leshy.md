@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Vine Leshy"
 tags: 
   - trait/creature/type/plant
-  - level/0
+  - creature/level/0
 statblock: inline
 name: "Vine Leshy"
 level: 0

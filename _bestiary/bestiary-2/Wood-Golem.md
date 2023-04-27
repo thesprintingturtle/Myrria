@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Wood Golem"
 tags: 
   - trait/creature/type/construct
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Wood Golem"
 level: 6

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Giant Flying Squirrel"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Giant Flying Squirrel"
 level: 2

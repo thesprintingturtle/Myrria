@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Elananx"
 tags: 
   - trait/creature/type/fey
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Elananx"
 level: 6

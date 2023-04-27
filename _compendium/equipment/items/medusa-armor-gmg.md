@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/gmg
+- compendium/src/pf2e/gmg
 - equipment/armor/specific-magic-armor 
 - trait/equipment/cursed
 - trait/equipment/invested

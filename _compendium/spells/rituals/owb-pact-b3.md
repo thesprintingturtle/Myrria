@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/b3
-- imported/ritual/3
+- compendium/src/pf2e/b3
+- ritual/level/3
 - trait/school/conjuration
 - trait/rarity/uncommon
 aliases: ["Owb Pact"]

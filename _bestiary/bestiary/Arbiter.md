@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Arbiter"
 tags: 
   - trait/creature/type/monitor
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Arbiter"
 level: 1

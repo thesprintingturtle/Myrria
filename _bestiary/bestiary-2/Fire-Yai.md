@@ -5,7 +5,7 @@ tags:
   - trait/creature/type/fiend
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/14
+  - creature/level/14
 statblock: inline
 name: "Fire Yai"
 level: 14

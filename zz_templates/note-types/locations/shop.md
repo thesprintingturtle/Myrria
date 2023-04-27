@@ -1,7 +1,7 @@
 ---
 tags:
-- level/X
-- trait/location/type/shop
+- custom
+- location/shop/level/X
 aliases: Name
 ---
 # Name *Shop X*

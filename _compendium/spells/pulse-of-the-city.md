@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/school/divination
@@ -13,7 +13,7 @@ aliases: ["Pulse Of The City"]
 # Pulse Of The City *Focus 4*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [scrying](rules/traits/scrying.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[cities](../setting/domains.md#Cities)]
+- **Domains**: [[cities](../domains.md#Cities)]
 - **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**mile
 

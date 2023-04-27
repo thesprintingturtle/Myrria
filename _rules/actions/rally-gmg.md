@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/compendium/src/pf2e/gmg
+- compendium/src/pf2e/gmg
 - trait/sense/auditory
 - trait/effect/emotion
 - trait/action/exploration

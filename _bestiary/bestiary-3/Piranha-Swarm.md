@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Piranha Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Piranha Swarm"
 level: 3

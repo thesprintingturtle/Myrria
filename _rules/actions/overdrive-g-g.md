@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/inventor-g-g
-- imported/compendium/src/pf2e/g&g
+- action/class/inventor-g-g
+- compendium/src/pf2e/g&g
 - trait/class/inventor
 - trait/action/manipulate
 aliases: ["Overdrive"]

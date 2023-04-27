@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lotgb
+- compendium/src/pf2e/lotgb
 - equipment/alchemical/bomb
 - trait/equipment/alchemical
 - trait/equipment/alchemical/bomb

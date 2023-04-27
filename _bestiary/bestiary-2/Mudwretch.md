@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Mudwretch"
 tags: 
   - trait/creature/type/elemental
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Mudwretch"
 level: 2

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Lillend"
 tags: 
   - trait/creature/type/celestial
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Lillend"
 level: 7

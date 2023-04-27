@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/school/abjuration
 - trait/class/cleric
@@ -14,7 +14,7 @@ aliases: ["Retributive Pain"]
 # Retributive Pain *Focus 4*   
 [abjuration](abjuration.md)  [cleric](rules/traits/cleric.md)  [mental](mental.md)  [nonlethal](nonlethal.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[pain](../setting/domains.md#Pain)]
+- **Domains**: [[pain](../domains.md#Pain)]
 - **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**A creature in range damages you.
 - **Range**30 foot

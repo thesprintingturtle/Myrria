@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Shikigami"
 tags: 
   - trait/creature/type/spirit
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Shikigami"
 level: 1

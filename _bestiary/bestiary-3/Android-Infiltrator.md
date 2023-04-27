@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Android Infiltrator"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Android Infiltrator"
 level: 2

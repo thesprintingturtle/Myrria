@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Water Orm"
 tags: 
   - trait/creature/type/beast
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Water Orm"
 level: 10

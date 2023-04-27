@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/da
-- imported/ritual/5
+- compendium/src/pf2e/da
+- ritual/level/5
 - trait/school/illusion
 - trait/rarity/rare
 aliases: ["Construct Mindscape"]

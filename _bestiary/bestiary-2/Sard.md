@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sard"
 tags: 
   - trait/creature/type/plant
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Sard"
 level: 19

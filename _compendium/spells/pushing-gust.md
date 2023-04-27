@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/element/air
 - trait/class/cleric
@@ -13,7 +13,7 @@ aliases: ["Pushing Gust"]
 # Pushing Gust *Focus 1*   
 [air](air.md)  [cleric](rules/traits/cleric.md)  [conjuration](conjuration.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[air](../setting/domains.md#Air)]
+- **Domains**: [[air](../domains.md#Air)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**500 foot
 - **Targets**1 creature

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Oil Living Graffiti"
 tags: 
   - trait/creature/type/construct
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Oil Living Graffiti"
 level: 3

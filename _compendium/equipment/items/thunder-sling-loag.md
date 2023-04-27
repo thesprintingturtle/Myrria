@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/loag
+- compendium/src/pf2e/loag
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/sling
 - equipment/weapon/base-weapon/type/ranged

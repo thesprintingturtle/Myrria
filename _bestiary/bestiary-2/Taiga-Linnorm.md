@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Taiga Linnorm"
 tags: 
   - trait/creature/type/dragon
-  - level/19
+  - creature/level/19
 statblock: inline
 name: "Taiga Linnorm"
 level: 19

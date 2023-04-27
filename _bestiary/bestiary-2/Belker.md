@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Belker"
 tags: 
   - trait/creature/type/elemental
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Belker"
 level: 6

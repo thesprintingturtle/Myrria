@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lotgb
+- compendium/src/pf2e/lotgb
 - equipment/weapon/base-weapon/category/advanced
 - equipment/weapon/base-weapon/group/sword
 - equipment/weapon/base-weapon/type/melee

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/divination
@@ -13,7 +13,7 @@ aliases: ["Bit Of Luck"]
 # Bit Of Luck *Focus 1*   
 [cleric](rules/traits/cleric.md)  [divination](divination.md)  [fortune](fortune.md)  [uncommon](uncommon.md)  
 
-- **Domains**: [[luck](../setting/domains.md#Luck)]
+- **Domains**: [[luck](../domains.md#Luck)]
 - **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**30 foot
 - **Targets**1 willing creature

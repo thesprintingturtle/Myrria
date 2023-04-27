@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/apg
-- imported/ritual/5
+- compendium/src/pf2e/apg
+- ritual/level/5
 - trait/school/divination
 - trait/rarity/uncommon
 aliases: ["Astral Projection"]

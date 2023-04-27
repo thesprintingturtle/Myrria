@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Millindemalion"
 tags: 
   - trait/creature/type/fey
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Millindemalion"
 level: 13

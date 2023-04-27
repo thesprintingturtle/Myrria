@@ -2,13 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/loag
+- compendium/src/pf2e/loag
 - equipment/weapon/base-weapon/category/martial
 - equipment/weapon/base-weapon/group/brawling
 - equipment/weapon/base-weapon/type/melee 
 - trait/equipment/weapon/agile
 - trait/equipment/weapon/backstabber
-- imported/trait/deadly-1d8
+- trait/equipment/weapon/deadly/1d8
 - trait/equipment/weapon/finese
 - trait/equipment/weapon/grapple
 - trait/ancestry/kobold

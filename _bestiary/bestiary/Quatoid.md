@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Quatoid"
 tags: 
   - trait/creature/type/elemental
-  - level/7
+  - creature/level/7
 statblock: inline
 name: "Quatoid"
 level: 7

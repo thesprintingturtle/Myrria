@@ -4,7 +4,7 @@ aliases: "Nightmare"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/fiend
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Nightmare"
 level: 6

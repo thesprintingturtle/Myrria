@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Veranallia"
 tags: 
   - trait/creature/type/celestial
-  - level/20
+  - creature/level/20
 statblock: inline
 name: "Veranallia"
 level: 20

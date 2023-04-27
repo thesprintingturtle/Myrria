@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Deimavigga"
 tags: 
   - trait/creature/type/fiend
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Deimavigga"
 level: 17

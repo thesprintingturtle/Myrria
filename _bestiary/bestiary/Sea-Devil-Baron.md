@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Sea Devil Baron"
 tags: 
   - trait/creature/type/humanoid
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Sea Devil Baron"
 level: 6

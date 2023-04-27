@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Cacodaemon"
 tags: 
   - trait/creature/type/fiend
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Cacodaemon"
 level: 1

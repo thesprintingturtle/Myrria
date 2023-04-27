@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Stone Golem"
 tags: 
   - trait/creature/type/construct
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Stone Golem"
 level: 11

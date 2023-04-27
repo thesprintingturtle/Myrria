@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/da
-- imported/trait/category/feat
-- imported/trait/category/spell
+- compendium/src/pf2e/da
+- trait/category/feat
+- trait/category/spell
 aliases: ["Amp"]
 ---
 # Amp  

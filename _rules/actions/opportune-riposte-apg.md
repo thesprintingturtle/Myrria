@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/class/swashbuckler-apg
-- imported/compendium/src/pf2e/apg
+- action/class/swashbuckler-apg
+- compendium/src/pf2e/apg
 - trait/class/swashbuckler
 aliases: ["Opportune Riposte"]
 ---

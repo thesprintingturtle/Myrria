@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Granite Glyptodont"
 tags: 
   - trait/creature/type/elemental
-  - level/8
+  - creature/level/8
 statblock: inline
 name: "Granite Glyptodont"
 level: 8

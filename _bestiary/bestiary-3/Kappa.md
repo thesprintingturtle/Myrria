@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Kappa"
 tags: 
   - trait/creature/type/beast
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Kappa"
 level: 2

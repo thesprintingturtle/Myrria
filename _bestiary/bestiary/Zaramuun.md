@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Zaramuun"
 tags: 
   - trait/creature/type/elemental
-  - level/16
+  - creature/level/16
 statblock: inline
 name: "Zaramuun"
 level: 16

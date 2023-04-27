@@ -2,9 +2,9 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:
-- imported/compendium/src/pf2e/gmg
-- imported/trait/category/morphic
-- imported/trait/category/planar
+- compendium/src/pf2e/gmg
+- trait/category/morphic
+- trait/category/planar
 aliases: ["Sentient"]
 ---
 # Sentient  

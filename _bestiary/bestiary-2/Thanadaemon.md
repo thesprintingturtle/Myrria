@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Thanadaemon"
 tags: 
   - trait/creature/type/fiend
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Thanadaemon"
 level: 13

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/ngd
+- compendium/src/pf2e/ngd
 - equipment/held-item
 - trait/school/divination
 - trait/equipment/invested

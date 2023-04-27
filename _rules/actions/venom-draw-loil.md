@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-action
 tags:
-- imported/action/ancestry/vishkanya-loil
-- imported/compendium/src/pf2e/loil
+- action/ancestry/vishkanya-loil
+- compendium/src/pf2e/loil
 aliases: ["Venom Draw"]
 ---
 # Venom Draw [>](chapter-9-playing-the-game.md#Actions "Single Action")

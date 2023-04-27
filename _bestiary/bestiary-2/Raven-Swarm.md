@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Raven Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Raven Swarm"
 level: 3

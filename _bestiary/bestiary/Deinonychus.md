@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Deinonychus"
 tags: 
   - trait/creature/type/animal
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Deinonychus"
 level: 2

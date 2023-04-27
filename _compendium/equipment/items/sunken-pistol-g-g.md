@@ -2,10 +2,10 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/g&g
+- compendium/src/pf2e/g&g
 - equipment/held-item
 - trait/tradition/arcane
-- imported/trait/cn
+- trait/alignment/cn
 - trait/school/enchantment
 - trait/equipment/intelligent
 - trait/rarity/rare

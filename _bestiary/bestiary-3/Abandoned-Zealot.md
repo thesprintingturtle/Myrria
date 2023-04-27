@@ -4,7 +4,7 @@ aliases: "Abandoned Zealot"
 tags: 
   - trait/creature/type/spirit
   - trait/creature/type/undead
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Abandoned Zealot"
 level: 6

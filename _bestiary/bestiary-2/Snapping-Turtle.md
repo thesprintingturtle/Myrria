@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Snapping Turtle"
 tags: 
   - trait/creature/type/animal
-  - level/-1
+  - creature/level/-1
 statblock: inline
 name: "Snapping Turtle"
 level: -1

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Dezullon"
 tags: 
   - trait/creature/type/plant
-  - level/10
+  - creature/level/10
 statblock: inline
 name: "Dezullon"
 level: 10

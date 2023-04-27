@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- imported/compendium/src/pf2e/lokl
+- compendium/src/pf2e/lokl
 - equipment/adventuring-gear
 - trait/rarity/uncommon
 aliases: ["Hollowed Hilt"]

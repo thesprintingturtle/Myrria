@@ -5,7 +5,7 @@ tags:
   - trait/creature/type/fiend
   - trait/creature/type/giant
   - trait/creature/type/humanoid
-  - level/17
+  - creature/level/17
 statblock: inline
 name: "Water Yai"
 level: 17

@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/1
 - trait/class/cleric
 - trait/school/illusion
@@ -13,7 +13,7 @@ aliases: ["Face In The Crowd"]
 # Face In The Crowd *Focus 1*   
 [cleric](rules/traits/cleric.md)  [illusion](illusion.md)  [uncommon](uncommon.md)  [visual](visual.md)  
 
-- **Domains**: [[cities](../setting/domains.md#Cities)]
+- **Domains**: [[cities](../domains.md#Cities)]
 - **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Duration**1 minute
 

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Rokurokubi"
 tags: 
   - trait/creature/type/humanoid
-  - level/2
+  - creature/level/2
 statblock: inline
 name: "Rokurokubi"
 level: 2

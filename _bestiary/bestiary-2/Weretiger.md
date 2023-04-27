@@ -4,7 +4,7 @@ aliases: "Weretiger"
 tags: 
   - trait/creature/type/beast
   - trait/creature/type/humanoid
-  - level/4
+  - creature/level/4
 statblock: inline
 name: "Weretiger"
 level: 4

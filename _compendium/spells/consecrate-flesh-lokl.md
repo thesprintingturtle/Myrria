@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/lokl
+- compendium/src/pf2e/lokl
 - spell/level/3
 - trait/alignment/good
 - trait/school/transmutation

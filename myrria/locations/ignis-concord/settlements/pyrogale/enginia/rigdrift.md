@@ -1,8 +1,7 @@
 ---
 tags:
 - custom
-- level/6
-- trait/location/type/district 
+- location/district/level/6
 aliases: Rigdrift
 ---
 # Rigdrift *District 6*

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Drow Priestess"
 tags: 
   - trait/creature/type/humanoid
-  - level/3
+  - creature/level/3
 statblock: inline
 name: "Drow Priestess"
 level: 3

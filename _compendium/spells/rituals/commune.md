@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-ritual
 tags:
-- imported/compendium/src/pf2e/crb
-- imported/ritual/6
+- compendium/src/pf2e/crb
+- ritual/level/6
 - trait/school/divination
 - trait/effect/prediction
 - trait/rarity/uncommon

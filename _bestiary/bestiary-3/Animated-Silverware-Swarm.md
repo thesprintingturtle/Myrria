@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Animated Silverware Swarm"
 tags: 
   - trait/creature/type/construct
-  - level/1
+  - creature/level/1
 statblock: inline
 name: "Animated Silverware Swarm"
 level: 1

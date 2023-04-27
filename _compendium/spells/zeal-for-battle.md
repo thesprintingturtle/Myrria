@@ -2,7 +2,7 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
 tags:
-- imported/compendium/src/pf2e/crb
+- compendium/src/pf2e/crb
 - spell/focus/4
 - trait/class/cleric
 - trait/effect/emotion
@@ -15,7 +15,7 @@ aliases: ["Zeal For Battle"]
 # Zeal For Battle *Focus 4*   
 [cleric](../../rules/traits/cleric.md)  [emotion](../../rules/traits/emotion.md)  [enchantment](../../rules/traits/enchantment.md)  [fortune](../../rules/traits/fortune.md)  [mental](../../rules/traits/mental.md)  [uncommon](../../rules/traits/uncommon.md)  
 
-- **Domains**: [[zeal](../setting/domains.md#Zeal)]
+- **Domains**: [[zeal](../domains.md#Zeal)]
 - **Cast** [R](../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**You and at least 1 ally are about to roll initiative.
 - **Range**10 foot

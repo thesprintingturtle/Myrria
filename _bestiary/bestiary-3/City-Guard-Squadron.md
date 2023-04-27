@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "City Guard Squadron"
 tags: 
   - trait/creature/type/humanoid
-  - level/5
+  - creature/level/5
 statblock: inline
 name: "City Guard Squadron"
 level: 5

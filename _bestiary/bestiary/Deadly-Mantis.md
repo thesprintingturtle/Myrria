@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Deadly Mantis"
 tags: 
   - trait/creature/type/animal
-  - level/11
+  - creature/level/11
 statblock: inline
 name: "Deadly Mantis"
 level: 11

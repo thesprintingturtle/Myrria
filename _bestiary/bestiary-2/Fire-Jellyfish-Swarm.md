@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Fire Jellyfish Swarm"
 tags: 
   - trait/creature/type/animal
-  - level/6
+  - creature/level/6
 statblock: inline
 name: "Fire Jellyfish Swarm"
 level: 6

@@ -3,7 +3,7 @@ noteType: pf2eMonster
 aliases: "Iron Golem"
 tags: 
   - trait/creature/type/construct
-  - level/13
+  - creature/level/13
 statblock: inline
 name: "Iron Golem"
 level: 13
