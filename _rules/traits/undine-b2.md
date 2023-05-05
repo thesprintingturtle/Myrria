@@ -5,11 +5,11 @@ tags:
 - compendium/src/pf2e/b2
 - trait/category/ancestry-heritage
 - trait/category/creature
-aliases: ["Undine"]
+aliases: ["Undine", "Seablood"]
 ---
-# Undine  
+# Seablood  
 *Source: Bestiary 2 p. 310*  
 
-Undines are planar scions descended from marids.
+A type of planar scion descended from a being from the Elemental Plane of Water.
 
 - **Categories**: Creature, Ancestry & Heritage

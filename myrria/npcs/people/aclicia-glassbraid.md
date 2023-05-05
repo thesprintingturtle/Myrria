@@ -1,7 +1,7 @@
 ---
 tags:
 - custom
-- character/20
+- character/level/20
 aliases: Alicia Glassbraid
 ---
 # Alicia Glassbraid *Character 20*

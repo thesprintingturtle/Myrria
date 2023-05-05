@@ -5,11 +5,11 @@ tags:
 - compendium/src/pf2e/b2
 - trait/category/ancestry-heritage
 - trait/category/creature
-aliases: ["Ifrit"]
+aliases: ["Ifrit", "Fireblood"]
 ---
-# Ifrit  
+# Fireblood  
 *Source: Bestiary 2 p. 308*  
 
-Ifrits are planar scions descended from efreet.
+A type of planar scion descended from a being from the Elemental Plane of Fire.
 
 - **Categories**: Creature, Ancestry & Heritage

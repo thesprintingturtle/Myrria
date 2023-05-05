@@ -1,10 +1,10 @@
 ---
 tags:
 - custom
-- character/level/X
-aliases: Name
+- character/level/7
+aliases: 
 ---
-# Name *Character X*
+# Vivian Thunderbrook *Character 7*
 Traits 
 
 Brief Description

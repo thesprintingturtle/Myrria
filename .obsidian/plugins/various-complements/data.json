@@ -63,22 +63,6 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Fireball": {
-      "Fireball": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680480611596
-        }
-      }
-    },
-    "Aasimar-Redeemer": {
-      "Aasimar-Redeemer": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680480970752
-        }
-      }
-    },
     "zombie-b1": {
       "zombie-b1": {
         "internalLink": {
@@ -354,8 +338,8 @@
     "Slipgarten": {
       "Slipgarten": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003452417
+          "count": 4,
+          "lastUpdated": 1683214568042
         }
       }
     },
@@ -778,8 +762,8 @@
     "Oread": {
       "Oread": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682308054838
+          "count": 4,
+          "lastUpdated": 1683211314017
         }
       }
     },
@@ -1188,6 +1172,54 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1682547899584
+        }
+      }
+    },
+    "Faewood Academy": {
+      "Faewood Academy": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1683213908454
+        }
+      }
+    },
+    "Glassbraid": {
+      "Glassbraid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683211856041
+        }
+      }
+    },
+    "vivian-thunderbrook-initial": {
+      "vivian-thunderbrook-initial": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1683212061312
+        }
+      }
+    },
+    "Earthblood": {
+      "Earthblood": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683213228676
+        }
+      }
+    },
+    "Faewood": {
+      "Faewood": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683213404355
+        }
+      }
+    },
+    "Slipgarten (Nation)": {
+      "Slipgarten (Nation)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683214535270
         }
       }
     }

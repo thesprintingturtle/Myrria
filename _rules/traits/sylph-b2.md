@@ -5,11 +5,11 @@ tags:
 - compendium/src/pf2e/b2
 - trait/category/ancestry-heritage
 - trait/category/creature
-aliases: ["Sylph"]
+aliases: ["Sylph", "Skyblood"]
 ---
-# Sylph  
+# Skyblood  
 *Source: Bestiary 2 p. 309*  
 
-Sylphs are planar scions descended from djinn.
+A type of planar scion descended from a being from the Elemental Plane of Air.
 
 - **Categories**: Creature, Ancestry & Heritage

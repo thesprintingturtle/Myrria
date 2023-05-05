@@ -11,8 +11,24 @@
             "id": "e03bc3bce62a7485",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "myrria/organizations/faewood-academy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae21505c22b1c15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outside-influences-story/initial character sheets/alicia-glassbraid-initial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pervasive",
+                "query": "planar scion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "myrria/organizations/faewood-academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "myrria/organizations/faewood-academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "myrria/organizations/faewood-academy.md"
+              }
             }
           },
           {
@@ -174,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,41 +236,41 @@
         "direction": "vertical",
         "x": 3640,
         "y": 960,
-        "width": 1080,
-        "height": 960,
+        "width": 1026,
+        "height": 802,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "636a09f2ec1a313e",
+  "active": "e03bc3bce62a7485",
   "lastOpenFiles": [
+    "outside-influences-story/initial character sheets/alicia-glassbraid-initial.md",
+    "myrria/npcs/people/aclicia-glassbraid.md",
+    "_rules/traits/undine-b2.md",
+    "_rules/traits/sylph-b2.md",
+    "_rules/traits/suli-b2.md",
+    "_rules/traits/oread-b2.md",
+    "_rules/traits/ifrit-b2.md",
+    "_rules/traits/aphorite-loag.md",
+    "_rules/traits/tiefling-b1.md",
+    "_rules/traits/ganzi-loag.md",
+    "_rules/traits/duskwalker-apg.md",
+    "_rules/traits/dhampir-b1.md",
+    "_rules/traits/conrasu-loag.md",
+    "_rules/traits/aasimar-apg.md",
+    "_rules/traits/azarketi-loag.md",
+    "_rules/traits/aeon-b1.md",
+    "outside-influences-story/initial character sheets/vivian-thunderbrook-initial.md",
+    "myrria/npcs/people/asami-morningfell.md",
+    "myrria/npcs/people/vivian-thunderbrook.md",
+    "myrria/npcs/people/ismene-mistbren-glassbraid.md",
+    "zz_templates/note-types/npcs/character.md",
+    "myrria/equipment/thousand-yard-stare.md",
     "_rules/traits/traits.md",
     "_rules/traits/pervasive-magic-som.md",
     "_compendium/spells/beastmaster-trance-apg.md",
     "zz_templates/note-types/equipment/specific-magic-weapon.md",
-    "zz_templates/note-types/equipment/item.md",
-    "zz_templates/note-types/equipment/item 1.md",
-    "zz_templates/note-types/locations/district.md",
-    "zz_templates/note-types/locations/nation.md",
-    "zz_templates/note-types/locations/settlement.md",
-    "zz_templates/note-types/locations/shop.md",
-    "zz_templates/note-types/npcs/deity.md",
-    "zz_templates/note-types/npcs/character.md",
-    "myrria/organizations/outside-influence.md",
-    "myrria/organizations/faewood-academy.md",
-    "zz_templates/note-types/organizations/nonreligious-organization.md",
-    "zz_templates/note-types/stat-blocks/creature.md",
-    "myrria/locations/sullenhall/sullenhall.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/coghollow.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/nobelia/cidervale.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/caperstead.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/cantham.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/bolstrom.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/bellstorm.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/belguard.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/nobelia/ashbarrow.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/arcania.md",
     "_compendium/setting",
     "Stat Blocks/Snow Bison/snow_bison-1679544074.png",
     "bestiary-custom",
@@ -268,7 +288,7 @@
     "Excalidraw",
     "zz_templates/note-types/organizations",
     "zz_attachments/Myrria World Map.jpg",
-    "outside-influences-story/first-draft/chapter-1-alicia",
+    "outside-influences-story/initial character sheets",
     "outside-influences-story/first-draft",
     "outside-influences-story",
     "zz_addons/canvas-gm-tables/Game Master Tables.canvas",

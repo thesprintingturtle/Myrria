@@ -5,11 +5,11 @@ tags:
 - compendium/src/pf2e/b2
 - trait/category/ancestry-heritage
 - trait/category/creature
-aliases: ["Oread"]
+aliases: ["Oread", "Earthblood"]
 ---
-# Oread  
+# Earthblood  
 *Source: Bestiary 2 p. 309*  
 
-Oreads are planar scions descended from shaitans.
+A type of planar scion descended from a being from the Elemental Plane of Earth.
 
 - **Categories**: Creature, Ancestry & Heritage

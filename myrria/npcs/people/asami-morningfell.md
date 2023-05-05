@@ -1,7 +1,7 @@
 ---
 tags:
 - custom
-- character/20
+- character/level/20
 aliases: Asami Morningfell
 ---
 # Asami Morningfell *Character 20*
