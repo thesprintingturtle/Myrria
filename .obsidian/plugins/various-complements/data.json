@@ -25,7 +25,7 @@
   "descriptionOnSuggestion": "Short",
   "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
-  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": true,
   "openSourceFileKey": "None",
   "propagateEsc": false,
   "enableCurrentFileComplement": true,
@@ -63,899 +63,35 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "zombie-b1": {
-      "zombie-b1": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680659816145
-        }
-      }
-    },
-    "Zombie-Shambler": {
-      "Zombie-Shambler": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680659831651
-        }
-      }
-    },
-    "avoid-notice": {
-      "avoid-notice": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680664147928
-        }
-      }
-    },
-    "Necrotize": {
-      "Necrotize": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680664196078
-        }
-      }
-    },
-    "time-stop": {
-      "time-stop": {
+    "human": {
+      "human": {
         "internalLink": {
           "count": 2,
-          "lastUpdated": 1680664709820
+          "lastUpdated": 1689489675125
         }
       }
     },
-    "true-target": {
-      "true-target": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680664722279
-        }
-      }
-    },
-    "collapse": {
-      "collapse": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680664780724
-        }
-      }
-    },
-    "trait/category/settlement": {
-      "trait/category/settlement": {
-        "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1680717166432
-        }
-      }
-    },
-    "trait/divination": {
-      "trait/divination": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1680666091543
-        }
-      }
-    },
-    "traits": {
-      "traits": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680666659448
-        }
-      }
-    },
-    "location/type/nation": {
-      "location/type/nation": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1680670300733
-        }
-      }
-    },
-    "location/type/Metropolis": {
-      "location/type/Metropolis": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1680668323476
-        }
-      }
-    },
-    "metropolis": {
-      "metropolis": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680673227063
-        },
-        "internalLink": {
-          "count": 7,
-          "lastUpdated": 1681022094824
-        }
-      }
-    },
-    "location/type/metropolis": {
-      "location/type/metropolis": {
-        "frontMatter": {
-          "count": 13,
-          "lastUpdated": 1680673196586
-        }
-      }
-    },
-    "trait/kineticist": {
-      "trait/kineticist": {
-        "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1680673141753
-        }
-      }
-    },
-    "trait/bastion-city": {
-      "trait/bastion-city": {
-        "frontMatter": {
-          "count": 8,
-          "lastUpdated": 1680674668363
-        }
-      }
-    },
-    "winterfell-city": {
-      "winterfell-city": {
+    "earthblood": {
+      "earthblood": {
         "internalLink": {
           "count": 2,
-          "lastUpdated": 1680673298332
+          "lastUpdated": 1689489686035
         }
       }
     },
-    "Winterfell": {
-      "Winterfell": {
+    "Relationships": {
+      "Relationships": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1680673293443
-        },
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003348552
-        }
-      }
-    },
-    "settlement/metropolis": {
-      "settlement/metropolis": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1681007151226
-        }
-      }
-    },
-    "pyrogale": {
-      "pyrogale": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1680706586177
-        }
-      }
-    },
-    "custom/trait": {
-      "custom/trait": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1680717163577
-        }
-      }
-    },
-    "Settlement": {
-      "Settlement": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1680717180035
-        }
-      }
-    },
-    "custom/location": {
-      "custom/location": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1680716037441
-        }
-      }
-    },
-    "Petitioner-(Dead-Vault)": {
-      "Petitioner-(Dead-Vault)": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680716168979
-        }
-      }
-    },
-    "trait/port-city": {
-      "trait/port-city": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1680716328999
-        }
-      }
-    },
-    "town-gmg": {
-      "town-gmg": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680716680544
-        }
-      }
-    },
-    "Serenmire": {
-      "Serenmire": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1680717091607
-        }
-      }
-    },
-    "stratos": {
-      "stratos": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680718810079
-        }
-      }
-    },
-    "Titania": {
-      "Titania": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681003619066
-        }
-      }
-    },
-    "Pyrogale": {
-      "Pyrogale": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1681003341811
-        }
-      }
-    },
-    "Elf": {
-      "Elf": {
-        "internalLink": {
-          "count": 5,
-          "lastUpdated": 1682278603184
-        }
-      }
-    },
-    "Daggervale": {
-      "Daggervale": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681003370536
-        }
-      }
-    },
-    "Lonestrom": {
-      "Lonestrom": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003376923
-        }
-      }
-    },
-    "Slipgarten": {
-      "Slipgarten": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1683214568042
-        }
-      }
-    },
-    "Sullenhall": {
-      "Sullenhall": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003461388
-        }
-      }
-    },
-    "Talonkirk": {
-      "Talonkirk": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003466525
-        }
-      }
-    },
-    "Thundergate": {
-      "Thundergate": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003491564
-        }
-      }
-    },
-    "Kingdom of Northpine": {
-      "Kingdom of Northpine": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003576438
-        }
-      }
-    },
-    "Lockinge Republic": {
-      "Lockinge Republic": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003580967
-        }
-      }
-    },
-    "United Tribes of Arctis": {
-      "United Tribes of Arctis": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003587324
-        }
-      }
-    },
-    "Cloudtop Isles": {
-      "Cloudtop Isles": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681003600109
-        }
-      }
-    },
-    "titania": {
-      "titania": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681003611265
-        }
-      }
-    },
-    "Ignis Concord": {
-      "Ignis Concord": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1681015676925
-        }
-      }
-    },
-    "Nobelia": {
-      "Nobelia": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1681007671106
-        }
-      }
-    },
-    "Industria": {
-      "Industria": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681008026176
-        }
-      }
-    },
-    "Dynaborough": {
-      "Dynaborough": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681008251845
-        }
-      }
-    },
-    "Enginia": {
-      "Enginia": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681008487855
-        }
-      }
-    },
-    "Arcania": {
-      "Arcania": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681008705430
-        }
-      }
-    },
-    "Deadly": {
-      "Deadly": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681013437914
-        }
-      }
-    },
-    "Kineticist Nations": {
-      "Kineticist Nations": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681014339298
-        }
-      }
-    },
-    "custom/location/settlement": {
-      "custom/location/settlement": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1681015067194
-        }
-      }
-    },
-    "custom/location/settlement/metropolis": {
-      "custom/location/settlement/metropolis": {
-        "frontMatter": {
-          "count": 13,
-          "lastUpdated": 1681016087251
-        }
-      }
-    },
-    "custom/location/nation": {
-      "custom/location/nation": {
-        "frontMatter": {
-          "count": 10,
-          "lastUpdated": 1681016009769
-        }
-      }
-    },
-    "level/12": {
-      "level/12": {
-        "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1681015386490
-        }
-      }
-    },
-    "kineticist": {
-      "kineticist": {
-        "internalLink": {
-          "count": 8,
-          "lastUpdated": 1681022097010
-        }
-      }
-    },
-    "custom/location/settlement/town": {
-      "custom/location/settlement/town": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1681015322485
-        }
-      }
-    },
-    "level/4": {
-      "level/4": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1681015476292
-        }
-      }
-    },
-    "level/3": {
-      "level/3": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1681015498614
-        }
-      }
-    },
-    "custom/location/settlement/city": {
-      "custom/location/settlement/city": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1681015300707
-        }
-      }
-    },
-    "bastion city": {
-      "bastion city": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681015355738
-        }
-      }
-    },
-    "custom/location/district": {
-      "custom/location/district": {
-        "frontMatter": {
-          "count": 28,
-          "lastUpdated": 1681015953970
-        }
-      }
-    },
-    "level/13": {
-      "level/13": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1681016092007
-        }
-      }
-    },
-    "custom": {
-      "custom": {
-        "frontMatter": {
-          "count": 7,
-          "lastUpdated": 1682549838215
-        }
-      }
-    },
-    "level/X": {
-      "level/X": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1682549820513
-        }
-      }
-    },
-    "Description": {
-      "Description": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681931433533
-        }
-      }
-    },
-    "invested": {
-      "invested": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1682300333716
-        }
-      }
-    },
-    "magical": {
-      "magical": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1682300339944
-        }
-      }
-    },
-    "unique": {
-      "unique": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1682300342763
-        }
-      }
-    },
-    "trait/rarity/unique": {
-      "trait/rarity/unique": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1682299588524
-        }
-      }
-    },
-    "Nudge The Odds": {
-      "Nudge The Odds": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681933564985
-        }
-      }
-    },
-    "Ismene Mistbren": {
-      "Ismene Mistbren": {
-        "internalLink": {
-          "count": 5,
-          "lastUpdated": 1682305178227
-        }
-      }
-    },
-    "Alicia Glassbraid": {
-      "Alicia Glassbraid": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682305171211
-        }
-      }
-    },
-    "Ganzi": {
-      "Ganzi": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682298809232
-        }
-      }
-    },
-    "Interact": {
-      "Interact": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682299985313
-        }
-      }
-    },
-    "apex": {
-      "apex": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681939076829
-        }
-      }
-    },
-    "teleportation": {
-      "teleportation": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681939118658
-        }
-      }
-    },
-    "trait/equipment/invested": {
-      "trait/equipment/invested": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1682299551061
-        }
-      }
-    },
-    "trait/magical": {
-      "trait/magical": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1682299553552
-        }
-      }
-    },
-    "trait/effect/teleportation": {
-      "trait/effect/teleportation": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1681939175264
-        }
-      }
-    },
-    "trait/equipment/apex": {
-      "trait/equipment/apex": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1681939198777
-        }
-      }
-    },
-    "Explorer's Clothing": {
-      "Explorer's Clothing": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682299680956
-        }
-      }
-    },
-    "shadow": {
-      "shadow": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681939597854
-        }
-      }
-    },
-    "Move": {
-      "Move": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681939654632
-        }
-      }
-    },
-    "round": {
-      "round": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681939825868
-        }
-      }
-    },
-    "Magic Sense (Wizard)": {
-      "Magic Sense (Wizard)": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681939910299
-        }
-      }
-    },
-    "Human": {
-      "Human": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682308051278
-        }
-      }
-    },
-    "Oread": {
-      "Oread": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1683211314017
-        }
-      }
-    },
-    "Titanfall Handwraps": {
-      "Titanfall Handwraps": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1681953876770
-        }
-      }
-    },
-    "Blink Cloak": {
-      "Blink Cloak": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682300988113
-        }
-      }
-    },
-    "trait/equipment/weapon": {
-      "trait/equipment/weapon": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682271147463
-        }
-      }
-    },
-    "trait/effect/poison": {
-      "trait/effect/poison": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682271183483
+          "lastUpdated": 1689476269321
         }
       }
     },
     "Ismene Mistbren-Glassbraid": {
       "Ismene Mistbren-Glassbraid": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682305184602
-        }
-      }
-    },
-    "trait/equipment/artifact": {
-      "trait/equipment/artifact": {
-        "frontMatter": {
-          "count": 4,
-          "lastUpdated": 1682300500444
-        }
-      }
-    },
-    "Artifact": {
-      "Artifact": {
-        "internalLink": {
           "count": 1,
-          "lastUpdated": 1682275749561
-        }
-      }
-    },
-    "artifact": {
-      "artifact": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682300330765
-        }
-      }
-    },
-    "Thousand Yard Stare": {
-      "Thousand Yard Stare": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682278136074
-        }
-      }
-    },
-    "Aphorite": {
-      "Aphorite": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682278617568
-        }
-      }
-    },
-    "Kitsune": {
-      "Kitsune": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682298915167
-        }
-      }
-    },
-    "Ifrit": {
-      "Ifrit": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682298920240
-        }
-      }
-    },
-    "trait/effect/healing": {
-      "trait/effect/healing": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682299568761
-        }
-      }
-    },
-    "Fly": {
-      "Fly": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1682300761148
-        }
-      }
-    },
-    "Heal": {
-      "Heal": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682299878738
-        }
-      }
-    },
-    "spell": {
-      "spell": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1682299887090
-        }
-      }
-    },
-    "Raise Dead": {
-      "Raise Dead": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682300064924
-        }
-      }
-    },
-    "healing": {
-      "healing": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682300337737
-        }
-      }
-    },
-    "Asami Morningfell": {
-      "Asami Morningfell": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682305174600
-        }
-      }
-    },
-    "trait/tradition/arcane": {
-      "trait/tradition/arcane": {
-        "frontMatter": {
-          "count": 8,
-          "lastUpdated": 1682308970647
-        }
-      }
-    },
-    "arcane": {
-      "arcane": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1682300539241
-        }
-      }
-    },
-    "Spellstrands": {
-      "Spellstrands": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682300816545
-        }
-      }
-    },
-    "Phoenix": {
-      "Phoenix": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682301021807
-        }
-      }
-    },
-    "Cloak of the Phoenix": {
-      "Cloak of the Phoenix": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682301097601
+          "lastUpdated": 1689489628321
         }
       }
     },
@@ -963,263 +99,159 @@
       "Outside Influence": {
         "internalLink": {
           "count": 4,
-          "lastUpdated": 1682305047899
+          "lastUpdated": 1689490911199
+        }
+      }
+    },
+    "Titanfall Handwraps": {
+      "Titanfall Handwraps": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1689490687718
+        }
+      }
+    },
+    "Cloak of the Phoenix": {
+      "Cloak of the Phoenix": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1689490700882
+        }
+      }
+    },
+    "kitsune": {
+      "kitsune": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1689490353376
+        }
+      }
+    },
+    "fireblood": {
+      "fireblood": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1689490363017
+        }
+      }
+    },
+    "elf": {
+      "elf": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1689490883691
+        }
+      }
+    },
+    "lawblood": {
+      "lawblood": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1689490476146
+        }
+      }
+    },
+    "Gunslinger": {
+      "Gunslinger": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1689490488930
+        }
+      }
+    },
+    "Thousand Yard Stare": {
+      "Thousand Yard Stare": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1689490672542
+        }
+      }
+    },
+    "Blink Cloak": {
+      "Blink Cloak": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1689491035968
+        }
+      }
+    },
+    "faeblood": {
+      "faeblood": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1689490895899
+        }
+      }
+    },
+    "trait/rarity/unique": {
+      "trait/rarity/unique": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1689531673937
+        }
+      }
+    },
+    "Ismene Mistbren": {
+      "Ismene Mistbren": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1689539227007
         }
       }
     },
     "Vivian Thunderbrook": {
       "Vivian Thunderbrook": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682305194369
+          "count": 1,
+          "lastUpdated": 1689534391622
         }
       }
     },
-    "mithral": {
-      "mithral": {
+    "Asami Morningfell": {
+      "Asami Morningfell": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1682305646453
+          "lastUpdated": 1689535416728
         }
       }
     },
-    "darkwood": {
-      "darkwood": {
+    "Alicia Glassbraid": {
+      "Alicia Glassbraid": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1682305656839
+          "lastUpdated": 1689539232523
         }
       }
     },
-    "Barbarian": {
-      "Barbarian": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682308069701
-        }
-      }
-    },
-    "trait/organization": {
-      "trait/organization": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1682309567735
-        }
-      }
-    },
-    "Jezail": {
-      "Jezail": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682395165865
-        }
-      }
-    },
-    "imported/trait/attached-to-crossbow-or-firearm": {
-      "imported/trait/attached-to-crossbow-or-firearm": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682397866944
-        }
-      }
-    },
-    "equipment/weapon/base-weapon/reload/0": {
-      "equipment/weapon/base-weapon/reload/0": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1682397984921
-        }
-      }
-    },
-    "equipment/weapon/base-weapon/type/ranged": {
-      "equipment/weapon/base-weapon/type/ranged": {
-        "frontMatter": {
-          "count": 2,
-          "lastUpdated": 1682397980102
-        }
-      }
-    },
-    "equipment/weapon/base-weapon/group/sword": {
-      "equipment/weapon/base-weapon/group/sword": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682398000240
-        }
-      }
-    },
-    "equipment/weapon/base-weapon/type/melee": {
-      "equipment/weapon/base-weapon/type/melee": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1682433538042
-        }
-      }
-    },
-    "Staff": {
-      "Staff": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682399771226
-        }
-      }
-    },
-    "imported/ritual/area/circle": {
-      "imported/ritual/area/circle": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682400795545
-        }
-      }
-    },
-    "equipment/weapon/base-weapon/group/knife": {
-      "equipment/weapon/base-weapon/group/knife": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682401054942
-        }
-      }
-    },
-    "equipment/weapon/base-weapon/range/60": {
-      "equipment/weapon/base-weapon/range/60": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1682519040308
-        }
-      }
-    },
-    "equipment/weapon/specific-magic-weapon": {
-      "equipment/weapon/specific-magic-weapon": {
-        "frontMatter": {
-          "count": 19,
-          "lastUpdated": 1682519385313
-        }
-      }
-    },
-    "equipment/weapon/precious-metal": {
-      "equipment/weapon/precious-metal": {
-        "frontMatter": {
-          "count": 9,
-          "lastUpdated": 1682519033737
-        }
-      }
-    },
-    "equipment/armor/specific-magic-armor": {
-      "equipment/armor/specific-magic-armor": {
-        "frontMatter": {
-          "count": 30,
-          "lastUpdated": 1682519443082
-        }
-      }
-    },
-    "equipment/armor/precious-metal": {
-      "equipment/armor/precious-metal": {
-        "frontMatter": {
-          "count": 12,
-          "lastUpdated": 1682519432145
-        }
-      }
-    },
-    "equipment/shield/precious-material": {
-      "equipment/shield/precious-material": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1682520191786
-        }
-      }
-    },
-    "equipment/shield/specific-magic-shield": {
-      "equipment/shield/specific-magic-shield": {
-        "frontMatter": {
-          "count": 11,
-          "lastUpdated": 1682520226831
-        }
-      }
-    },
-    "equipment/shield/base-shield": {
-      "equipment/shield/base-shield": {
-        "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1682520254669
-        }
-      }
-    },
-    "reach": {
-      "reach": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682545951962
-        }
-      }
-    },
-    "Animal": {
-      "Animal": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1682547801088
-        }
-      }
-    },
-    "Buck": {
-      "Buck": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1682547233340
-        }
-      }
-    },
-    "pf2eMonster": {
-      "pf2eMonster": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1682547899584
-        }
-      }
-    },
-    "Faewood Academy": {
-      "Faewood Academy": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1683213908454
-        }
-      }
-    },
-    "Glassbraid": {
-      "Glassbraid": {
+    "Handwraps": {
+      "Handwraps": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1683211856041
+          "lastUpdated": 1689539463465
         }
       }
     },
-    "vivian-thunderbrook-initial": {
-      "vivian-thunderbrook-initial": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1683212061312
-        }
-      }
-    },
-    "Earthblood": {
-      "Earthblood": {
+    "frostcrag-mountains": {
+      "frostcrag-mountains": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1683213228676
+          "lastUpdated": 1689540246069
         }
       }
     },
-    "Faewood": {
-      "Faewood": {
+    "lockinge-desert": {
+      "lockinge-desert": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1683213404355
+          "lastUpdated": 1689540466001
         }
       }
     },
-    "Slipgarten (Nation)": {
-      "Slipgarten (Nation)": {
+    "faelorn-wood": {
+      "faelorn-wood": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1683214535270
+          "lastUpdated": 1689540519448
         }
       }
     }

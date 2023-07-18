@@ -1,34 +1,39 @@
 ---
 tags:
-- custom
-- character/level/20
-aliases: Ismene Glassbraid, Ismene Mistbren, Ismene Mistbren-Glassbraid
+- character/protagonist
+- character/lgbtq+
+aliases: Ismene Glassbraid, Ismene Mistbren, Ismene Mistbren-Glassbraid, Ismene
 ---
-# Ismene Mistbren-Glassbraid *Character 20*
-Traits 
+# Ismene Mistbren-Glassbraid *Character*
 
 Brief Description
 
-- **Title or Nickname** Izzy ([Alicia Glassbraid](aclicia-glassbraid.md))
-- **Pronouns** she/her
-- **Ancestry** [Elf](../../../_rules/traits/elf.md), [Aphorite](../../../_rules/traits/aphorite-loag.md) 
+- **Type** Protagonist
+- **AKA** 
+- **Pronouns** She/Her
+- **Gender Presentation** Feminine
+- **Sexual Orientation** Pansexual
+- **Ancestry** [Elf](../../ancestries/common%20ancestries/elf.md), [Lawblood](../../ancestries/heritages/extraplanar%20bloods/lawblood.md)
 - **Class** Gunslinger
 - **Birthyear** 
-- **Other Characteristics** 
----
-- **Gender Presentation** Feminine
-- **Height** 5'7"
-- **Body Type** Slim
-- **Hair** Eyebrow length bangs fade into shoulder length sideburns, pixie from the ears back. Metallic bronze in color
-- **Eyes** Metallic gold irises
-- **Physical Description** Stark white arcane glyphs appear and fade in a rhythmic pattern on her skin
----
 - **Home** 
 - **Commonly Visited Locations** 
-- **Organizations** [Outside Influence](../../organizations/outside-influence.md) 
----
-- **Inventory** [Thousand Yard Stare](../../equipment/thousand-yard-stare.md) 
----
-- **Wants/Needs** 
-- **Favorite Quotes** 
-- **Simple Bio/Personality Prompts** 
+- **Connections** [Outside Influence](../../organizations/outside-influence.md)
+
+## Description
+### Appearance
+5'7", Slim, shoulder length Metallic bronze hair, Metallic gold Irises, Stark white arcane glyphs appear and fade in a rhythmic pattern on her skin
+### Personality
+
+## Character Information
+### Notable Items
+- [Thousand Yard Stare](../../items/thousand-yard-stare.md) (In Possession)
+- [Titanfall Handwraps](../../items/titanfall-handwraps.md) (Made)
+- [Cloak of the Phoenix](../../items/cloak-of-the-phoenix.md) (Made)
+- [Blink Cloak](../../items/blink-cloak.md) (Made)
+### Abilities
+
+## Relationships
+
+## Biography
+### Background

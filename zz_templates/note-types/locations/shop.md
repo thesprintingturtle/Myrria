@@ -5,7 +5,6 @@ tags:
 aliases: Name
 ---
 # Name *Shop X*
-Traits 
 
 Brief Description
 

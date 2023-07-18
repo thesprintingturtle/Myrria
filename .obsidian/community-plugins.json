@@ -1,20 +1,17 @@
 [
   "dataview",
-  "initiative-tracker",
   "tag-wrangler",
   "obsidian-timelines",
-  "obsidian-dice-roller",
   "obsidian-leaflet-plugin",
   "table-editor-obsidian",
   "fantasy-calendar",
-  "markdown-attributes",
   "image-window",
   "obsidian-admonition",
   "consistent-attachments-and-links",
   "update-relative-links",
   "obsidian-kanban",
   "obsidian-style-settings",
-  "obsidian-5e-statblocks",
   "obsidian-import-json",
-  "various-complements"
+  "various-complements",
+  "initiative-tracker"
 ]

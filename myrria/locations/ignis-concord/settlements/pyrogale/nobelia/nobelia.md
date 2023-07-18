@@ -1,7 +1,7 @@
 ---
 tags:
 - custom
-- location/district/level/12 
+- location/district/level/12
 aliases: ["Nobelia"]
 ---
 # Nobelia *District 12*

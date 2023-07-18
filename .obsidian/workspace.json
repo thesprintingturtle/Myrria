@@ -6,28 +6,59 @@
       {
         "id": "00ba04b2422231e6",
         "type": "tabs",
+        "dimension": 68.31683168316832,
         "children": [
           {
-            "id": "e03bc3bce62a7485",
+            "id": "887cd8c5215ea39d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/organizations/faewood-academy.md",
-                "mode": "source",
+                "file": "myrria/locations/ignis-concord/ignis-concord.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8014cade93cf7e2d",
+        "type": "tabs",
+        "dimension": 31.683168316831683,
+        "children": [
           {
-            "id": "ae21505c22b1c15d",
+            "id": "cc4810116e2787bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "outside-influences-story/initial character sheets/alicia-glassbraid-initial.md",
-                "mode": "source",
-                "source": false
+                "file": "myrria/locations/ignis-concord/ignis-concord.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               }
             }
           }
@@ -60,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "planar scion",
+                "query": "tag:#character/lgtbq+",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,12 +107,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "96030eec03e7ae91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 341.5
   },
   "right": {
     "id": "eda78d10c2dd2dae",
@@ -90,7 +129,6 @@
       {
         "id": "508c56b6edd43788",
         "type": "tabs",
-        "dimension": 86.11111111111111,
         "children": [
           {
             "id": "0f55a2d0156f1985",
@@ -98,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/organizations/faewood-academy.md",
+                "file": "myrria/locations/ignis-concord/ignis-concord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/organizations/faewood-academy.md",
+                "file": "myrria/locations/ignis-concord/ignis-concord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myrria/organizations/faewood-academy.md"
+                "file": "myrria/locations/ignis-concord/ignis-concord.md"
               }
             }
           },
@@ -159,15 +197,7 @@
             }
           },
           {
-            "id": "e3184954b974bd32",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "a89ddd9a4c36bafa",
+            "id": "30182aa0db86a800",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -176,25 +206,10 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "ebc4af15088df2d8",
-        "type": "tabs",
-        "dimension": 13.88888888888889,
-        "children": [
-          {
-            "id": "21bf78c61c8e3ae7",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,87 +225,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "e927da2594147822",
-    "type": "floating",
-    "children": [
-      {
-        "id": "10b2069659b03cf2",
-        "type": "window",
-        "children": [
-          {
-            "id": "8a8553b3123d82b2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ad54d2f956fa224c",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3640,
-        "y": 960,
-        "width": 1026,
-        "height": 802,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e03bc3bce62a7485",
+  "active": "cc4810116e2787bf",
   "lastOpenFiles": [
-    "outside-influences-story/initial character sheets/alicia-glassbraid-initial.md",
-    "myrria/npcs/people/aclicia-glassbraid.md",
-    "_rules/traits/undine-b2.md",
-    "_rules/traits/sylph-b2.md",
-    "_rules/traits/suli-b2.md",
-    "_rules/traits/oread-b2.md",
-    "_rules/traits/ifrit-b2.md",
-    "_rules/traits/aphorite-loag.md",
-    "_rules/traits/tiefling-b1.md",
-    "_rules/traits/ganzi-loag.md",
-    "_rules/traits/duskwalker-apg.md",
-    "_rules/traits/dhampir-b1.md",
-    "_rules/traits/conrasu-loag.md",
-    "_rules/traits/aasimar-apg.md",
-    "_rules/traits/azarketi-loag.md",
-    "_rules/traits/aeon-b1.md",
-    "outside-influences-story/initial character sheets/vivian-thunderbrook-initial.md",
+    "zz_templates/note-types/character.md",
+    "myrria/ancestries/common ancestries/human.md",
+    "myrria/locations/geographic/faelorn-wood.md",
+    "myrria/locations/geographic/lockinge-desert.md",
+    "myrria/locations/geographic/frostcrag-mountains.md",
+    "zz_templates/note-types/ancestry.md",
+    "trait ancestry human.md",
+    "myrria/items/titanfall-handwraps.md",
+    "myrria/items/thousand-yard-stare.md",
+    "myrria/items/cloak-of-the-phoenix.md",
+    "myrria/items/blink-cloak.md",
+    "zz_templates/note-types/generic item.md",
+    "zz_templates/note-types/unique item.md",
+    "zz_templates/note-types/deity.md",
+    "zz_templates/note-types/organization.md",
+    "zz_templates/note-types/trait.md",
     "myrria/npcs/people/asami-morningfell.md",
+    "myrria/npcs/people/aclicia-glassbraid.md",
     "myrria/npcs/people/vivian-thunderbrook.md",
     "myrria/npcs/people/ismene-mistbren-glassbraid.md",
-    "zz_templates/note-types/npcs/character.md",
-    "myrria/equipment/thousand-yard-stare.md",
-    "_rules/traits/traits.md",
-    "_rules/traits/pervasive-magic-som.md",
-    "_compendium/spells/beastmaster-trance-apg.md",
-    "zz_templates/note-types/equipment/specific-magic-weapon.md",
+    "myrria/npcs/deities/azreas,the-prismatic-dragon.md",
+    "Untitled.md",
+    "zz_templates/note-types/locations/shop.md",
+    "zz_templates/note-types/locations/settlement.md",
+    "zz_templates/note-types/locations/nation.md",
+    "zz_templates/note-types/locations/district.md",
+    "myrria/ancestries/heritages",
+    "myrria/ancestries/uncommon ancestries",
+    "myrria/ancestries/common ancestries",
+    "myrria/ancestries/heritages/extraplanar bloods",
+    "myrria/ancestries",
+    "myrria/ecology/flora",
+    "myrria/ecology",
+    "myrria/ecology/fauna",
+    "zz_attachments/direction-sign.svg",
+    "zz_attachments/Myrria World Map.jpg",
     "_compendium/setting",
     "Stat Blocks/Snow Bison/snow_bison-1679544074.png",
     "bestiary-custom",
-    "zz_templates/action-icons/Untitled",
-    "zz_templates/note-types/stat-blocks",
     "Stat Blocks/Draconian Dreadnaught/draconian_dreadnaught-1675732485.png",
-    "Rewards",
     "_rules/assets/img/two_actions.svg",
     "_rules/assets/img/three_actions.svg",
     "_rules/assets/img/single_action.svg",
     "_rules/assets/img/reaction.svg",
     "_rules/assets/img/load.svg",
     "_rules/assets/img/hour-glass.svg",
-    "_rules/assets/img/delay.svg",
-    "Excalidraw",
-    "zz_templates/note-types/organizations",
-    "zz_attachments/Myrria World Map.jpg",
-    "outside-influences-story/initial character sheets",
-    "outside-influences-story/first-draft",
-    "outside-influences-story",
     "zz_addons/canvas-gm-tables/Game Master Tables.canvas",
     "Untitled.canvas"
   ]

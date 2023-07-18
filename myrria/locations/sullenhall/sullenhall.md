@@ -6,7 +6,6 @@ tags:
 aliases: ["Sullenhall"]
 ---
 # Sullenhall *City-State 12*
-[[metropolis-gmg|metropolis]] [[../../../rules-custom/traits/bastion-city|bastion city]]
 
 Brief Description
 

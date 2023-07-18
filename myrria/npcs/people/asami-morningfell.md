@@ -1,34 +1,36 @@
 ---
 tags:
-- custom
-- character/level/20
-aliases: Asami Morningfell
+- character/protagonist
+- character/lgbtq+
+aliases: Asami Morningfell, Asami
 ---
-# Asami Morningfell *Character 20*
-Traits 
+# Asami Morningfell *Character*
 
 Brief Description
 
-- **Title or Nickname** 
-- **Pronouns** they/them
-- **Ancestry** [Kitsune](../../../_rules/traits/kitsune-loag.md), [Ifrit](../../../_rules/traits/ifrit-b2.md) 
+- **Type** Protagonist
+- **AKA** 
+- **Pronouns** They/Them
+- **Gender Presentation** Androgynous
+- **Sexual Orientation** Aromantic, Asexual
+- **Ancestry** [Kitsune](../../ancestries/uncommon%20ancestries/kitsune.md), [Fireblood](../../ancestries/heritages/extraplanar%20bloods/fireblood.md)
 - **Class** Sorcerer
 - **Birthyear** 
-- **Other Characteristics** 
----
-- **Gender Presentation** Androgynous
-- **Height** 5'9" Kitsune Form, 5'1" Human Form
-- **Body Type** Slim
-- **Hair** 
-- **Eyes** 
-- **Physical Description** 
----
 - **Home** 
 - **Commonly Visited Locations** 
-- **Organizations** [Outside Influence](../../organizations/outside-influence.md) 
----
-- **Inventory** [Cloak of the Phoenix](../../equipment/cloak-of-the-phoenix.md) 
----
-- **Wants/Needs** 
-- **Favorite Quotes** 
-- **Simple Bio/Personality Prompts** 
+- **Connections** [Outside Influence](../../organizations/outside-influence.md)
+
+## Description
+### Appearance
+
+### Personality
+
+## Character Information
+### Notable Items
+- [Cloak of the Phoenix](../../items/cloak-of-the-phoenix.md)
+### Abilities
+
+## Relationships
+
+## Biography
+### Background

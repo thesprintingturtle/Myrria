@@ -5,7 +5,6 @@ tags:
 aliases: Name
 ---
 # Name *Nation*
-Traits 
 
 Brief Description
 

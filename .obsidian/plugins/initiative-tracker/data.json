@@ -96,9 +96,25 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Snow Bison",
+        "initiative": 4,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_9bb8a8aa3ac9",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      }
+    ],
     "state": false,
-    "name": null,
+    "name": "Snow Bison",
     "round": 1,
     "logFile": ""
   },

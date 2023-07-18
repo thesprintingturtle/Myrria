@@ -5,7 +5,6 @@ tags:
 aliases: Name
 ---
 # Name *Settlement X*
-Traits 
 
 Brief Description
 

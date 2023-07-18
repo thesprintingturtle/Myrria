@@ -4,12 +4,12 @@ tags:
 aliases: Name
 ---
 # Name *District X*
-Traits 
 
 Brief Description
 
 - **Government** 
 - **City/Superdistrict** 
+- **Districts**
 - **Population** 
 - **Languages** 
 - **Religions**

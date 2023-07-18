@@ -1,34 +1,36 @@
 ---
 tags:
-- custom
-- character/level/20
-aliases: Alicia Glassbraid
+- character/protagonist
+- character/lgbtq+
+aliases: Alicia Glassbraid, Alicia
 ---
-# Alicia Glassbraid *Character 20*
-Traits 
+# Alicia Glassbraid *Character*
 
 Brief Description
 
-- **Title or Nickname** Ali ([Ismene Mistbren](ismene-mistbren-glassbraid.md))
-- **Pronouns** they/she
-- **Ancestry** [Human](../../../_rules/traits/human.md), [Oread](../../../_rules/traits/oread-b2.md) 
+- **Type** Protagonist
+- **AKA** Ali ([Ismene Mistbren-Glassbraid](ismene-mistbren-glassbraid.md))
+- **Pronouns** They/She
+- **Gender Presentation** Feminine
+- **Sexual Orientation** Lesbian
+- **Ancestry** [Human](../../ancestries/common%20ancestries/human.md), [Earthblood](../../ancestries/heritages/extraplanar%20bloods/earthblood.md)
 - **Class** Barbarian
 - **Birthyear** 
-- **Other Characteristics** 
----
-- **Gender Presentation** Feminine
-- **Height** 5'5"
-- **Body Type** Fit
-- **Hair** Green Glass Fibers, Undercut Left Side
-- **Eyes** 
-- **Physical Description** 
----
 - **Home** 
 - **Commonly Visited Locations** 
-- **Organizations** [Outside Influence](../../organizations/outside-influence.md) 
----
-- **Inventory** [Titanfall Handwraps](../../equipment/titanfall-handwraps.md) 
----
-- **Wants/Needs** 
-- **Favorite Quotes** 
-- **Simple Bio/Personality Prompts** 
+- **Connections** [Outside Influence](../../organizations/outside-influence.md)
+
+## Description
+### Appearance
+Feminine presenting, 5'5", fit, green glass hair, undercut left side
+### Personality
+
+## Character Information
+### Notable Items
+- [Titanfall Handwraps](../../items/titanfall-handwraps.md)
+### Abilities
+
+## Relationships
+
+## Biography
+### Background

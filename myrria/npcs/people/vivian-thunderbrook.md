@@ -1,34 +1,36 @@
 ---
 tags:
-- custom
-- character/level/20
-aliases: Vivian Thunderbrook
+- character/protagonist
+- character/lgbtq+
+aliases: Vivian Thunderbrook, Vivian
 ---
-# Vivian Thunderbrook *Character 20*
-Traits
+# Vivian Thunderbrook *Character*
 
 Brief Description
 
-- **Title or Nickname** Viv
-- **Pronouns** She/her
-- **Ancestry** [Human](../../../_rules/traits/human.md), [Ganzi](../../../_rules/traits/ganzi-loag.md) 
+- **Type** Protagonist
+- **AKA** 
+- **Pronouns** She/Her
+- **Gender Presentation** Feminine
+- **Sexual Orientation** Biromantic, Asexual
+- **Ancestry** [Elf](../../ancestries/common%20ancestries/elf.md), [Faeblood](../../ancestries/heritages/extraplanar%20bloods/faeblood.md)
 - **Class** Magus
 - **Birthyear** 
-- **Other Characteristics** 
----
-- **Gender Presentation** Feminine
-- **Height** 5'6"
-- **Body Type** Fit
-- **Hair** 
-- **Eyes** 
-- **Physical Description** 
----
 - **Home** 
 - **Commonly Visited Locations** 
-- **Organizations** [Outside Influence](../../organizations/outside-influence.md) 
----
-- **Inventory** [Blink Cloak](../../equipment/blink-cloak.md) 
----
-- **Wants/Needs** 
-- **Favorite Quotes** 
-- **Simple Bio/Personality Prompts** 
+- **Connections** [Outside Influence](../../organizations/outside-influence.md)
+
+## Description
+### Appearance
+5'6", fit, black hair, Eyebrow length bangs fade into shoulder length sideburns, pixie from the ears back
+### Personality
+
+## Character Information
+### Notable Items
+- [Blink Cloak](../../items/blink-cloak.md)
+### Abilities
+
+## Relationships
+
+## Biography
+### Background

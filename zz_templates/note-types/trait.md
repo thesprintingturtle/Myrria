@@ -1,9 +1,9 @@
 ---
 tags:
+- trait/trait
 aliases: Name
 ---
 # Name  
-*Source: Custom*  
 
 Description
 

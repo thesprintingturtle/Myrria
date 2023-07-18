@@ -4,8 +4,7 @@ tags:
 - organization/level/12
 aliases: Faewood, Faewood Academy, Faewood Academy for the Extraplanar
 ---
-# Faewood Academy for the Extraplanar *Organization 12*
-Traits 
+# Faewood Academy for the Extraplanar
 
 Brief Description
 

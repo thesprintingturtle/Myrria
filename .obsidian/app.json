@@ -8,9 +8,7 @@
   "userIgnoreFilters": [
     "zz_addons/",
     "zz_attachments/",
-    "zz_templates/",
-    "_gm-screen/",
-    "_compendium/setting/"
+    "zz_templates/"
   ],
   "showFrontmatter": true,
   "readableLineLength": false
