@@ -6,7 +6,6 @@
       {
         "id": "00ba04b2422231e6",
         "type": "tabs",
-        "dimension": 68.31683168316832,
         "children": [
           {
             "id": "887cd8c5215ea39d",
@@ -14,51 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/locations/ignis-concord/ignis-concord.md",
-                "mode": "preview",
+                "file": "zz_templates/note-types/locations/shop.md",
+                "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "8014cade93cf7e2d",
-        "type": "tabs",
-        "dimension": 31.683168316831683,
-        "children": [
+          },
           {
-            "id": "cc4810116e2787bf",
+            "id": "e570173672fe4b97",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "myrria/locations/ignis-concord/ignis-concord.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "quick-notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -74,6 +43,7 @@
       {
         "id": "fdec9a8254a66069",
         "type": "tabs",
+        "dimension": 59.02777777777778,
         "children": [
           {
             "id": "fe511413a3e3564b",
@@ -117,6 +87,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "e9eb00ce789dcdae",
+        "type": "tabs",
+        "dimension": 40.97222222222222,
+        "children": [
+          {
+            "id": "636a09f2ec1a313e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,6 +117,7 @@
       {
         "id": "508c56b6edd43788",
         "type": "tabs",
+        "dimension": 19.930555555555557,
         "children": [
           {
             "id": "0f55a2d0156f1985",
@@ -136,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/locations/ignis-concord/ignis-concord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,20 +141,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/locations/ignis-concord/ignis-concord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "636a09f2ec1a313e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -175,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "myrria/locations/ignis-concord/ignis-concord.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,11 +179,67 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
+      },
+      {
+        "id": "955e53a7a7c73a23",
+        "type": "tabs",
+        "dimension": 39.93055555555556,
+        "children": [
+          {
+            "id": "d9eb1a0b4b263cc6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "19d315f796f4733a",
+        "type": "tabs",
+        "dimension": 40.13888888888889,
+        "children": [
+          {
+            "id": "7b2f9e7c79c6b9f0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.13168724279835395,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 703.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,34 +255,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "cc4810116e2787bf",
+  "active": "d9eb1a0b4b263cc6",
   "lastOpenFiles": [
+    "zz_templates/note-types/locations/shop.md",
+    "zz_templates/note-types/locations/settlement.md",
+    "myrria/items/titanfall-handwraps.md",
+    "myrria/items/thousand-yard-stare.md",
+    "myrria/items/blink-cloak.md",
+    "myrria/items/cloak-of-the-phoenix.md",
+    "zz_templates/note-types/locations/nation.md",
+    "zz_templates/note-types/unique item.md",
+    "zz_templates/note-types/trait.md",
     "zz_templates/note-types/character.md",
+    "zz_templates/note-types/ancestry.md",
+    "myrria/npcs/deities/azreas,the-prismatic-dragon.md",
+    "zz_templates/note-types/locations/district.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/pyrogale.md",
+    "quick-notes.md",
+    "myrria/ancestries/heritages/extraplanar bloods/skyblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/fireblood.md",
+    "myrria/locations/ignis-concord/ignis-concord.md",
     "myrria/ancestries/common ancestries/human.md",
     "myrria/locations/geographic/faelorn-wood.md",
     "myrria/locations/geographic/lockinge-desert.md",
     "myrria/locations/geographic/frostcrag-mountains.md",
-    "zz_templates/note-types/ancestry.md",
     "trait ancestry human.md",
-    "myrria/items/titanfall-handwraps.md",
-    "myrria/items/thousand-yard-stare.md",
-    "myrria/items/cloak-of-the-phoenix.md",
-    "myrria/items/blink-cloak.md",
     "zz_templates/note-types/generic item.md",
-    "zz_templates/note-types/unique item.md",
     "zz_templates/note-types/deity.md",
     "zz_templates/note-types/organization.md",
-    "zz_templates/note-types/trait.md",
-    "myrria/npcs/people/asami-morningfell.md",
-    "myrria/npcs/people/aclicia-glassbraid.md",
-    "myrria/npcs/people/vivian-thunderbrook.md",
-    "myrria/npcs/people/ismene-mistbren-glassbraid.md",
-    "myrria/npcs/deities/azreas,the-prismatic-dragon.md",
-    "Untitled.md",
-    "zz_templates/note-types/locations/shop.md",
-    "zz_templates/note-types/locations/settlement.md",
-    "zz_templates/note-types/locations/nation.md",
-    "zz_templates/note-types/locations/district.md",
     "myrria/ancestries/heritages",
     "myrria/ancestries/uncommon ancestries",
     "myrria/ancestries/common ancestries",

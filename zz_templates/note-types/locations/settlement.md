@@ -1,6 +1,5 @@
 ---
 tags:
-- custom
 - location/settlement/level/X
 aliases: Name
 ---
@@ -8,20 +7,37 @@ aliases: Name
 
 Brief Description
 
-- **Government** 
+- **Full Name** 
+- **AKA** 
+- **Government Structure** 
+- **Head of Government** 
+
 - **Nation** 
+- **Region** 
+- **Districts** 
+	- 
+- **Points of Interest** 
+	- 
+
 - **Population** 
+- **Ancestries** 
+	- 
 - **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant Organizations**
-- **Significant NPCs** 
+	- 
+- **Religions** 
+	- 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

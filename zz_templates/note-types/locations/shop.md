@@ -1,6 +1,5 @@
 ---
 tags:
-- custom
 - location/shop/level/X
 aliases: Name
 ---
@@ -8,18 +7,31 @@ aliases: Name
 
 Brief Description
 
+- **Full Name** 
+- **AKA** 
+- **Type**
+
 - **Location** 
-- **Proprieter**
-- **Quality**
-- **Other Characteristics** 
----
-| Times | Activity Level | Patrons |
-| ----- | -------------- | ------- |
+- **Affiliations** 
+- **Proprietor** 
+- **Staff** 
+- **Services** 
+
+| **Times** | **Activity Level** | **Patrons**    |
+| ----- | -------------- | ---------- |
 |       | Dead           | 1(1d4+1)   |
 |       | Low            | 7(1d8+2)   |
-|       | Avg            | 12(2d8+3)   |
-|       | High           | 18(2d8+9)   |
-|       | Crowded        | 30(3d8+16)  |
+|       | Average        | 12(2d8+3)  |
+|       | High           | 18(2d8+9)  |
+|       | Crowded        | 30(3d8+16) |
 
----
-- **Significant NPCs** 
+## Description
+### Interior
+
+### Exterior
+
+## Stock
+
+## Notable People
+
+## History
