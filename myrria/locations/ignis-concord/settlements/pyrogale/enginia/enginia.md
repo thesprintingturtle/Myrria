@@ -1,26 +1,37 @@
 ---
-tags:
-- custom
-- location/district/level/8
-aliases: Enginia
+aliases: 
 ---
-# Enginia *District 8*
-
+**City/Superdistrict Link**
+# Enginia *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **City** [Pyrogale](../Pyrogale.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: Enginia
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: 
+- **Superdistrict**:: 
+- **Subdistricts**:: 
+- **Points of Interest**:: 
+
+- **Population**:: 1,500,000
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

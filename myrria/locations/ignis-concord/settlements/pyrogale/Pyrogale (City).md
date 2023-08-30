@@ -2,7 +2,7 @@
 aliases: 
 ---
 **Nation Link**
-# Pyrogale *Settlement (level:: X)*
+# Pyrogale (City) *Settlement (level:: X)*
 #location/settlement 
 Brief Description
 
@@ -15,9 +15,9 @@ Brief Description
 - **Region**:: 
 - **Districts**
 	```dataview
-	table
+	table 
 	FROM #location/district 
-	WHERE contains(city, file.name)
+	WHERE contains(settlement, "Pyrogale (City)")
 	```
 - **Points of Interest**
 

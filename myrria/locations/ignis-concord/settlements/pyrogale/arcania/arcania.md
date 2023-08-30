@@ -6,16 +6,16 @@ aliases:
 #location/district  
 Brief Description
 
-- **Full Name**:: 
+- **Full Name**:: Arcania
 - **AKA**:: 
 - **Government Structure**:: 
 - **Head of Government**:: 
 
-- **Settlement**:: [Pyrogale](../Pyrogale.md)
+- **Settlement**:: [Pyrogale (City)](../Pyrogale%20(City).md)
 - **Subdistricts**:: 
 - **Points of Interest**:: 
 
-- **Population**:: 
+- **Population**:: 1,500,000
 - **Ancestries**:: 
 - **Languages**:: 
 - **Religions**:: 

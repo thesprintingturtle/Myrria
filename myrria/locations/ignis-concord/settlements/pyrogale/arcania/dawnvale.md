@@ -1,27 +1,37 @@
 ---
-tags:
-- custom
-- location/district/level/8
-aliases: Dawnvale
+aliases: 
 ---
-# Dawnvale *District 8*
-[Elf](../../../../../../_rules/traits/elf.md) 
-
+**City/Superdistrict Link**
+# Dawnvale *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **Superdistrict** [Arcania](Arcania.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: 
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: 
+- **Superdistrict**:: 
+- **Subdistricts**:: 
+- **Points of Interest**:: 
+
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

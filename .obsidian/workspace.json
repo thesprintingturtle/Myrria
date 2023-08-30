@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
-                "mode": "source",
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
       {
         "id": "508c56b6edd43788",
         "type": "tabs",
-        "dimension": 19.930555555555557,
+        "dimension": 19.26782273603083,
         "children": [
           {
             "id": "0f55a2d0156f1985",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md"
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md"
               }
             }
           },
@@ -174,9 +174,9 @@
         "currentTab": 4
       },
       {
-        "id": "955e53a7a7c73a23",
+        "id": "3dee7048e5a8b345",
         "type": "tabs",
-        "dimension": 39.93055555555556,
+        "dimension": 42.00385356454721,
         "children": [
           {
             "id": "d9eb1a0b4b263cc6",
@@ -191,7 +191,7 @@
       {
         "id": "19d315f796f4733a",
         "type": "tabs",
-        "dimension": 40.13888888888889,
+        "dimension": 38.72832369942196,
         "children": [
           {
             "id": "7b2f9e7c79c6b9f0",
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,14 +251,22 @@
   },
   "active": "e1c4ee39d5b3c348",
   "lastOpenFiles": [
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/ironwatch.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/dawnvale.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Dawnvale.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/rigdrift.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Arcania.md",
+    "zz_templates/note-types/locations/District Template.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md",
+    "zz_templates/note-types/locations/Settlement Template.md",
+    "zz_templates/note-types/locations/Nation Template.md",
     "zz_templates/note-types/Deity Template.md",
     "zz_templates/note-types/Character Template.md",
     "zz_templates/note-types/Ancestry Template.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Arcania.md",
-    "zz_templates/note-types/locations/District Template.md",
-    "zz_templates/note-types/locations/Nation Template.md",
-    "zz_templates/note-types/locations/Settlement Template.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
     "myrria/locations/daggervale/settlements/Daggervale (City).md",
     "myrria/locations/daggervale/Daggervale (Nation).md",
     "zz_templates/note-types/locations/Shop Template.md",
@@ -270,14 +278,6 @@
     "zz_templates/note-types/Generic Item Template.md",
     "myrria/items/blink-cloak.md",
     "myrria/ancestries/common ancestries/Human.md",
-    "myrria/ancestries/common ancestries/Halfling.md",
-    "myrria/ancestries/heritages/extraplanar bloods/earthblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/faeblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/highblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/lawblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/fireblood.md",
-    "myrria/ancestries/common ancestries/elf.md",
-    "myrria/ancestries/common ancestries/dwarf.md",
     "myrria/_MOC",
     "myrria/ancestries/heritages",
     "myrria/ancestries/uncommon ancestries",

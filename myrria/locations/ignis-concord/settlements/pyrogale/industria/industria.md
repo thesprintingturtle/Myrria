@@ -9,7 +9,7 @@ aliases: Industria
 Brief Description
 
 - **Government** 
-- **City** [Pyrogale](../Pyrogale.md) 
+- **City** [Pyrogale (City)](../Pyrogale%20(City).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

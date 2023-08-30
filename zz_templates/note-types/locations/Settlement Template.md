@@ -17,7 +17,7 @@ Brief Description
 	```dataview
 	table
 	FROM #location/district 
-	WHERE city/superdistrict = "<% tp.file.name %>"
+	WHERE contains(settlement, "<% tp.file.title %>")
 	```
 - **Points of Interest**
 
