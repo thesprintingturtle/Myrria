@@ -9,7 +9,7 @@ aliases: ["Ignis Concord"]
 Brief Description
 
 - **Government** 
-- **Capital** [Pyrogale](settlements/pyrogale/pyrogale.md)
+- **Capital** [Pyrogale](settlements/pyrogale/Pyrogale.md)
 - **Population** 
 - **Languages** 
 - **Religions**

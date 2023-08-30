@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "887cd8c5215ea39d",
+            "id": "e1c4ee39d5b3c348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_templates/note-types/locations/shop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e570173672fe4b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quick-notes.md",
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +31,7 @@
       {
         "id": "fdec9a8254a66069",
         "type": "tabs",
-        "dimension": 59.02777777777778,
+        "dimension": 59.027777777777786,
         "children": [
           {
             "id": "fe511413a3e3564b",
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character/lgtbq+",
+                "query": "tag:#trait/settlement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +79,7 @@
       {
         "id": "e9eb00ce789dcdae",
         "type": "tabs",
-        "dimension": 40.97222222222222,
+        "dimension": 40.972222222222214,
         "children": [
           {
             "id": "636a09f2ec1a313e",
@@ -125,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md"
+              }
             }
           },
           {
@@ -207,6 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +222,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13168724279835395,
+                  "scale": 0.0215287184424303,
                   "close": false
                 }
               }
@@ -239,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 703.5
+    "width": 557.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,37 +245,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d9eb1a0b4b263cc6",
+  "active": "e1c4ee39d5b3c348",
   "lastOpenFiles": [
-    "zz_templates/note-types/locations/shop.md",
-    "zz_templates/note-types/locations/settlement.md",
-    "myrria/items/titanfall-handwraps.md",
-    "myrria/items/thousand-yard-stare.md",
+    "zz_templates/note-types/Deity Template.md",
+    "zz_templates/note-types/Character Template.md",
+    "zz_templates/note-types/Ancestry Template.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Arcania.md",
+    "zz_templates/note-types/locations/District Template.md",
+    "zz_templates/note-types/locations/Nation Template.md",
+    "zz_templates/note-types/locations/Settlement Template.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale.md",
+    "myrria/locations/daggervale/settlements/Daggervale (City).md",
+    "myrria/locations/daggervale/Daggervale (Nation).md",
+    "zz_templates/note-types/locations/Shop Template.md",
+    "_MOC/Myrria MOC.md",
+    "zz_templates/note-types/Unique Item Template.md",
+    "zz_templates/note-types/Trait Template.md",
+    "zz_templates/note-types/Organization Template.md",
+    "_MOC",
+    "zz_templates/note-types/Generic Item Template.md",
     "myrria/items/blink-cloak.md",
-    "myrria/items/cloak-of-the-phoenix.md",
-    "zz_templates/note-types/locations/nation.md",
-    "zz_templates/note-types/unique item.md",
-    "zz_templates/note-types/trait.md",
-    "zz_templates/note-types/character.md",
-    "zz_templates/note-types/ancestry.md",
-    "myrria/npcs/deities/azreas,the-prismatic-dragon.md",
-    "zz_templates/note-types/locations/district.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/pyrogale.md",
-    "quick-notes.md",
-    "myrria/ancestries/heritages/extraplanar bloods/skyblood.md",
+    "myrria/ancestries/common ancestries/Human.md",
+    "myrria/ancestries/common ancestries/Halfling.md",
+    "myrria/ancestries/heritages/extraplanar bloods/earthblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/faeblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/highblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/lawblood.md",
     "myrria/ancestries/heritages/extraplanar bloods/fireblood.md",
-    "myrria/locations/ignis-concord/ignis-concord.md",
-    "myrria/ancestries/common ancestries/human.md",
-    "myrria/locations/geographic/faelorn-wood.md",
-    "myrria/locations/geographic/lockinge-desert.md",
-    "myrria/locations/geographic/frostcrag-mountains.md",
-    "trait ancestry human.md",
-    "zz_templates/note-types/generic item.md",
-    "zz_templates/note-types/deity.md",
-    "zz_templates/note-types/organization.md",
+    "myrria/ancestries/common ancestries/elf.md",
+    "myrria/ancestries/common ancestries/dwarf.md",
+    "myrria/_MOC",
     "myrria/ancestries/heritages",
     "myrria/ancestries/uncommon ancestries",
     "myrria/ancestries/common ancestries",
@@ -293,9 +289,7 @@
     "myrria/ecology/fauna",
     "zz_attachments/direction-sign.svg",
     "zz_attachments/Myrria World Map.jpg",
-    "_compendium/setting",
     "Stat Blocks/Snow Bison/snow_bison-1679544074.png",
-    "bestiary-custom",
     "Stat Blocks/Draconian Dreadnaught/draconian_dreadnaught-1675732485.png",
     "_rules/assets/img/two_actions.svg",
     "_rules/assets/img/three_actions.svg",

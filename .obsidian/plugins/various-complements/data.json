@@ -5,7 +5,7 @@
   "fuzzyMatch": true,
   "matchingWithoutEmoji": true,
   "treatAccentDiacriticsAsAlphabeticCharacters": false,
-  "maxNumberOfSuggestions": 5,
+  "maxNumberOfSuggestions": 10,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
   "minNumberOfWordsTriggeredPhrase": 1,
@@ -66,192 +66,56 @@
     "human": {
       "human": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1689489675125
-        }
-      }
-    },
-    "earthblood": {
-      "earthblood": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1689489686035
-        }
-      }
-    },
-    "Relationships": {
-      "Relationships": {
-        "currentFile": {
           "count": 1,
-          "lastUpdated": 1689476269321
+          "lastUpdated": 1693331533759
         }
       }
     },
-    "Ismene Mistbren-Glassbraid": {
-      "Ismene Mistbren-Glassbraid": {
+    "Human": {
+      "Human": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1689489628321
+          "lastUpdated": 1693332133781
         }
       }
     },
-    "Outside Influence": {
-      "Outside Influence": {
-        "internalLink": {
-          "count": 4,
-          "lastUpdated": 1689490911199
-        }
-      }
-    },
-    "Titanfall Handwraps": {
-      "Titanfall Handwraps": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1689490687718
-        }
-      }
-    },
-    "Cloak of the Phoenix": {
-      "Cloak of the Phoenix": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1689490700882
-        }
-      }
-    },
-    "kitsune": {
-      "kitsune": {
+    "__MOC": {
+      "__MOC": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1689490353376
+          "lastUpdated": 1693335498341
         }
       }
     },
-    "fireblood": {
-      "fireblood": {
+    "MOC": {
+      "MOC": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1693336416906
+        }
+      }
+    },
+    "Myrria MOC": {
+      "Myrria MOC": {
         "internalLink": {
           "count": 1,
-          "lastUpdated": 1689490363017
+          "lastUpdated": 1693336518463
         }
       }
     },
-    "elf": {
-      "elf": {
+    "Daggervale": {
+      "Daggervale": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1693337023032
+        }
+      }
+    },
+    "Pyrogale": {
+      "Pyrogale": {
         "internalLink": {
           "count": 2,
-          "lastUpdated": 1689490883691
-        }
-      }
-    },
-    "lawblood": {
-      "lawblood": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689490476146
-        }
-      }
-    },
-    "Gunslinger": {
-      "Gunslinger": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1689490488930
-        }
-      }
-    },
-    "Thousand Yard Stare": {
-      "Thousand Yard Stare": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689490672542
-        }
-      }
-    },
-    "Blink Cloak": {
-      "Blink Cloak": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1689491035968
-        }
-      }
-    },
-    "faeblood": {
-      "faeblood": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689490895899
-        }
-      }
-    },
-    "trait/rarity/unique": {
-      "trait/rarity/unique": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1689531673937
-        }
-      }
-    },
-    "Ismene Mistbren": {
-      "Ismene Mistbren": {
-        "internalLink": {
-          "count": 5,
-          "lastUpdated": 1689539227007
-        }
-      }
-    },
-    "Vivian Thunderbrook": {
-      "Vivian Thunderbrook": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689534391622
-        }
-      }
-    },
-    "Asami Morningfell": {
-      "Asami Morningfell": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689535416728
-        }
-      }
-    },
-    "Alicia Glassbraid": {
-      "Alicia Glassbraid": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689539232523
-        }
-      }
-    },
-    "Handwraps": {
-      "Handwraps": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1689539463465
-        }
-      }
-    },
-    "frostcrag-mountains": {
-      "frostcrag-mountains": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689540246069
-        }
-      }
-    },
-    "lockinge-desert": {
-      "lockinge-desert": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689540466001
-        }
-      }
-    },
-    "faelorn-wood": {
-      "faelorn-wood": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1689540519448
+          "lastUpdated": 1693337473416
         }
       }
     }

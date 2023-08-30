@@ -9,7 +9,7 @@ aliases: ["Nobelia"]
 Brief Description
 
 - **Government** 
-- **City/Superdistrict** [Pyrogale](../pyrogale.md) 
+- **City/Superdistrict** [Pyrogale](../Pyrogale.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

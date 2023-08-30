@@ -1,9 +1,9 @@
 ---
 aliases: 
 ---
-**Nation Link**
-# Pyrogale *Settlement (level:: X)*
-#location/settlement 
+**City/Superdistrict Link**
+# <% tp.file.title %> *District (level:: X)*
+#location/district  
 Brief Description
 
 - **Full Name**:: 
@@ -11,15 +11,10 @@ Brief Description
 - **Government Structure**:: 
 - **Head of Government**:: 
 
-- **Nation**:: 
-- **Region**:: 
-- **Districts**
-	```dataview
-	table
-	FROM #location/district 
-	WHERE contains(city, file.name)
-	```
-- **Points of Interest**
+- **Settlement**:: 
+- **Superdistrict**:: 
+- **Subdistricts**:: 
+- **Points of Interest**:: 
 
 - **Population**:: 
 - **Ancestries**:: 

@@ -10,7 +10,7 @@ aliases: Glimmerstead
 Brief Description
 
 - **Government** 
-- **Superdistrict** [Arcania](arcania.md) 
+- **Superdistrict** [Arcania](Arcania.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

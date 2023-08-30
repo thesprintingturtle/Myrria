@@ -1,26 +1,27 @@
 ---
 aliases: 
 ---
-**City/Superdistrict Link**
-# Arcania *District (level:: X)*
-#location/district  
+**[Nations MOC](../../../_MOC/Myrria%20MOC.md#Nations)**
+# <% tp.file.title %> *Nation*
+#location/nation 
 Brief Description
 
 - **Full Name**:: 
 - **AKA**:: 
+- **Type**:: 
+
 - **Government Structure**:: 
 - **Head of Government**:: 
+- **Military**:: 
 
-- **Settlement**:: [Pyrogale](../Pyrogale.md)
-- **Subdistricts**:: 
-- **Points of Interest**:: 
+- **Plane**:: 
+- **Capital**::  
 
-- **Population**:: 
 - **Ancestries**:: 
 - **Languages**:: 
 - **Religions**:: 
 
-## Description
+## Geography and Environment
 
 ## Society
 ### Demographics

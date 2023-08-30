@@ -1,21 +1,20 @@
 ---
-tags:
-- location/shop/level/X
-aliases: Name
+aliases: 
 ---
-# Name *Shop X*
-
+**Location Link**
+# <% tp.file.title %> *Shop (level:: X)*
+#shop
 Brief Description
 
-- **Full Name** 
-- **AKA** 
-- **Type**
+- **Full Name**:: 
+- **AKA**:: 
+- **Type**:: 
 
-- **Location** 
-- **Affiliations** 
-- **Proprietor** 
-- **Staff** 
-- **Services** 
+- **Location**:: 
+- **Affiliations**:: 
+- **Proprietor**:: 
+- **Staff**:: 
+- **Services**:: 
 
 | **Times** | **Activity Level** | **Patrons**    |
 | ----- | -------------- | ---------- |

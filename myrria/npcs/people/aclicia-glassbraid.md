@@ -13,7 +13,7 @@ Brief Description
 - **Pronouns** They/She
 - **Gender Presentation** Feminine
 - **Sexual Orientation** Lesbian
-- **Ancestry** [Human](../../ancestries/common%20ancestries/human.md), [Earthblood](../../ancestries/heritages/extraplanar%20bloods/earthblood.md)
+- **Ancestry** [Human](../../ancestries/common%20ancestries/Human.md), [Earthblood](../../ancestries/heritages/extraplanar%20bloods/earthblood.md)
 - **Class** Barbarian
 - **Birthyear** 
 - **Home** 

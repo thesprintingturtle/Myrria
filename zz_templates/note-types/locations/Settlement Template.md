@@ -2,7 +2,7 @@
 aliases: 
 ---
 **Nation Link**
-# Pyrogale *Settlement (level:: X)*
+# <% tp.file.title %> *Settlement (level:: X)*
 #location/settlement 
 Brief Description
 
@@ -17,7 +17,7 @@ Brief Description
 	```dataview
 	table
 	FROM #location/district 
-	WHERE contains(city, file.name)
+	WHERE city/superdistrict = "<% tp.file.name %>"
 	```
 - **Points of Interest**
 

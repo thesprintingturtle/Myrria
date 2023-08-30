@@ -1,25 +1,19 @@
 ---
 aliases: 
 ---
-**Nation Link**
-# Pyrogale *Settlement (level:: X)*
+**[Daggervale](../Daggervale%20(Nation).md)**
+# Daggervale *Settlement (level:: 12)*
 #location/settlement 
 Brief Description
 
-- **Full Name**:: 
+- **Full Name**:: Daggervale
 - **AKA**:: 
 - **Government Structure**:: 
 - **Head of Government**:: 
 
-- **Nation**:: 
+- **Nation**:: [Daggervale](../Daggervale%20(Nation).md)
 - **Region**:: 
-- **Districts**
-	```dataview
-	table
-	FROM #location/district 
-	WHERE contains(city, file.name)
-	```
-- **Points of Interest**
+- **Points of Interest**:: 
 
 - **Population**:: 
 - **Ancestries**:: 
