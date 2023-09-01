@@ -2,16 +2,14 @@
 tags:
 - custom
 - location/nation 
-- trait/class/kineticist 
-aliases: ["Lockinge Republic","Lockinge"]
+aliases: ["Slipgarten (Nation)","Slipgarten"]
 ---
-# Lockinge Republic *Nation*
-[kineticist](../../../rules-custom/traits/kineticist.md) 
+# Slipgarten *Nation*
 
 Brief Description
 
 - **Government** 
-- **Capital** [[requiess|Requiess]] 
+- **Capital** [[settlements/Slipgarten (City)|Slipgarten]]
 - **Population** 
 - **Languages** 
 - **Religions**

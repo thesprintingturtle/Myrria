@@ -1,15 +1,15 @@
 ---
 tags:
 - custom
-- location/district/level/12
-aliases: Cindervale
+- location/nation 
+aliases: ["Thundergate (Nation)","Thundergate"]
 ---
-# Cindervale *District 12*
+# Thundergate *Nation*
 
 Brief Description
 
 - **Government** 
-- **Superdistrict** [Nobelia](nobelia.md) 
+- **Capital** [[settlements/Thundergate (City)|Thundergate]] 
 - **Population** 
 - **Languages** 
 - **Religions**

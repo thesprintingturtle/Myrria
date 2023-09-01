@@ -13,12 +13,12 @@ Brief Description
 - **Pronouns** She/Her
 - **Gender Presentation** Feminine
 - **Sexual Orientation** Biromantic, Asexual
-- **Ancestry** [Elf](../../ancestries/common%20ancestries/elf.md), [Faeblood](../../ancestries/heritages/extraplanar%20bloods/faeblood.md)
+- **Ancestry** [Elf](../../ancestries/common%20ancestries/Elf.md), [Faeblood](../../ancestries/heritages/extraplanar%20bloods/Faeblood.md)
 - **Class** Magus
 - **Birthyear** 
 - **Home** 
 - **Commonly Visited Locations** 
-- **Connections** [Outside Influence](../../organizations/outside-influence.md)
+- **Connections** [Outside Influence](../../organizations/Outside%20Influence.md)
 
 ## Description
 ### Appearance
@@ -27,7 +27,7 @@ Brief Description
 
 ## Character Information
 ### Notable Items
-- [Blink Cloak](../../items/blink-cloak.md)
+- [Blink Cloak](../../items/Blink%20Cloak.md)
 ### Abilities
 
 ## Relationships

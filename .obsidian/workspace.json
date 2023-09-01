@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
-                "mode": "preview",
+                "file": "myrria/ancestries/uncommon ancestries/Ratfolk.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
+                "file": "myrria/ancestries/uncommon ancestries/Ratfolk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
+                "file": "myrria/ancestries/uncommon ancestries/Ratfolk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md"
+                "file": "myrria/ancestries/uncommon ancestries/Ratfolk.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
+                "file": "myrria/ancestries/uncommon ancestries/Ratfolk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,33 +251,33 @@
   },
   "active": "e1c4ee39d5b3c348",
   "lastOpenFiles": [
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/ironwatch.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/enginia.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/dawnvale.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Dawnvale.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/rigdrift.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Arcania.md",
-    "zz_templates/note-types/locations/District Template.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md",
-    "zz_templates/note-types/locations/Settlement Template.md",
-    "zz_templates/note-types/locations/Nation Template.md",
-    "zz_templates/note-types/Deity Template.md",
-    "zz_templates/note-types/Character Template.md",
-    "zz_templates/note-types/Ancestry Template.md",
-    "myrria/locations/daggervale/settlements/Daggervale (City).md",
-    "myrria/locations/daggervale/Daggervale (Nation).md",
-    "zz_templates/note-types/locations/Shop Template.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Skyblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Lowblood.md",
     "_MOC/Myrria MOC.md",
-    "zz_templates/note-types/Unique Item Template.md",
-    "zz_templates/note-types/Trait Template.md",
-    "zz_templates/note-types/Organization Template.md",
+    "myrria/ecology/fauna/Snow Bison.md",
+    "myrria/ecology/fauna/Shockwasp.md",
+    "myrria/npcs/people/Aclicia Glassbraid.md",
+    "myrria/npcs/people/ismene-mistbren-glassbraid 1.md",
+    "zz_templates/note-types/locations/District Template.md",
+    "zz_templates/note-types/locations/Nation Template.md",
+    "zz_templates/note-types/locations/Shop Template.md",
+    "zz_templates/note-types/locations/Settlement Template.md",
+    "myrria/locations/thundergate/settlements/Thundergate (City).md",
+    "myrria/locations/talonkirk/settlements/Talonkirk (City).md",
+    "myrria/locations/lonestrom/settlements/Lonestrom (City).md",
+    "myrria/locations/geographic/Faelorn Wood.md",
+    "myrria/locations/ignis-concord/Ignis Concord.md",
+    "myrria/locations/ignis-concord/settlements/Leadenham.md",
+    "myrria/locations/ignis-concord/settlements/Coppergarde.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Skipperburgh.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Glimmerstead.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Dawnvale.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Arcania.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Rigdrift.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Ironwatch.md",
+    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Bellstorm.md",
     "_MOC",
-    "zz_templates/note-types/Generic Item Template.md",
-    "myrria/items/blink-cloak.md",
-    "myrria/ancestries/common ancestries/Human.md",
     "myrria/_MOC",
     "myrria/ancestries/heritages",
     "myrria/ancestries/uncommon ancestries",

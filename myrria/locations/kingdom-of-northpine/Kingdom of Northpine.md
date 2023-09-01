@@ -1,17 +1,17 @@
 ---
 tags:
 - custom
-- location/nation
+- location/nation 
 - trait/class/kineticist 
-aliases: ["United Tribes of Arctis","Arctis"]
+aliases: ["Kingdom of Northpine","Northpine"]
 ---
-# United Tribes of Arctis *Nation*
+# Kingdom of Northpine *Nation*
 [kineticist](../../../rules-custom/traits/kineticist.md) 
 
 Brief Description
 
 - **Government** 
-- **Capital** [[glacia|Glacia]] 
+- **Capital** [[settlements/Arboris|Arboris]] 
 - **Population** 
 - **Languages** 
 - **Religions**
@@ -25,4 +25,5 @@ Brief Description
 - **Factions** 
 - **Threats** 
 ---
+- **Significant Organizations** [Kineticist Nations](../../fundamentals/kineticist-nations.md) 
 - **Significant NPCs** 

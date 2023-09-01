@@ -2,14 +2,16 @@
 tags:
 - custom
 - location/nation 
-aliases: ["Talonkirk (Nation)","Talonkirk"]
+- trait/class/kineticist 
+aliases: ["Lockinge Republic","Lockinge"]
 ---
-# Talonkirk *Nation* 
+# Lockinge Republic *Nation*
+[kineticist](../../../rules-custom/traits/kineticist.md) 
 
 Brief Description
 
 - **Government** 
-- **Capital** [[talonkirk-city|Talonkirk]] 
+- **Capital** [[settlements/Requiess|Requiess]] 
 - **Population** 
 - **Languages** 
 - **Religions**

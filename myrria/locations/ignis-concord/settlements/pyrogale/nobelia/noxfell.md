@@ -9,7 +9,7 @@ aliases: Noxfell
 Brief Description
 
 - **Government** 
-- **Superdistrict** [Nobelia](nobelia.md) 
+- **Superdistrict** [Nobelia](Nobelia.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

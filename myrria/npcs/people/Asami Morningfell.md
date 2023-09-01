@@ -13,12 +13,12 @@ Brief Description
 - **Pronouns** They/Them
 - **Gender Presentation** Androgynous
 - **Sexual Orientation** Aromantic, Asexual
-- **Ancestry** [Kitsune](../../ancestries/uncommon%20ancestries/kitsune.md), [Fireblood](../../ancestries/heritages/extraplanar%20bloods/fireblood.md)
+- **Ancestry** [Kitsune](../../ancestries/uncommon%20ancestries/Kitsune.md), [Fireblood](../../ancestries/heritages/extraplanar%20bloods/Fireblood.md)
 - **Class** Sorcerer
 - **Birthyear** 
 - **Home** 
 - **Commonly Visited Locations** 
-- **Connections** [Outside Influence](../../organizations/outside-influence.md)
+- **Connections** [Outside Influence](../../organizations/Outside%20Influence.md)
 
 ## Description
 ### Appearance
@@ -27,7 +27,7 @@ Brief Description
 
 ## Character Information
 ### Notable Items
-- [Cloak of the Phoenix](../../items/cloak-of-the-phoenix.md)
+- [Cloak of the Phoenix](../../items/Cloak%20of%20the%20Phoenix.md)
 ### Abilities
 
 ## Relationships

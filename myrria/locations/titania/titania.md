@@ -11,7 +11,7 @@ aliases: ["Titania"]
 Brief Description
 
 - **Government** 
-- **Capital** [[ferra|Ferra]] 
+- **Capital** [[settlements/Ferra|Ferra]] 
 - **Population** 
 - **Languages** 
 - **Religions**

@@ -1,19 +1,19 @@
 ---
 tags:
 - custom
-- location/settlement/level/12 
+- location/settlement/level/12
 - trait/settlement/type/metropolis 
 - trait/settlement/bastion-city 
 - trait/settlement/capital-city
-aliases: ["Lonestrom (City)","Lonestrom"]
+aliases: ["Thundergate (City)","Thundergate"]
 ---
-# Lonestrom *Settlement 12*
-[[metropolis-gmg|metropolis]] [[../../../../rules-custom/traits/bastion-city|bastion city]] 
+# Thundergate *Settlement 12*
+[[metropolis-gmg|metropolis]] [[../../../../rules-custom/traits/bastion-city|bastion city]]
 
 Brief Description
 
 - **Government** 
-- **Nation** [[lonestrom-nation|Lonestrom]] 
+- **Nation** [[../Thundergate (Nation)|Thundergate]] 
 - **Population** 
 - **Languages** 
 - **Religions**

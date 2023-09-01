@@ -13,7 +13,7 @@ aliases: ["Slipgarten (City)","Slipgarten"]
 Brief Description
 
 - **Government** 
-- **Nation** [[slipgarten-nation|Slipgarten]] 
+- **Nation** [[../Slipgarten (Nation)|Slipgarten]] 
 - **Population** 
 - **Languages** 
 - **Religions**

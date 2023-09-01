@@ -2,16 +2,14 @@
 tags:
 - custom
 - location/nation 
-- trait/class/kineticist 
-aliases: ["Cloudtop Isles"]
+aliases: ["Talonkirk (Nation)","Talonkirk"]
 ---
-# Cloudtop Isles *Nation*
-[kineticist](../../../rules-custom/traits/kineticist.md) 
+# Talonkirk *Nation* 
 
 Brief Description
 
 - **Government** 
-- **Capital** [Stratos](settlements/stratos.md)
+- **Capital** [[settlements/Talonkirk (City)|Talonkirk]] 
 - **Population** 
 - **Languages** 
 - **Religions**
@@ -26,4 +24,3 @@ Brief Description
 - **Threats** 
 ---
 - **Significant NPCs** 
-

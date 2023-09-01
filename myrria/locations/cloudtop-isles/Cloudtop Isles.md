@@ -1,15 +1,17 @@
 ---
 tags:
 - custom
-- location/nation
-aliases: ["Winterfell (Nation)","Winterfell"]
+- location/nation 
+- trait/class/kineticist 
+aliases: ["Cloudtop Isles"]
 ---
-# Winterfell *Nation*
+# Cloudtop Isles *Nation*
+[kineticist](../../../rules-custom/traits/kineticist.md) 
 
 Brief Description
 
 - **Government** 
-- **Capital** [[winterfell-city|Winterfell]] 
+- **Capital** [Stratos](settlements/Stratos.md)
 - **Population** 
 - **Languages** 
 - **Religions**
@@ -24,3 +26,4 @@ Brief Description
 - **Threats** 
 ---
 - **Significant NPCs** 
+

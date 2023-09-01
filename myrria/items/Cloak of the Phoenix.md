@@ -11,7 +11,7 @@ aliases: Cloak of the Phoenix
 ---
 # Cloak of the Phoenix *Item 23*
 
-Originally created by [Ismene Mistbren](../npcs/people/ismene-mistbren-glassbraid.md) for her close friend, [Asami Morningfell](../npcs/people/asami-morningfell.md), the outside of this cloak is an inky black. The inside layer of this cloak is a deep red with a pattern of light and fire glyphs embroidered in gold. The web of glyphs becomes visually active when the invested wearer senses imminent combat, with [Spellstrands](../fundamentals/spellstrand.md) appearing in stark white.
+Originally created by [Ismene Mistbren](../npcs/people/Ismene%20Mistbren-Glassbraid.md) for her close friend, [Asami Morningfell](../npcs/people/Asami%20Morningfell.md), the outside of this cloak is an inky black. The inside layer of this cloak is a deep red with a pattern of light and fire glyphs embroidered in gold. The web of glyphs becomes visually active when the invested wearer senses imminent combat, with [Spellstrands](../fundamentals/spellstrand.md) appearing in stark white.
 
 - **Type** Worn, Cloak
 - **AKA**
@@ -19,8 +19,8 @@ Originally created by [Ismene Mistbren](../npcs/people/ismene-mistbren-glassbrai
 - **Materials** 
 - **Investment** Yes
 
-- **Creator** [Ismene Mistbren](../npcs/people/ismene-mistbren-glassbraid.md)
-- **Owners** [Asami Morningfell](../npcs/people/asami-morningfell.md)
+- **Creator** [Ismene Mistbren](../npcs/people/Ismene%20Mistbren-Glassbraid.md)
+- **Owners** [Asami Morningfell](../npcs/people/Asami%20Morningfell.md)
 - **Fate**
 
 ## Description

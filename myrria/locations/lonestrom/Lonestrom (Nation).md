@@ -2,16 +2,14 @@
 tags:
 - custom
 - location/nation 
-- trait/class/kineticist 
-aliases: ["Kingdom of Northpine","Northpine"]
+aliases: ["Lonestrom (Nation)","Lonestrom"]
 ---
-# Kingdom of Northpine *Nation*
-[kineticist](../../../rules-custom/traits/kineticist.md) 
+# Lonestrom *Nation*
 
 Brief Description
 
 - **Government** 
-- **Capital** [[arboris|Arboris]] 
+- **Capital** [[settlements/Lonestrom (City)|Lonestrom]] 
 - **Population** 
 - **Languages** 
 - **Religions**
@@ -25,5 +23,4 @@ Brief Description
 - **Factions** 
 - **Threats** 
 ---
-- **Significant Organizations** [Kineticist Nations](../../fundamentals/kineticist-nations.md) 
 - **Significant NPCs** 

@@ -13,7 +13,7 @@ aliases: ["Requiess"]
 Brief Description
 
 - **Government** 
-- **Nation** [[lockinge-republic|Lockinge Republic]] 
+- **Nation** [[../Lockinge Republic|Lockinge Republic]] 
 - **Population** 
 - **Languages** 
 - **Religions**

@@ -13,7 +13,7 @@ aliases: ["Winterfell (City)","Winterfell"]
 Brief Description
 
 - **Government** 
-- **Nation** [[winterfell-nation|Winterfell]] 
+- **Nation** [[../Winterfell (Nation)|Winterfell]] 
 - **Population** 
 - **Languages** 
 - **Religions**

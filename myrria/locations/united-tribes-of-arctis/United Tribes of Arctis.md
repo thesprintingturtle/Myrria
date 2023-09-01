@@ -1,15 +1,17 @@
 ---
 tags:
 - custom
-- location/nation 
-aliases: ["Thundergate (Nation)","Thundergate"]
+- location/nation
+- trait/class/kineticist 
+aliases: ["United Tribes of Arctis","Arctis"]
 ---
-# Thundergate *Nation*
+# United Tribes of Arctis *Nation*
+[kineticist](../../../rules-custom/traits/kineticist.md) 
 
 Brief Description
 
 - **Government** 
-- **Capital** [[thundergate-city|Thundergate]] 
+- **Capital** [[settlements/Glacia|Glacia]] 
 - **Population** 
 - **Languages** 
 - **Religions**

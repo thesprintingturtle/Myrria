@@ -12,7 +12,7 @@ aliases: ["Racketedge"]
 Brief Description
 
 - **Government** 
-- **Nation** [Ignis Concord](../ignis-concord.md) 
+- **Nation** [Ignis Concord](../Ignis%20Concord.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

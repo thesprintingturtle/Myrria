@@ -13,7 +13,7 @@ aliases: ["Talonkirk (City)","Talonkirk"]
 Brief Description
 
 - **Government** 
-- **Nation** [[talonkirk-nation|Talonkirk]] 
+- **Nation** [[../Talonkirk (Nation)|Talonkirk]] 
 - **Population** 
 - **Languages** 
 - **Religions**

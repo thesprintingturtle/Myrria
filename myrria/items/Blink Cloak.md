@@ -12,7 +12,7 @@ aliases: Blink Cloak
 ---
 # Blink Cloak *Item 23*
 
-Originally crafted by [Ismene Mistbren](../npcs/people/ismene-mistbren-glassbraid.md) for her close friend, [Vivian Thunderbrook](../npcs/people/vivian-thunderbrook.md), this cloak
+Originally crafted by [Ismene Mistbren](../npcs/people/Ismene%20Mistbren-Glassbraid.md) for her close friend, [Vivian Thunderbrook](../npcs/people/Vivian%20Thunderbrook.md), this cloak
 
 - **Type** Worn, Cloak
 - **AKA**
@@ -20,8 +20,8 @@ Originally crafted by [Ismene Mistbren](../npcs/people/ismene-mistbren-glassbrai
 - **Materials** 
 - **Investment** Yes
 
-- **Creator** [Ismene Mistbren](../npcs/people/ismene-mistbren-glassbraid.md)
-- **Owners** [Vivian Thunderbrook](../npcs/people/vivian-thunderbrook.md)
+- **Creator** [Ismene Mistbren](../npcs/people/Ismene%20Mistbren-Glassbraid.md)
+- **Owners** [Vivian Thunderbrook](../npcs/people/Vivian%20Thunderbrook.md)
 - **Fate**
 
 ## Description

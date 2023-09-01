@@ -1,15 +1,15 @@
 ---
 tags:
 - custom
-- location/nation 
-aliases: ["Lonestrom (Nation)","Lonestrom"]
+- location/nation
+aliases: ["Winterfell (Nation)","Winterfell"]
 ---
-# Lonestrom *Nation*
+# Winterfell *Nation*
 
 Brief Description
 
 - **Government** 
-- **Capital** [[lonestrom-city|Lonestrom]] 
+- **Capital** [[settlements/Winterfell (City)|Winterfell]] 
 - **Population** 
 - **Languages** 
 - **Religions**

@@ -9,7 +9,7 @@ aliases: Decagarde
 Brief Description
 
 - **Government** 
-- **Superdistrict** [Industria](industria.md) 
+- **Superdistrict** [Industria](Industria.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

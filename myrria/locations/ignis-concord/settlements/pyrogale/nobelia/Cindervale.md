@@ -1,15 +1,15 @@
 ---
 tags:
 - custom
-- location/nation 
-aliases: ["Slipgarten (Nation)","Slipgarten"]
+- location/district/level/12
+aliases: Cindervale
 ---
-# Slipgarten *Nation*
+# Cindervale *District 12*
 
 Brief Description
 
 - **Government** 
-- **Capital** [[slipgarten-city|Slipgarten]]
+- **Superdistrict** [Nobelia](Nobelia.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

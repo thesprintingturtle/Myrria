@@ -13,7 +13,7 @@ aliases: ["Ferra"]
 Brief Description
 
 - **Government** 
-- **Nation** [Titania](../titania.md)  
+- **Nation** [Titania](../Titania.md)  
 - **Population** 
 - **Languages** 
 - **Religions**

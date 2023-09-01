@@ -13,12 +13,12 @@ Brief Description
 - **Pronouns** She/Her
 - **Gender Presentation** Feminine
 - **Sexual Orientation** Pansexual
-- **Ancestry** [Elf](../../ancestries/common%20ancestries/elf.md), [Lawblood](../../ancestries/heritages/extraplanar%20bloods/lawblood.md)
+- **Ancestry** [Elf](../../ancestries/common%20ancestries/Elf.md), [Lawblood](../../ancestries/heritages/extraplanar%20bloods/Lawblood.md)
 - **Class** Gunslinger
 - **Birthyear** 
 - **Home** 
 - **Commonly Visited Locations** 
-- **Connections** [Outside Influence](../../organizations/outside-influence.md)
+- **Connections** [Outside Influence](../../organizations/Outside%20Influence.md)
 
 ## Description
 ### Appearance
@@ -27,10 +27,10 @@ Brief Description
 
 ## Character Information
 ### Notable Items
-- [Thousand Yard Stare](../../items/thousand-yard-stare.md) (In Possession)
-- [Titanfall Handwraps](../../items/titanfall-handwraps.md) (Made)
-- [Cloak of the Phoenix](../../items/cloak-of-the-phoenix.md) (Made)
-- [Blink Cloak](../../items/blink-cloak.md) (Made)
+- [Thousand Yard Stare](../../items/Thousand%20Yard%20Stare.md) (In Possession)
+- [Titanfall Handwraps](../../items/Titanfall%20Handwraps.md) (Made)
+- [Cloak of the Phoenix](../../items/Cloak%20of%20the%20Phoenix.md) (Made)
+- [Blink Cloak](../../items/Blink%20Cloak.md) (Made)
 ### Abilities
 
 ## Relationships

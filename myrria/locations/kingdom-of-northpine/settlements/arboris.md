@@ -13,7 +13,7 @@ aliases: ["Arboris"]
 Brief Description
 
 - **Government** 
-- **Nation** [Kingdom of Northpine](../kingdom-of-northpine.md)
+- **Nation** [Kingdom of Northpine](../Kingdom%20of%20Northpine.md)
 - **Population** 
 - **Languages** 
 - **Religions**
