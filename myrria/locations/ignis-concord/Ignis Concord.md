@@ -23,5 +23,5 @@ Brief Description
 - **Factions** 
 - **Threats** 
 ---
-- **Significant Organizations** [Kineticist Nations](../../fundamentals/kineticist-nations.md)
+- **Significant Organizations** [Kineticist Nations](../../fundamentals/Kineticist%20Nations.md)
 - **Significant NPCs** 

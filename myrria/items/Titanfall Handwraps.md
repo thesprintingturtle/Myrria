@@ -12,7 +12,7 @@ aliases: Titanfall Handwraps
 ---
 # Titanfall Handwraps *Item 23*
 
-Originally made by [Ismene Mistbren](../npcs/people/Ismene%20Mistbren-Glassbraid.md) as a gift for her partner, [Alicia Glassbraid](../npcs/people/Aclicia%20Glassbraid.md), these white canvas handwraps feature a web of force glyphs, intricately embroidered with purple thread. The web of glyphs becomes visually active when the invested wearer senses imminent combat, with [Spellstrands](../fundamentals/spellstrand.md) appearing in stark white.
+Originally made by [Ismene Mistbren](../npcs/people/Ismene%20Mistbren-Glassbraid.md) as a gift for her partner, [Alicia Glassbraid](../npcs/people/Aclicia%20Glassbraid.md), these white canvas handwraps feature a web of force glyphs, intricately embroidered with purple thread. The web of glyphs becomes visually active when the invested wearer senses imminent combat, with [Spellstrands](../fundamentals/Spellstrand.md) appearing in stark white.
 
 - **Type** Weapon, Handwraps
 - **AKA**
