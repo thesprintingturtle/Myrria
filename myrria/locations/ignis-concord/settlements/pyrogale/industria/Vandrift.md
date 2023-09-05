@@ -1,26 +1,41 @@
 ---
-tags:
-- custom
-- location/district/level/5
-aliases: Vandrift
+aliases: 
 ---
-# Vandrift *District 5*
-
+**[Industria](Industria.md)**
+# Vandrift *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **Superdistrict** [Industria](Industria.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: Vandrift
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: [Pyrogale (City)](.obsidian://open?vault=Myrria&file=myrria%2Flocations%2Fignis-concord%2Fsettlements%2Fpyrogale%2FPyrogale%20(City))
+- **Superdistrict**:: Industria
+- **Points of Interest**
+	```dataview
+	table
+	FROM #location/poi 
+	WHERE contains(location, "Vandrift")
+	```
+
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

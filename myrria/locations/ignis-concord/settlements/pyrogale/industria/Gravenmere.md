@@ -1,26 +1,41 @@
 ---
-tags:
-- custom
-- location/district/level/3
-aliases: Gravenmere
+aliases: 
 ---
-# Gravenmere *District 3*
-
+**[Industria](Industria.md)**
+# Gravenmere *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **Superdistrict** [Industria](Industria.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: Gravenmere
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: Pyrogale
+- **Superdistrict**:: Industria
+- **Points of Interest**
+	```dataview
+	table
+	FROM #location/poi 
+	WHERE contains(location, "Gravenmere")
+	```
+
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

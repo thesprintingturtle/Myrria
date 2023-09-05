@@ -5,7 +5,6 @@ tags:
 aliases: Ashbarrow
 ---
 # Ashbarrow *District 12*
-[Elf](../../../../../../_rules/traits/elf.md) 
 
 Brief Description
 

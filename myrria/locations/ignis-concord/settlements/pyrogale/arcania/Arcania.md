@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-**City/Superdistrict Link**
+**[Pyrogale (City)](../Pyrogale%20(City).md)**
 # Arcania *District (level:: X)*
 #location/district  
 Brief Description
@@ -15,7 +15,7 @@ Brief Description
 - **Subdistricts**:: 
 - **Points of Interest**:: 
 
-- **Population**:: 1,500,000
+- **Population**:: 1.5 Million
 - **Ancestries**:: 
 - **Languages**:: 
 - **Religions**:: 

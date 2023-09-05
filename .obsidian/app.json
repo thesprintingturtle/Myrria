@@ -11,5 +11,6 @@
     "zz_templates/"
   ],
   "showFrontmatter": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "propertiesInDocument": "source"
 }

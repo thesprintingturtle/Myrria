@@ -5,7 +5,7 @@ tags:
 aliases: Glimmerstead
 ---
 # Glimmerstead *District 8*
-[Elf](../../../../../../_rules/traits/elf.md) 
+
 
 Brief Description
 

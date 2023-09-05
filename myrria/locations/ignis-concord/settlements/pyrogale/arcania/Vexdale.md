@@ -5,7 +5,7 @@ tags:
 aliases: Vexdale
 ---
 # Vexdale *District 8*
-[Elf](../../../../../../_rules/traits/elf.md) 
+
 
 Brief Description
 

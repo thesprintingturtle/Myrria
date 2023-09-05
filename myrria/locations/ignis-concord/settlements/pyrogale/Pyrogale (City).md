@@ -2,8 +2,8 @@
 aliases: 
 ---
 **Nation Link**
-# Pyrogale (City) *Settlement (level:: X)*
-#location/settlement 
+# Pyrogale *Settlement (level:: X)*
+#location/settlement/city 
 Brief Description
 
 - **Full Name**:: 
@@ -15,9 +15,9 @@ Brief Description
 - **Region**:: 
 - **Districts**
 	```dataview
-	table 
+	table AKA as AKA, Population as Population
 	FROM #location/district 
-	WHERE contains(settlement, "Pyrogale (City)")
+	WHERE contains(settlement, this.file.name) AND !superdistrict
 	```
 - **Points of Interest**
 

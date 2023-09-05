@@ -1,26 +1,47 @@
 ---
-tags:
-- custom
-- location/district/level/2
-aliases: Bolstrom
+aliases: 
 ---
-# Bolstrom *District 2*
-
+**[Industria](Industria.md)**
+# Bolstrom *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **Superdistrict** [Industria](Industria.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: Bolstrom
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: Pyrogale
+- **Superdistrict**:: Industria
+- **Subdistricts**
+	```dataview
+	table
+	FROM #location/district 
+	WHERE contains(superdistrict, "Bolstrom")
+	```
+- **Points of Interest**
+	```dataview
+	table
+	FROM #location/poi 
+	WHERE contains(location, "Bolstrom")
+	```
+
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

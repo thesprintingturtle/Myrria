@@ -1,26 +1,47 @@
 ---
-tags:
-- custom
-- location/district/level/3
-aliases: Coghollow
+aliases: 
 ---
-# Coghollow *District 3*
-
+**[Industria](Industria.md)**
+# Coghollow *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **Superdistrict** [Industria](Industria.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: Coghollow
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: Pyrogale
+- **Superdistrict**:: Industria
+- **Subdistricts**
+	```dataview
+	table
+	FROM #location/district 
+	WHERE contains(superdistrict, "Coghollow")
+	```
+- **Points of Interest**
+	```dataview
+	table
+	FROM #location/poi 
+	WHERE contains(location, "Coghollow")
+	```
+
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

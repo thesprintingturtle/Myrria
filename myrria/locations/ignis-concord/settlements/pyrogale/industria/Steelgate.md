@@ -1,26 +1,41 @@
 ---
-tags:
-- custom
-- location/district/level/4 
-aliases: Steelgate
+aliases: 
 ---
-# Steelgate *District 4*
-
+**City/Superdistrict Link**
+# Steelgate *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **Superdistrict** [Industria](Industria.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: Steelgate
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: Pyrogale
+- **Superdistrict**:: Industria
+- **Points of Interest**
+	```dataview
+	table
+	FROM #location/poi 
+	WHERE contains(location, "Steelgate")
+	```
+
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

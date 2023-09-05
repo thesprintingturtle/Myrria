@@ -13,8 +13,18 @@ Brief Description
 
 - **Settlement**:: 
 - **Superdistrict**:: 
-- **Subdistricts**:: 
-- **Points of Interest**:: 
+- **Subdistricts**
+	```dataview
+	table level as Level, Population as Population, AKA as AKA
+	FROM #location/district 
+	WHERE contains(superdistrict, "<% tp.file.title %>")
+	```
+- **Points of Interest**
+	```dataview
+	table Type as Type, level as Level, AKA as AKA
+	FROM #location/poi 
+	WHERE contains(location, "<% tp.file.title %>")
+	```
 
 - **Population**:: 
 - **Ancestries**:: 

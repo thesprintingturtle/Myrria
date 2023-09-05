@@ -20,7 +20,11 @@ Brief Description
 	WHERE contains(settlement, "<% tp.file.title %>")
 	```
 - **Points of Interest**
-
+	```dataview
+	table
+	FROM #location/poi 
+	WHERE contains(location, "<% tp.file.title %>")
+	```
 - **Population**:: 
 - **Ancestries**:: 
 - **Languages**:: 

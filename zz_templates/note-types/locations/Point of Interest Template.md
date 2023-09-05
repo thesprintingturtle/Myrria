@@ -2,8 +2,8 @@
 aliases: 
 ---
 **Location Link**
-# <% tp.file.title %> *Shop (level:: X)*
-#shop
+# <% tp.file.title %> *Point of Interest (level:: X)*
+#location/poi
 Brief Description
 
 - **Full Name**:: 
@@ -15,7 +15,7 @@ Brief Description
 - **Proprietor**:: 
 - **Staff**:: 
 - **Services**:: 
-
+## Description
 | **Times** | **Activity Level** | **Patrons**    |
 | ----- | -------------- | ---------- |
 |       | Dead           | 1(1d4+1)   |
@@ -23,8 +23,6 @@ Brief Description
 |       | Average        | 12(2d8+3)  |
 |       | High           | 18(2d8+9)  |
 |       | Crowded        | 30(3d8+16) |
-
-## Description
 ### Interior
 
 ### Exterior

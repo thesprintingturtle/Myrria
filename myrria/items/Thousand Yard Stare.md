@@ -11,7 +11,7 @@ aliases: Thousand Yard Stare
 ---
 # Thousand Yard Stare *Item 23*
 
-One of many unique weapons created by legendary gunslinger [Ismene Mistbren-Glassbraid](../npcs/people/Ismene%20Mistbren-Glassbraid.md), this rifle serves as her primary weapon. It has a long, blackened [mithral](../../_compendium/equipment/items/mithral.md) barrel with a [darkwood](../../_compendium/equipment/items/darkwood.md) stock engraved with a pattern of shadow and force glyphs. The web of glyphs becomes visually active when the invested user senses imminent combat, with [Spellstrands](../fundamentals/Spellstrand.md) appearing in stark white.
+One of many unique weapons created by legendary gunslinger [Ismene Mistbren-Glassbraid](../characters/people/Ismene%20Mistbren-Glassbraid.md), this rifle serves as her primary weapon. It has a long, blackened [mithral](../../_compendium/equipment/items/mithral.md) barrel with a [darkwood](../../_compendium/equipment/items/darkwood.md) stock engraved with a pattern of shadow and force glyphs. The web of glyphs becomes visually active when the invested user senses imminent combat, with [Spellstrands](../terms/Spellstrand.md) appearing in stark white.
 
 - **Type** Weapon, Jezail
 - **AKA**
@@ -19,8 +19,8 @@ One of many unique weapons created by legendary gunslinger [Ismene Mistbren-Glas
 - **Materials** 
 - **Investment** Yes
 
-- **Creator** [Ismene Mistbren](../npcs/people/Ismene%20Mistbren-Glassbraid.md)
-- **Owners** [Ismene Mistbren-Glassbraid](../npcs/people/Ismene%20Mistbren-Glassbraid.md)
+- **Creator** [Ismene Mistbren](../characters/people/Ismene%20Mistbren-Glassbraid.md)
+- **Owners** [Ismene Mistbren-Glassbraid](../characters/people/Ismene%20Mistbren-Glassbraid.md)
 - **Fate**
 
 ## Description

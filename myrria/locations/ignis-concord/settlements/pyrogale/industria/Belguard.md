@@ -1,26 +1,47 @@
 ---
-tags:
-- custom
-- location/district/level/4
-aliases: Belguard
+aliases: 
 ---
-# Belguard *District 4*
-
+**[Industria](Industria.md)**
+# Belguard *District (level:: X)*
+#location/district  
 Brief Description
 
-- **Government** 
-- **Superdistrict** [Industria](Industria.md) 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: Belguard
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Settlement**:: Pyrogale
+- **Superdistrict**:: Industria
+- **Subdistricts**
+	```dataview
+	table
+	FROM #location/district 
+	WHERE contains(superdistrict, "Belguard")
+	```
+- **Points of Interest**
+	```dataview
+	table
+	FROM #location/poi 
+	WHERE contains(location, "Belguard")
+	```
+
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

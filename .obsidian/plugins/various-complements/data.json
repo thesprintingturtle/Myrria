@@ -126,6 +126,58 @@
           "lastUpdated": 1693414585049
         }
       }
+    },
+    "Industria": {
+      "Industria": {
+        "internalLink": {
+          "count": 17,
+          "lastUpdated": 1693942603674
+        },
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1693942619007
+        }
+      }
+    },
+    "Pyrogale (City)": {
+      "Pyrogale (City)": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1693942864582
+        }
+      }
+    },
+    "Coghollow": {
+      "Coghollow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693942523195
+        }
+      }
+    },
+    "Cantham": {
+      "Cantham": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693942547917
+        }
+      }
+    },
+    "Bolstrom": {
+      "Bolstrom": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693942576819
+        }
+      }
+    },
+    "Belguard": {
+      "Belguard": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693942609844
+        }
+      }
     }
   }
 }

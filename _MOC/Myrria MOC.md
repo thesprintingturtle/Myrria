@@ -31,34 +31,34 @@ FROM #geography
 ```
 ### Nations
 ```dataview
-table aka as "AKA", plane as "Plane", capital as "Capital"
+table plane as Plane, capital as Capital, aka as AKA
 FROM #location/nation 
 ```
 ## Items
 ### Generic Items
 ```dataview
-table aka as "AKA", type as "Type", rarity as "Rarity"
+table type as "Type", rarity as "Rarity", aka as AKA
 FROM #item AND !#trait/rarity/unique
 ```
 ### Unique Items
 ```dataview
-table aka as "AKA", type as "Type", fate as "Fate"
+table type as "Type", fate as "Fate", aka as AKA
 FROM #item AND #trait/rarity/unique 
 ```
 ## People
 ### Characters
 ```dataview
-table aka as "AKA", pronouns as "Pronouns", type as "Type"
+table pronouns as "Pronouns", type as "Type", aka as AKA
 from #character
 ```
 ### Organizations
 ```dataview
-table aka as "AKA", type as "Type"
+table type as "Type", member-count as "Member Count", aka as AKA
 from #organization 
 ```
 ### Deities
 ```dataview
-table title as "Title", aka as "AKA", type as "Type", province as "Province"
+table title as "Title", type as "Type", province as "Province", aka as AKA
 FROM #deity
 ```
 

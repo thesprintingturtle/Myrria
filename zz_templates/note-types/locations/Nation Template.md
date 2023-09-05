@@ -24,6 +24,18 @@ Brief Description
 ## Geography and Environment
 
 ## Society
+#### Cities
+```dataview
+table level as Level, population as Population, aka as AKA
+FROM #location/settlement/city 
+WHERE contains(nation, this.file.name)
+```
+#### Towns
+```dataview
+table level as Level, population as Population, aka as AKA
+FROM #location/settlement/town 
+WHERE contains(nation, this.file.name)
+```
 ### Demographics
 
 ### Politics
