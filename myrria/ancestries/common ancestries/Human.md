@@ -5,7 +5,7 @@ tags:
 aliases: human
 ---
 # Human *Ancestry*
-#ancestry #trait/ancestry/human 
+#ancestry #trait/ancestry/human #exclude
 The most common of any peoples of Myrria, Humans are also the most varied. Humans excel in their adaptability and versatility, being able to live in nearly any environment Myrria has to offer.
 
 - **Type**:: Humanoid

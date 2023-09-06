@@ -15,13 +15,13 @@ Brief Description
 - **Region**:: 
 - **Districts**
 	```dataview
-	table
+	table level as Level, Population as Population, AKA as AKA
 	FROM #location/district 
 	WHERE contains(settlement, "<% tp.file.title %>")
 	```
 - **Points of Interest**
 	```dataview
-	table
+	table Type as Type, level as Level, AKA as AKA
 	FROM #location/poi 
 	WHERE contains(location, "<% tp.file.title %>")
 	```

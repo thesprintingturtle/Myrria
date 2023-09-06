@@ -7,6 +7,7 @@ aliases:
 Brief Description
 
 - **Type**:: 
+- **Title**:: 
 - **AKA**:: 
 - **Pronouns**:: 
 - **Gender Presentation**:: 

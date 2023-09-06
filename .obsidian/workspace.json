@@ -18,6 +18,102 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":65},\"to\":{\"line\":14,\"ch\":65}}}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":15},\"to\":{\"line\":13,\"ch\":15}}}"
+                },
+                {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":47},\"to\":{\"line\":23,\"ch\":6}}}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":59},\"to\":{\"line\":17,\"ch\":59}}}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":59},\"to\":{\"line\":17,\"ch\":59}}}"
+                },
+                {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":59},\"to\":{\"line\":17,\"ch\":6}}}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":44},\"to\":{\"line\":10,\"ch\":29}}}"
+                },
+                {
+                  "title": "Character Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Character Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":14},\"to\":{\"line\":9,\"ch\":14}}}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":29},\"to\":{\"line\":10,\"ch\":29}}}"
+                },
+                {
+                  "title": "Faewood Academy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/organizations/Faewood Academy.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Point of Interest Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Nation Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":16},\"to\":{\"line\":38,\"ch\":16}},\"scroll\":5.7890625}"
+                },
+                {
                   "title": "Settlement Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
@@ -598,14 +694,291 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_templates/note-types/locations/Nation Template.md",
+                "file": "myrria/characters/people/Celwyn Qitra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b3ca262a1d485a2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "kineticist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rules-custom/traits/kineticist.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Turtlefolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Turtlefolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":1.0416666666666667}"
+                },
+                {
+                  "title": "Serpentfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Serpentfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ratfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Ratfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Plantfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Plantfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Orc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Orc.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monkeyfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Monkeyfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Merfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Merfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lizardfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Lizardfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Kobold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Kobold.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kitsune",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Kitsune.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hobgoblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Hobgoblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Frogfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Frogfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Catfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Catfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Birdfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Birdfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Woodblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Woodblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Waterblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Waterblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stormblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Stormblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Steelblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Steelblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Skyblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Skyblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Shadowblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Shadowblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lowblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Lowblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lawblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Lawblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Highblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Highblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fireblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Fireblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Faeblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Faeblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Earthblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Earthblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Human",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Human.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":40},\"to\":{\"line\":7,\"ch\":40}}}"
+                },
+                {
+                  "title": "Halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Halfling.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gnome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Gnome.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Elf.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dwarf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Dwarf.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ancestry Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Ancestry Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
+                },
+                {
+                  "title": "Cyntrem Council",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/organizations/Cyntrem Council.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":44},\"to\":{\"line\":29,\"ch\":44}},\"scroll\":0}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":46},\"to\":{\"line\":10,\"ch\":46}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "myrria/organizations/Cyntrem Council.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "0a8e515ae6e6b4da"
+            "group": "dbb0c1e41920e004"
+          },
+          {
+            "id": "893877aeb741e1df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":18},\"to\":{\"line\":30,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Mossrock Peaks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/geographic/Mossrock Peaks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":89},\"to\":{\"line\":6,\"ch\":89}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MOC/Myrria MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -753,7 +1126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_templates/note-types/locations/Nation Template.md",
+                "file": "myrria/organizations/Cyntrem Council.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -779,7 +1152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_templates/note-types/locations/Nation Template.md",
+                "file": "myrria/organizations/Cyntrem Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -800,7 +1173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz_templates/note-types/locations/Nation Template.md"
+                "file": "myrria/organizations/Cyntrem Council.md"
               }
             }
           },
@@ -908,10 +1281,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zz_templates/note-types/locations/Nation Template.md",
+                "file": "myrria/organizations/Cyntrem Council.md",
                 "options": {
-                  "collapse-filter": true,
-                  "search": "",
+                  "collapse-filter": false,
+                  "search": "-#exclude",
                   "localJumps": 2,
                   "localBacklinks": false,
                   "localForelinks": true,
@@ -936,7 +1309,7 @@
                 }
               }
             },
-            "group": "0a8e515ae6e6b4da"
+            "group": "dbb0c1e41920e004"
           }
         ]
       }
@@ -959,34 +1332,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1c4ee39d5b3c348",
+  "active": "0b3ca262a1d485a2",
   "lastOpenFiles": [
-    "zz_templates/note-types/locations/Settlement Template.md",
-    "zz_templates/note-types/locations/District Template.md",
-    "zz_templates/note-types/locations/Nation Template.md",
-    "zz_templates/note-types/locations/Point of Interest Template.md",
-    "myrria/terms/Bastion Cities.md",
     "_MOC/Myrria MOC.md",
-    "zz_templates/note-types/Deity Template.md",
-    "zz_templates/note-types/Character Template.md",
-    "zz_templates/note-types/Ancestry Template.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Arcania.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Industria.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Belguard.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Bolstrom.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Cantham.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Coghollow.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Decagarde.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Dipperwall.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Glimmerstead.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Spindlehaven.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/arcania/Vexdale.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/nobelia/Ashbarrow.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md",
-    "rules-custom/traits/port.md",
-    "myrria/locations/ignis-concord/settlements/pyrogale/industria/Dynaborough.md",
+    "myrria/organizations/Cyntrem Council.md",
+    "myrria/locations/slipgarten/settlements/Slipgarten (City).md",
+    "myrria/ecology/flora/Faewood Tree.md",
+    "myrria/ecology/flora",
+    "myrria/locations/geographic/Mossrock Peaks.md",
+    "myrria/locations/thundergate/settlements/Thundergate (City).md",
+    "rules-custom/traits/kineticist.md",
+    "rules-custom/traits/bastion-city.md",
+    "myrria/characters/people/Celwyn Qitra.md",
+    "myrria/ancestries/uncommon ancestries/Turtlefolk.md",
+    "myrria/ancestries/uncommon ancestries/Serpentfolk.md",
+    "myrria/ancestries/uncommon ancestries/Ratfolk.md",
+    "myrria/ancestries/uncommon ancestries/Plantfolk.md",
+    "myrria/ancestries/uncommon ancestries/Orc.md",
+    "myrria/ancestries/uncommon ancestries/Monkeyfolk.md",
+    "myrria/ancestries/uncommon ancestries/Merfolk.md",
+    "myrria/ancestries/uncommon ancestries/Lizardfolk.md",
+    "myrria/ancestries/uncommon ancestries/Kobold.md",
+    "myrria/ancestries/uncommon ancestries/Kitsune.md",
+    "myrria/ancestries/uncommon ancestries/Hobgoblin.md",
+    "myrria/ancestries/uncommon ancestries/Frogfolk.md",
+    "myrria/ancestries/uncommon ancestries/Catfolk.md",
+    "myrria/ancestries/uncommon ancestries/Birdfolk.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Woodblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Waterblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Stormblood.md",
     "_MOC",
     "myrria/_MOC",
     "myrria/ancestries/heritages",
@@ -996,7 +1370,6 @@
     "myrria/ancestries",
     "myrria/ecology/flora",
     "myrria/ecology",
-    "myrria/ecology/fauna",
     "zz_attachments/direction-sign.svg",
     "zz_attachments/Myrria World Map.jpg",
     "Stat Blocks/Snow Bison/snow_bison-1679544074.png",

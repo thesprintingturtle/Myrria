@@ -1,30 +1,46 @@
 ---
-tags:
-- custom
-- location/settlement/level/12
-- trait/settlement/type/metropolis 
-- trait/settlement/bastion-city 
-- trait/settlement/capital-city
-aliases: ["Thundergate (City)","Thundergate"]
+aliases: 
 ---
-# Thundergate *Settlement 12*
-[[metropolis-gmg|metropolis]] [[../../../../rules-custom/traits/bastion-city|bastion city]]
-
+**Nation Link**
+# Thundergate (City) *Settlement (level:: 12)*
+#location/settlement/city 
 Brief Description
 
-- **Government** 
-- **Nation** [[../Thundergate (Nation)|Thundergate]] 
-- **Population** 
-- **Languages** 
-- **Religions**
-- **Threats** 
-- **Other Characteristics** 
----
-- **Primary Exports** 
-- **Primary Imports** 
-- **Allies** 
-- **Enemies** 
-- **Factions** 
-- **Threats** 
----
-- **Significant NPCs** 
+- **Full Name**:: 
+- **AKA**:: 
+- **Government Structure**:: 
+- **Head of Government**:: 
+
+- **Nation**:: 
+- **Region**:: 
+- **Districts**
+	```dataview
+	table level as Level, Population as Population, AKA as AKA
+	FROM #location/district 
+	WHERE contains(settlement, "Thundergate (City)")
+	```
+- **Points of Interest**
+	```dataview
+	table Type as Type, level as Level, AKA as AKA
+	FROM #location/poi 
+	WHERE contains(location, "Thundergate (City)")
+	```
+- **Population**:: 
+- **Ancestries**:: 
+- **Languages**:: 
+- **Religions**:: 
+
+## Description
+
+## Society
+### Demographics
+
+### Politics
+
+### Military
+
+### Laws
+
+### Religion
+
+## History

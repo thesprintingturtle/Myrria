@@ -1,4 +1,5 @@
 # Myrria MOC
+#exclude
 Map of content for all things Myrria
 ## Ancestries/Heritages
 ### Ancestries

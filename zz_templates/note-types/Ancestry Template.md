@@ -3,7 +3,7 @@ aliases:
 ---
 **[Ancestries MOC](../../_MOC/Myrria%20MOC.md#Ancestries)**
 # <% tp.file.title %> *Ancestry*
-#ancestry 
+#ancestry #exclude
 Brief Description
 
 - **Type**:: 
