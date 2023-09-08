@@ -13,7 +13,7 @@ aliases: ["Glacia"]
 Brief Description
 
 - **Government** 
-- **Nation** [[../United Tribes of Arctis|United Tribes of Arctis]] 
+- **Nation** [../United Tribes of Arctis.md](../United%20Tribes%20of%20Arctis.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

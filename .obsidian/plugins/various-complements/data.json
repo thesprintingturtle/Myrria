@@ -28,7 +28,7 @@
   "disableUpDownKeysForCycleThroughSuggestionsKeys": true,
   "openSourceFileKey": "None",
   "propagateEsc": false,
-  "enableCurrentFileComplement": true,
+  "enableCurrentFileComplement": false,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
   "enableCurrentVaultComplement": false,
@@ -98,8 +98,8 @@
     "Myrria MOC": {
       "Myrria MOC": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1694036826280
+          "count": 6,
+          "lastUpdated": 1694114606354
         }
       }
     },

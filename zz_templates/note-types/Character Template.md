@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-**[Characters MOC](../../_MOC/Myrria%20MOC.md#Characters)**
+**[Characters MOC](Myrria%20MOC#Characters)**
 # <% tp.file.title %> *Character (level:: X)*
 #character 
 Brief Description

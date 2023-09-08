@@ -9,7 +9,7 @@ aliases: ["Winterfell (Nation)","Winterfell"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Winterfell (City)|Winterfell]] 
+- **Capital** [settlements/Winterfell (City).md](settlements/Winterfell%20(City).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

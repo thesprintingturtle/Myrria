@@ -1,7 +1,7 @@
 ---
 aliases: Name
 ---
-**[Deities MOC](../../_MOC/Myrria%20MOC.md#Deities)**
+**[Deities MOC](Myrria%20MOC.md#Deities)**
 # <% tp.file.title %> *Deity*
 #deity
 Brief Description

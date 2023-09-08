@@ -8,12 +8,12 @@ tags:
 aliases: ["Winterfell (City)","Winterfell"]
 ---
 # Winterfell *Settlement 12*
-[[metropolis-gmg|metropolis]] [[../../../../rules-custom/traits/bastion-city|bastion city]] 
+[metropolis](metropolis-gmg) [bastion city](../../../../rules-custom/traits/bastion-city) 
 
 Brief Description
 
 - **Government** 
-- **Nation** [[../Winterfell (Nation)|Winterfell]] 
+- **Nation** [../Winterfell (Nation).md](../Winterfell%20(Nation).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

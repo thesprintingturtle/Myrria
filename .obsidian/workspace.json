@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1c4ee39d5b3c348",
+            "id": "893877aeb741e1df",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,148 +18,334 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Slipgarten (City)",
+                  "title": "Character Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":65},\"to\":{\"line\":14,\"ch\":65}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Character Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Settlement Template",
+                  "title": "Aclicia Glassbraid",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":15},\"to\":{\"line\":13,\"ch\":15}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/characters/people/Aclicia Glassbraid.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "District Template",
+                  "title": "Azreas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":47},\"to\":{\"line\":23,\"ch\":6}}}"
-                },
-                {
-                  "title": "Slipgarten (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":59},\"to\":{\"line\":17,\"ch\":59}}}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":59},\"to\":{\"line\":17,\"ch\":59}}}"
-                },
-                {
-                  "title": "District Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":59},\"to\":{\"line\":17,\"ch\":6}}}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/characters/deities/Azreas.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Slipgarten (City)",
+                  "title": "Snow Bison",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":44},\"to\":{\"line\":10,\"ch\":29}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ecology/fauna/Snow Bison.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Turtlefolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Turtlefolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":18},\"to\":{\"line\":5,\"ch\":18}}}"
+                },
+                {
+                  "title": "Serpentfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Serpentfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Ratfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Ratfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Plantfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Plantfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":48},\"to\":{\"line\":3,\"ch\":48}}}"
+                },
+                {
+                  "title": "Orc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Orc.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Monkeyfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Monkeyfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Merfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Merfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Lizardfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Lizardfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Kobold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Kobold.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Kitsune",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Kitsune.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Hobgoblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Hobgoblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Frogfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Frogfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Catfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Catfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Birdfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Birdfolk.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "Woodblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Woodblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":9.871445497630331}"
+                },
+                {
+                  "title": "Waterblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Waterblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Stormblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Stormblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Steelblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Steelblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Skyblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Skyblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}}}"
+                },
+                {
+                  "title": "Shadowblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Shadowblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Lowblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Lowblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Lawblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Lawblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Highblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Highblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Fireblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Fireblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Faeblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Faeblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Earthblood",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Earthblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Human",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Human.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                },
+                {
+                  "title": "Halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Halfling.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Goblin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Gnome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Gnome.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Elf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Elf.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Dwarf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Dwarf.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":19},\"to\":{\"line\":3,\"ch\":19}}}"
+                },
+                {
+                  "title": "Heritage Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Heritage Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":46},\"to\":{\"line\":3,\"ch\":46}}}"
+                },
+                {
+                  "title": "Dwarf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Dwarf.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":59},\"to\":{\"line\":3,\"ch\":59}}}"
+                },
+                {
+                  "title": "Nation Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Nation Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Point of Interest Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Nation Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":39},\"to\":{\"line\":3,\"ch\":39}}}"
+                },
+                {
+                  "title": "Ancestry Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Ancestry Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":45},\"to\":{\"line\":3,\"ch\":45}}}"
+                },
+                {
+                  "title": "Unique Item Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Unique Item Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":21},\"to\":{\"line\":3,\"ch\":21}}}"
+                },
+                {
+                  "title": "Trait Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Trait Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Organization Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Organization Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}}}"
+                },
+                {
+                  "title": "Heritage Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Heritage Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
+                },
+                {
+                  "title": "Generic Item Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Generic Item Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":18},\"to\":{\"line\":5,\"ch\":18}}}"
+                },
+                {
+                  "title": "Deity Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Deity Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
                 },
                 {
                   "title": "Character Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Character Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":14},\"to\":{\"line\":9,\"ch\":14}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":45},\"to\":{\"line\":3,\"ch\":45}}}"
                 },
                 {
-                  "title": "Slipgarten (City)",
+                  "title": "Deity Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":29},\"to\":{\"line\":10,\"ch\":29}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Deity Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":53},\"to\":{\"line\":3,\"ch\":53}}}"
                 },
                 {
-                  "title": "Faewood Academy",
+                  "title": "Character Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/organizations/Faewood Academy.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Character Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
                 },
                 {
-                  "title": "Slipgarten (City)",
+                  "title": "Ancestry Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Ancestry Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":44},\"to\":{\"line\":3,\"ch\":44}}}"
                 },
                 {
-                  "title": "Settlement Template",
+                  "title": "Character Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Point of Interest Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "District Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Nation Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":16},\"to\":{\"line\":38,\"ch\":16}},\"scroll\":5.7890625}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "District Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nation Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Point of Interest Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":15},\"to\":{\"line\":14,\"ch\":15}},\"scroll\":0}"
-                },
-                {
-                  "title": "Nation Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":6},\"to\":{\"line\":28,\"ch\":6}},\"scroll\":5.7890625}"
-                },
-                {
-                  "title": "Bastion Cities",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/terms/Bastion Cities.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":575},\"to\":{\"line\":5,\"ch\":575}},\"scroll\":0}"
-                },
-                {
-                  "title": "Myrria MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_MOC/Myrria MOC.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":15},\"to\":{\"line\":64,\"ch\":15}},\"scroll\":24.672526041666668}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Character Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":27},\"to\":{\"line\":3,\"ch\":27}}}"
                 },
                 {
                   "title": "Deity Template",
@@ -171,7 +357,43 @@
                   "title": "Character Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Character Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":4},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nation Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":19},\"to\":{\"line\":12,\"ch\":19}}}"
+                },
+                {
+                  "title": "Point of Interest Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Nation Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Point of Interest Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nation Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
                 },
                 {
                   "title": "Ancestry Template",
@@ -183,770 +405,61 @@
                   "title": "Settlement Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "District Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nation Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Pyrogale (City)",
+                  "title": "Ancestry Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Ancestry Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}}}"
+                },
+                {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Nation Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":18},\"to\":{\"line\":8,\"ch\":18}}}"
                 },
                 {
-                  "title": "District Template",
+                  "title": "Ancestry Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":19},\"to\":{\"line\":28,\"ch\":19}}}"
-                },
-                {
-                  "title": "Pyrogale (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arcania",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/arcania/Arcania.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}}}"
-                },
-                {
-                  "title": "Pyrogale (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":18},\"to\":{\"line\":25,\"ch\":18}},\"scroll\":0}"
-                },
-                {
-                  "title": "Industria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Industria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}},\"scroll\":2.8333333333333335}"
-                },
-                {
-                  "title": "Belguard",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Belguard.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}},\"scroll\":0}"
-                },
-                {
-                  "title": "Bolstrom",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Bolstrom.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}}}"
-                },
-                {
-                  "title": "Cantham",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Cantham.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}}}"
-                },
-                {
-                  "title": "Coghollow",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Coghollow.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":27},\"to\":{\"line\":8,\"ch\":27}}}"
-                },
-                {
-                  "title": "Decagarde",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Decagarde.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":27},\"to\":{\"line\":13,\"ch\":27}}}"
-                },
-                {
-                  "title": "Dipperwall",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Dipperwall.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Glimmerstead",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/arcania/Glimmerstead.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Spindlehaven",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/arcania/Spindlehaven.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Vexdale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/arcania/Vexdale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Ashbarrow",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/nobelia/Ashbarrow.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":25},\"to\":{\"line\":6,\"ch\":25}}}"
-                },
-                {
-                  "title": "Vandrift",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":33},\"to\":{\"line\":4,\"ch\":33}}}"
-                },
-                {
-                  "title": "Decagarde",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Decagarde.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":22},\"to\":{\"line\":14,\"ch\":22}}}"
-                },
-                {
-                  "title": "Dipperwall",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Dipperwall.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":28},\"to\":{\"line\":8,\"ch\":28}}}"
-                },
-                {
-                  "title": "Dynaborough",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Dynaborough.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Dipperwall",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Dipperwall.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
-                },
-                {
-                  "title": "Dynaborough",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Dynaborough.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":27},\"to\":{\"line\":13,\"ch\":27}}}"
-                },
-                {
-                  "title": "Pyrogale (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Dynaborough",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Dynaborough.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
-                },
-                {
-                  "title": "Gravenmere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Gravenmere.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}}}"
-                },
-                {
-                  "title": "Industria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Industria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}},\"scroll\":0}"
-                },
-                {
-                  "title": "Paravale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Paravale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":2.8333333333333335}"
-                },
-                {
-                  "title": "Skipperburgh",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Skipperburgh.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Vandrift",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Terradale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Terradale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Steelgate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Steelgate.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":31},\"to\":{\"line\":14,\"ch\":31}}}"
-                },
-                {
-                  "title": "Skipperburgh",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Skipperburgh.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}}}"
-                },
-                {
-                  "title": "Steelgate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Steelgate.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Terradale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Terradale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":27},\"to\":{\"line\":13,\"ch\":27}}}"
-                },
-                {
-                  "title": "Steelgate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Steelgate.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":18},\"to\":{\"line\":15,\"ch\":18}}}"
-                },
-                {
-                  "title": "Terradale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Terradale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":29},\"to\":{\"line\":10,\"ch\":29}}}"
-                },
-                {
-                  "title": "Vandrift",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Industria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Industria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.889973958333333}"
-                },
-                {
-                  "title": "Vandrift",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":27},\"to\":{\"line\":13,\"ch\":27}}}"
-                },
-                {
-                  "title": "Pyrogale (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":18},\"to\":{\"line\":8,\"ch\":18}},\"scroll\":0}"
-                },
-                {
-                  "title": "Skipperburgh",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Skipperburgh.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}}}"
-                },
-                {
-                  "title": "Steelgate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Steelgate.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Terradale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Terradale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":61},\"to\":{\"line\":13,\"ch\":61}}}"
-                },
-                {
-                  "title": "Vandrift",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":61},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Terradale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Terradale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Vandrift",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":24},\"to\":{\"line\":15,\"ch\":24}}}"
-                },
-                {
-                  "title": "Pyrogale (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
-                },
-                {
-                  "title": "Steelgate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Steelgate.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":18},\"to\":{\"line\":15,\"ch\":18}}}"
-                },
-                {
-                  "title": "Terradale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Terradale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}}}"
-                },
-                {
-                  "title": "Vandrift",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Vandrift.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":47},\"to\":{\"line\":13,\"ch\":47}},\"scroll\":0}"
-                },
-                {
-                  "title": "Industria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Industria.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":2.8333333333333335}"
-                },
-                {
-                  "title": "Paravale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Paravale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":29},\"to\":{\"line\":10,\"ch\":29}}}"
-                },
-                {
-                  "title": "District Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":19},\"to\":{\"line\":28,\"ch\":19}},\"scroll\":0}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":4},\"to\":{\"line\":22,\"ch\":0}}}"
-                },
-                {
-                  "title": "District Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nation Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Nation Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Point of Interest Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}}}"
-                },
-                {
-                  "title": "Point of Interest Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":50},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":9.77962085308057}"
-                },
-                {
-                  "title": "Point of Interest Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":18},\"to\":{\"line\":8,\"ch\":18}},\"scroll\":0}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Settlement Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":19},\"to\":{\"line\":28,\"ch\":19}},\"scroll\":7.455729166666667}"
-                },
-                {
-                  "title": "Point of Interest Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":17},\"to\":{\"line\":16,\"ch\":17}},\"scroll\":4.226148409893993}"
-                },
-                {
-                  "title": "Pyrogale (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
-                },
-                {
-                  "title": "Point of Interest Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/Point of Interest Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":27,\"ch\":12}},\"scroll\":3}"
-                },
-                {
-                  "title": "Pyrogale (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/Pyrogale (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":3}"
-                },
-                {
-                  "title": "Halfling",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Halfling.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Human",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Human.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Glacia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/united-tribes-of-arctis/settlements/Glacia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "United Tribes of Arctis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/united-tribes-of-arctis/United Tribes of Arctis.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sullenhall",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/sullenhall/Sullenhall.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lonestrom (Nation)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/lonestrom/Lonestrom (Nation).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Rookwallow",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/Rookwallow.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Scuttlemoore",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/Scuttlemoore.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Gravenmere",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Gravenmere.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Steelgate",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/industria/Steelgate.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Enginia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/enginia/Enginia.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Dawnvale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/ignis-concord/settlements/pyrogale/arcania/Dawnvale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stratos",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/cloudtop-isles/settlements/Stratos.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Ancestry Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":44},\"to\":{\"line\":3,\"ch\":44}}}"
                 },
                 {
                   "title": "Faeblood",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Faeblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elf",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Elf.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/characters/people/Celwyn Qitra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b3ca262a1d485a2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "kineticist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rules-custom/traits/kineticist.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Turtlefolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Turtlefolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":1.0416666666666667}"
-                },
-                {
-                  "title": "Serpentfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Serpentfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Ratfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Ratfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Plantfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Plantfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Orc",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Orc.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Monkeyfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Monkeyfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Merfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Merfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lizardfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Lizardfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Kobold",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Kobold.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Kitsune",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Kitsune.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hobgoblin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Hobgoblin.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Frogfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Frogfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Catfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Catfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Birdfolk",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/uncommon ancestries/Birdfolk.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Woodblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Woodblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Waterblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Waterblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stormblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Stormblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Steelblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Steelblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Skyblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Skyblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Shadowblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Shadowblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lowblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Lowblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lawblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Lawblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Highblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Highblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fireblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Fireblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Faeblood",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Faeblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":59},\"to\":{\"line\":3,\"ch\":59}}}"
                 },
                 {
                   "title": "Earthblood",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Earthblood.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Human",
+                  "title": "Heritage Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Human.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":40},\"to\":{\"line\":7,\"ch\":40}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Heritage Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":18},\"to\":{\"line\":5,\"ch\":18}},\"scroll\":0}"
                 },
                 {
-                  "title": "Halfling",
+                  "title": "Earthblood",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Halfling.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/heritages/extraplanar bloods/Earthblood.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":10},\"to\":{\"line\":5,\"ch\":10}},\"scroll\":0}"
                 },
                 {
-                  "title": "Goblin",
+                  "title": "Myrria MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Goblin.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Gnome",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Gnome.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elf",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Elf.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Dwarf",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/ancestries/common ancestries/Dwarf.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
-                },
-                {
-                  "title": "Ancestry Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Ancestry Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
-                },
-                {
-                  "title": "Cyntrem Council",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/organizations/Cyntrem Council.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":44},\"to\":{\"line\":29,\"ch\":44}},\"scroll\":0}"
-                },
-                {
-                  "title": "Slipgarten (City)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":46},\"to\":{\"line\":10,\"ch\":46}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "myrria/organizations/Cyntrem Council.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "dbb0c1e41920e004"
-          },
-          {
-            "id": "893877aeb741e1df",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_MOC/Myrria MOC.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":36},\"to\":{\"line\":2,\"ch\":36}},\"scroll\":7.112212921227732}"
                 },
                 {
                   "title": "Slipgarten (City)",
@@ -971,14 +484,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MOC/Myrria MOC.md",
+                "file": "myrria/items/Blink Cloak.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -1026,7 +538,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#poi",
+                "query": "tag:#trait/alignment/n",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1109,7 +621,7 @@
       {
         "id": "508c56b6edd43788",
         "type": "tabs",
-        "dimension": 29.941860465116278,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "0f55a2d0156f1985",
@@ -1126,7 +638,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/organizations/Cyntrem Council.md",
+                "file": "myrria/items/Blink Cloak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1152,7 +664,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/organizations/Cyntrem Council.md",
+                "file": "myrria/items/Blink Cloak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1173,25 +685,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myrria/organizations/Cyntrem Council.md"
+                "file": "myrria/items/Blink Cloak.md"
               }
-            }
-          },
-          {
-            "id": "14ffe4599fa6e081",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           },
           {
@@ -1227,14 +722,31 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "964617eab0ad1eef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "bbfffceba4fb65d0",
         "type": "tabs",
-        "dimension": 32.65503875968992,
+        "dimension": 29.26356589147287,
         "children": [
           {
             "id": "d9eb1a0b4b263cc6",
@@ -1281,7 +793,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "myrria/organizations/Cyntrem Council.md",
+                "file": "myrria/items/Blink Cloak.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-#exclude",
@@ -1308,8 +820,7 @@
                   "close": true
                 }
               }
-            },
-            "group": "dbb0c1e41920e004"
+            }
           }
         ]
       }
@@ -1326,24 +837,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "0b3ca262a1d485a2",
+  "active": "893877aeb741e1df",
   "lastOpenFiles": [
-    "_MOC/Myrria MOC.md",
-    "myrria/organizations/Cyntrem Council.md",
-    "myrria/locations/slipgarten/settlements/Slipgarten (City).md",
-    "myrria/ecology/flora/Faewood Tree.md",
-    "myrria/ecology/flora",
-    "myrria/locations/geographic/Mossrock Peaks.md",
-    "myrria/locations/thundergate/settlements/Thundergate (City).md",
-    "rules-custom/traits/kineticist.md",
-    "rules-custom/traits/bastion-city.md",
-    "myrria/characters/people/Celwyn Qitra.md",
+    "zz_templates/note-types/Character Template.md",
+    "myrria/characters/people/Aclicia Glassbraid.md",
+    "myrria/characters/deities/Azreas.md",
+    "myrria/ecology/fauna/Snow Bison.md",
     "myrria/ancestries/uncommon ancestries/Turtlefolk.md",
     "myrria/ancestries/uncommon ancestries/Serpentfolk.md",
     "myrria/ancestries/uncommon ancestries/Ratfolk.md",
@@ -1361,6 +866,12 @@
     "myrria/ancestries/heritages/extraplanar bloods/Woodblood.md",
     "myrria/ancestries/heritages/extraplanar bloods/Waterblood.md",
     "myrria/ancestries/heritages/extraplanar bloods/Stormblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Steelblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Skyblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Shadowblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Lowblood.md",
+    "myrria/ancestries/heritages/extraplanar bloods/Lawblood.md",
+    "myrria/ecology/flora",
     "_MOC",
     "myrria/_MOC",
     "myrria/ancestries/heritages",

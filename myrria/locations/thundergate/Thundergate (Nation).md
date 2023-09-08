@@ -9,7 +9,7 @@ aliases: ["Thundergate (Nation)","Thundergate"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Thundergate (City)|Thundergate]] 
+- **Capital** [settlements/Thundergate (City).md](settlements/Thundergate%20(City).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

@@ -11,7 +11,7 @@ aliases: ["Kingdom of Northpine","Northpine"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Arboris|Arboris]] 
+- **Capital** [settlements/Arboris.md](settlements/Arboris.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

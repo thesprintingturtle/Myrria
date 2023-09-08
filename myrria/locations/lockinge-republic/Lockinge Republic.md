@@ -11,7 +11,7 @@ aliases: ["Lockinge Republic","Lockinge"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Requiess|Requiess]] 
+- **Capital** [settlements/Requiess.md](settlements/Requiess.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

@@ -4,7 +4,6 @@
   "obsidian-timelines",
   "obsidian-leaflet-plugin",
   "table-editor-obsidian",
-  "fantasy-calendar",
   "image-window",
   "obsidian-admonition",
   "consistent-attachments-and-links",
@@ -12,8 +11,9 @@
   "obsidian-kanban",
   "obsidian-style-settings",
   "obsidian-import-json",
-  "various-complements",
   "initiative-tracker",
   "templater-obsidian",
-  "pane-relief"
+  "pane-relief",
+  "fantasy-calendar",
+  "various-complements"
 ]

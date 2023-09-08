@@ -1,13 +1,12 @@
 ---
 aliases: 
 ---
-**[Ancestries MOC](Myrria%20MOC.md#Ancestries)**
-# Kobold *Ancestry*
-#ancestry #exclude
+**[Heritages MOC](Myrria%20MOC.md#Heritages)**
+# <% tp.file.title %> *Heritage*
+#heritage #exclude
 Brief Description
 
 - **Type**:: 
-- **Heritages**:: 
 - **Vision**:: 
 - **Abilities**:: 
 

@@ -6,12 +6,12 @@ tags:
 aliases: ["Titania"]
 ---
 # Titania *Nation*
-[[../../../rules-custom/traits/kineticist]] 
+[../../../rules-custom/traits/kineticist](../../../rules-custom/traits/kineticist) 
 
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Ferra|Ferra]] 
+- **Capital** [settlements/Ferra.md](settlements/Ferra.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

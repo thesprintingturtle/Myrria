@@ -9,7 +9,7 @@ aliases: ["Lonestrom (Nation)","Lonestrom"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Lonestrom (City)|Lonestrom]] 
+- **Capital** [settlements/Lonestrom (City).md](settlements/Lonestrom%20(City).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

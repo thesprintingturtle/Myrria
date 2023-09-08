@@ -13,7 +13,7 @@ aliases: ["Stratos"]
 Brief Description
 
 - **Government** 
-- **Nation** [[../Cloudtop Isles|Cloudtop Isles]] 
+- **Nation** [../Cloudtop Isles.md](../Cloudtop%20Isles.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

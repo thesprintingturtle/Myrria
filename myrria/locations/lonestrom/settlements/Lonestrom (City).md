@@ -8,12 +8,12 @@ tags:
 aliases: ["Lonestrom (City)","Lonestrom"]
 ---
 # Lonestrom *Settlement 12*
-[[metropolis-gmg|metropolis]] [[../../../../rules-custom/traits/bastion-city|bastion city]] 
+[metropolis](metropolis-gmg) [bastion city](../../../../rules-custom/traits/bastion-city) 
 
 Brief Description
 
 - **Government** 
-- **Nation** [[../Lonestrom (Nation)|Lonestrom]] 
+- **Nation** [../Lonestrom (Nation).md](../Lonestrom%20(Nation).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

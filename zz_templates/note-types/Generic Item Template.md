@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-**[Generic Items MOC](../../_MOC/Myrria%20MOC.md#Generic%20Items)**
+**[Generic Items MOC](Myrria%20MOC.md#Generic%20Items)**
 # <% tp.file.title %> *Item (level:: X)*
 #item #item/rarity
 Brief Description

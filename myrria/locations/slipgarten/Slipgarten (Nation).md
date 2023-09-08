@@ -9,7 +9,7 @@ aliases: ["Slipgarten (Nation)","Slipgarten"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Slipgarten (City)|Slipgarten]]
+- **Capital** [settlements/Slipgarten (City).md](settlements/Slipgarten%20(City).md)
 - **Population** 
 - **Languages** 
 - **Religions**

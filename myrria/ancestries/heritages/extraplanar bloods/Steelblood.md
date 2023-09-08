@@ -1,13 +1,12 @@
 ---
 aliases: 
 ---
-**[Ancestries MOC](../../_MOC/Myrria%20MOC.md#Ancestries)**
-# Steelblood *Ancestry*
-#ancestry #exclude
+**[Heritages MOC](Myrria%20MOC.md#Heritages)**
+# Steelblood *Heritage*
+#heritage #exclude
 Brief Description
 
 - **Type**:: 
-- **Heritages**:: 
 - **Vision**:: 
 - **Abilities**:: 
 
@@ -32,3 +31,4 @@ Brief Description
 ## History
 
 ## Abilities
+

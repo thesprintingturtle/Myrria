@@ -11,7 +11,7 @@ aliases: ["Cloudtop Isles"]
 Brief Description
 
 - **Government** 
-- **Capital** [Stratos](settlements/Stratos.md)
+- **Capital** [Stratos](settlements/stratos.md)
 - **Population** 
 - **Languages** 
 - **Religions**

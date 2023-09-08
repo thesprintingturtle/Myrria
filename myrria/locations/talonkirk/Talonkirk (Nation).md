@@ -9,7 +9,7 @@ aliases: ["Talonkirk (Nation)","Talonkirk"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Talonkirk (City)|Talonkirk]] 
+- **Capital** [settlements/Talonkirk (City).md](settlements/Talonkirk%20(City).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

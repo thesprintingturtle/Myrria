@@ -1,7 +1,7 @@
 ---
 aliases: Name
 ---
-**[Organizations MOC](../../_MOC/Myrria%20MOC.md#Organizations)**
+**[Organizations MOC](Myrria%20MOC.md#Organizations)**
 # <% tp.file.title %> *Organization (level:: X)*
 #organization 
 Brief Description

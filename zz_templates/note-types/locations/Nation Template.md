@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-**[Nations MOC](../../../_MOC/Myrria%20MOC.md#Nations)**
+**[Nations MOC](Myrria%20MOC#Nations)**
 # <% tp.file.title %> *Nation*
 #location/nation 
 Brief Description

@@ -11,7 +11,7 @@ aliases: ["United Tribes of Arctis","Arctis"]
 Brief Description
 
 - **Government** 
-- **Capital** [[settlements/Glacia|Glacia]] 
+- **Capital** [settlements/Glacia.md](settlements/Glacia.md) 
 - **Population** 
 - **Languages** 
 - **Religions**

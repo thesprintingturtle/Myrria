@@ -8,12 +8,12 @@ tags:
 aliases: ["Talonkirk (City)","Talonkirk"]
 ---
 # Talonkirk *Settlement 12*
-[[metropolis-gmg|metropolis]] [[../../../../rules-custom/traits/bastion-city|bastion city]] 
+[metropolis](metropolis-gmg) [bastion city](../../../../rules-custom/traits/bastion-city) 
 
 Brief Description
 
 - **Government** 
-- **Nation** [[../Talonkirk (Nation)|Talonkirk]] 
+- **Nation** [../Talonkirk (Nation).md](../Talonkirk%20(Nation).md) 
 - **Population** 
 - **Languages** 
 - **Religions**

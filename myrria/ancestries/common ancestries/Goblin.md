@@ -1,7 +1,7 @@
 ---
 aliases: 
 ---
-**[Ancestries MOC](../../_MOC/Myrria%20MOC.md#Ancestries)**
+**[Ancestries MOC](Myrria%20MOC.md#Ancestries)**
 # Goblin *Ancestry*
 #ancestry #exclude
 Brief Description
