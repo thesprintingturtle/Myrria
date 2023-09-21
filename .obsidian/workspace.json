@@ -18,6 +18,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"campaigns/5e Home Rules.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"campaigns/5e Home Rules.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":9}}}"
+                },
+                {
+                  "title": "District Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/locations/District Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"campaigns/5e Home Rules.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slipgarten (City)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/settlements/Slipgarten (City).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slipgarten (Nation)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/locations/slipgarten/Slipgarten (Nation).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Blink Cloak",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"myrria/items/Blink Cloak.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Character Template",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zz_templates/note-types/Character Template.md\",\"mode\":\"source\",\"source\":false}}",
@@ -484,7 +538,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myrria/items/Blink Cloak.md",
+                "file": "campaigns/5e Home Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -638,7 +692,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myrria/items/Blink Cloak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -664,7 +717,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myrria/items/Blink Cloak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -684,9 +736,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "myrria/items/Blink Cloak.md"
-              }
+              "state": {}
             }
           },
           {
@@ -793,7 +843,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "myrria/items/Blink Cloak.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-#exclude",
@@ -843,8 +892,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "893877aeb741e1df",
+  "active": "d9eb1a0b4b263cc6",
   "lastOpenFiles": [
+    "campaigns/5e Home Rules.md",
+    "zz_templates/note-types/locations/District Template.md",
+    "campaigns",
+    "myrria/locations/slipgarten/settlements/Slipgarten (City).md",
+    "myrria/locations/slipgarten/Slipgarten (Nation).md",
+    "myrria/items/Blink Cloak.md",
     "zz_templates/note-types/Character Template.md",
     "myrria/characters/people/Aclicia Glassbraid.md",
     "myrria/characters/deities/Azreas.md",
@@ -866,11 +921,6 @@
     "myrria/ancestries/heritages/extraplanar bloods/Woodblood.md",
     "myrria/ancestries/heritages/extraplanar bloods/Waterblood.md",
     "myrria/ancestries/heritages/extraplanar bloods/Stormblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/Steelblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/Skyblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/Shadowblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/Lowblood.md",
-    "myrria/ancestries/heritages/extraplanar bloods/Lawblood.md",
     "myrria/ecology/flora",
     "_MOC",
     "myrria/_MOC",
@@ -880,7 +930,6 @@
     "myrria/ancestries/heritages/extraplanar bloods",
     "myrria/ancestries",
     "myrria/ecology/flora",
-    "myrria/ecology",
     "zz_attachments/direction-sign.svg",
     "zz_attachments/Myrria World Map.jpg",
     "Stat Blocks/Snow Bison/snow_bison-1679544074.png",
